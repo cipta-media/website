@@ -1,0 +1,49 @@
+---
+layout: default
+---
+ 
+<div class="wrapper wrapper-content  animated fadeInRight article">
+    <div class="row">
+        <div class="col-lg-7 col-lg-offset-1">
+            <div class="ibox">
+                <div class="ibox-content">
+                    <div class="pull-right">
+                    	<h5 style="display: inline;">Kategori:</h5>
+                    	{% for category in page.categories %}
+                        	<button class="btn btn-white btn-xs" type="button">{{ category }}</button>
+                        {% endfor %}
+                    </div>
+                    <div class="text-center article-title">
+                    <span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
+                        <h1>
+                            {{ page.title }}
+                        </h1>
+                    </div>
+                    	{{ content }}
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-6">
+                                <h5 style="display: inline;">Tags:</h5>
+                                {% for tag in page.tags %}
+                                    <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
+                                {% endfor %}
+                        </div>                       
+                    </div>
+                    <br>
+                </div>
+            </div>
+        </div>
+		<div class="col-lg-3">
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Hibah-hibah Terdahulu
+                    <span class="caret"></span></button>
+                    <ul class="dropdown-menu">
+                        {% for project in site.data.projects %}
+                        	<li><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}">{{ project.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+        </div>
+    </div>
+
+</div>

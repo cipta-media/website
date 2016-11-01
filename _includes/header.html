@@ -1,0 +1,60 @@
+<div class="search-tool"
+      style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px; opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+    <input type="text" class="form-control search-content" id="search-content" style="position: fixed; top: 60px" placeholder="Search Blog">
+
+    <div style="position: fixed; top: 16px; right: 16px; z-index: 9999;">
+        <img src="/search/img/cb-close.png" id="close-btn"/>
+    </div>
+</div>
+
+<div style="position: fixed; right: 16px; bottom: 20px; z-index: 9999;">
+    <img src="/search/img/cb-search.png"  id="search-btn"  title="Double click Ctrl"/>
+</div>
+
+<div class="navbar-wrapper">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">{{ site.title }}</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a class="page-scroll" href="/blogcms/"> Blog CMS </a></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Proyek Terdahulu
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                            	{% for project in site.data.projects %}
+                            		{% if page.title == project.name %}
+                            			<li class="active">
+                            		{% else %}
+                            			<li>
+                            		{% endif %}
+                            		<a class="page-scroll" href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}">{{ project.name }}</a></li>
+                        		{% endfor %}
+                            </ul>
+                      	</li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+</div>
+<div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="container">
+                <div class="carousel-image wow zoomIn">
+                    <!-- <img src="static/img/landing/kontak-header.jpg" alt="header"/> -->
+                </div>
+            </div>
+            <div class="header-back one"></div>
+        </div>
+    </div>
+</div>
