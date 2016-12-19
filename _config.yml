@@ -10,7 +10,7 @@ collections:
     output: true
 description: Arsip Cipta Media Seluler,menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
-baseurl: /ciptamedia
+baseurl: "/ciptamedia"
 url: https://riosatria.github.io
 author:
   name: Cipta Media Seluler
