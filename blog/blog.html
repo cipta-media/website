@@ -19,7 +19,7 @@ layout: blog
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-10">
-                        <a href="{{ post.url }}" class="vote-title">
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="vote-title">
                             {{ post.title }}
                         </a>
                         <div class="vote-info">
