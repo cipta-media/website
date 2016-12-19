@@ -8,6 +8,7 @@ tags:
 - CMS
 - UI
 layout: post
+baseurl: /ciptamedia
 ---
 
 ![head](/static/img/blog/header_1.png){: .img-responsive .center-block }
