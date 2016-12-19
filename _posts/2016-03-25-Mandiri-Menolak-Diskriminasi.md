@@ -1,6 +1,7 @@
 ---
 title: Mandiri Menolak Diskriminasi
 date: 2016-03-25 00:00:00 Z
+permalink: "/ciptamedia/"
 categories:
 - CMS
 - Kajian
@@ -8,7 +9,6 @@ tags:
 - CMS
 - UI
 layout: post
-permalink: /ciptamedia/
 ---
 
 ![head](/static/img/blog/header_1.png){: .img-responsive .center-block }
