@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Mandiri Menolak Diskriminasi
-category: [CMS, Kajian]
-tags: [CMS, UI]
+date: 2016-03-25 00:00:00 Z
+categories:
+- CMS
+- Kajian
+tags:
+- CMS
+- UI
+layout: post
 ---
 
 ![head](/static/img/blog/header_1.png){: .img-responsive .center-block }

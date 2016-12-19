@@ -1,52 +1,44 @@
-# Welcome to Jekyll!
-
-# Website settings
-title: "Cipta Media Seluler"
-description: "Arsip Cipta Media Seluler,menggunakan Jekyll dan github pages."
-keywords: "Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages"
+---
+title: Cipta Media Seluler
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Arsip Cipta Media Seluler,menggunakan Jekyll dan github pages.
+keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
 baseurl: "/"
-url: ""
-# url: "http://127.0.0.1:4000"
-
-# author
+url: ''
 author:
-  name: 'Cipta Media Seluler'
-  desc: 'Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.'
-  head_img: 'static/img/landing/Peningkatan_cipta_media.png'
-
-# sections
+  name: Cipta Media Seluler
+  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler
+    untuk perubahan sosial.
+  head_img: static/img/landing/Peningkatan_cipta_media.png
 sections:
-  - id: 'tentang'
-    i18n: 'nav.tentang'
-    name: 'Tentang'
-    tpl: 'tentang.html'
-    css: ''
-
-  - id: 'proyek'
-    i18n: 'nav.proyek'
-    name: 'Proyek Lama'
-    tpl: 'proyek.html'
-    css: 'project'
-
-  - id: 'blog'
-    i18n: 'nav.blog'
-    name: 'Blog'
-    tpl: 'blog.html'
-    css: ''
-
-# comment
+- id: tentang
+  i18n: nav.tentang
+  name: Tentang
+  tpl: tentang.html
+  css: ''
+- id: proyek
+  i18n: nav.proyek
+  name: Proyek Lama
+  tpl: proyek.html
+  css: project
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  css: ''
 disqus:
   name: nama_disini
   public_key: public_key_disini
-
-# google analytics
 ga:
   id: ga_disini
-
-# Build settings
-encoding: "utf-8"
-
-# other settings
+encoding: utf-8
 highlighter: rouge
 markdown: kramdown
 kramdown:
