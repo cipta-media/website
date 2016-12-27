@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-![head](/static/img/blog/header_1.png){: .img-responsive .center-block }
+![head](https://riosatria.github.io/ciptamedia/static/img/blog/header_1.png){: .img-responsive .center-block }
 
 Kepala Pusat Kajian Disabilitas FISIP UI, Irwanto mengatakan, hingga kini pendataan penyandang disabilitas di Indonesia masih bermasalah. Hal ini terlihat dengan tidak adanya sinkronisasi antara data dari Badan Pusat Statistik (BPS) yang sudah berbasis Internasional dengan dana kementerian/lembaga terkait masalah sosial seperti Departemen Kesehatan, Departemen Ketenagakerjaan, dan Departemen Sosial.
 
