@@ -1,6 +1,6 @@
 ---
 title: Cipta Media Seluler
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -10,8 +10,8 @@ collections:
     output: true
 description: Arsip Cipta Media Seluler,menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
-baseurl: "/ciptamedia/"
-url: https://riosatria.github.io
+baseurl: "/ciptamedia"
+
 author:
   name: Cipta Media Seluler
   desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler
