@@ -1,6 +1,6 @@
 ---
 title: Desa Cikadu Bersuara Menarik Perhatian Pemerintah
-date: 2014-08-30 00:00:00 Z
+date: 2014-08-30 07:00:00 +07:00
 categories:
 - Desa 2.0
 - Berita
