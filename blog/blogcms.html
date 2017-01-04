@@ -26,7 +26,7 @@ layout: blog
                         </h2>
                     </a>
                     <div class="small m-b-xs">
-                        <strong>{{ site.author.name }}</strong> <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
+                        <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                     </div>
                     <p>
                     	{{ post.content | strip_html | truncate:100 }}
