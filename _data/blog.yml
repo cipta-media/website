@@ -1,2 +1,8 @@
 - name: Blog
   href: '/blog/'
+
+- name: BlogCMS
+  href: '/blogcms/'
+
+- name: BlogCMB
+  href: '/blogcmb/'

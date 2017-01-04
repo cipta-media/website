@@ -16,7 +16,7 @@ Kepala Pusat Kajian Disabilitas FISIP UI, Irwanto mengatakan, hingga kini pendat
 
 Data penyandang disabilitas belum akurat akan berdampak dalam pemenuhan hak-hak mereka. Rubby Emir dari Saujana, lembaga sosial yang peduli terhadap isu difabel, menilai angka penyandang disabilitas di Indonesia 15% dari total populasi. WHO menganggap bahwa gangguan kejiwaan dapat juga dikategorikan sebagai penyandang disabilitas. Akibatnya ada perubahan demografi penyandang disabilitas di Indonesia. Meski demikian data BPS memiliki pandangan berbeda, menurut mereka penyandnag disabilitas hanya berjumlah 1,2% dari total penduduk.
 
-![selamatnatal.jpg](/uploads/selamatnatal.jpg)
+![selamatnatal.jpg](/uploads/selamatnatal.jpg){: .img-responsive .center-block }
 
 [Perbedaan](www.google.com) ini akan mengakibatkan para penyandang disabilitas rentan diskriminasi dan tak mendapatkan haknya dengan baik. Populasi pasti penyandang disabilitas akan menjadi dasar pembuatan kebijakan, seperti mendapatkan akses pendidikan, kesempatan kerja, dan juga pelayanan kesehatan yang baik. Data tersebut akan membantu pemerintah untuk merumuskan besaran angka anggaran yang bisa dimanfaatkan untuk pemberdayaan para penyandang disabilitas.
 Rubby Emir
