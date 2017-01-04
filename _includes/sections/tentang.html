@@ -1,3 +1,7 @@
+---
+author: cms
+---
+{% assign author = site.data.authors[page.author] %}
 <div class="container" id="i18_tentang">
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
@@ -25,8 +29,8 @@
         
         <div class="col-xs-4">
             <div class="team-member wow zoomIn">
-                <img src="{{ site.author.head_img | prepend: site.baseurl }}" height="110" width="110" class="img-responsive" alt="">
-                <h4><span class="navy">{{ site.author.name }}</h4>
+                <img src="{{ author.head_img | prepend: site.baseurl }}" height="110" width="110" class="img-responsive" alt="">
+                <h4><span class="navy">{{ author.name }}</h4>
             </div>
         </div>
         
@@ -48,7 +52,7 @@
     </div>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
-            <p><span data-i18n="tentang.des"><h1>{{ site.author.desc }}</h1></span></p>
+            <p><span data-i18n="tentang.des"><h1>{{ author.desc }}</h1></span></p>
             <p>Website ini bertujuan untuk Membangun literasi teknologi seluler. Literasi teknologi ditandai dengan kemampuan pengguna (secara individu maupun kelompok) dalam menggunakan teknologi seluler secara mandiri, bertanggung jawab, tepat guna dan efektif untuk mengakses, mengelola, mengevaluasi, memproduksi dan menyampaikan informasi. Menjembatani kolaborasi antar pihak yang memiliki kompetensi, minat dan kebutuhan pada inisiatif-inisiatif perubahan sosial melalui teknologi seluler di Indonesia.</p>
         </div>
     </div>

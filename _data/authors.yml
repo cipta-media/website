@@ -1,0 +1,13 @@
+#detil penulis
+cms:		
+  name: Cipta Media Seluler		
+  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.		
+  head_img: static/img/landing/Peningkatan_cipta_media.png		
+  email: email@mail.co.uk		
+  github: cms		
+riou:		
+  name: Dwi Satria Utama		
+  desc: Graphic Designer for WMID		
+  head_img: 		
+  email: dwi.satria@wikimedia.or.id		
+  github: riosatria
