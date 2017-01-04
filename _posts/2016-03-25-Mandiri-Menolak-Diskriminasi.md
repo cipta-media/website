@@ -1,6 +1,6 @@
 ---
 title: Mandiri Menolak Diskriminasi
-date: 2016-03-25 00:00:00 Z
+date: 2016-03-25 07:00:00 +07:00
 categories:
 - CMS
 - Kajian
@@ -16,7 +16,9 @@ Kepala Pusat Kajian Disabilitas FISIP UI, Irwanto mengatakan, hingga kini pendat
 
 Data penyandang disabilitas belum akurat akan berdampak dalam pemenuhan hak-hak mereka. Rubby Emir dari Saujana, lembaga sosial yang peduli terhadap isu difabel, menilai angka penyandang disabilitas di Indonesia 15% dari total populasi. WHO menganggap bahwa gangguan kejiwaan dapat juga dikategorikan sebagai penyandang disabilitas. Akibatnya ada perubahan demografi penyandang disabilitas di Indonesia. Meski demikian data BPS memiliki pandangan berbeda, menurut mereka penyandnag disabilitas hanya berjumlah 1,2% dari total penduduk.
 
-Perbedaan ini akan mengakibatkan para penyandang disabilitas rentan diskriminasi dan tak mendapatkan haknya dengan baik. Populasi pasti penyandang disabilitas akan menjadi dasar pembuatan kebijakan, seperti mendapatkan akses pendidikan, kesempatan kerja, dan juga pelayanan kesehatan yang baik. Data tersebut akan membantu pemerintah untuk merumuskan besaran angka anggaran yang bisa dimanfaatkan untuk pemberdayaan para penyandang disabilitas.
+![selamatnatal.jpg](/uploads/selamatnatal.jpg)
+
+[Perbedaan](www.google.com) ini akan mengakibatkan para penyandang disabilitas rentan diskriminasi dan tak mendapatkan haknya dengan baik. Populasi pasti penyandang disabilitas akan menjadi dasar pembuatan kebijakan, seperti mendapatkan akses pendidikan, kesempatan kerja, dan juga pelayanan kesehatan yang baik. Data tersebut akan membantu pemerintah untuk merumuskan besaran angka anggaran yang bisa dimanfaatkan untuk pemberdayaan para penyandang disabilitas.
 Rubby Emir
 
 Data yang akurat akan membantu pemerintah untuk merumuskan kebijakan yang tepat bagi penyandang disabilitas. Misalnya memberikan kuota pekerjaan sesuai kemampuan di perusahaan yang ada di Indonesia, baik BUMN maupun perusahaan swasta. Selain itu juga bisa merumuskan kebijakan baru untuk melindungi dan menjamin mereka mendapatkan kehidupan yang lebih baik, melalui pendidikan dan jaminan sosial terpadu.
