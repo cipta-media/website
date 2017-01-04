@@ -13,7 +13,8 @@ keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
 author:
   cms:
     name: Cipta Media Seluler
-    desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.
+    desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler
+      untuk perubahan sosial.
     head_img: static/img/landing/Peningkatan_cipta_media.png
     email: email@mail.co.uk
     github: cms
