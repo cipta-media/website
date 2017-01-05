@@ -1,9 +1,9 @@
 ---
 title: Menggunakan jasa ketiga untuk pengelolaan aplikasi organisasi anda
-date: 2016-12-27 08:41:00 Z
+date: 2016-12-27 15:41:00 +07:00
 categories:
-- CiptaMedia
-- Rapotivi
+- CMS
+- Inspirasi
 tags:
 - FordFoundation
 ---

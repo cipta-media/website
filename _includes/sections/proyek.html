@@ -6,10 +6,12 @@
         </div>
     </div>
     <div class="row">
+	    <ul id="pag-itemContainer" style="list-style:none;">
     	{% assign counter = 0 %}
         	{% for project in site.data.projects %}
             {% assign counter = counter | plus: 1 %}
                     {% assign loopindex = forloop.index | modulo: 2 %}
+		    <li>
                     {% if forloop.last %}
                         {% if forloop.last == forloop.first %}
                     <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
@@ -27,7 +29,7 @@
                   	</div> 
 			{% endfor %} 
     </div>
-    <h4>{{ counter }}</h4>
+	</li>
     {% include pagination.html %}
 </div>
 <br>

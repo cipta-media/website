@@ -40,17 +40,17 @@
                             </ul>
                       	</li>  
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Proyek Terdahulu
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Arsip Cipta Media Bersama
                             <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                            	{% for project in site.data.projects %}
-                            		{% if page.title == project.name %}
-                            			<li class="active">
-                            		{% else %}
-                            			<li>
-                            		{% endif %}
-                            		<a class="page-scroll" href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}">{{ project.name }}</a></li>
-                        		{% endfor %}
+                            	{% for tag in site.data.CMB %}
+                                    {% if page.title == tag.name %}
+                                          <li class="active">
+                                    {% else %}
+                                          <li>
+                                    {% endif %}
+                                    <a class="page-scroll" href="{{ tag.href }}">{{ tag.name }}</a></li>
+                              {% endfor %}
                             </ul>
                       	</li>
                         

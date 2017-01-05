@@ -13,7 +13,7 @@ layout: default
                     	{% for category in page.categories %}
                         	<button class="btn btn-white btn-xs" type="button">{{ category }}</button>
                         {% endfor %}
-			    </br>
+			</br>
 			<span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
                     </div>
                     <div class="text-center article-title">
@@ -36,16 +36,51 @@ layout: default
                 </div>
             </div>
         </div>
-		<div class="col-lg-3">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Hibah-hibah Terdahulu
-                    <span class="caret"></span></button>
-                    <ul class="dropdown-menu">
-                        {% for project in site.data.projects %}
-                        	<li><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}">{{ project.name }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
+	<div class="col-lg-3">
+		<div class="panel-group" id="accordion">
+		  <div class="panel panel-default">
+		    <div class="panel-heading">
+		      <h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+			Collapsible Group 1</a>
+		      </h4>
+		    </div>
+		    <div id="collapse1" class="panel-collapse collapse in">
+		      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+		      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+		      commodo consequat.</div>
+		    </div>
+		  </div>
+		  <div class="panel panel-default">
+		    <div class="panel-heading">
+		      <h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+			Collapsible Group 2</a>
+		      </h4>
+		    </div>
+		    <div id="collapse2" class="panel-collapse collapse">
+		      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+		      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+		      commodo consequat.</div>
+		    </div>
+		  </div>
+		  <div class="panel panel-default">
+		    <div class="panel-heading">
+		      <h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+			Collapsible Group 3</a>
+		      </h4>
+		    </div>
+		    <div id="collapse3" class="panel-collapse collapse">
+		      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+		      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+		      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+		      commodo consequat.</div>
+		    </div>
+		  </div>
+		</div>
         </div>
     </div>
 

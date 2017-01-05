@@ -30,6 +30,24 @@
   <script src= "/bower_components/PACE/pace.min.js"></script>
   <script src= "/bower_components/wow/dist/wow.min.js"></script>
 
+  <!-- jPages -->
+  <script src= "/static/js/jPages.js"></script>
+  <script src= "/static/js/js.js"></script>
+  <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer",
+              perPage      : 4,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>  
+  
   <!-- Custom and plugin javascript -->
   <!-- <script src="{{"static/js/inspinia.js"| prepend: site.baseurl }}"></script> -->
 
