@@ -1,6 +1,6 @@
 ---
 title: Hibah CMS Selesai, Pembelajaran Apa yang Diperoleh Penerima Hibah?
-date: 2017-03-10 17:46:00 +07:00
+date: 2016-03-10 17:46:00 +07:00
 categories:
 - CMS
 - Berita
