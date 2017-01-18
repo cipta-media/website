@@ -13,17 +13,12 @@ layout: info
     </div
 
 <div class="row">
-<div class="col-md-12">
-
+    <br/>
 {% for hibah in site.data.hibah %}
-    Nomor: {{ hibah.nomor }}</br>
-    Nama: {{ hibah.nama }}</br>
-    Lokasi: {{ hibah.lokasi }}</br>
-    Judul: {{ hibah.judul }}</br>
-    Keberhasilan: {{ hibah.keberhasilan }}</br> 
-    Tipe: {{ hibah.tipe }}</br>
-    Strategi: {{ hibah.strategi }}</br>
-    Deskripsi: {{ hibah.deskripsi }}</br> 
+    <div class="col-md-6">
+    <a href="{{ hibah.pranala }}"><h1>{{ hibah.judul }}</h1></a>
+    Deskripsi: {{ hibah.deskripsi | truncate:100 }}
+    </div>
 {% endfor %}
 
 </div>
