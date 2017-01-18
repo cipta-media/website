@@ -16,14 +16,14 @@ layout: info
 <div class="col-md-12">
 
 {% for hibah in site.data.hibah %}
-	{{ hibah.no }}</br>
-    {{ hibah.nama }}</br>
-    {{ hibah.lokasi }}</br>
-    {{ hibah.judul }}</br>
-    {{ hibah.keberhasilan }}</br> 
-    {{ hibah.tipe }}</br>
-    {{ hibah.strategi }}</br>
-    {{ hibah.deskripsi }}</br> 
+    Nomor: {{ hibah.nomor }}</br>
+    Nama: {{ hibah.nama }}</br>
+    Lokasi: {{ hibah.lokasi }}</br>
+    Judul: {{ hibah.judul }}</br>
+    Keberhasilan: {{ hibah.keberhasilan }}</br> 
+    Tipe: {{ hibah.tipe }}</br>
+    Strategi: {{ hibah.strategi }}</br>
+    Deskripsi: {{ hibah.deskripsi }}</br> 
 {% endfor %}
 
 </div>

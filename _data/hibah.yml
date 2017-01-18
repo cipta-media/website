@@ -1,4 +1,4 @@
-- no: 1
+- nomor: '1'
   nama: Jani Sanjaya
   lokasi: Tasikmalaya, Jawa Barat
   organisasi: pribadi
@@ -28,7 +28,7 @@
       Menyediakan suatu tempat secara Digital yang memberikan Informasi mengenai para Pendonor dan Pencari Donor.
   img:
 
-- no: 2
+- nomor: '2'
   nama: Kosasih
   lokasi: Karawang, Jawa Barat
   organisasi: Rumah Baca Sindangkarya
