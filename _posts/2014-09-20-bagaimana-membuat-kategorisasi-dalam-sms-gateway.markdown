@@ -1,6 +1,6 @@
 ---
 title: Bagaimana Membuat Kategorisasi dalam SMS Gateway?
-date: 2017-09-20 18:52:00 +07:00
+date: 2014-09-20 18:52:00 +07:00
 categories:
 - CMS
 - Tutorial

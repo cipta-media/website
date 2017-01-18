@@ -9,7 +9,7 @@ tags:
 author: hillun
 ---
 
-![Sudah-Baguskah-Kesempatan.jpg](/uploads/Sudah-Baguskah-Kesempatan.jpg)
+![Sudah-Baguskah-Kesempatan.jpg](/uploads/Sudah-Baguskah-Kesempatan.jpg){: .img-responsive .center-block }
 
 Saat hibah Cipta Media Seluler diumumkan, banyak khalayak dengan misi sosial berharap mendapatkan hibah tersebut. Ada [368](http://hibah.ciptamedia.org/) total pemohon hibah yang masuk, dan bocoran langsungnya adalah sebetulnya daftar pendek tim seleksi awal adalah ada 68 proyek dipertimbangkan, 45 proyek mengupayakan hal dengan tema yang sama dan sebaiknya digabungkan, dan 259 proyek tidak dipertimbangkan sama sekali.
 

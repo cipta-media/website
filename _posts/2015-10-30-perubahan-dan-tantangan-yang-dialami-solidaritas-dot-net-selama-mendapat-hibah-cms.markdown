@@ -1,7 +1,7 @@
 ---
 title: Perubahan dan Tantangan yang Dialami Solidaritas.net Selama Mendapat Hibah
   CMS
-date: 2017-10-30 18:40:00 +07:00
+date: 2015-10-30 18:40:00 +07:00
 categories:
 - CMS
 - Berita
