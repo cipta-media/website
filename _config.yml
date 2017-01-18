@@ -18,7 +18,7 @@ sections:
   css: ''
 - id: proyek
   i18n: nav.proyek
-  name: Proyek Lama
+  name: Penerima Hibah
   tpl: proyek.html
   css: project
 - id: blog
