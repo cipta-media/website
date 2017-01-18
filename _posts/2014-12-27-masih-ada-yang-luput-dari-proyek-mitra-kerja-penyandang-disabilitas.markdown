@@ -9,7 +9,7 @@ tags:
 author: hillun
 ---
 
-![ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg](/uploads/ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg)
+![ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg](/uploads/ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg){: .img-responsive .center-block }
 
 [Mitra Kerja Penyandang Disabilitas ](http://ciptamedia.org/mitra-kerja-penyandang-disabilitas/)(MKPD) menggunakan teknologi komputer dan Android untuk menghubungkan pencari kerja dengan penerima kerja. Namun, hasil Focus Group Discussion (FGD) menunjukkan bahwa ada difabel usia produktif yang tidak menggunakan komputer atau Android, baik karena keterbatasan alat maupun keterampilan menggunakannya. Hal ini memunculkan kebutuhan lain untuk menggunggah informasi pribadi mereka ke dalam sistem informasi yang dikembangkan. Selain kendala dalam mengunggah informasi pribadi, difabel yang tidak menggunakan komputer dan Android juga kesulitan dalam mengakses informasi lowongan pekerjaan.
 

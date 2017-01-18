@@ -9,7 +9,7 @@ tags:
 author: hillun
 ---
 
-![Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266.jpg](/uploads/Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266.jpg)
+![Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266.jpg](/uploads/Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266.jpg){: .img-responsive .center-block }
 
 Sulitnya mendapatkan jaringan seluler di daerah terluar, terdepan dan tertinggal (3T) bisa diatasi dengan membangun OpenBTS. Hal inilah yang ingin dikembangkan oleh Handri Santoso melalui pelatihan [OpenBTS](http://ciptamedia.org/daerah-sulit-sinyal-bagaimana-mengatasinya-bagian-i/) yang diadakan di Universitas Surya Tangerang. Berikut ketentuan dalam pelatihannya.
 

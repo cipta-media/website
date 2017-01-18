@@ -27,9 +27,9 @@ Biaya SMS mungkin tidak terasa mahal jika digunakan untuk komunikasi perseoranga
 Maka perlu strategi khusus untuk mencukupi kebutuhan biaya pulsa ini. Caranya bisa meminta dukungan dengan pihak yang bersedia membiayai pulsa, misalnya pemerintah, atau menjalin kerjasama khusus dengan operator telekomunikasi.
 
 4. Basis
-Basis adalah pihak yang paling berkepentingan dengan keberlangsungan sistem. Tentunya basis yang solid dan bersetia mendukung ‘gerakan’ ini sangat dibutuhkan. Idealnya, yang menjadi bagian dalam pengelolaan sistem ini adalah orang yang jelas identitasnya. Anggota yang anonim mungkin lebih tepat disebut kerumunan, bukan jaringan. (baca juga: Ini Baru Cikal Bakal Gerakan Sosial)
+Basis adalah pihak yang paling berkepentingan dengan keberlangsungan sistem. Tentunya basis yang solid dan bersetia mendukung ‘gerakan’ ini sangat dibutuhkan. Idealnya, yang menjadi bagian dalam pengelolaan sistem ini adalah orang yang jelas identitasnya. Anggota yang anonim mungkin lebih tepat disebut kerumunan, bukan jaringan. (baca juga: [Ini Baru Cikal Bakal Gerakan Sosial](http://www.puthutea.com/artikel-detail.php?id=215))
 
 Di luar semua itu, yang tak boleh dilupakan adalah teknologi ini hanya bersifat melengkapi yang sudah ada. Maka, jangan sampai kemudian meninggalkan cara-cara yang sebelumnya dilakukan tanpa teknologi.
 
 Baca juga:
-Pertemuan dengan para pendekar
+[Pertemuan dengan para pendekar](http://lantip.net/pertemuan-dengan-para-pendekar/)
