@@ -1,6 +1,6 @@
 ---
 title: Donor Social Apps
-layout: info
+layout: hibah
 ---
 
 |nomor|'1'|
