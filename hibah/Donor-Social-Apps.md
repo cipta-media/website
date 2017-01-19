@@ -4,7 +4,6 @@ nohibah: '001'
 layout: hibah
 ---
 
-
 ![001](/static/img/hibah/001.png){: .img-responsive .center-block })
 ## {{ page.nohibah }}{{ page.title }}
 
