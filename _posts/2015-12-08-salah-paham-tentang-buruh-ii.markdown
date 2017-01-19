@@ -25,46 +25,46 @@ Verifikasi yang dimaksud adalah menemui si buruh, bertanya pada si buruh, apa be
 
 1. **Punya Ninja kok masih minta naik Upah?**
 
-Jadi gini, ada per tahun [2014, tercatat ada 6 konfederasi, 100 federasi dan 6.808 serikat pekerja tingkat perusahaan di Indonesia](http://jabar.tribunnews.com/2012/05/01/sbsi-jumlah-buruh-di-indonesia-terbesar-setelah-cina). Jumlah itu meliputi [1.678.364 orang anggota serikat pekerja](http://www.hukumonline.com/berita/baca/lt55b8691e26785/inilah-data-serikat-pekerja-di-indonesia). ini dengan catatan kelas menengah kantoran yang karyawan itu tak mau disebut buruh dan tidak memasukan data 66,3 juta orang pekerja informal. Nah memangnya kenapa dengan angka buruh itu?
+    Jadi gini, ada per tahun [2014, tercatat ada 6 konfederasi, 100 federasi dan 6.808 serikat pekerja tingkat perusahaan di Indonesia](http://jabar.tribunnews.com/2012/05/01/sbsi-jumlah-buruh-di-indonesia-terbesar-setelah-cina). Jumlah itu meliputi [1.678.364 orang anggota serikat pekerja](http://www.hukumonline.com/berita/baca/lt55b8691e26785/inilah-data-serikat-pekerja-di-indonesia). ini dengan catatan kelas menengah kantoran yang karyawan itu tak mau disebut buruh dan tidak memasukan data 66,3 juta orang pekerja informal. Nah memangnya kenapa dengan angka buruh itu?
 
-Begini, anda mencibir dan menghina gerakan buruh yang menuntut kenaikan upah. Anda bilang, buruh ga tau diri, kalo bisa beli ninja kenapa masih nuntut upah?
+    Begini, anda mencibir dan menghina gerakan buruh yang menuntut kenaikan upah. Anda bilang, buruh ga tau diri, kalo bisa beli ninja kenapa masih nuntut upah?
 
-Pertanyaan saya berikutnya mudah. Berapa sih buruh yang punya ninja? 1.000 orang? 2.000 orang? atau 10.000 orang? Kita asumsikan saja ada 50.000 buruh di Indonesia yang punya ninja. Angka segitu berapa persen dari total populasi buruh di Indonesia?
+    Pertanyaan saya berikutnya mudah. Berapa sih buruh yang punya ninja? 1.000 orang? 2.000 orang? atau 10.000 orang? Kita asumsikan saja ada 50.000 buruh di Indonesia yang punya ninja. Angka segitu berapa persen dari total populasi buruh di Indonesia?
 
-Buruh garmen
-![Buruh-garmen-400x215.png](/uploads/Buruh-garmen-400x215.png){: .img-responsive .center-block }
+    Buruh garmen
+    ![Buruh-garmen-400x215.png](/uploads/Buruh-garmen-400x215.png){: .img-responsive .center-block }
 
-Anda terpelajar kan? Punya otak? Adil menghakimi 1.678.364 yang mungkin hidup kekurangan berdasarkan 50.000 buruh yang punya ninja? Analogi lainnya, maukah umat islam direpresentasikan ISIS? ISIS hanya sebagian dari umat muslim yang kacau, ia tidak serta merta mewakili sekian milyar umat muslim di dunia. Sampai di sini saya bia dipahami?
+    Anda terpelajar kan? Punya otak? Adil menghakimi 1.678.364 yang mungkin hidup kekurangan berdasarkan 50.000 buruh yang punya ninja? Analogi lainnya, maukah umat islam direpresentasikan ISIS? ISIS hanya sebagian dari umat muslim yang kacau, ia tidak serta merta mewakili sekian milyar umat muslim di dunia. Sampai di sini saya bia dipahami?
 
-“Ah, kalo gitu ya sama, gak semua pengusaha itu jahat. Ada pengusaha yang baik.”
+    “Ah, kalo gitu ya sama, gak semua pengusaha itu jahat. Ada pengusaha yang baik.”
 
-Lho ya tentu saja. Makanya cari tahu dulu soal isu buruh dan tuntutan buruh. Ada perbedaan besar antara “demo buruh menuntut kenaikan UMR” dan “demo buruh menuntut pelaksanaan UMR” yang pertama menunutut perbaikan kesejahteraan, yang kedua menuntut pelaksanaan peraturan. Artinya jangan pulul rata gerakan buruh pasti minta naik upah
+    Lho ya tentu saja. Makanya cari tahu dulu soal isu buruh dan tuntutan buruh. Ada perbedaan besar antara “demo buruh menuntut kenaikan UMR” dan “demo buruh menuntut pelaksanaan UMR” yang pertama menunutut perbaikan kesejahteraan, yang kedua menuntut pelaksanaan peraturan. Artinya jangan pulul rata gerakan buruh pasti minta naik upah
 
-“Lha iya, tapi itu tidak membenarkan buruh punya ninja, harusnya mereka kan bisa hidup prihatin, beli ninja bisa kok hidup sederhana ga bisa,”
+    “Lha iya, tapi itu tidak membenarkan buruh punya ninja, harusnya mereka kan bisa hidup prihatin, beli ninja bisa kok hidup sederhana ga bisa,”
 
-Lho ya sepakat. Saya juga minta anda untuk adil. Kalau ada buruh yang demo pake ninja, ia tidak merepresentasikan 1.678.364 buruh di seluruh Indonesia. Kenapa gak fokus ke buruh yang naik bus, naik truk, atau bahkan jalan kaki untuk demonstrasi? Kenapa fokus pada Buruh pemilik ninja?
+    Lho ya sepakat. Saya juga minta anda untuk adil. Kalau ada buruh yang demo pake ninja, ia tidak merepresentasikan 1.678.364 buruh di seluruh Indonesia. Kenapa gak fokus ke buruh yang naik bus, naik truk, atau bahkan jalan kaki untuk demonstrasi? Kenapa fokus pada Buruh pemilik ninja?
 
-Ini misalnya ada buruh yang long march jalan kaki. Kenapa kalian fokus pada yang naik ninja? Bisahkah bersimpati pada buruh yang jalan kaki dari [Cileungsi karena dipecat setelah 4 bulan bekerja tanpa gaji](http://news.liputan6.com/read/2371272/long-march-bandung-jakarta-pembalut-wanita-solusi-kaki-buruh). Anda bisa bekerja 4 bulan tanpa gaji? [Ada pula buruh yang jalan kaki dari lampung](http://www.kspi.or.id/longmarch-buruh-lampung-jakarta-bergerak-menuju-tangerang.html) untuk menunjukan solidaritas terhadap mogok nasional.
-
+    Ini misalnya ada buruh yang long march jalan kaki. Kenapa kalian fokus pada yang naik ninja? Bisahkah bersimpati pada buruh yang jalan kaki dari [Cileungsi karena dipecat setelah 4 bulan bekerja tanpa gaji](http://news.liputan6.com/read/2371272/long-march-bandung-jakarta-pembalut-wanita-solusi-kaki-buruh). Anda bisa bekerja 4 bulan tanpa gaji? [Ada pula buruh yang jalan kaki dari lampung](http://www.kspi.or.id/longmarch-buruh-lampung-jakarta-bergerak-menuju-tangerang.html) untuk menunjukan solidaritas terhadap mogok nasional.  
+  
 2. **Gaji gue aja 2,5 kok buruh minta 3,5. Gak tau diri.**
 
-Jadi gini jika anda perlu membaca pasal 90 ayat 1 UU No. 13/2003. Undang undang itu menyatakan pengusaha dilarang membayar lebih rendah dari ketentuan upah minimum yang telah ditetapkan pemerintah setempat. Nah dalam penentuan upah minimum untuk buruh, pemerintah memiliki apa yang disebut dengan Komponen Hidup Layak. Yaitu standar kebutuhan yang harus dipenuhi oleh seorang pekerja/buruh lajang untuk dapat hidup layak baik secara fisik, non fisik dan sosial, untuk kebutuhan 1 (satu) bulan.
+    Jadi gini jika anda perlu membaca pasal 90 ayat 1 UU No. 13/2003. Undang undang itu menyatakan pengusaha dilarang membayar lebih rendah dari ketentuan upah minimum yang telah ditetapkan pemerintah setempat. Nah dalam penentuan upah minimum untuk buruh, pemerintah memiliki apa yang disebut dengan Komponen Hidup Layak. Yaitu standar kebutuhan yang harus dipenuhi oleh seorang pekerja/buruh lajang untuk dapat hidup layak baik secara fisik, non fisik dan sosial, untuk kebutuhan 1 (satu) bulan.
 
-[Siapa yang membuat KHL ini?](http://www.gajimu.com/main/gaji/gaji-minimum/komponen-khl) Untuk itu anda perlu membaca Keputusan Menteri Tenaga Kerja No. 17 tahun 2005 tentang Komponen dan Pentahapan Pencapaian Kebutuhan Hidup Layak dan juga Keputusan Menteri Tenaga Kerja No. 13 tahun 2012 tentang Perubahan Penghitungan Kehidupan Hidup Layak.
+    [Siapa yang membuat KHL ini](http://www.gajimu.com/main/gaji/gaji-minimum/komponen-khl) Untuk itu anda perlu membaca Keputusan Menteri Tenaga Kerja No. 17 tahun 2005 tentang Komponen dan Pentahapan Pencapaian Kebutuhan Hidup Layak dan juga Keputusan Menteri Tenaga Kerja No. 13 tahun 2012 tentang Perubahan Penghitungan Kehidupan Hidup Layak.
 
-Disebutkan Ketua Dewan Pengupahan Provinsi dan/atau Kabupaten/Kota membentuk tim survey yang anggotanya terdiri dari unsur tripartit: perwakilan serikat pekerja, pengusaha, pemerintah, dan pihak netral dari akademisi. Nah tim survey ini akan melakukan penelitian tentang kebutuhan buruh. Misalnya Makanan & Minuman, Sandang, Perumahan, Pendidikan, Kesehatan, Transportasi, dan Rekreasi dan Tabungan.
+    Disebutkan Ketua Dewan Pengupahan Provinsi dan/atau Kabupaten/Kota membentuk tim survey yang anggotanya terdiri dari unsur tripartit: perwakilan serikat pekerja, pengusaha, pemerintah, dan pihak netral dari akademisi. Nah tim survey ini akan melakukan penelitian tentang kebutuhan buruh. Misalnya Makanan & Minuman, Sandang, Perumahan, Pendidikan, Kesehatan, Transportasi, dan Rekreasi dan Tabungan.
 
-Jadi kalau ada berita kemudian bilang Buruh demo minta parfum dan liburan ke Bali. Anda bisa tahu kan sumbernya dari mana.
+    Jadi kalau ada berita kemudian bilang Buruh demo minta parfum dan liburan ke Bali. Anda bisa tahu kan sumbernya dari mana.
 
-“Ah tapi itu ga menjawab, kenapa buruh enak aja minta gaji 3,7 gue aja yang sarjana cuma digaji 2,5,”
+    “Ah tapi itu ga menjawab, kenapa buruh enak aja minta gaji 3,7 gue aja yang sarjana cuma digaji 2,5,”
 
-Nah gini. [Dari penentuan KHL dan kesepakatan bersama ditemukan angka minimum kebutuhan](http://www.legal4ukm.com/usaha-perorangan-tidak-bebas-pajak-dan-umr/). Tahun ini pemerintah DKI jakarta menentukan UMR sebesar 2,7 juta. Nah kalo kamu sarjana, tapi digaji 2,5 lantas diam saja. Itu bukan salah buruh. Itu karena kamu. Karena tak berani menuntut perusahaan kamu untuk patuh pasal 90 ayat 1 UU No. 13/2003 yang mewajibkan perusahaan membayar gaji sesuai UMR. Jadi siapa yang bodoh sebenarnya?
+    Nah gini. [Dari penentuan KHL dan kesepakatan bersama ditemukan angka minimum kebutuhan](http://www.legal4ukm.com/usaha-perorangan-tidak-bebas-pajak-dan-umr/). Tahun ini pemerintah DKI jakarta menentukan UMR sebesar 2,7 juta. Nah kalo kamu sarjana, tapi digaji 2,5 lantas diam saja. Itu bukan salah buruh. Itu karena kamu. Karena tak berani menuntut perusahaan kamu untuk patuh pasal 90 ayat 1 UU No. 13/2003 yang mewajibkan perusahaan membayar gaji sesuai UMR. Jadi siapa yang bodoh sebenarnya?
 
-Selanjutnya UMR tiap daerah berbeda beda. Upah 2,7 di Jakarta tentu berbeda dengan UMK Jombang yang Rp 1.924.000. Kenapa buruh di jakarta mahal? Ya karena biaya hidup di jakarta mahal. Sesederhana itu. Jadi lucu sebenarnya, kalau ada sarjana, tinggal di Jember misalnya merasa tersinggung buruh di jakarta dapat upah 2,7 sementara dirinya yang sarjana cuma separuhnya.
+    Selanjutnya UMR tiap daerah berbeda beda. Upah 2,7 di Jakarta tentu berbeda dengan UMK Jombang yang Rp 1.924.000. Kenapa buruh di jakarta mahal? Ya karena biaya hidup di jakarta mahal. Sesederhana itu. Jadi lucu sebenarnya, kalau ada sarjana, tinggal di Jember misalnya merasa tersinggung buruh di jakarta dapat upah 2,7 sementara dirinya yang sarjana cuma separuhnya.
 
-![800px-Januari_16_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x267.jpg](/uploads/800px-Januari_16_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x267.jpg){: .img-responsive .center-block }
+    ![800px-Januari_16_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x267.jpg](/uploads/800px-Januari_16_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x267.jpg){: .img-responsive .center-block }
 
-Gambar dari Kelas Pendidikan Ekonomi & Politik Dasar Solidaritas.net
+    Gambar dari Kelas Pendidikan Ekonomi & Politik Dasar Solidaritas.net
 
 3. **Karena demo buruh, pengusaha akan memecat dan yang buruh yang tidak tahu apa-apa akan terkena imbasnya.**
 
