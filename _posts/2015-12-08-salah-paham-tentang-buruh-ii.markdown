@@ -23,7 +23,8 @@ Ah tapi itu kan ga penting. Dulu ya dulu, bukan sekarang, ga bisa dibandingkan. 
 
 Verifikasi yang dimaksud adalah menemui si buruh, bertanya pada si buruh, apa benar tuntutannya minta ke bali atau minta bra yang mahal? Atau kok sudah punya ninja tapi masih minta naik upah? Sudahkah anda melakukan itu? Kalau belum, ini tawaran saya untuk melakukan uji akal sehat dan empati. Jika anda masih berpikir bahwa buruh itu tak terselamatkan lagi, kita sudahi saja sampai di sini.
 
-* **Punya Ninja kok masih minta naik Upah?**
+1. **Punya Ninja kok masih minta naik Upah?**
+
 Jadi gini, ada per tahun [2014, tercatat ada 6 konfederasi, 100 federasi dan 6.808 serikat pekerja tingkat perusahaan di Indonesia](http://jabar.tribunnews.com/2012/05/01/sbsi-jumlah-buruh-di-indonesia-terbesar-setelah-cina). Jumlah itu meliputi [1.678.364 orang anggota serikat pekerja](http://www.hukumonline.com/berita/baca/lt55b8691e26785/inilah-data-serikat-pekerja-di-indonesia). ini dengan catatan kelas menengah kantoran yang karyawan itu tak mau disebut buruh dan tidak memasukan data 66,3 juta orang pekerja informal. Nah memangnya kenapa dengan angka buruh itu?
 
 Begini, anda mencibir dan menghina gerakan buruh yang menuntut kenaikan upah. Anda bilang, buruh ga tau diri, kalo bisa beli ninja kenapa masih nuntut upah?
@@ -45,7 +46,8 @@ Lho ya sepakat. Saya juga minta anda untuk adil. Kalau ada buruh yang demo pake 
 
 Ini misalnya ada buruh yang long march jalan kaki. Kenapa kalian fokus pada yang naik ninja? Bisahkah bersimpati pada buruh yang jalan kaki dari [Cileungsi karena dipecat setelah 4 bulan bekerja tanpa gaji](http://news.liputan6.com/read/2371272/long-march-bandung-jakarta-pembalut-wanita-solusi-kaki-buruh). Anda bisa bekerja 4 bulan tanpa gaji? [Ada pula buruh yang jalan kaki dari lampung](http://www.kspi.or.id/longmarch-buruh-lampung-jakarta-bergerak-menuju-tangerang.html) untuk menunjukan solidaritas terhadap mogok nasional.
 
-* **Gaji gue aja 2,5 kok buruh minta 3,5. Gak tau diri.**
+2. **Gaji gue aja 2,5 kok buruh minta 3,5. Gak tau diri.**
+
 Jadi gini jika anda perlu membaca pasal 90 ayat 1 UU No. 13/2003. Undang undang itu menyatakan pengusaha dilarang membayar lebih rendah dari ketentuan upah minimum yang telah ditetapkan pemerintah setempat. Nah dalam penentuan upah minimum untuk buruh, pemerintah memiliki apa yang disebut dengan Komponen Hidup Layak. Yaitu standar kebutuhan yang harus dipenuhi oleh seorang pekerja/buruh lajang untuk dapat hidup layak baik secara fisik, non fisik dan sosial, untuk kebutuhan 1 (satu) bulan.
 
 [Siapa yang membuat KHL ini?](http://www.gajimu.com/main/gaji/gaji-minimum/komponen-khl) Untuk itu anda perlu membaca Keputusan Menteri Tenaga Kerja No. 17 tahun 2005 tentang Komponen dan Pentahapan Pencapaian Kebutuhan Hidup Layak dan juga Keputusan Menteri Tenaga Kerja No. 13 tahun 2012 tentang Perubahan Penghitungan Kehidupan Hidup Layak.
@@ -64,7 +66,8 @@ Selanjutnya UMR tiap daerah berbeda beda. Upah 2,7 di Jakarta tentu berbeda deng
 
 Gambar dari Kelas Pendidikan Ekonomi & Politik Dasar Solidaritas.net
 
-* **Karena demo buruh, pengusaha akan memecat dan yang buruh yang tidak tahu apa-apa akan terkena imbasnya.**
+3. **Karena demo buruh, pengusaha akan memecat dan yang buruh yang tidak tahu apa-apa akan terkena imbasnya.**
+
 Dengan atau tidak ada demo buruh. Pengusaha yang mau memecat, ya akan mecat saja. Ada banyak kasus perusahaan yang memecat buruh bukan karena demo menuntut kenaikan upah, tapi karena manajemen yang buruk dan penghisapan yang luar biasa kepada kaum buruh. Di Medan misalnya, pernah terjadi demonstrasi hebat karena buruh perempuan yang [dipecat karena melahirkan](http://news.detik.com/video/140912015/cuti-melahirkan-ratusan-buruh-dipecat). Atau [menuntut cuti haid](http://m.tribunnews.com/regional/2015/09/25/demo-tuntut-cuti-haid-dua-buruh-di-pematangsiantar-dipecat), adapula yang [dipecat karena ikut serikat pekerja](http://solidaritas.net/2015/01/buruh-pt-metindo-dipecat-karena-ikut-serikat-pekerja.html).
 
 ![Buruh-Wajib-Penuhi-Hak-Pengusaha-PolRi-400x240-ecff67.jpg](/uploads/Buruh-Wajib-Penuhi-Hak-Pengusaha-PolRi-400x240-ecff67.jpg){: .img-responsive .center-block }
@@ -81,7 +84,8 @@ Ini menarik karena berdasarkan sumber, marik kita lihat perbandingan upah buruh 
 
 Infografis upah buruh ASEAN
 
-* **Kalo Buruh demo upah tinggi pengusaha kecil menengah dan UKM akan bangkrut.**
+4. **Kalo Buruh demo upah tinggi pengusaha kecil menengah dan UKM akan bangkrut.**
+
 Nah gini, perlu dipahami dan dipetakan. Siapa sajakah yang ikut demo? Dan apakah yang demo adalah para buruh dari usaha kecil dan menengah? Atau buruh dari pelaku UKM? Buruh gak sejahat itu kok. Buruh dari UKM, biasanya lebih baik daripada buruh pabrik besar. Meski ada pula yang brutal dan keji. Inget [kasus buruh pabrik panci di tanggerang?](http://metro.tempo.co/read/news/2013/05/04/064477936/4-buruh-pabrik-panci-yang-disiksa-masih-anak-anak) itu korbannya masih anak anak lho.
 
 Nah kalau penusaha UKM tak mampu menggaji tinggi gimana? Pemerintah telah membuat pengaturan tentang pengupahan, memberikan keringanan bagi Pengusaha kecil menengah yang tidak mampu membayar upah sesuai dengan penetapan pemerintah setempat mengenai upah minimum, Pengusaha dapat meminta penangguhan untuk membayar pekerja/buruhnya dibawah upah minimum dengan cara meminta permohonan penangguhan yang lebih lanjut diatur dalam Kepmenakertrans No. 231/2003. Intinya buruh dan pengusaha sepakat. Kerapkali buruh demo karena dalam penentuan upah buruh tidak disertakan, kalau protes tiba-tiba aja dipecat. Nah kalo paham gini kan enak?
