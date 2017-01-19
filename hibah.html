@@ -16,8 +16,8 @@ layout: info
         {% for hibah in site.data.hibah %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<img class="img-responsive" src="{{ hibah.gambar }}">
-                <a href="{{ hibah.link }}">{{ hibah.nomor }} - {{ hibah.judul }}</a><br/>
+		<a href="{{ hibah.link }}"><img class="img-responsive" src="{{ hibah.gambar }}"></a>
+                <a href="{{ hibah.link }}"><h5>{{ hibah.nomor }} - {{ hibah.judul }}</h5></a><br/>
                 Deskripsi: {{ hibah.deskripsi | truncate:100 }}
 		<hr>
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
