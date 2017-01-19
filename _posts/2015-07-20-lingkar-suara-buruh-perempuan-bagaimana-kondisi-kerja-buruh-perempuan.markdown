@@ -4,6 +4,7 @@ date: 2015-07-20 13:16:00 +07:00
 categories:
 - CMS
 - Kajian
+- Berita
 tags:
 - buruh
 - buruh perempuan
