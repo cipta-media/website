@@ -10,19 +10,18 @@ layout: info
             <div class="navy-line"></div>
             <h1><span data-i18n="tentang.tentang">Pendaftar Hibah</span></h1>
         </div>
-    </div
-
-<div class="row">
-    <br/>
-{% for hibah in site.data.hibah %}
-    <div class="col-md-4 well well-lg">
-        <div class="col-md-12>
-            <a href="{{ hibah.link }}"><h1>{{ hibah.judul }}</h1></a>
-            Deskripsi: {{ hibah.deskripsi | truncate:100 }}
-        </div>
     </div>
-{% endfor %}
 
-</div>
-</div>
+    <div class="row">
+        <br/>
+        {% for hibah in site.data.hibah %}
+            <div class="col-md-4 well well-lg">
+                <div class="col-md-12>
+                    <a href="{{ hibah.link }}"><h1>{{ hibah.judul }}</h1></a>
+                     Deskripsi: {{ hibah.deskripsi | truncate:100 }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+                                              
 </div>
