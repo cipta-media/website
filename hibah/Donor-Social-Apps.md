@@ -16,13 +16,13 @@ tipe: 'Mobile Application berbentuk sosial, dengan beberapa kategori, serta menu
 
 '
 strategi: |
-  Mengajukan permohonan permintaan data para Pendonor kepada pihak tertentu untuk mengajak bergabung kedalam Aplikasi, selebihnya di Media masa ( cetak & elektronik ) sebagai kampanye masal. Selain melakukan optimasi disisi Aplikasi, juga ada beberapa fitur utama yang tersedia di Aplikasi :
-  – Membutuhkan Donor Secepatnya, terhitung 1 minggu sebelum hari ini, dan 1 minggu kemudian sesudah hari ini.
-  – Pendonor disekitar, daftar pada pendonor disekitar Pencari Donor.
-  – Broadcast “membutuhkan donor secepatnya” kepada semua Pendonor, layanan ini memerlukan persetujuan pihak Moderator sistem
-  – 5 Besar Pencari Donor, dimana setiap permintaan bantuan Donor dapat di “Up” oleh pengguna yang lain supaya masuk dalam 5 besar kebutuhan mendesak, dimana perhitungan dikalkulasikan dengan jumlah pengguna.
-  Setiap pencari Donor dapat melihat informasi secara detail terhadap Pendonor ketika sudah disetujui oleh pihak Pendonor, mulai dari Riwayat Penyakit Pendonor, Lokasi, Riwayat melakukan Donor, dll.
-  Dengan adanya Aplikasi Donor Sosial ini, para pencari Donor dan Pendonor dapat dengan mudah mendapatkan Informasi yang dibutuhkan secara relavan.
+  Mengajukan permohonan permintaan data para Pendonor kepada pihak tertentu untuk mengajak bergabung kedalam Aplikasi, selebihnya di Media masa ( cetak & elektronik ) sebagai kampanye masal. Selain melakukan optimasi disisi Aplikasi, juga ada beberapa fitur utama yang tersedia di Aplikasi :  
+  – Membutuhkan Donor Secepatnya, terhitung 1 minggu sebelum hari ini, dan 1 minggu kemudian sesudah hari ini.  
+  – Pendonor disekitar, daftar pada pendonor disekitar Pencari Donor.  
+  – Broadcast “membutuhkan donor secepatnya” kepada semua Pendonor, layanan ini memerlukan persetujuan pihak Moderator sistem  
+  – 5 Besar Pencari Donor, dimana setiap permintaan bantuan Donor dapat di “Up” oleh pengguna yang lain supaya masuk dalam 5 besar   kebutuhan mendesak, dimana perhitungan dikalkulasikan dengan jumlah pengguna.  
+  Setiap pencari Donor dapat melihat informasi secara detail terhadap Pendonor ketika sudah disetujui oleh pihak Pendonor, mulai dari Riwayat Penyakit Pendonor, Lokasi, Riwayat melakukan Donor, dll.  
+  Dengan adanya Aplikasi Donor Sosial ini, para pencari Donor dan Pendonor dapat dengan mudah mendapatkan Informasi yang dibutuhkan secara relavan.  
   Kategori Donor sendiri tidak hanya diperuntukan kepada Donor Darah saja, melainkan ( untuk sementara ) kedalam 3 kategori besar, yaitu : Darah, Organ dan Jaringan.
 dana: Rp.120 juta
 deskripsi: 'Mempertemukan antara para Pendonor ( yang tersedia ) dengan para Pencari
@@ -42,6 +42,8 @@ solusi: 'Menyediakan suatu tempat secara Digital yang memberikan Informasi menge
 
 ![001](/static/img/hibah/001.png){: .img-responsive }{: width="350" }
 
-## {{ page.nohibah }} - {{ page.title }}
+### {{ page.nohibah }} - {{ page.title }}
 
 {{ page.deskripsi }}
+
+---
