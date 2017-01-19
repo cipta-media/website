@@ -1,11 +1,12 @@
 ---
 title: Donor Social Apps
-nohibah: 1
+nohibah: '001'
 layout: hibah
 ---
 
-# {{ page.nohibah }}{{ page.title }}
-![001](/static/img/hibah/001.png{: .img-responsive .center-block })
+
+![001](/static/img/hibah/001.png){: .img-responsive .center-block })
+## {{ page.nohibah }}{{ page.title }}
 
 Nomor Urut: {{ page.nohibah }}
 
@@ -13,9 +14,9 @@ Nama Lengkap Inisiator: Jani Sanjaya
 
 Lokasi: Tasikmalaya, Jawa Barat
 
-organisasi: pribadi
+Organisasi: pribadi
 
-judul: Donor Social Apps
+Judul: Donor Social Apps
 
 lama: Mei 2014 - Desember 2014
 
