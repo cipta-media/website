@@ -13,7 +13,9 @@ layout: info
     </div>
     <div class="row">
     	<br/>
+	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive" src="{{ hibah.gambar }}"></a>
@@ -26,4 +28,5 @@ layout: info
     	</div>
         {% endfor %}
 	</div>
+{% include pagination.html %}
 </div>
