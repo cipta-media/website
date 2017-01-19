@@ -1,55 +1,23 @@
-- nomor: '1'
-  nama: Jani Sanjaya
-  lokasi: Tasikmalaya, Jawa Barat
-  organisasi: pribadi
-  judul: Donor Social Apps
-  lama: Mei 2014 - Desember 2014
-  target: Para Pencari Donor
-  keberhasilan: |
-      Proyek ini dapat dikatakan berhasil, ketika layanan dari Proyek ini sudah dapat membantu begitu banyak setiap Individu yang terkait didalamnya.
-  tipe: |
-      Mobile Application berbentuk sosial, dengan beberapa kategori, serta menu "penting" yang dapat dirasakan oleh para Pencari donor maupun Pendonor, seperti : "Butuh Donor Secepatnya"
-  strategi: |
-      Mengajukan permohonan permintaan data para Pendonor kepada pihak tertentu untuk mengajak bergabung kedalam Aplikasi, selebihnya di Media masa ( cetak & elektronik ) sebagai kampanye masal.</br>
-      Selain melakukan optimasi disisi Aplikasi, juga ada beberapa fitur utama yang tersedia di Aplikasi :</br>
-      – Membutuhkan Donor Secepatnya, terhitung 1 minggu sebelum hari ini, dan 1 minggu kemudian sesudah hari ini.</br>
-      – Pendonor disekitar, daftar pada pendonor disekitar Pencari Donor.</br>
-      – Broadcast “membutuhkan donor secepatnya” kepada semua Pendonor, layanan ini memerlukan persetujuan pihak Moderator sistem</br>
-      – 5 Besar Pencari Donor, dimana setiap permintaan bantuan Donor dapat di “Up” oleh pengguna yang lain supaya masuk dalam 5 besar kebutuhan mendesak, dimana perhitungan dikalkulasikan dengan jumlah pengguna.</br>
-      Setiap pencari Donor dapat melihat informasi secara detail terhadap Pendonor ketika sudah disetujui oleh pihak Pendonor, mulai dari Riwayat Penyakit Pendonor, Lokasi, Riwayat melakukan Donor, dll.</br>
-      Dengan adanya Aplikasi Donor Sosial ini, para pencari Donor dan Pendonor dapat dengan mudah mendapatkan Informasi yang dibutuhkan secara relavan.</br>
-      Kategori Donor sendiri tidak hanya diperuntukan kepada Donor Darah saja, melainkan ( untuk sementara ) kedalam 3 kategori besar, yaitu : Darah, Organ dan Jaringan.
-  dana: Rp.120 juta
+- judul: Donor Social Apps
   deskripsi: |
       Mempertemukan antara para Pendonor ( yang tersedia ) dengan para Pencari Donor melalui perangkat seluler, kategori Donor sendiri untuk sementara dibagi kedalam 3 kategori besar, yaitu : Darah, Organ dan Jaringan.
-  masalah: |
-      Terbatasnya suatu tempat yang memberikan Informasi tentang Donor, baik untuk Pencari Donor ( yang membutuhkan secara cepat ) maupun para Pendonor.
-  solusi: |
-      Menyediakan suatu tempat secara Digital yang memberikan Informasi mengenai para Pendonor dan Pencari Donor.
   img:
   link: /hibah/Donor-Social-Apps
 
-- nomor: '2'
-  nama: Kosasih
-  lokasi: Karawang, Jawa Barat
-  organisasi: Rumah Baca Sindangkarya
-  judul: Penggunaan Telepon Seluler di Taman bacaan Sebagai Media Pembelajaran
-  lama: Agustus 2014 - Juli 2015
-  target: Anak-anak desa yang mau belajar di taman bacaan, Lokasi Karawang
-  keberhasilan: |
-      Sebarapa cepat daya tangkap pembelajaran menggunakan media gadget / ponsel, seberapa besar pengaruh minat belajar anak-anak menggunakan media gadget berbasis android. 
-  tipe: |
-      Konten berbasis edukasi
-  strategi: |
-      Menggunakan sosial media dan Blog
-  output: |
-      Setiap minggu ditargetkan minimal 3 kali pembelajaran menggunakan media gadget berbasis android
-  dana: Rp.140 juta
+- judul: Penggunaan Telepon Seluler di Taman bacaan Sebagai Media Pembelajaran
   deskripsi: |
       Telepon seluler khususnya yang berbasis android memiliki beragam konten bernilai edukasi. Hal ini dapat dimanfaatkan sebagai media dalam pembelajaran bagi anak-anak di taman bacaan. Kami ambil contoh ada aplikasi untuk belajar iqro, belajar baca tulis, belajar shalat, Aplikasi baca Alquran, belajar bahasa inggris dan lain-lain. Semua itu bisa di download secara gratis. Nantinya itu kami manfaatkan untuk proses belajar mengajar di taman bacaan yang bisa di selingi dengan permainan supaya anak -anak tidak merasa bosan.
-  masalah: |
-      Kadang ada anak yang tidak tertarik untuk belajar membaca, atau enggan datang ke taman bacaan , maka dengan media telepon seluler dengan sistem pembelajaran yang ada nilai fun-nya diharapkan anak-anak akan menjadi lebih tertarik untuk belajar.
-  solusi: |
-      Anak-anak akan di rangsang agar mau belajar di taman bacaan dengan media pembelajaran menggunakan telepon seluler berbasis android. Mereka akan di bagi terdiri dari bebrapa kelompok. Dan setiap kelompok akan memiliki sebuah gadget berbasis android yang telah di instal aplikasi pembelajaran.
+  img:
+  link:
+
+- judul: Sosial Media berbasis Pendidikan
+  deskripsi: |
+      Dalam upaya meningkatkan pembelajaran elektronis maka digital content sangat diperlukan dalam kelancarannya, oleh karena itu teknologi sosial media berbasis pendidikan yang akan dikembangkan ini sangat cocok dengan kebutuhan pendidikan mengaplikasi teknologi dan memeratakan kualitas pendidikan dalam konsep yang lebih menyenangkan dan lebih dinamis.
+  img:
+  link:
+  
+- judul: Media Promosi Kesehatan Pesantren
+  deskripsi: |
+      Pembuatan media promosi kesehatan oleh santri pondok pesantren dengan harapan media mampu meng intervensi santri ponpes yang selama ini kurang dalam kesadaran ber prilaku hidup bersih dan sehat.
   img:
   link:
