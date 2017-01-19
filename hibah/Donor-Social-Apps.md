@@ -1,13 +1,17 @@
 ---
+nohibah: 001
 title: Donor Social Apps
 layout: hibah
 ---
 
-nomor: 1
+# {{ page.nohibah }}{{ page.title }}
+![001](/static/img/hibah/001.png{: .img-responsive .center-block })
 
-nama: Jani Sanjaya
+Nomor Urut: {{ page.nohibah }}
 
-lokasi: Tasikmalaya, Jawa Barat
+Nama Lengkap Inisiator: Jani Sanjaya
+
+Lokasi: Tasikmalaya, Jawa Barat
 
 organisasi: pribadi
 
