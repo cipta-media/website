@@ -42,14 +42,17 @@ layout: default
 		    <div class="panel-heading">
 		      <h4 class="panel-title">
 			<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-			Collapsible Group 1</a>
+			Berita Terbaru</a>
 		      </h4>
 		    </div>
 		    <div id="collapse1" class="panel-collapse collapse in">
-		      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-		      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-		      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-		      commodo consequat.</div>
+		      <div class="panel-body">
+			      {% for post in site.categories['Berita'] limit:5 %}
+			      	<a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
+				{{ post.content | strip_html | truncate:100 }}
+			        <hr>
+			      {% endfor %}
+		      </div>
 		    </div>
 		  </div>
 		  <div class="panel panel-default">

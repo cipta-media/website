@@ -31,15 +31,42 @@ layout: info
         </div>
     </div>
     	
-<ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#">Perangkat Keras</a></li>
-  <li><a data-toggle="tab" href="#software">Perangkat Lunak</a></li>
-  <li><a data-toggle="tab" href="#konten">Produksi dan Penyampaian Konten</a></li>
+<ul class="nav nav-pills nav-justified">
+  <li class="active"><a data-toggle="pill" href="#semua">Semua</a></li>
+  <li><a data-toggle="pill" href="#">Perangkat Keras</a></li>
+  <li><a data-toggle="pill" href="#software">Perangkat Lunak</a></li>
+  <li><a data-toggle="pill" href="#konten">Produksi dan Penyampaian Konten</a></li>
 </ul>
 	
 <div class="tab-content">
+	<!--semua-->
+	<div id="semua" class="tab-pane fade in active">
+	<div class="row">
+    	<br/>
+	<ul id="pag-itemContainer" style="list-style:none;">
+	{% assign counter = 0 %}
+        {% for hibah in site.data.hibah %}
+	{% assign counter = counter | plus: 1 %}
+        <li>
+    	<div class="col-md-4">
+             <div class="col-md-12 well well-lg">
+		<a href="{{ hibah.link }}"><img class="img-responsive" src="{{ hibah.gambar }}"></a>
+                <hr>
+		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibah.deskripsi | truncatewords: 20 }}
+		<hr>
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+              </div>
+    	</div>
+        {% endfor %}
+	</div>
+	</li>
+	</ul>
+	{% include pagination.html %}
+	</div>
+	
 	<!--software-->
-	<div id="software" class="tab-pane fade in active">
+	<div id="software" class="tab-pane fade">
 	<div class="row">
     	<br/>
 	<ul id="pag-itemContainer" style="list-style:none;">
@@ -67,7 +94,7 @@ layout: info
 	</div>
 	
 	<!--konten-->
-	<div id="konten" class="tab-pane fade in">
+	<div id="konten" class="tab-pane fade">
 	<div class="row">
     	<br/>
 	<ul id="pag-itemContainer" style="list-style:none;">
