@@ -1,3 +1,22 @@
+  <!-- jPages -->
+  <script src= "/static/js/jPages.js"></script>
+  <script src= "/static/js/js.js"></script>
+  <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer",
+              perPage      : 6,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>
+  <!-- jPages -->
+
 <div class="container" id="i18_proyek">
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
@@ -5,31 +24,70 @@
             <h1><span data-i18n="proyek.proyek">Penerima Hibah</span></h1>
         </div>
     </div>
-    <div class="row">
-	    <ul id="pag-itemContainer" style="list-style:none;">
-    	{% assign counter = 0 %}
-        	{% for project in site.data.projects %}
-            {% assign counter = counter | plus: 1 %}
-                    {% assign loopindex = forloop.index | modulo: 2 %}
-		    <li>
-                    {% if forloop.last %}
-                        {% if forloop.last == forloop.first %}
-                    <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
-                        {% else %}
-                    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
-                        {% endif %}
-                    {% else %}
-                    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
-                    {% endif %}
-                      <div class="team-member">
-                          <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-small" alt="">
-                          <h4><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><span class="navy">{{ project.name }}</a></span></h4>
-                          <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
-                      </div>
-                  	</div> 
-			{% endfor %} 
-    </div>
-	</li>
+ 
+	<ul class="nav nav-pills nav-justified m-b-lg">
+		<li class="active"><a data-toggle="pill" href="#cms">Cipta Media Seluler</a></li>
+		<li><a data-toggle="pill" href="#cmb">Cipta Media Bersama</a></li>
+	</ul>
+
+<div class="tab-content">
+    <div id="cms" class="tab-pane fade in active">
+	    <div class="row">
+		    <ul id="pag-itemContainer" style="list-style:none;">
+		{% assign counter = 0 %}
+			{% for project in site.data.projects %}
+		    {% assign counter = counter | plus: 1 %}
+			    {% assign loopindex = forloop.index | modulo: 2 %}
+			    <li>
+			    {% if forloop.last %}
+				{% if forloop.last == forloop.first %}
+			    <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+				{% else %}
+			    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+				{% endif %}
+			    {% else %}
+			    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+			    {% endif %}
+			      <div class="team-member">
+				  <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-small" alt="">
+				  <h4><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><span class="navy">{{ project.name }}</a></span></h4>
+				  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
+			      </div>
+			      </div> 
+			     {% endfor %} 
+	    </div>
+			     </li>
 {% include pagination.html %}
+    </div>
+    <div id="cmb" class="tab-pane fade in">
+	    <div class="row">
+		    <ul id="pag-itemContainer" style="list-style:none;">
+		{% assign counter = 0 %}
+			{% for projectcmb in site.data.projectcmb %}
+		    {% assign counter = counter | plus: 1 %}
+			    {% assign loopindex = forloop.index | modulo: 2 %}
+			    <li>
+			    {% if forloop.last %}
+				{% if forloop.last == forloop.first %}
+			    <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+				{% else %}
+			    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+				{% endif %}
+			    {% else %}
+			    <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+			    {% endif %}
+			      <div class="team-member">
+				  <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-small" alt="">
+				  <h4><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><span class="navy">{{ project.name }}</a></span></h4>
+				  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
+			      </div>
+			      </div> 
+			     {% endfor %} 
+	    </div>
+			     </li>
+{% include pagination.html %}
+    </div>
+</div>
+
 </div>
 <br>

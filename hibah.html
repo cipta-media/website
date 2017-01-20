@@ -3,6 +3,25 @@ title: Pendaftar Hibah
 layout: info
 ---
 
+  <!-- jPages -->
+  <script src= "/static/js/jPages.js"></script>
+  <script src= "/static/js/js.js"></script>
+  <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer",
+              perPage      : 30,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>
+  <!-- jPages -->
+
 <div class="container">
 
     <div class="row m-b-lg">
@@ -11,22 +30,69 @@ layout: info
             <h1><span data-i18n="tentang.tentang">Pendaftar Hibah</span></h1>
         </div>
     </div>
-    <div class="row">
+    	
+<ul class="nav nav-tabs">
+  <li class="active"><a data-toggle="tab" href="#">Perangkat Keras</a></li>
+  <li><a data-toggle="tab" href="#software">Perangkat Lunak</a></li>
+  <li><a data-toggle="tab" href="#konten">Produksi dan Penyampaian Konten</a></li>
+</ul>
+	
+<div class="tab-content">
+	<!--software-->
+	<div id="software" class="tab-pane fade in active">
+	<div class="row">
     	<br/>
+	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
+	{% if hibah.tipe == 'software' %}
 	{% assign counter = counter | plus: 1 %}
+        <li>
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive" src="{{ hibah.gambar }}"></a>
                 <hr>
-		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul }}</h4></a><br/>
-                {{ hibah.deskripsi | truncate:100 }}
+		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibah.deskripsi | truncatewords: 20 }}
 		<hr>
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
+	{% endif %}
         {% endfor %}
 	</div>
-{% include pagination.html %}
+	</li>
+	</ul>
+	{% include pagination.html %}
+	</div>
+	
+	<!--konten-->
+	<div id="konten" class="tab-pane fade in">
+	<div class="row">
+    	<br/>
+	<ul id="pag-itemContainer" style="list-style:none;">
+	{% assign counter = 0 %}
+        {% for hibah in site.data.hibah %}
+	{% if hibah.tipe == 'konten' %}
+	{% assign counter = counter | plus: 1 %}
+        <li>
+    	<div class="col-md-4">
+             <div class="col-md-12 well well-lg">
+		<a href="{{ hibah.link }}"><img class="img-responsive" src="{{ hibah.gambar }}"></a>
+                <hr>
+		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibah.deskripsi | truncatewords: 20 }}
+		<hr>
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+              </div>
+    	</div>
+	{% endif %}
+        {% endfor %}
+	</div>
+	</li>
+	</ul>
+	{% include pagination.html %}
+	</div>
+</div>
+
 </div>
