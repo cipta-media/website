@@ -98,8 +98,9 @@ layout: info
 	<div id="konten" class="tab-pane fade">
 	<div class="row">
     	<br/>
-        {% for hibah in site.data.hibah.tipe['konten'] %}
+        {% for hibah in site.data.hibah %}
 	{% assign loopindex = forloop.index | modulo: 3 %}
+        {% if hibah.tipe == 'konten' %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -110,6 +111,8 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
+	{% else %} {% loopindex = loopindex - 1 %}
+	{% endif %}
 	  {% if loopindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
   	  {% endif %}
