@@ -87,7 +87,7 @@
       Proyek ini akan menghasilkan sebuah sistem yang memanfaatkan media seluler untuk ‘mengawasi dan melaporkan’ kejadian sehari-hari yang berhubungan dengan public service yang sifatnya non-emergency issue sehingga dapat dijadikan media oleh pemerintah setempat untuk melakukan perbaikan dari hari ke hari secara bertahap berdasarkan keterlibatan komunitas lokal setempat. Contoh sistem serupa yang telah berjalan di USA: http://seeclickfix.com/ Namun, sistem yang saya rancang ini akan lebih memanfaatkan telepon seluler untuk kolaborasi informasinya. Selain bermanfaat untuk pelaporan, sistem ini juga akan berjalan sebagai sistem media social dan media komunikasi untuk menghubungkan komunitas masing-masing masyarakat lokal setempat (antar tetangga, RT/RW, kelurahan, dst.)
   lokasi: Bandung, Jawa Barat
   tipe: konten
-  gambar: /static/img/hibah/0010.jpg
+  gambar: /static/img/hibah/010.jpg
   link: /hibah/010
 
 - nomor: '011'
