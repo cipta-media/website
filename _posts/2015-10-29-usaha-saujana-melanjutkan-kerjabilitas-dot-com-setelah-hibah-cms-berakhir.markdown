@@ -12,9 +12,9 @@ author: hillun
 
 Saujana sebagai pengelola proyek [Mitra Kerja Penyandang Disabilitas](http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas) (MKPD) mulai gencar mencari sumber dana untuk keberlanjutan Kerjabilitas. Alasannya sangat jelas, layanan Kerjabilitas baru disediakan selama 6 bulan sehingga sulit untuk mengukur dampak sosialnya. Selain itu, kami juga harus memiliki cukup dana setelah hibah CMS berakhir agar layanan ini tidak mati sebelum manfaatnya benar-benar dirasakan oleh pengguna.
 
-Dalam mencari sumber dana, Saujana sempat mengirimkan proposal ke **Direct Aid Program dan DBS Foundation**. Sayangnya, upaya mencari dana itu gagal. Proposal pertama tidak ada tanggapan (walaupun respons awal mereka cukup baik) karena hubungan diplomatik yang tidak menentu antara Indonesia-Australia. Proposal yang kedua gagal karena model bisnisnya tidak jelas.
+Dalam mencari sumber dana, Saujana sempat mengirimkan proposal ke *Direct Aid Program dan DBS Foundation*. Sayangnya, upaya mencari dana itu gagal. Proposal pertama tidak ada tanggapan (walaupun respons awal mereka cukup baik) karena hubungan diplomatik yang tidak menentu antara Indonesia-Australia. Proposal yang kedua gagal karena model bisnisnya tidak jelas.
 
-Saujana terus mencoba mencari dukungan dana dan akhirnya terpilih sebagai peserta **DBS Foundation Social Enterprise Boot Camp**. Selanjutnya, Saujana akan mengikuti serangkaian lokakarya mulai Agustus–Desember 2015 bersama 13 peserta lainnya. Dalam kegiatan ini, peserta mendapatkan materi-materi tentang wirasusaha sosial dan bagaimana mengembangkan program yang berdampak secara sosial dan mandiri secara ekonomi. 
+Saujana terus mencoba mencari dukungan dana dan akhirnya terpilih sebagai peserta *DBS Foundation Social Enterprise Boot Camp*. Selanjutnya, Saujana akan mengikuti serangkaian lokakarya mulai Agustus–Desember 2015 bersama 13 peserta lainnya. Dalam kegiatan ini, peserta mendapatkan materi-materi tentang wirasusaha sosial dan bagaimana mengembangkan program yang berdampak secara sosial dan mandiri secara ekonomi. 
 
 Terlepas dari seberapa besar peluang mereka untuk mendapatkan dana dari Boot Camp tersebut, Saujana belajar bahwa Kerjabilitas harus sesegera mungkin menerapkan model wirausaha sosial kalau mau berlanjut.
 
