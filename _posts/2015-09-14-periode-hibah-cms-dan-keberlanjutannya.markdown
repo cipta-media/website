@@ -9,6 +9,8 @@ tags:
 author: hillun
 ---
 
+![Cipta-Media-Seluler-CMS-Logo-350x350.jpg](/uploads/Cipta-Media-Seluler-CMS-Logo-350x350.jpg){: .img-responsive .center-block }
+
 [Siska Doviana ](http://ciptamedia.org/team/siska-doviana/)(manajer proyek CMS) dan [Heidi Arbuckle](http://ciptamedia.org/team/heidi-arbuckle/) melakukan pertemuan terkait hibah CMS di kantor Ford Foundation pada Kamis (10/09/2015). Ada beberapa hal yang ditetapkan dalam pertemuan tersebut, yaitu:
 
 1. Periode waktu Hibah CMS akan berakhir pada bulan Desember 2015 (akhir) baik untuk penurunan dana dari Wikimedia Indonesia atau pun ICT Watch. Ini berarti:
