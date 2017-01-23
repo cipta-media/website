@@ -1,13 +1,13 @@
-- nomor: 001
+- nomor: '001'
   judul: Donor Social Apps
   deskripsi: |
       Mempertemukan antara para Pendonor ( yang tersedia ) dengan para Pencari Donor melalui perangkat seluler, kategori Donor sendiri untuk sementara dibagi kedalam 3 kategori besar, yaitu : Darah, Organ dan Jaringan.
   lokasi: Tasikmalaya, Jawa Barat
   tipe: software
   gambar: /static/img/hibah/001.png
-  link: /hibah/Donor-Social-Apps
+  link: /hibah/001
 
-- nomor: 002
+- nomor: '002'
   judul: Penggunaan Telepon Seluler di Taman bacaan Sebagai Media Pembelajaran
   deskripsi: |
       Telepon seluler khususnya yang berbasis android memiliki beragam konten bernilai edukasi. Hal ini dapat dimanfaatkan sebagai media dalam pembelajaran bagi anak-anak di taman bacaan. Kami ambil contoh ada aplikasi untuk belajar iqro, belajar baca tulis, belajar shalat, Aplikasi baca Alquran, belajar bahasa inggris dan lain-lain. Semua itu bisa di download secara gratis. Nantinya itu kami manfaatkan untuk proses belajar mengajar di taman bacaan yang bisa di selingi dengan permainan supaya anak -anak tidak merasa bosan.
@@ -16,7 +16,7 @@
   gambar:
   link:
 
-- nomor: 003
+- nomor: '003'
   judul: Sosial Media berbasis Pendidikan
   deskripsi: |
       Dalam upaya meningkatkan pembelajaran elektronis maka digital content sangat diperlukan dalam kelancarannya, oleh karena itu teknologi sosial media berbasis pendidikan yang akan dikembangkan ini sangat cocok dengan kebutuhan pendidikan mengaplikasi teknologi dan memeratakan kualitas pendidikan dalam konsep yang lebih menyenangkan dan lebih dinamis.
@@ -24,12 +24,113 @@
   tipe: software
   gambar:
   link:
-  
-- nomor: 004
+
+- nomor: '004'
   judul: Media Promosi Kesehatan Pesantren
   deskripsi: |
       Pembuatan media promosi kesehatan oleh santri pondok pesantren dengan harapan media mampu meng intervensi santri ponpes yang selama ini kurang dalam kesadaran ber prilaku hidup bersih dan sehat.
   lokasi: Gresik, Jawa Timur
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '005'
+  judul: Aplikasi dan sistem untuk membantu meningkatkan penjualan pedagang pasar melalui ecommerce
+  deskripsi: |
+      Pasarminggu.co adalah layanan pesan antar bahan-bahan segar yang bekerja sama dengan pedagang pasar untuk memenuhi pesanan pelanggan. Melalui layanan kami, memungkinkan pedagang pasar mendapatkan channel penjualan tambahan yaitu online, walaupun mereka tidak punya akses internet and tidak punya kapasitas untuk melayani pelanggan online. Dari sisi pelanggan, pasarminggu.co mirip seperti toko online yang lain, mereka tinggal meng-klik item yang diinginkan. Pelanggan dengan mudah berbelanja dari beberapa pedagang pasar sekaligus yang menjual berbagai jenis dagangan. Kami akan memproses pesanan tersebut dari berbagai pedagang pasar yang berbeda. Mitra pedagang kami mencakup penjual sayur-mayur, berbagai macam lauk-pauk termasuk daging dan ikan asin, bumbu dapur serta penjual jajanan pasar. Pasarminggu.co tidak hanya menyiapkan situs ecommerce yang bisa diakses pelanggan, namun juga menyiapkan dukungan operasional logistik, customer service serta dukungan operasional terkait lainnya. Untuk saat ini, layanan ini baru menjangkau wilayah Jakarta, kami berusaha agar kedepannya dapat juga menjangkau daerah-daerah lainnya.
+  lokasi: Jakarta
+  tipe: software
+  gambar:
+  link:
+
+- nomor: '006'
+  judul: SMS Tani
+  deskripsi: |
+      Petani di daerah terpencil di Kabupaten Kupang terus menerus mengalami gagal tanam maupun gagal panen karena ketidakmampuan memprediksi kondisi cuaca. Ditambah lagi dengan buruknya kondisi sarana dan prasarana transportasi di daerah tersebut yang menyebabkan para petani kesulitan memperoleh informasi dari luar daerahnya. Sulitnya akses ini menyebabkan lambatnya daerah terpencil menerima perkembangan-perkembangan baru yang sudah terjadi di daerah maju.
+      Satu-satunya teknologi yang mereka gunakan adalah telepon seluler biasa dengan fitur dasar untuk menelepon dan mengirim pesan singkat. Karenanya, penyebarluasan serta pertukaran informasi dengan memanfaatkan SMS paling memungkinkan untuk dipakai secara optimal oleh para petani.
+      Konten yang paling dibutuhkan para petani terutama adalah informasi seperti kondisi klimatik terkait proyeksi kapan akan terjadi hujan, kapan waktu yang baik dan tepat untuk mulai menanam, dan tanaman apa yang cocok bagi kondisi klimat tertentu, diversifikasi panen, juga saran-saran untuk berbagai masalah pertanian. Informasi seperti ini akan mampu meningkatkan produktivitas petani dan meminimalisasi resiko sehingga kerugian dapat dihindari. Selain itu, teknologi sederhana ini juga dapat dimanfaatkan untuk menghubungkan petani dengan petani, serta petani dengan instansi-instansi pemerintah maupun swasta sehingga terjadi upaya-upaya pendampingan dan usaha untuk memperbaiki sistem tani yang berkelanjutan.
+  lokasi: Kupang, Nusa Tenggara Timur
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '007'
+  judul: Hijauku.com - Inspirasi Hijau di Ponsel Anda
+  deskripsi: |
+      Mengembangkan lebih lanjut fitur dan aplikasi seluler Hijaukudotcom untuk berbagai format guna memermudah masyarakat mendapatkan informasi dan inspirasi hijau dan ramah lingkungan. Informasi ini terkait informasi hasil penelitian, informasi komunitas, teknologi, berita dan program lingkungan yang inspiratif di masyarakat yang bisa dijadikan inspirasi menuju penerapan pola pembangunan yang berkelanjutan.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '008'
+  judul: MMS Untuk Nelayan
+  deskripsi: |
+      MMS untuk nelayan adalah program penyebaran informasi melalui MMS (Multimedia Messaging Service). Informasi yang disebarkan kepada nelayan berupa informasi Peta Tinggi Gelombang Laut dan Peta Potensi Hujan (Qualitative rainfall estimate). Sumber informasi MMS untuk nelayan berasal dari BMKG sehingga kerjasama dengan BMKG penting untuk dijalin.
+  lokasi: Majene, Sulawesi Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '009'
+  judul: Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya dengan harga yang sama /sms
+  deskripsi: |
+      Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya.
+  lokasi: Jakarta Barat
+  tipe: software
+  gambar:
+  link:
+
+- nomor: '010'
+  judul: Sistem Informasi Laporan Non-Darurat dan Media Sosial Masyarakat Lokal Indonesia
+  deskripsi: |
+      Proyek ini akan menghasilkan sebuah sistem yang memanfaatkan media seluler untuk ‘mengawasi dan melaporkan’ kejadian sehari-hari yang berhubungan dengan public service yang sifatnya non-emergency issue sehingga dapat dijadikan media oleh pemerintah setempat untuk melakukan perbaikan dari hari ke hari secara bertahap berdasarkan keterlibatan komunitas lokal setempat. Contoh sistem serupa yang telah berjalan di USA: http://seeclickfix.com/ Namun, sistem yang saya rancang ini akan lebih memanfaatkan telepon seluler untuk kolaborasi informasinya. Selain bermanfaat untuk pelaporan, sistem ini juga akan berjalan sebagai sistem media social dan media komunikasi untuk menghubungkan komunitas masing-masing masyarakat lokal setempat (antar tetangga, RT/RW, kelurahan, dst.)
+  lokasi: Bandung, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '011'
+  judul: Si Transpa (Aplikasi Transparansi)
+  deskripsi: |
+      Si Transpa adalah sebuah program berbasis internet yang bertujuan untuk mendorong keterbukaan publik dalam pembangunan di era desentralisasi. Program ini dibuat dengan melalui beberapa tahapan, diantaranya penelitian yang mengidentifikasi persoalan di sektor publik, permasalahan kelembagaan di tingkat negara, dan kebutuhan masyarakat akan informasi mengenai haknya. Produk dari program ini adalah aplikasi smartphone (Android dan Blackberry) yang bisa digunakan untuk mengakses berbagai informasi di negara pada tingkat pemerintahan daerah, seperti jumlah APBD, alokasi APBD, dan masalah-masalah yang dihadapi oleh mesyarakat untuk mengakses sarana umum, sarana kesehatan, birokrasi, dan sarana pendidikan. Selain itu, aplikasi ini akan dilengkapi dengan peta wilayah (hingga tingkat kecamatan/kelurahan) sehingga setiap pengguna dapat mengetahui dengan mudah, persoalan apa yang ada pada setiap wilayah. Aplikasi ini juga memuat konten forum warga yang bermanfaat untuk mengontrol pemerintahan daerah. Penggunaan aplikasi ini akan dibatasi pada orang yang menggunakan kartu tanda penduduk daerah tertentu.
+  lokasi: Jakarta Timur
+  tipe: software
+  gambar:
+  link:
+
+- nomor: '012'
+  judul: Realtime monitoring curah hujan bogor
+  deskripsi: |
+      Alat ini akan mensesnor tinggi curah hujan setiap saat dan akan dilaporkan ke web. agar semnua pihak bisa melihat dan melakukan tindakan yang diperlukan. bisa dilengkapi dengan email alarm. apabila curah hujan tinggi, akan mengirimkan email ke berbagai pihak terkait.
+  lokasi: Bogor, Jawa Barat
+  tipe: hardware
+  gambar:
+  link:
+
+- nomor: '013'
+  judul: Artainment Records
+  deskripsi: |
+      Untuk Produsen: Perusahaan yang mengakomodasi musisi lokal untuk berkarya, belajar, dan juga menjual hasil karyanya tanpa harus terkekang oleh batasan batasan yag berlaku di industri mayor musik tanah air (dan tentunya tidak melanggar batas asusila dan kemanusiaan). Disediakan juga tools, training, production/mixing, promotion etc. Untuk Konsumen: Dengan aplikas mobile yang kita miliki, anda bisa mendengarkan gratis, membeli album/lagu, asesoris resmi dan juga explorasi kebebasan bermusik yang tidak akan anda temukan di tempat “biasa”.
+  lokasi: Cianjur, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '014'
+  judul: Informasi Harga Jual Komoditas Pertanian dan Perkebunan Terkini
+  deskripsi: |
+      Konten yang berisi informasi terkini harga jual hasil pertanian atau perkebunan di suatu wilayah tertentu. sehingga ketika petani akan menjual hasil panennya tidak akan dibohongi oleh tengkulak dan juga konten yang berisi informasi musim tanam yang pas untuk suatu wilayah pada periode tertentu. sehingga menyelamatkan petani dari kemungkinan harga jual yang murah ketika panen tiba.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: '015'
+  judul: Revitalisasi Badan Penyuluh Pertanian (BPP) menjadi Rumah Pintar Petani
+  deskripsi: |
+      Penyediaan fasilitas fisik BPP didaerah Jawa Tengah tidak difungsikan secara optimal, dikarenakan kekurangan tenaga peyuluh pertanian, sehingga petani mengalami kesulitan dalam mendapatkan informasi terbaru. Dengan aplikasi dari LISA yang sudah digunakan oleh para petani di daerah Jawa Barat, kami bermaksud untuk memperluas jangkauan informasi dan pengguna kepada petani di Jawa Tengah. Juga mencoba untuk mendaya gunakan para petani yang memiliki potensi untuk menjadi pakar pertanian lokal sehingga dapat membentuk komunitas pakar dibawah naungan Rumah Pintar Petani.
+  lokasi: Jakarta
   tipe: konten
   gambar:
   link:
