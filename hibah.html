@@ -22,9 +22,9 @@ layout: info
 <div class="tab-content">
 	<!--semua-->
 	<div id="semua" class="tab-pane fade in active">
-        {% for hibah in site.data.hibah %}
 	<div class="row">
     	<br/>
+	{% for hibah in site.data.hibah %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive center-block" src="{{ hibah.gambar }}"></a>
@@ -35,8 +35,8 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	</div>
 	{% endfor %}
+	</div>
 	</div>
 
 
