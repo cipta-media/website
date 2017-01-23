@@ -53,11 +53,14 @@
 				  <h4><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><span class="navy">{{ project.name }}</a></span></h4>
 				  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
 			      </div>
-			      </div> 
-			     {% endfor %} 
-	    </div>
-			     </li>
-{% include pagination.html %}
+			      </div>
+			        {% if loopindex == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+	                        {% endif %}
+			      {% endfor %}
+	                      </div>
+			      </li>
+                              {% include pagination.html %}
     </div>
     <div id="cmb" class="tab-pane fade in">
 	    <div class="row">
