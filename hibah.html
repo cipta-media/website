@@ -18,15 +18,6 @@ layout: info
               midRange     : 3,
               endRange     : 1
           });
-          /* initiate the plugin */
-          $("div.pag-holder-cont").jPages({
-              containerID  : "pag-itemContainer-cont",
-              perPage      : 5,  /* num of items per page */
-              startPage    : 1,
-              startRange   : 1,
-              midRange     : 3,
-              endRange     : 1
-          });
       });
   </script>
   <!-- jPages -->
@@ -78,7 +69,7 @@ layout: info
 	<div id="hardware" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer-hard" style="list-style:none;">
+	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'hardware' %}
@@ -106,7 +97,7 @@ layout: info
 	<div id="software" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer-soft" style="list-style:none;">
+	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'software' %}
@@ -134,7 +125,7 @@ layout: info
 	<div id="konten" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer-cont" style="list-style:none;">
+	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'konten' %}
@@ -155,7 +146,7 @@ layout: info
 	</div>
 	</li>
 	</ul>
-	{% include pagination-cont.html %}
+	{% include pagination.html %}
 	</div>
 </div>
 
