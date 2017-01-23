@@ -22,12 +22,12 @@ layout: info
 <div class="tab-content">
 	<!--semua-->
 	<div id="semua" class="tab-pane fade in active">
+        {% for hibah in site.data.hibah %}
 	<div class="row">
     	<br/>
-        {% for hibah in site.data.hibah %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}" height="200"></a>
+		<a href="{{ hibah.link }}"><img class="img-responsive center-block" src="{{ hibah.gambar }}"></a>
                 <hr>
 		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
                 {{ hibah.deskripsi | truncatewords: 20 }}
@@ -35,9 +35,10 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-        {% endfor %}
 	</div>
+	{% endfor %}
 	</div>
+
 
 	<!--hardware-->
 	<div id="hardware" class="tab-pane fade">
@@ -47,7 +48,7 @@ layout: info
 	{% if hibah.tipe == 'hardware' %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}" height="200"></a>
+		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
                 <hr>
 		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
                 {{ hibah.deskripsi | truncatewords: 20 }}
@@ -68,7 +69,7 @@ layout: info
 	{% if hibah.tipe == 'software' %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}" height="200"></a>
+		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
                 <hr>
 		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
                 {{ hibah.deskripsi | truncatewords: 20 }}
@@ -89,7 +90,7 @@ layout: info
 	{% if hibah.tipe == 'konten' %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}" height="200"></a>
+		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
                 <hr>
 		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
                 {{ hibah.deskripsi | truncatewords: 20 }}
