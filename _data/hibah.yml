@@ -13,8 +13,8 @@
       Telepon seluler khususnya yang berbasis android memiliki beragam konten bernilai edukasi. Hal ini dapat dimanfaatkan sebagai media dalam pembelajaran bagi anak-anak di taman bacaan. Kami ambil contoh ada aplikasi untuk belajar iqro, belajar baca tulis, belajar shalat, Aplikasi baca Alquran, belajar bahasa inggris dan lain-lain. Semua itu bisa di download secara gratis. Nantinya itu kami manfaatkan untuk proses belajar mengajar di taman bacaan yang bisa di selingi dengan permainan supaya anak -anak tidak merasa bosan.
   lokasi: Karawang, Jawa Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/002.jpg
+  link: /hibah/002
 
 - nomor: '003'
   judul: Sosial Media berbasis Pendidikan
