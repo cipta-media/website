@@ -3,7 +3,7 @@ title: Bagaimana Pencapaian Proyek Monitoring Hutan Tobelo Dalam Dodaga?
 date: 2015-10-28 15:31:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - hutan adat
 - masyarakat adat

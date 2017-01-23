@@ -3,7 +3,7 @@ title: Jumlah Pengguna dan Konten di Kerjabilitas.com Meningkat
 date: 2015-10-27 15:35:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - kerjabilitas
 author: hillun

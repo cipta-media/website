@@ -4,7 +4,7 @@ title: Dukungan Pemerintah Daerah, Dinas Kehutanan dan Taman Nasional terkait Ha
 date: 2015-10-27 15:34:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - masyarakat adat
 - kehutanan

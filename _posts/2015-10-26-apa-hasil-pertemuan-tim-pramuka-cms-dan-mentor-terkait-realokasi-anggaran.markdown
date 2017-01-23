@@ -3,7 +3,7 @@ title: Apa Hasil Pertemuan Tim Pramuka, CMS dan Mentor terkait Realokasi Anggara
 date: 2015-10-26 15:38:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - pramuka
 - anggaran

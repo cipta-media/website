@@ -4,7 +4,7 @@ title: Gamifikasi dan Kuis, Cara Rapotivi Mengajak Masyarakat agar Mau Melaporka
 date: 2015-10-28 15:10:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - televisi
 - Media
