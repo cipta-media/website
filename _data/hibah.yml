@@ -22,8 +22,8 @@
       Dalam upaya meningkatkan pembelajaran elektronis maka digital content sangat diperlukan dalam kelancarannya, oleh karena itu teknologi sosial media berbasis pendidikan yang akan dikembangkan ini sangat cocok dengan kebutuhan pendidikan mengaplikasi teknologi dan memeratakan kualitas pendidikan dalam konsep yang lebih menyenangkan dan lebih dinamis.
   lokasi: Tangerang, Banten
   tipe: software
-  gambar:
-  link:
+  gambar: /static/img/hibah/003.jpg
+  link: /hibah/003
 
 - nomor: '004'
   judul: Media Promosi Kesehatan Pesantren
@@ -31,8 +31,8 @@
       Pembuatan media promosi kesehatan oleh santri pondok pesantren dengan harapan media mampu meng intervensi santri ponpes yang selama ini kurang dalam kesadaran ber prilaku hidup bersih dan sehat.
   lokasi: Gresik, Jawa Timur
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/cms-placeholder.jpg
+  link: /hibah/004
 
 - nomor: '005'
   judul: Aplikasi dan sistem untuk membantu meningkatkan penjualan pedagang pasar melalui ecommerce
@@ -40,8 +40,8 @@
       Pasarminggu.co adalah layanan pesan antar bahan-bahan segar yang bekerja sama dengan pedagang pasar untuk memenuhi pesanan pelanggan. Melalui layanan kami, memungkinkan pedagang pasar mendapatkan channel penjualan tambahan yaitu online, walaupun mereka tidak punya akses internet and tidak punya kapasitas untuk melayani pelanggan online. Dari sisi pelanggan, pasarminggu.co mirip seperti toko online yang lain, mereka tinggal meng-klik item yang diinginkan. Pelanggan dengan mudah berbelanja dari beberapa pedagang pasar sekaligus yang menjual berbagai jenis dagangan. Kami akan memproses pesanan tersebut dari berbagai pedagang pasar yang berbeda. Mitra pedagang kami mencakup penjual sayur-mayur, berbagai macam lauk-pauk termasuk daging dan ikan asin, bumbu dapur serta penjual jajanan pasar. Pasarminggu.co tidak hanya menyiapkan situs ecommerce yang bisa diakses pelanggan, namun juga menyiapkan dukungan operasional logistik, customer service serta dukungan operasional terkait lainnya. Untuk saat ini, layanan ini baru menjangkau wilayah Jakarta, kami berusaha agar kedepannya dapat juga menjangkau daerah-daerah lainnya.
   lokasi: Jakarta
   tipe: software
-  gambar:
-  link:
+  gambar: /static/img/hibah/005.jpg
+  link: /hibah/005
 
 - nomor: '006'
   judul: SMS Tani
@@ -51,8 +51,8 @@
       Konten yang paling dibutuhkan para petani terutama adalah informasi seperti kondisi klimatik terkait proyeksi kapan akan terjadi hujan, kapan waktu yang baik dan tepat untuk mulai menanam, dan tanaman apa yang cocok bagi kondisi klimat tertentu, diversifikasi panen, juga saran-saran untuk berbagai masalah pertanian. Informasi seperti ini akan mampu meningkatkan produktivitas petani dan meminimalisasi resiko sehingga kerugian dapat dihindari. Selain itu, teknologi sederhana ini juga dapat dimanfaatkan untuk menghubungkan petani dengan petani, serta petani dengan instansi-instansi pemerintah maupun swasta sehingga terjadi upaya-upaya pendampingan dan usaha untuk memperbaiki sistem tani yang berkelanjutan.
   lokasi: Kupang, Nusa Tenggara Timur
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/006.jpg
+  link: /hibah/006
 
 - nomor: '007'
   judul: Hijauku.com - Inspirasi Hijau di Ponsel Anda
@@ -60,8 +60,8 @@
       Mengembangkan lebih lanjut fitur dan aplikasi seluler Hijaukudotcom untuk berbagai format guna memermudah masyarakat mendapatkan informasi dan inspirasi hijau dan ramah lingkungan. Informasi ini terkait informasi hasil penelitian, informasi komunitas, teknologi, berita dan program lingkungan yang inspiratif di masyarakat yang bisa dijadikan inspirasi menuju penerapan pola pembangunan yang berkelanjutan.
   lokasi: Depok, Jawa Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/cms-placeholder.jpg
+  link: /hibah/007
 
 - nomor: '008'
   judul: MMS Untuk Nelayan
@@ -69,8 +69,8 @@
       MMS untuk nelayan adalah program penyebaran informasi melalui MMS (Multimedia Messaging Service). Informasi yang disebarkan kepada nelayan berupa informasi Peta Tinggi Gelombang Laut dan Peta Potensi Hujan (Qualitative rainfall estimate). Sumber informasi MMS untuk nelayan berasal dari BMKG sehingga kerjasama dengan BMKG penting untuk dijalin.
   lokasi: Majene, Sulawesi Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/008.jpg
+  link: /hibah/008
 
 - nomor: '009'
   judul: Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya dengan harga yang sama /sms
@@ -78,8 +78,8 @@
       Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya.
   lokasi: Jakarta Barat
   tipe: software
-  gambar:
-  link:
+  gambar: /static/img/hibah/009.jpg
+  link: /hibah/009
 
 - nomor: '010'
   judul: Sistem Informasi Laporan Non-Darurat dan Media Sosial Masyarakat Lokal Indonesia
@@ -87,8 +87,8 @@
       Proyek ini akan menghasilkan sebuah sistem yang memanfaatkan media seluler untuk ‘mengawasi dan melaporkan’ kejadian sehari-hari yang berhubungan dengan public service yang sifatnya non-emergency issue sehingga dapat dijadikan media oleh pemerintah setempat untuk melakukan perbaikan dari hari ke hari secara bertahap berdasarkan keterlibatan komunitas lokal setempat. Contoh sistem serupa yang telah berjalan di USA: http://seeclickfix.com/ Namun, sistem yang saya rancang ini akan lebih memanfaatkan telepon seluler untuk kolaborasi informasinya. Selain bermanfaat untuk pelaporan, sistem ini juga akan berjalan sebagai sistem media social dan media komunikasi untuk menghubungkan komunitas masing-masing masyarakat lokal setempat (antar tetangga, RT/RW, kelurahan, dst.)
   lokasi: Bandung, Jawa Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/0010.jpg
+  link: /hibah/010
 
 - nomor: '011'
   judul: Si Transpa (Aplikasi Transparansi)
@@ -96,8 +96,8 @@
       Si Transpa adalah sebuah program berbasis internet yang bertujuan untuk mendorong keterbukaan publik dalam pembangunan di era desentralisasi. Program ini dibuat dengan melalui beberapa tahapan, diantaranya penelitian yang mengidentifikasi persoalan di sektor publik, permasalahan kelembagaan di tingkat negara, dan kebutuhan masyarakat akan informasi mengenai haknya. Produk dari program ini adalah aplikasi smartphone (Android dan Blackberry) yang bisa digunakan untuk mengakses berbagai informasi di negara pada tingkat pemerintahan daerah, seperti jumlah APBD, alokasi APBD, dan masalah-masalah yang dihadapi oleh mesyarakat untuk mengakses sarana umum, sarana kesehatan, birokrasi, dan sarana pendidikan. Selain itu, aplikasi ini akan dilengkapi dengan peta wilayah (hingga tingkat kecamatan/kelurahan) sehingga setiap pengguna dapat mengetahui dengan mudah, persoalan apa yang ada pada setiap wilayah. Aplikasi ini juga memuat konten forum warga yang bermanfaat untuk mengontrol pemerintahan daerah. Penggunaan aplikasi ini akan dibatasi pada orang yang menggunakan kartu tanda penduduk daerah tertentu.
   lokasi: Jakarta Timur
   tipe: software
-  gambar:
-  link:
+  gambar: /static/img/hibah/011.jpg
+  link: /hibah/011
 
 - nomor: '012'
   judul: Realtime monitoring curah hujan bogor
@@ -105,8 +105,8 @@
       Alat ini akan mensesnor tinggi curah hujan setiap saat dan akan dilaporkan ke web. agar semnua pihak bisa melihat dan melakukan tindakan yang diperlukan. bisa dilengkapi dengan email alarm. apabila curah hujan tinggi, akan mengirimkan email ke berbagai pihak terkait.
   lokasi: Bogor, Jawa Barat
   tipe: hardware
-  gambar:
-  link:
+  gambar: /static/img/hibah/cms-placeholder.jpg
+  link: /hibah/012
 
 - nomor: '013'
   judul: Artainment Records
@@ -114,8 +114,8 @@
       Untuk Produsen: Perusahaan yang mengakomodasi musisi lokal untuk berkarya, belajar, dan juga menjual hasil karyanya tanpa harus terkekang oleh batasan batasan yag berlaku di industri mayor musik tanah air (dan tentunya tidak melanggar batas asusila dan kemanusiaan). Disediakan juga tools, training, production/mixing, promotion etc. Untuk Konsumen: Dengan aplikas mobile yang kita miliki, anda bisa mendengarkan gratis, membeli album/lagu, asesoris resmi dan juga explorasi kebebasan bermusik yang tidak akan anda temukan di tempat “biasa”.
   lokasi: Cianjur, Jawa Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/cms-placeholder.jpg
+  link: /hibah/013
 
 - nomor: '014'
   judul: Informasi Harga Jual Komoditas Pertanian dan Perkebunan Terkini
@@ -123,8 +123,8 @@
       Konten yang berisi informasi terkini harga jual hasil pertanian atau perkebunan di suatu wilayah tertentu. sehingga ketika petani akan menjual hasil panennya tidak akan dibohongi oleh tengkulak dan juga konten yang berisi informasi musim tanam yang pas untuk suatu wilayah pada periode tertentu. sehingga menyelamatkan petani dari kemungkinan harga jual yang murah ketika panen tiba.
   lokasi: Depok, Jawa Barat
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/cms-placeholder.jpg
+  link: /hibah/014
 
 - nomor: '015'
   judul: Revitalisasi Badan Penyuluh Pertanian (BPP) menjadi Rumah Pintar Petani
@@ -132,5 +132,5 @@
       Penyediaan fasilitas fisik BPP didaerah Jawa Tengah tidak difungsikan secara optimal, dikarenakan kekurangan tenaga peyuluh pertanian, sehingga petani mengalami kesulitan dalam mendapatkan informasi terbaru. Dengan aplikasi dari LISA yang sudah digunakan oleh para petani di daerah Jawa Barat, kami bermaksud untuk memperluas jangkauan informasi dan pengguna kepada petani di Jawa Tengah. Juga mencoba untuk mendaya gunakan para petani yang memiliki potensi untuk menjadi pakar pertanian lokal sehingga dapat membentuk komunitas pakar dibawah naungan Rumah Pintar Petani.
   lokasi: Jakarta
   tipe: konten
-  gambar:
-  link:
+  gambar: /static/img/hibah/015.jpg
+  link: /hibah/015
