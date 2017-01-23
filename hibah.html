@@ -111,7 +111,7 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% else %} {% loopindex = loopindex - 1 %}
+	{% else %} {% forloop.index - 1 %}
 	{% endif %}
 	  {% if loopindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
