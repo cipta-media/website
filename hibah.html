@@ -49,8 +49,8 @@ layout: info
 	<div class="row">
     	<br/>
         {% for hibah in site.data.hibah %}
-	{% assign loopindex = forloop.index | modulo: 3 %}
 	{% if hibah.tipe == 'hardware' %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -61,9 +61,10 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% endif %}
-	{% if loopindex == 0 %}
+	{% assign ifindex = counter | modulo: 3 %}
+	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
+  	  {% endif %}
 	{% endif %}
         {% endfor %}
 	</div>
@@ -74,8 +75,8 @@ layout: info
 	<div class="row">
     	<br/>
         {% for hibah in site.data.hibah %}
-	{% assign loopindex = forloop.index | modulo: 3 %}
 	{% if hibah.tipe == 'software' %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -86,9 +87,10 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% endif %}
-	{% if loopindex == 0 %}
+	{% assign ifindex = counter | modulo: 3 %}
+	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
+  	  {% endif %}
 	{% endif %}
         {% endfor %}
 	</div>
@@ -99,8 +101,8 @@ layout: info
 	<div class="row">
     	<br/>
         {% for hibah in site.data.hibah %}
-	{% assign loopindex = forloop.index | modulo: 3 %}
         {% if hibah.tipe == 'konten' %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -111,11 +113,11 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% else %}
-	{% endif %}
-	  {% if loopindex == 0 %}
+	{% assign ifindex = counter | modulo: 3 %}
+	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
   	  {% endif %}
+	{% endif %}
         {% endfor %}
 	</div>
 	</div>
