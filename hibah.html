@@ -75,7 +75,7 @@ layout: info
 	<div class="row">
     	<br/>
         {% for hibah in site.data.hibah %}
-	{% if hibah.tipe == 'software' %}
+        {% if hibah.tipe == 'software' %}
 	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
@@ -88,6 +88,7 @@ layout: info
               </div>
     	</div>
 	{% assign ifindex = counter | modulo: 3 %}
+		{{ ifindex }}
 	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
   	  {% endif %}
