@@ -55,7 +55,7 @@
 			      </div>
 			      </div>
 			        {% if loopindex == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
+		                <div class="clearfix visible-md visible-lg visible-sm"></div>
 	                        {% endif %}
 			      {% endfor %}
 	                      </div>
@@ -84,7 +84,10 @@
 				  <h4><a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><span class="navy">{{ project.name }}</a></span></h4>
 				  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
 			      </div>
-			      </div> 
+			      </div>
+				{% if loopindex == 0 %}
+		                	<div class="clearfix visible-md visible-lg visible-sm"></div>
+	                        {% endif %}
 			     {% endfor %} 
 	    </div>
 			     </li>
