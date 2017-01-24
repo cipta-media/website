@@ -50,7 +50,7 @@ layout: info
     	<br/>
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'hardware' %}
-	{% assign counter-hard = counter-hard | plus: 1 %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -61,9 +61,8 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% assign ifindex-hard = counter-hard | modulo: 3 %}
-		{{ ifindex-hard }}
-	  {% if ifindex-hard == 0 %}
+	{% assign ifindex = counter | modulo: 3 %}
+	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
   	  {% endif %}
 	{% endif %}
@@ -77,7 +76,7 @@ layout: info
     	<br/>
         {% for hibah in site.data.hibah %}
         {% if hibah.tipe == 'software' %}
-	{% assign counter-soft = counter-soft | plus: 1 %}
+	{% assign counter = counter | plus: 1 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
@@ -88,9 +87,9 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% assign ifindex-soft = counter-soft | modulo: 3 %}
-		{{ ifindex-soft }}
-	  {% if ifindex-soft == 0 %}
+	{% assign ifindex = counter | modulo: 3 %}
+		{{ ifindex }}
+	  {% if ifindex == 0 %}
 		<div class="clearfix visible-md visible-lg"></div>
   	  {% endif %}
 	{% endif %}
