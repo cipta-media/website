@@ -29,6 +29,7 @@ layout: info
         	<br/>
             {% for member in site.data.members %}
             {% if member.posisi contains 'lead' %}
+            {% assign counter-lead = counter-lead | plus: 1 %}
             <div class="col-md-4 m-b-lg">
                 <div class="row">
                     <div class="col-xs-6">
@@ -44,6 +45,10 @@ layout: info
                     </div>
                 </div>
             </div>
+            	{% assign ifindex-lead = counter-lead | modulo: 3 %}
+	                {% if ifindex-lead == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+  	                {% endif %}
             {% endif %}
             {% endfor %}
         </div>
@@ -53,6 +58,7 @@ layout: info
         	<br/>
             {% for member in site.data.members %}
             {% if member.posisi contains 'mentor' %}
+            {% assign counter-ment = counter-ment | plus: 1 %}
             <div class="col-md-4 m-b-lg">
                 <div class="row">
                     <div class="col-xs-6">
@@ -68,6 +74,10 @@ layout: info
                     </div>
                 </div>
             </div>
+                {% assign ifindex-ment = counter-ment | modulo: 3 %}
+	                {% if ifindex-ment == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+  	                {% endif %}
             {% endif %}
             {% endfor %}
         </div>
@@ -77,6 +87,7 @@ layout: info
         	<br/>
             {% for member in site.data.members %}
             {% if member.posisi contains 'sekre' %}
+            {% assign counter-sekre = counter-sekre | plus: 1 %}
             <div class="col-md-4 m-b-lg">
                 <div class="row">
                     <div class="col-xs-6">
@@ -92,6 +103,10 @@ layout: info
                     </div>
                 </div>
             </div>
+                {% assign ifindex-sekre = counter-sekre | modulo: 3 %}
+	                {% if ifindex-sekre == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+  	                {% endif %}
             {% endif %}
             {% endfor %}
         </div>
@@ -101,6 +116,7 @@ layout: info
         	<br/>
             {% for member in site.data.members %}
             {% if member.posisi contains 'selwal' %}
+            {% assign counter-selwal = counter-selwal | plus: 1 %}
             <div class="col-md-4 m-b-lg">
                 <div class="row">
                     <div class="col-xs-6">
@@ -116,6 +132,10 @@ layout: info
                     </div>
                 </div>
             </div>
+                {% assign ifindex-selwal = counter-selwal | modulo: 3 %}
+	                {% if ifindex-selwal == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+  	                {% endif %}
             {% endif %}
             {% endfor %}
         </div>
@@ -125,6 +145,7 @@ layout: info
         	<br/>
             {% for member in site.data.members %}
             {% if member.posisi contains 'selkir' %}
+            {% assign counter-selkir = counter-selkir | plus: 1 %}
             <div class="col-md-4 m-b-lg">
                 <div class="row">
                     <div class="col-xs-6">
@@ -140,6 +161,10 @@ layout: info
                     </div>
                 </div>
             </div>
+                {% assign ifindex-selkir = counter-selkir | modulo: 3 %}
+	                {% if ifindex-selkir == 0 %}
+		                <div class="clearfix visible-md visible-lg"></div>
+  	                {% endif %}
             {% endif %}
             {% endfor %}
         </div>
