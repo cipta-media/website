@@ -271,29 +271,30 @@
   link: /hibah/030
 
 - nomor: '031'
-  judul: 
+  judul: Seluler untuk UKM
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Perkembangan teknologi memungkinkan untuk para pengusaha kecil dan menengah di daerah-daerah dapat memperluas wilayah pemasaran mereka bahkan ke seluruh dunia. Hal ini yang menjadi acuan membuat sebuah aplikasi untuk mempermudah para UKM untuk menjual hasil karyanya ke seluruh dunia. Jumlah UKM di Indonesia mencapai ribuan menurut survey dan data di forum, tapi yang menggunakan aplikasi mobile dan penggunaan internet masih terhitung sedikit jumlahnya.
+  lokasi: Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/031.jpg
   link: /hibah/031
   
 - nomor: '032'
-  judul: 
+  judul: Ciburial Cyber Village
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pembangunan Jaringan Wifi Desa di Wilayah Desa Ciburial untuk mendukung pemberdayaan masyarakat Desa Ciburial sebagai Desa Wisata
+  lokasi: Bandung, Jawa Barat
+  tipe: hardware
   gambar: /static/img/hibah/032.jpg
   link: /hibah/032
   
 - nomor: '033'
-  judul: 
+  judul: Ayopeduli.com | Platform kolaborasi aksi sosial
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ayopeduli.com adalah media yang menjembatani aksi-aksi sosial dengan para donatur dan volunteer dengan incentive system yang menarik. 
+       Kami mengajak para stakeholder untuk membantu dan menyebarkan semangat berbagi dengan Fun Incentive System yaitu dengan memberikan GUDNESS Poin setiap kebaikan yang dilakukan di ayopeduli.com dengan menjadi volunteer maupun donatur.
+  lokasi: Bekasi, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/033.jpg
   link: /hibah/033
   
