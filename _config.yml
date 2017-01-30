@@ -1,5 +1,5 @@
 ---
-title: Cipta Media Seluler
+title: Cipta Media
 timezone: Asia/Jakarta
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Arsip Cipta Media Seluler, menggunakan Jekyll dan github pages.
+description: Arsip Cipta Media, menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
 sections:
 - id: tentang
