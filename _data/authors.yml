@@ -1,8 +1,8 @@
 #detil penulis
 cms:		
-  name: Cipta Media Seluler		
+  name: Cipta Media
   desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.		
-  head_img: static/img/landing/Peningkatan_cipta_media.png		
+  head_img: static/img/landing/logociptamedia.png		
   email: email@mail.co.uk		
   github: cms		
 riou:		
