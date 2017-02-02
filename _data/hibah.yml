@@ -540,7 +540,7 @@
   link: /hibah/059
 
 - nomor: '060'
-  judul: Sibarelang - Sahabat Ibu Mencetak Generasi Cemerlang
+  judul: Sibarelang: Sahabat Ibu Mencetak Generasi Cemerlang
   deskripsi: |
        Sistem perangkat lunak berbasis SMS sebagai media edukasi bagi ibu-ibu, terutama ibu hamil, mengenai pentingnya peran ibu dalam menjaga tumbuh kembang anak semenjak masih dalam kandungan.
   lokasi: Batam, Riau
@@ -3043,110 +3043,113 @@
   link: /hibah/336
   
 - nomor: '337'
-  judul: 
+  judul: Cari Kamar dan Dokter 24 Jam
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi bergerak (mobile apps) ini bertujuan untuk membantu warga/publik untuk mencari lokasi dan menemukan informasi yang berkaitan dengan :
+       1. Ketersediaan kamar rawat inap di rumah sakit umum dan rumah sakit bersalin/ibu dan anak, maupun di Puskesmas terdekat di wilayah Bogor yang diperbarui (update) setiap hari.
+       2. Peta digital yang memberi lokasi Unit Gawat Darurat, dokter jaga 24 jam, dan praktik dokter spesialis terdekat di wilayah Bogor.
+       Aplikasi ini kelak akan dikembangkan agar dapat di-install pada sistem Android.
+  lokasi: Bogor, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/337.jpg
   link: /hibah/337
   
 - nomor: '338'
-  judul: 
+  judul: Gunung Mas Ayun Itah* (Dayak: Gunung Mas Milik Kita Bersama)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Memberdayakan masyarakat menuju pembangunan berkelanjutan dengan memperkuat tata kelola di tingkat pemerintah dan masyarakat. Yayasan Tambuhak Sinta bekerja di 22 desa terpencil di sepanjang jalur sungai Kahayan di Kalimantan Tengah. Kami memfasilitasi peningkatan keterampilan kelompok masyarakat di bidang mata pencaharian agar bisa meningkatkan ekonomi dan pasar. Di tingkat pemerintah, Yayasan Tambuhak Sinta bekerja sama dengan pemerintah kabupaten, terutama BAPPEDA untuk membantu transparansi dan pelaksanaan penganggaran dan perencanaan agar program yang dirancang tepat sasaran, serta memfasilitasi masyarakat agar mampu menyuarakan aspirasi melalui perencanaan Musrenbang.
+  lokasi: Palangkaraya, Kalimantan Tengah
+  tipe: konten
   gambar: /static/img/hibah/338.jpg
   link: /hibah/338
   
 - nomor: '339'
-  judul: 
+  judul: Pulsa Sampah Selotopeng
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pulsa Sampah Selotopeng berusaha menyelesaikan dua masalah sekaligus, yaitu edukasi pengelolaan sampah pada masyarakat kota Kediri dan pemenuhan kebutuhan pulsa ponsel untuk komunikasi yang terus meningkat.
+  lokasi: Kediri, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/339.jpg
   link: /hibah/339
   
 - nomor: '340'
-  judul: 
+  judul: Aplikasi E-Learning Untuk para Peneliti dan Civitas Akademisi Berbasis Seluler. (Mobile Apps E-Ducation)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       E-Ducation adalah sebuah aplikasi berbasis mobile yang dikhususkan untuk proses belajar mengajar antara pelajar dan pendidik, namun lebih dikhususkan untuk para akademisi dan peneliti atau pendidikan tinggi, tapi tidak menutup kemungkinan jika akan digunakan untuk keperluan pendidikan tingkat menengah. Di dalam aplikasi ini terdapat beberapa fitur untuk menunjang proses proses tersebut, diantaranya adalah fitur dalam beranda utama yang menyediakan update info tentang tugas-tugas yang diberikan oleh pendidik, update info mengenai jurnal-jurnal penelitian yang terbit (untuk pengindeks jurnal yang di subscribe) dan update info mengenai komunitas yang beranggotakan para pelajar, pendidik, peneliti dari seluruh indonesia bahkan seluruh dunia, dan beberapa fitur utama lainnya.
+  lokasi: Jember, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/340.jpg
   link: /hibah/340
   
 - nomor: '341'
-  judul: 
+  judul: SMS Program Pertanian: Informasi Program Bantuan Pertanian dengan SMS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan menyediakan informasi bagi petani di pedesaan mengenai program bantuan di bidang pertanian, baik yang berasal dari pemerintah pusat, pemerintah propinsi, pemerintah kabupaten maupun lembaga-lembaga non pemerintahan. Informasi tersebut diharapkan dapat berguna bagi petani agar mereka dapat mengakses dan memanfaatkan program-program bantuan pertanian yang jadi hak mereka.
+  lokasi: Bandung, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/341.jpg
   link: /hibah/341
   
 - nomor: '342'
-  judul: 
+  judul: Meningkatkan Motivasi Kelompok Tani Melalui Jaringan SMS dengan Informormasi yang Edukatif
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Banyaknya kelompok tani yang telah mendapatkan bantuan dari pemerintah namun hingga saat ini belum banyak terlihat adanya kemajuan dari apa yang diharapkan adanya pemberdayaan. Ratusan milyar dalam rangka memberdayakan kelompok tani namun justru hasilnya mengindikasi berlawan dari harapan awal dimana petani sekarang justru terlihat sebagai kelompok yang "manja" dan ingin selalu mengharapkan bantuan (motivasi dan selfesteem rendah). Selain itu banyak kasus – kasus terjadi dari pemberian bantuan yang dilakukan oleh pemerintah tersebut dimana justru dana-dana tersebut tidak sepenuhnya sampai ke petani. Hal ini mengindikasikan adanya sesuatu yang tidak beres baik dari system yang ada maupun karakter petani sekarang.
+  lokasi:  Bekasi, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/342.jpg
   link: /hibah/342
   
 - nomor: '343'
-  judul: 
+  judul: e-Forest Product
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pengelolaan hutan berbasis masyarakat di NTB telah berhasil meningkatkan fungsi ekologis kawasan hutan. Beberapa mata air yang dulu kering kini muncul kembali. Keanekaragaman hayati pun mulai meningkat. Tidak hanya itu, lebatnya hutan juga membawa keuntungan ekonomis bagi pemegang ijin kelola. Hasil hutan bukan kayu turut mendongkrak pendapatan petani. Tanpa harus menebang hutan, mereka dapat menikmati buah, biji atau daun produk hutan bernilai ekinomis tinggi. Kakao, kopi, kemiri, alpukat dan sirih beberapa di antaranya. Keuntungan ekonomis ini merupakan insentif kuat melestarikan hutan.
+  lokasi:  Mataram, Nusa Tenggara Barat
+  tipe: konten
   gambar: /static/img/hibah/343.jpg
   link: /hibah/343
   
 - nomor: '344'
-  judul: 
+  judul: Proyek Energy Saver
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi Energy Saver ini merupakan integrasi antara server, hardware, dan aplikasi mobile untuk mengelola penggunaan listrik. Hardware akan dipasang di rumah atau gedung, kemudian dihubungkan ke server melalui internet dan terhubung ke aplikasi mobile. Melalui aplikasi mobile, user dapat memantau penggunaan listrik, sistem akan mengirimkan notifikasi ke HP jika penggunaan berlebih. Selain itu user bisa mengendalikan (mematikan/menghidupkan) alat eletronik dalam rumah
+  lokasi: Bandung, Jawa Barat
+  tipe: hardware
   gambar: /static/img/hibah/344.jpg
   link: /hibah/344
   
 - nomor: '345'
-  judul: 
+  judul: Si – Terakota (Komunikasi Terbuka Kota Hijau)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ruang Terbuka Hijau (RTH) merupakan area dengan penggunaan terbuka, yang diperuntukan sebagai tempat tumbuh tanaman, baik tumbuh secara alami, atau pun yang ditanam secara sengaja. RTH seharusnya menjadi tanggung jawab bersama, baik pemerintah maupun masyarakat, namun dalam pelaksanaannya di kota Malang, RTH adalah tanggung jawab pemerintah sepenuhnya.
+  lokasi: Pasuruan, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/345.jpg
   link: /hibah/345
   
 - nomor: '346'
-  judul: 
+  judul: Informasi untuk Mitigasi Bencana
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Menyediakan informasi mitigasi bencana di Malang melalui website yang bisa diakses melalui telepon seluler. Informasi berupa foto, teks, dan video. Informasi berasal dari BMKG, PVMBG, jurnalis anggota AJI Malang dan masyarakat yang tinggal di daerah rawan bencana. Komunitas di daerah rawan bencana digerakkan menjadi jurnalis warga. Warga yang memberikan Infomasi bakal diverifikasi datanya agar informasi yang disediakan terjaga akurasinya.
+  lokasi: Malang, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/346.jpg
   link: /hibah/346
   
 - nomor: '347'
-  judul: 
+  judul: Sehat Ideal
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Menjadi lebih sehat dan mendapatkan badan yang ideal, hanya dalam 60 hari.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/347.jpg
   link: /hibah/347
   
 - nomor: '348'
-  judul: 
+  judul: Sms busy
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       software mobile berbasis android dimana software ini berfungsi menjawab panggilan telpon atau sms yang masuk secara otomatis sesuai mode yang ditentukan, Sehingga pengguna yang sedang sibuk dapat bekerja dengan tenang dan pemanggil atau orang yang mengirimkan pesan mengetahui kegiatan yang sedang pengguna lakukan
+  lokasi: -
+  tipe: software
   gambar: /static/img/hibah/348.jpg
   link: /hibah/348
   
@@ -3332,13 +3335,5 @@
   tipe: software
   gambar: /static/img/hibah/368.jpg
   link: /hibah/368
-  
-- nomor: '369'
-  judul: 
-  deskripsi: |
-       
-  lokasi: 
-  tipe:
-  gambar: /static/img/hibah/369.jpg
-  link: /hibah/369
+
 
