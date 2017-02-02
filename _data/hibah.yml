@@ -540,7 +540,7 @@
   link: /hibah/059
 
 - nomor: '060'
-  judul: Sibarelang: Sahabat Ibu Mencetak Generasi Cemerlang
+  judul: Sibarelang - Sahabat Ibu Mencetak Generasi Cemerlang
   deskripsi: |
        Sistem perangkat lunak berbasis SMS sebagai media edukasi bagi ibu-ibu, terutama ibu hamil, mengenai pentingnya peran ibu dalam menjaga tumbuh kembang anak semenjak masih dalam kandungan.
   lokasi: Batam, Riau
@@ -3055,7 +3055,7 @@
   link: /hibah/337
   
 - nomor: '338'
-  judul: Gunung Mas Ayun Itah* (Dayak: Gunung Mas Milik Kita Bersama)
+  judul: Gunung Mas Ayun Itah* (Dayak - Gunung Mas Milik Kita Bersama)
   deskripsi: |
        Memberdayakan masyarakat menuju pembangunan berkelanjutan dengan memperkuat tata kelola di tingkat pemerintah dan masyarakat. Yayasan Tambuhak Sinta bekerja di 22 desa terpencil di sepanjang jalur sungai Kahayan di Kalimantan Tengah. Kami memfasilitasi peningkatan keterampilan kelompok masyarakat di bidang mata pencaharian agar bisa meningkatkan ekonomi dan pasar. Di tingkat pemerintah, Yayasan Tambuhak Sinta bekerja sama dengan pemerintah kabupaten, terutama BAPPEDA untuk membantu transparansi dan pelaksanaan penganggaran dan perencanaan agar program yang dirancang tepat sasaran, serta memfasilitasi masyarakat agar mampu menyuarakan aspirasi melalui perencanaan Musrenbang.
   lokasi: Palangkaraya, Kalimantan Tengah
@@ -3082,7 +3082,7 @@
   link: /hibah/340
   
 - nomor: '341'
-  judul: SMS Program Pertanian: Informasi Program Bantuan Pertanian dengan SMS
+  judul: SMS Program Pertanian - Informasi Program Bantuan Pertanian dengan SMS
   deskripsi: |
        Proyek ini bertujuan menyediakan informasi bagi petani di pedesaan mengenai program bantuan di bidang pertanian, baik yang berasal dari pemerintah pusat, pemerintah propinsi, pemerintah kabupaten maupun lembaga-lembaga non pemerintahan. Informasi tersebut diharapkan dapat berguna bagi petani agar mereka dapat mengakses dan memanfaatkan program-program bantuan pertanian yang jadi hak mereka.
   lokasi: Bandung, Jawa Barat
@@ -3148,7 +3148,7 @@
   judul: Sms busy
   deskripsi: |
        software mobile berbasis android dimana software ini berfungsi menjawab panggilan telpon atau sms yang masuk secara otomatis sesuai mode yang ditentukan, Sehingga pengguna yang sedang sibuk dapat bekerja dengan tenang dan pemanggil atau orang yang mengirimkan pesan mengetahui kegiatan yang sedang pengguna lakukan
-  lokasi: -
+  lokasi:
   tipe: software
   gambar: /static/img/hibah/348.jpg
   link: /hibah/348
