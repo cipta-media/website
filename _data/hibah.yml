@@ -833,7 +833,7 @@
   link: /hibah/091
 
 - nomor: '092'
-  judul: Ganti Jakarta: Mobile Apps, Comics, & Infographic for Change
+  judul: Ganti Jakarta Mobile Apps, Comics, & Infographic for Change
   deskripsi: |
        Mobile apps ini memungkinkan pengguna berbagi, mengupdate gambar-gambar baru, bahkan mengedit dan berinteraksi dengan pengguna lainnya. Sementara bukunya kami maksudkan agar penggunanya bisa mengakses, memfoto, dan menyebarkan foto gambar yang ada di buku tersebut melalui gadget yang mereka miliki. Sehingga pesan perubahan Jakarta semakin cepat dengan campur tangan mobile phone dan situs yang semakin ringan diakses dengan dibuatkan versi mobile webnya,.
   lokasi: Buaran, Jakarta Timur
@@ -1059,1325 +1059,1360 @@
   link: /hibah/116
 
 - nomor: '117'
-  judul: 
+  judul: Pendidikan Kesehatan Reproduksi dan Seksualitas Untuk Perempuan Muda
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pada umumnya perempuan-perempuan muda belum terpapar secara jelas pengetahuan tentang kesehatan reproduksi dan seksualitas. Pada usia ketika mereka dipenuhi oleh rasa ingin tahu yang tinggi, media massa dan media sosial tidak menyediakan pengetahuan yang benar bagi mereka, sementara sekolah-sekolah pun masih terperangkap pada sikap "tabu" untuk berbicara secara terbuka dan jelas tentang kesehatan reproduksi dan seksualitas yang benar. Sementara itu perempuan muda pengguna celuler juga belum menjadi pengguna media yg aktif memanfaatkan celuler bagi peningkatan pengetahuan dan penguatan kapasitasnya untuk melindungi tubuhnya sendiri. Maka konten mengenai kesehatan reproduksi dan seksualitas sudah waktunya menjadi bagian dari pengetahuan sehari-hari perempuan muda untuk melindungi mereka dari maraknya kekerasan seksual di tengah keluarga sendiri dan masyarakat.
+  lokasi: Ciputat Timur, Tangerang Selatan 
+  tipe: konten
   gambar: /static/img/hibah/117.jpg
   link: /hibah/117
 
 - nomor: '118'
-  judul: 
+  judul: Menghitung Karbon di Hutan dengan SMS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Penghitungan serapan karbon oleh pohon/tumbuhan dilakukan dengan cara mensensus pohon/tumbuhan yang telah ditanam oleh anggota Sistem Hutan Kerakyatan (SHK) Lestari di lahan yang mereka kelola dalam Taman Hutan Raya Wan Abdul Rachman (Tahura WAR). Sensus pohon/tumbuhan ini dilakukan dengan mengolah SMS yang dikirimkan anggota SHK Lestari berkait dengan pohon/tumbuhan yang mereka kelola. Data sensus pohon/tumbuhan yang dikirimkan anggota SHK Lestari melalui SMS kemudian diolah oleh komputer server menggunakan persamaan alometrik biomassa dan karbon. Sementara SMS yang masuk akan dikelola menggunakan perangkat lunak yang dikembangkan oleh komunitas MK-160
+  lokasi: Tanjung Karang, Lampung 
+  tipe: konten
   gambar: /static/img/hibah/118.jpg
   link: /hibah/118
 
 - nomor: '119'
-  judul: 
+  judul: Internet Untuk Masyarakat Sukabumi Selatan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Internet untuk masyakat adalah dimana masyarakat tidak perlu lagi bingung bagaimana mendapatkan internet dengan adanya proyek ini diharapkan masyarakat yang ada di area sukabumi selatan meliputi beberapa kecamatan diantara Jampangkulon - Cimanggu - Waluran - Surade - Tamanjaya Tidak lagi terhalang oleh kondisi area yang luas untuk mendapatka pasilitas internet.
+  lokasi: Jampang Kulon, Sukabumi 
+  tipe: hardware
   gambar: /static/img/hibah/119.jpg
   link: /hibah/119
 
 - nomor: '120'
-  judul: 
+  judul: Cerita Rakyat Nusantara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini akan mencakup tentang cerita - cerita rakyat di Indonesia. Aplikasi ini akan menampilkan gambar dan teks yang menceritakan tentang cerita rakyat di Indonesia. aplikasi ini dibangun untuk smartphone dengan Operating System Android, iOS, blackberry OS, Windows Phone.
+  lokasi: Kabupaten Banyuasin, Sumatera Selatan 
+  tipe: konten
   gambar: /static/img/hibah/120.jpg
   link: /hibah/120
 
 - nomor: '121'
-  judul: 
+  judul: Pengadaan Pusat Training Wireless Cellular Network berbasis OpenBTS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pusat Training Wireless Cellular Network OpenBTS adalah kegiatan untuk membuat pusat pelatihan jaringan seluler (wireless cellular network) yang berbasis opensource sehingga masyarakat dapat membuat dan mengembangkan sendiri jaringan selular yang sesuai karateristik dan kondisi di Indonesia berdasarkan pengetahuan yang dipelajari. Kegiatan ini meliputi pengembangan konten materi training, sertifikasi, pelatihan dan pengembangan perangkat lunak dan perangkat keras wireless celullar network. Melalui kegiatan ini diharapkan penetrasi jaringan seluler ke daerah-daerah dan pedalaman dapat lebih cepat karena adanya sumber daya manusia yang bisa mengoperasikan, mengembangkan dan membuat sendiri jaringan seluler yang sesuai dengan kondisi geografis di Indonesia.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/121.jpg
   link: /hibah/121
 
 - nomor: '122'
-  judul: 
+  judul: Sentra Informasi Pariwisata Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ide awal project ini muncul sebagai usaha menciptakan CENTRAL INFORMASI TERINTEGRASI, dengan tujuan demi mempermudah memperoleh informasi terkini (update information) tentang tempat-tempat pariwisata, serta memberikan kesempatan terciptanya hubungan -pertemanan- antartraveler yang lebih baik. Dengan melibatkan peran aktif semua lapisan masyarakat, utamanya masyarakat traveler, harapannya akan timbul efek yang bermanfaat bagi semua pihak. Antara lain; bisa mengunjungi semakin banyak wilayah di Indonesia, bisa lebih mudah membuat perkiraan anggaran yang dibutuhkan, dan tentu saja bisa mendapatkan “travel tips” yang sangat tepat, lantaran disampaikan oleh seseorang -teman traveler- yang memang bermukim di daerah tujuan kunjungan. 
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/122.jpg
   link: /hibah/122
 
 - nomor: '123'
-  judul: 
+  judul: JoeL Mobile (Joyful e-Learning mobile)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       1. membangun database utama dan LMS berbasis web (agar bisa diakses dengan perangkat seluler pada multiplatform)
+       2. mempersiapkan content (materi pelajaran - soal ujian - dll)
+       3. membangun aplikasi berbasis mobile dengan salah satu platform (menyediakan fitur-fitur khusus/shortcut yang berbeda dengan dekstop model)
+       4. Uji coba
+       5. Mempersiapkan perangkat/bahan untuk publikasi dan sosialisasi (poster - sosial media)
+       6. bila memungkinkan memberikan perangkat seluler ke sekolah untuk dapat mengakses aplikasi (jika sekolah tidak mampu - untuk pemerataan pengenalan teknologi - pemerataan kesempatan belajar)
+       7. melakukan kontak dan kerjasama dengan pihak terkait
+  lokasi: Surabaya, Jawa Tmur
+  tipe: software
   gambar: /static/img/hibah/123.jpg
   link: /hibah/123
 
 - nomor: '124'
-  judul: 
+  judul: Solidaritas.net Media Center
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Solidaritas.net Media Center adalah pusat kegiatan produksi dan penyebarluasan konten, konsultasi, pendidikan serta advokasi perburuhan dengan memanfaatkan media seluler yang saat ini menjadi alat komunikasi yang digunakan oleh buruh. Proyek ini bertujuan meningkatkan pengetahuan dan kapasitas buruh dalam mengadvokasi dirinya sendiri sehingga mereka dapat menjadi aktor utama untuk memperjuangkan kepentingan kelompoknya sendiri. Konten yang terdapat dalam situs ini berupa teks, gambar dan video. Selain itu, ada juga saluran video daring (online) mengenai informasi perburuhan dalam bentuk berita, talk show (bincang-bincang), diskusi, film dokumenter dan feature yang bisa diakses di situs solidaritas.net serta Youtube.
+  lokasi: Cikarang, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/124.jpg
   link: /hibah/124
 
 - nomor: '125'
-  judul: 
+  judul: Akses Informasi Ketenagakerjaan Bagi Pekerja Rumah Tangga
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       PRT (Pekerja Rumah Tangga) adalah kelompok yang rentan terhadap tindak kekerasan, diskriminasi dan ketidakadilan karena keterbatasan terhadap akses informasi. Situasi dan kondisi kerja PRT di Indonesia tidak jelas karena belum ada peraturan atau UU yang menjadi rujukan perlindungan PRT dan tidak adanya pengakuan sebagai pekerja seperti pekerja formal lainnya. Sampai saat ini, belum ada lembaga resmi yang dapat menyediakan informasi dan menerima keluhan terkait isu ketenagakerjaan bagi para PRT. Meski standar ketenagakerjaan Internasional PRT telah diadopsi sebagai Konvensi (ILO No. 189 tentang kerja layak bagi PRT) pada Juni 2011, Pemerintah Indonesia masih belum meratifikasi konvensi tersebut atau menyusun UU/peraturan-nya, karenanya informasi tentang kerja layak termasuk norma kerja bagi PRT di Indonesia masih sangat terbatas.
+  lokasi: Jember, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/125.jpg
   link: /hibah/125
 
 - nomor: '126'
-  judul: 
+  judul: Manajemen Data dan Informasi Kesehatan Berbasis Masyarakat dan Posyandu 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini dibuat dan dikembangkan untuk mendukung sistem manajemen pelaporan dan updating data kesehatan dari Posyandu ke Dinas Kesehatan. Serta sebagai upaya dalam rangka penyampaian informasi kesehatan mengenai kemungkinan keadaan darurat seperti wabah maupun penginformasian tentang produk-produk berbahaya (makanan, kosmetik, obat) belum dilakukan dengan baik dari Dinas Kesehatan kepada warga
+  lokasi: Klaten, Jawa Tengah 
+  tipe: software
   gambar: /static/img/hibah/126.jpg
   link: /hibah/126
 
 - nomor: '127'
-  judul: 
+  judul: Bayi Sehat
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kebanyakan orang tua sering bingung dan kekurangan informasi mengenai perkembangan bayi mereka. Mulai dari tanda-tanda pekembangan bayi, perkembangan fisiologi, serta jadwal imunisasi. Para orang tua akan selalu di ingatkan mengenai jadwal imunisasi, tanda-tanda perbekembangan bayi, tindakan yang harus dilakukan.
+  lokasi: Riau 
+  tipe: software
   gambar: /static/img/hibah/127.jpg
   link: /hibah/127
 
 - nomor: '128'
-  judul: 
+  judul: Portal Edukasi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       BelajarKelompok.Com adalah proyek pengembangan konten edukasi online. Konten edukasi online yang diutamakan saat ini adalah materi pelajaran SD, SMP, dan SMA. Konten yang dihadirkan di BelajarKelompok.Com ditujukan untuk kemudahan akses materi sekolah & latihan soal yang sangat lengkap. Proyek ini juga ingin menjadikan jembatan antara akademisi kampus - pelajar - masyarakat , agar mengalir semangat inovasi teknologi
+  lokasi: Jakarta Timur
+  tipe: konten
   gambar: /static/img/hibah/128.jpg
   link: /hibah/128
 
 - nomor: '129'
-  judul: 
+  judul: Nanny App
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi Monitoring sekaligus pemberian Hak Akses pada Perangkat Mobile ... di khususkan untuk Perangkat Mobile yang sering di pakai oleh anak di fungsikan untuk mencegah anak membuka situs dewasa , memainkan game berkonten dewasa seperti game porno atau berdarah darah dan mencegah hak akses lainnya. Perangkat Mobile bisa saja di pakai oleh temannya si anak atau oleh sodara yang lebih dewasa tanpa se-pengawasan kita.
+  lokasi: Tangerang, Banten 
+  tipe: software
   gambar: /static/img/hibah/129.jpg
   link: /hibah/129
 
 - nomor: '130'
-  judul: 
+  judul: Mengenal Hak-hak Konstitusional Buruh Dari Internet Phone
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Rendahnya pengetahuan kaum pekerja/buruh atas hak-hak konstitusionalnya yang telah dijamin dalam UUD 1945, yaitu diantaranya adalah hak kepastian bekerja, upah layak, kebebasan berserikat dan jaminan sosial, merupakan keprihatinan. Mengingat hal tersebut adalah hak dasar pekerja/buruh yang merupakan bagian dari rakyat Indonesia, dengan jumlah buruh sebanyak lebih dari 40 juta pekerja/buruh formal yang bekerja di perusahaan negara dan swasta. Melalui Internet Phone yang diaplikasikan lewat software di handphone, tentu akan semakin memudahkan pekerja/buruh mengetahui hak-hak dasarnya.
+  lokasi: Cibinong, Bogor 
+  tipe: software
   gambar: /static/img/hibah/130.jpg
   link: /hibah/130
 
 - nomor: '131'
-  judul: 
+  judul: "Proposal  E-banking Bank Sampah Sukunan Gamping, Yogyakarta "
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sampah yang dianggap menganggu, justru menjadi pintu rejeki untuk masyarakat Sukunan. Sampah disulap untuk dijual kembali sehingga mendapatkan uang. Atau jika sampah anorganik, maka akan diolah menjadi benda kerajinan. Hasil penjualan sampah itu akan dibukukan dalam buku tabungan. Seiring berjalannya waktu, tabungan itu digunakan untuk memenuhi kebutuhan mendadak warganya. Tahun 2014 ini, BPJS ditetapkan dan diharapkan bisa mengakomodir kebutuhan seluruh warga Indonesia dalam mengakses layanan kesehatan. Ide e-banking bank sampah Sukunan muncul untuk memudahkan warga Sukunan untuk membayar premi BPJS yang wajib dibayar anggota BPJS per bulan. Harapannya, e-banking ini akan memudahkan warga Sukunan untuk memahami dengan jelas BPJS, fungsi BPJS dan terkait layanan kesehatan yang dapat diakses melalui BPJS tersebut.
+  lokasi: Klaten, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/131.jpg
   link: /hibah/131
 
 - nomor: '132'
-  judul: 
+  judul: Sistem Informasi Desa Terpadu (SISDESTAR)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem Informasi Desa Terpadu (SISDESTAR) adalah aplikasi berbasis web dan seluler. Yang di harapkan mampu menjadi pionir dalam penyebaran Informasi/konten lokal, yang selama ini belum tergali ataupun terekspose secara maksimal. Sehingga akan menciptakan masyarakat yang terbuka, informatif dan lebih komunikatif. Saat ini aplikasi yang berbasis web telah diterapkan di beberapa Desa (Pilot Project) di Kabupaten Pangandaran. Dan untuk aplikasi berbasis seluler sendiri sedang kami usahakan dalam hal ini kami bermaksud menggunakan Dana Hibah dari Cipta Media Seluler untuk perealisasiannya. Jika aplikasi seluler ini bisa terealisasi, sangat mungkin untuk di duplikasi/direkayasa untuk di terapkan di Desa-desa lain di Indonesia yang berjumlah 72.000 Desa
+  lokasi: Pangandaran, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/132.jpg
   link: /hibah/132
 
 - nomor: '133'
-  judul: 
+  judul: Ndeso Interconnected
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem informasi desa terintegrasi berbasis sms gateway. Penyebaran informasi umum maupun khusus kepada warga desa secara terpusat melalui teknologi seluler.
+  lokasi: Klaten, Jawa Tengah 
+  tipe: software
   gambar: /static/img/hibah/133.jpg
   link: /hibah/133
 
 - nomor: '134'
-  judul: 
+  judul: Bilingual E-Learning for Fun
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini berisi konten untuk belajar dua bahasa yaitu Bahasa Indonesia dan Bahasa Inggris, terdiri atas pilihan pengaturan pembelajaran, berupa mengenal abjad, abjad dalam kata, abjad dalam kalimat, dll. Proyek ini diperuntukkan bagi adik-adik kita yang berada di taman kanak-kanak dan SD tingkat awal. Dengan berkembangnya teknologi sekarang ini, bukan hal yang sulit bagi adik-adik kita untuk menggunakan seluler, sehingga untuk memaksimalkan penggunaan seluler untuk adik-adik kita, maka harus ada konten yang bersifat edukasi tapi tidak membosankan.
+  lokasi: Nganjuk, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/134.jpg
   link: /hibah/134
 
 - nomor: '135'
-  judul: 
+  judul: in3Donesia Platform Rekonstruksi dan Visualisasi Objek 3D dengan Kamera Selular.
   deskripsi: |
-       
-  lokasi: 
-  tipe:
-  gambar: /static/img/hibah/135.jpg
-  link: /hibah/135
-
-- nomor: '135'
-  judul: 
-  deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek inovatif ini menawarkan satu metode yang mampu melakukan rekonstruksi 3D dengan menggunakan berbagai ragam kamera telepon seluler. Projek ini ditujukan untuk rekonstruksi model 3D dari berbagai macam objek, terutama situs arkeologis bernilai sejarah (candi, tempat ibadah kuno, monumen ...), bentang alam (lembah, ngarai, pegunungan, goa, luweng ...) maupun objek pariwisata dan situs-situs lainnya.
+  lokasi: Temanggung, Jawa Tengah 
+  tipe: software
   gambar: /static/img/hibah/135.jpg
   link: /hibah/135
 
 - nomor: '136'
-  judul: 
+  judul: Mobile Pantau Kebebasan Beragama dan Berkeyakinan (m-Pantau KBB)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       m-Pantau Kebebasan Beragama dan Berkeyakinan (m-Pantau KBB) adalah program pemantauan kasus-kasus kebebasan beragama dan berkeyakinan (KBB) di Indonesia dengan media telepon seluler. Jaringan pemantau yang berada di 34 provinsi akan melaporkan kasus-kasus KBB yang terjadi di daerah secara aktual melalui telepon seluler, baik melalui SMS gateway maupun internet. Selain pemantau, masyarakat umum juga dapat melaporkan kasus-kasus atau kemajuan dalam isu KBB yang terjadi. Hasil pemantauan dari masyarakat umum akan diverifikasi kesahihannya oleh pemantau m-Pantau KBB di daerah. Hasil pemantauan yang dikirim melalui SMS gateway kemudian diunggah ke situs m-Pantau KBB. Hasil pemantauan, pelaporan bulanan dan tahunan akan disebarkan melalui SMS gateway, situs web dan akun media sosial Wahid Institute.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/136.jpg
   link: /hibah/136
 
 - nomor: '137'
-  judul: 
+  judul: IASUBE (Ibu Aku Suka Belajar)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       IASUBE adalah sebuah aplikasi untuk mengintegrasikan antara Orang Tua, Guru dan Anak dengan menggunakan Multi Agent System. IASUBE singkatan dari “Ibu Aku Suka Belajar”. Aplikasi ini akan memudahkan guru dalam monitoring perkembangan belajar siswa dalam mengerjakan tugas yang diberikan di kelas. Bagi orang tua aplikasi ini sangat membantu untuk mengingatkan dan mengetahui tugas-tugas yang diberikan guru di sekolah, sehingga perhatian terhadap belajar anak dapat meningkat. Bagi siswa aplikasi ini menjadi alarm dan mengetahui daftar tugas sekolah yang diberikan guru di sekolah, sehingga tugas dapat diselesaikan tepat waktu. Orang tua dan Guru dapat terhubung dalam memantau proses belajar anak tanpa harus bertemu secara langsung. Dengan aplikasi ini diharapkan dapat meningkatkan prestasi belajar siswa dan perhatian orang tua terhadap belajar anak serta terciptanya hubungan yang lebih baik antara orang tua dan guru dalam meningkatkan prestasi belajar siswa.
+  lokasi: Mojokerto, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/137.jpg
   link: /hibah/137
 
 - nomor: '138'
-  judul: 
+  judul: Kampanye "Frekuensi Milik Publik"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Remotivi (sebelumnya Lapor KPI) adalah proyek yang ingin menciptakan sebuah aplikasi di ponsel untuk mengadukan tayangan TV ke Komisi Penyiaran Indonesia (KPI). Aplikasi yang akan melibatkan KPI dalam pembuatannya ini diharapkan mampu mendorong publik untuk membuat aduan dan mempermudah mekanisme pengaduan. Dalam memasukkan aduannya, pengguna akan disodorkan sebuah formulir yang mudah dikerjakan tapi sekaligus dirancang untuk mengasah kepekaan atau kesadaran (rasionalisasi) protes atau kritiknya. Untuk merangsang minat dan partisipasi publik untuk mengadukan tayangan TV maka aplikasi ini akan mengirimkan informasi dan fakta secara rutin yang berupa trivia, karya visual, artikel dan laporan perkembangan pengaduan.
+  lokasi: Petojo Utara, Jakarta Pusat
+  tipe: konten
   gambar: /static/img/hibah/138.jpg
   link: /hibah/138
 
 - nomor: '139'
-  judul: 
+  judul: Agrindo Inovation Media
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ide dasar dari proyek ini adalah tentang sebuah usaha untuk menyatukan mata rantai perekonomian dalam bidang pertanian dalam bentuk konten-konten infromasi yang dibutuhkan. Dimana ada 3 kelompok besar yang harus saling terhubung yaitu kelompok petani, kelompok produsen(pengrajin makanan) dan pedagang dan masyarakat umum sebagai konsumen. Dengan terhubungnya rantai ekonomi tersebut diharapkan tercipta ketahanan pangan dan peningkatan ekonomi masyarakat secara keseluruhan.
+  lokasi: Sampit, Kalimantan Tengah 
+  tipe: konten
   gambar: /static/img/hibah/139.jpg
   link: /hibah/139
 
 - nomor: '140'
-  judul: 
+  judul: Local Weather Tracking
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pada proyek ini saya bersama team akan menciptakan alat instrumen yang dapat memberikan data tentang perubahan cuaca, apakah cuaca itu berawan, cenderung hujan atau mungkin hujan.
+  lokasi: Samarinda, Kalimantan Timur 
+  tipe: software
   gambar: /static/img/hibah/140.jpg
   link: /hibah/140
 
 - nomor: '141'
-  judul: 
+  judul: Suara Korban
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini adalah upaya untuak memfasilitasi korban-korban kekerasan dan pelanggaran HAM untuk merancang dan memproduksi digital storytelling yang dapat diakses secara luas oleh publik melalui aplikasi internet dan ponsel (smartpohone).
+  lokasi: Jombang, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/141.jpg
   link: /hibah/141
 
 - nomor: '142'
-  judul: 
+  judul: GPS Ponsel sebagai Alat Bantu Penentuan Lokasi dan Jarak
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aktivitas yang saya gunakan saat ini yaitu pemanfaatan fasilitas yang dimiliki oleh perangkat GPS pada sebuah ponsel. koordinat yang di kirim oleh ponsel kemudian disimpan kedalam database yang nantinya akan saya jadikan sebagai titik acuan untuk menentukan sebuah jarak terpendek menuju koordinat tujuan (lokasi yang tercatat pada database). Menurut saya fasilitas GPS belum di optimalkan sebaik mungkin, mungkin dengan adanya sebuah piranti perangkat lunak baru, mampu mengoptimalkan fasilitas yang ada pada ponsel.
+  lokasi: Gambir Baru Kisaran, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/142.jpg
   link: /hibah/142
 
 - nomor: '143'
-  judul: 
+  judul:  Tell Samahita
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       TELL SAMAHITA adalah aplikasi smartphone yang dibuat sebagai sarana untuk mereka para korban pelecehan seksual dan kekerasan mengungkapkan apa yang dialaminya. TELL SAMAHITA menjadi sangat penting bagi korban pelecehan seksual dan kekerasan, karena tidak semua korban berani untuk mengungkapkan apa yang dialaminya. cara kerja TELL SAMAHITA adalah dengan menyediakan sarana bercerita (tanpa perlu menyebutkan nama) dan sarana penguhubung bagi para korban dengan bantuan yang mereka butuhkan, baik itu berupa teman bercerita, bantuan hukum, dan pendampingan trauma.
+  lokasi: Bandung, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/143.jpg
   link: /hibah/143
 
 - nomor: '144'
-  judul: 
+  judul: Market Tani
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Penyedia konten model pemasaran produk pertanian berbasis agribisnis
+  lokasi: Banjarmasin, Kalimantan Selatan 
+  tipe: konten
   gambar: /static/img/hibah/144.jpg
   link: /hibah/144
 
 - nomor: '145'
-  judul: 
+  judul: Political Education And Critical Empowerment for Women "PEACE for Women"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Political Education And Critical Empowerment for Women "PEACE for Women" adalah sebuah program untuk meningkatkan daya kritis perempuan dan membuka akses politik perempuan berbasis komunitas di 3 kabupaten/kota di Solo Raya (Kota Solo, Kabupaten Sragen, dan Kabupaten Klaten). Melalui program ini, perempuan akan memperoleh edukasi melalui berbagai kegiatan berbasis Teknologi Informasi dan Komunikasi (TIK).Hal ini cukup penting karena berdasarkan penggalian tim di beberapa kelompok di lokasi yang diusulkan keterlibatan perempuan dalam perencanaan, penganggaran, dan pembuatan kebijakan di tingkat desa sangatlah minim, bahkan di beberapa tempat nyaris tidak ada. 
+  lokasi: Sukaharjo, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/145.jpg
   link: /hibah/145
 
 - nomor: '146'
-  judul: 
+  judul: e-ISME (Indonesia Small Medium Enterprise)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       e-ISME adalah bentuk komunikasi dan informasi antar sentra bahan baku dengan sentra produksi untuk masuk ke dalam sistem pemasaran online. Dua sentra ini dibangun dalam satu aplikasi ber-platform Android atau Blackberry. Sebagai pilot project akan dilakukan di 5 wilayah: Sentra Tenun Songket Batubara (Sumut), Sentra Rajut Binong Jati (Jabar), Pasar Komoditas Tanah Tinggi (Banten), Sentra Batu Martapura (Kalsel), Sentra Tenun Sengkang (SulSel).
+  lokasi: Parung-Bogor, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/146.jpg
   link: /hibah/146
 
 - nomor: '147'
-  judul: 
+  judul: Passion of Mahasiswa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi yang menerapkan sistem pakar dengan menggunakan algoritma dan konsep psikologi/kepribadian, yang disesuaikan untuk Mahasiswa/Pelajar sehingga dapat digunakan sebagai sarana untuk:
+       1. Menemukan potensi diri.
+       2. Memaksimalkan kemampuan meski tidak pada bidangnya (salah jurusan).
+       3. Memberikan motivasi dan langkah-langkah pengembangan diri.
+       4. Menggunakan bakat yang dimiliki, dsb.
+  lokasi: Medan, Sumatera Utara 
+  tipe: software
   gambar: /static/img/hibah/147.jpg
   link: /hibah/147
 
 - nomor: '148'
-  judul: 
+  judul: Getok Tular Jurnalism
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebagai rangkain citizen Jurnalism melalui sms dari warga untuk naik melalui web atau sebaliknya. sbg jalur informasi dan komunikasi untuk masyarakat di lereng Kelud (Area Kab.Makang mulai kec.Pujon-Ngantang) pasca erupsi sbg media informasi antisipasi lahar dingin,antisipasi longsor, dan juga media informasi Agro dan Ternak. untuk masyarakat yg lebih komunikatif dan berwawasan luas
+  lokasi: Malang, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/148.jpg
   link: /hibah/148
 
 - nomor: '149'
-  judul: 
+  judul: IMOLEMS - Indonesian Mobile Learning Management System
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       IMOLEMS adalah inisiatif untuk mengembangkan aplikasi Mobile Learning Management System dengan pendekatan nuansa Indonesia dengan keberagaman budaya dan bahasa. Pada tahap awal akan dikembangkan berbasis akses teknologi internet dan khusus untuk memenuhi kebutuhan pembelajaran jarak jauh SMA/K. Namun seiring dengan proyeksi perkembangan konvergensi teknologi internet dengan teknologi TV Digital maka proyeksi jangka panjang akan dikembangkan menggunakan akses teknologi Digital Broadcasting.
+  lokasi: Semarang, Jawa Tengah 
+  tipe: software
   gambar: /static/img/hibah/149.jpg
   link: /hibah/149
 
 - nomor: '150'
-  judul: 
+  judul: SIHIND
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SIHIND adalah kependekan dari Sistem Informasi Hukum Internasional, Nasional, dan Daerah. Proyek yang digagas sejak tahun 2007 ini dirancang untuk menjadi mesin pencari yang dapat mengolah database peraturan perundang-undangan yang ada di seluruh wilayah Indonesia dan Internasional. Dalam perkembangan terakhir di tahun 2013, SIHIND sudah berhasil diterapkan dalam model SMS Gateway sederhana.
+  lokasi: Tasikmalaya, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/150.jpg
   link: /hibah/150
 
 - nomor: '151'
-  judul: 
+  judul: Ingat Indonesia [ID]
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kami ingin membuat mobile Apps yang berjalan di semua Platform khususnya Android, iOS, BlackBerry dan Windows Phone yang memberikan informasi tentang pengetahuan umum seputar kearifan local dan kebhinekaan INDONESIA, tidak berhenti di situ, INGAT INDONESIA juga akan mengeksplorasi ragam budaya dan Keanekaragaman Seni yang ada di Indonesia. Tentunya ada banyak materi yang akan di sampaikan sehingga INGAT INDONESIA akan di sampaikan per-episode. Misalkan INGAT INDONESIA episode Indonesia Ku, INGAT INONESIA akan mengupas pengetahuan umum tentang Indonesia, Sejarah Singkat, Propinsi, pusaka nasional, lagu nasional, dasar hukum, dll. INGAT INDONESIA episode BATIK, disini akan di jelaskan semua hal terkait Batik, mulai dari jenis, asal, bahan, cara pembuatan, dll. Begitu juga dengan INGAT INDONESIA edisi Adat Jawa, Adat Sunda, dll. Dikemas dengan konten yang menarik berisi teks, video, animasi, efek suara dan musik membuat INGAT INDONESIA mudah di pahami dan di mengerti oleh User.
+  lokasi: Rembang, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/151.jpg
   link: /hibah/151
 
 - nomor: '152'
-  judul: 
+  judul: Keliling Sumatera Utara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kota Medan adalah ibu kota provinsi Sumatera Utara, Indonesia. Kota ini merupakan kota terbesar ketiga di Indonesia setelah Jakarta dan Surabaya. Walaupun kota terbesar ketiga di indonesia, tetapi medan memiliki tempat wisata yang nyaman dan kuliner yang lezat dan nikmat yang banyak di kunjungi . nah, bukan hanya di kota medan, tetapi di daerah daerah sumatera utara banyak memiliki wisata yang masih belum masyarakat pendatang tau. Untuk itu, saya berinisiatif untuk memberikan informasi tentang tempat-tempat wisata serta kuliner yang ada di Sumatera utara.
+  lokasi: Medan, Sumatra Utara 
+  tipe: konten
   gambar: /static/img/hibah/152.jpg
   link: /hibah/152
 
 - nomor: '153'
-  judul: 
+  judul: HOS (HIV Online System) Media Informasi,Forum Diskusi,Diagnosa & Konsultasi HIV/AIDS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       HOS (HIV Online System) adalah media informasi yang berupa aplikasi multiplatform dan website yang bisa di akses pengguna melalui perangkat Selular/Mobile & Komputer, Produk dari program ini adalah mobile site smartphone (Android, Blackberry,Windows Phone & Ios) yang bisa digunakan untuk mengakses berbagai informasi pengetahuan tentang HIV/AIDS ,forum diskusi, diagnosa dan konsultasi. Sumber informasi resmi diperoleh dari lembaga-lembaga yang menangani HIV/AIDS Seperti Komisi Penanggulangan Aids & Dinas Kesehatan. Untuk Konsultasi kami akan bekerja sama dengan Dokter Spesialis HIV/AIDS. Untuk menjangkau wilayah pelosok yang minim infrastruktur dan telekomunikasi, Aplikasi ini juga dilengkapi dengan layanan SMS Gatewey.
+  lokasi: Mojokerto, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/153.jpg
   link: /hibah/153
 
 - nomor: '154'
-  judul: 
+  judul: Pendidikan Internet Untuk Nelayan Tradisional
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kegiatan ini dimaksudkan untuk mengajarkan betapa pentingnya manfaat internet bagi nelayan tradisional untuk meningkatkan produktivitas hasil perikanan baik perikanan tangkap maupun budidaya yang akhirnya bisa meningkatkan taraf hidup nelayan tersebut. Kegiatan ini dilakukan dengan memanfaatkan web seluler untuk bisa mengakses internet karena satu-satunya teknologi yang familiar untuk para nelayan tersebut adalah telepon seluler. Untuk menunjang kegiatan ini maka akan dilakukan pengadaan telepon seluler berbasis android yang akan dibagikan secara gratis kepada nelayan di 10 desa target. Proses pelaksanaannya, tim akan terjun langsung ke desa-desa target sehingga bisa lebih bersosialisasi dengan nelayan.
+  lokasi: Baubau, Sulawesi Tenggara 
+  tipe: konten
   gambar: /static/img/hibah/154.jpg
   link: /hibah/154
 
 - nomor: '155'
-  judul: 
+  judul: Diskonesia "Your Business Your Ponsel & Ponsel Amal"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dengan perangkat ponsel sms gateaway kami akan membuat server yang secara otomatis akan megakomodir program ini. Intinya akan ada namanya rekening Pulsa yang mana rekening pulsa ini dapat melakukan transaksi usaha yang dapat membantu UKM UKM di Indonesia dan beramal sdisini dapat menggunakan ponsel dengan diskon mulia.
+  lokasi: Paser, Kalimantan Timur
+  tipe: konten
   gambar: /static/img/hibah/155.jpg
   link: /hibah/155
 
 - nomor: '156'
-  judul: 
+  judul: SIAB ( Sistem Informasi Aman Bertransaksi )
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SIAB adalah sebuah aplikasi yang dapat berjalan pada semua platform ponsel atau smartphone.
+       Konsep aplikasi dari SIABB ini secara umum adalah memberikan informasi kepada khalayak umum tentang lembaga-lembaga Bisnis tadi apakah lembaga tersebut legal atau ilegal atau apakah lembaga tersebut berindikasi penipuan atau tidak. Sumber penilaian akan didasarkan kepada internal tim SIABB dan para pengguna SIABB itu sendiri. Tampilan SIAB itu sendiri nanti akan seperti tampilan SEARCH ENGINE. Jadi user tinggal mengetikan nama dan keluar hasilnya berikut dengan informasi singkat dan catatan : Rekomendasi atau tidak rekomendasi
+  lokasi: Penggilingan Cakung, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/156.jpg
   link: /hibah/156
 
 - nomor: '157'
-  judul: 
+  judul: Mobile Worker Time Tracking
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mobile Worker Time Tracking adalah suatu aplikasi yang berjalan pada berbagai jenis smartphone yang mempunyai fungsi secara khusus untuk management status pekerjaan dari pekerja. Aplikasi ini juga diharapkan memberikan info akurat dan compatible berupa hasil yang simultan dan tersinkronisasi antara atasan dengan pekerja, ataupun antara pekerja lepas dengan orang yang mempunyai pekerjaan (client) agar pekerja dapat memperoleh hak - haknya yang setimpal.
+  lokasi: Medan, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/157.jpg
   link: /hibah/157
 
 - nomor: '158'
-  judul: 
+  judul: Sistem Informasi Sekolah dengan Optimalisasi Penggunaan pada Perangkat Mobile
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem Informasi sekolah yang terdiri dari:
+       - Manajemen internal sekolah berupa informasi akademik, Guru & Staff (PTK), Keuangan, Kehadiran hingga pelaporan.
+       - Informasi untuk orang tua berupa laporan nilai, kehadiran.
+       - Informasi yang dapat diakses oleh masyarakat umum tentang sekolah tersebut.
+       - Dan juga terintegrasi dengan sistem yang telah ada, yaitu Data Pokok Pendidikan (Dapodik) dan Paket Aplikasi Sekolah (PAS SMA &SMK) dari Kementerian Pendidikan dan Kebudayaan.
+       Satu sistem yang dapat mengelola TK, SD, SMP hingga SMA.
+  lokasi: Cimahi Tengah, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/158.jpg
   link: /hibah/158
 
 - nomor: '159'
-  judul: 
+  judul: Menghubungkan Kampung Gambut pada Dunia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Desa Muara Siran, Kecamatan Muara Kaman Kabupaten Kutai Kartanegara merupakan desa yang memiliki potensi perikanan luar biasa. Kawasan Desa Muara Siran juga sebagian besar merupakan kawasan gambut dalam. Pada beberapa wilayah, terdapat gambut berayun, yang merupakan ekosistem yang langka dan unik. Masyarakat Desa Muara Siran telah bersepakat untuk menjadikan kawasan gambut di desanya sebagai kawasan yang dilindungi, unutk kepentingan budaya dan perikanan, serta kehidupan mereka. Cerita-cerita Kerajaan Tertua di Kalimantan sangat berkaitan dengan kawasan ini.
+       Keterbatasan akses informasi, utamanya ketersediaan saluran komunikasi seluler dan internet, menjadi sebuah tantangan bagi warga desa. Saat ini sudah tersedia provider seluler di ibukota Kecamatan, yang berjarak 45 menit menggunakan perahu dari Desa. Warga desa yang memiliki satu SMA filial, satu SMP dan satu SD ini sangat ingin memperoleh jaringan komunikasi, terutama seluler dan internet. Saat ini baru terpasang antena seluler tambahan untuk kantor desa.
+  lokasi: Samarinda, Kalimantan Timur 
+  tipe: hardware
   gambar: /static/img/hibah/159.jpg
   link: /hibah/159
 
 - nomor: '160'
-  judul: 
+  judul: Where To Go
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi berbasis mobile yang dapat memberikan informasi kemana kita harus pergi (wisata) sesuai dengan kriteria yang diinginkan , seperti Biaya , Lokasi , Selera ataupun hal lain sesuai dengan keinginan kita . Dapat berupa tempat makan , tempat berbelanja , tempat rekreasi dan tempat lainnya dalam kategori berwisata .Pada aplikasi ini juga terdapat menu komunitas sehingga pengguna dapat memberikan informasi tentang lokasi-lokasi lain kepada pengguna lainnya dan pengguna juga dapat menambah data ke aplikasi sehingga aplikasi ini terus berkembang .
+  lokasi: Medan, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/160.jpg
   link: /hibah/160
 
 - nomor: '161'
-  judul: 
+  judul: Superportal Multiplatform di Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mendisain superportal dg muatan lokal Indonesia
+  lokasi: Cempaka Putih, Jakarta Pusat
+  tipe: konten
   gambar: /static/img/hibah/161.jpg
   link: /hibah/161
 
 - nomor: '162'
-  judul: 
+  judul: Ponsel Pintar Informasi Harga Kopi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kopi salah satu komoditi unggulan nasional dan Aceh ini memiliki posisi tawar di level internasional, tentu saja diperlukan berbagai perlindungan, baik terhadap tanamannya, petani dan sistem pemasarannya. Analis mengatakan, salah satu bentuk perlindungan yang sudah terwujud adalah terbitnya sertifikat Indikasi Geografis kopi gayo. Sertifikat itu menjadi dasar perlindungan geografis atau originalitas terhadap tanaman unggulan masyarakat di Dataran Tinggi Gayo.
+  lokasi: Pidie Jaya, Aceh
+  tipe: konten
   gambar: /static/img/hibah/162.jpg
   link: /hibah/162
   
 - nomor: '163'
-  judul: 
+  judul: Sobatmu (Sahabat Obrol Atasi Masalahmu)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sobatmu adalah aplikasi yang akan dikembangkan untuk memfasilitasi para remaja dalam menceritakan permasalahannya dan mendapatkan jawaban/solusi dari permasalahannya. aplikasi berbasis mobile web dan android ini, dibuat untuk membuat para remaja dapat berkonsultasi dimanapun dan kapanpun mereka berada.
+  lokasi: Cileunyi, Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/163.jpg
   link: /hibah/163
   
 - nomor: '164'
-  judul: 
+  judul: Peta Risiko Bencana Seluler dan Pusat Informasi dan Mitigasi Bencana (PIMB)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aceh merupakan daerah rawan bencana. Tidak satupun daerah di Aceh yang luput dari potensi bencana alam dan sosial. Sehingga diperlukan peta risiko bencana yang mudah diakses masyarakat untuk meningkatkan kesadaran pengurangan risiko bencana. AJI Banda Aceh akan membuat peta risiko bencana dengan medium seluler yang menampilkan risiko kebencanaan hingga tingkat kecamatan di Banda Aceh, Aceh Besar, Aceh Jaya, Aceh Barat, Aceh Tengah, Aceh Tenggara, Aceh Singkil, Lhokseumawe, Aceh Tamiang. 9 daerah itu dipilih sebagai contoh karena paling rawan bencana. Aplikasi peta bencana dapat diakses melalui seluler itu, diproduksi oleh Pusat Informasi dan Mitigasi Bencana (PIMB). PIMB berfungsi untuk mengumpulkan dan menyebarkan informasi serta edukasi mitigasi bencana. PIMB dikelola AJI melibatkan jurnalis dan relawan di 9 daerah. Informasi potensi kebencanaan bersumber dari BMKG dan masyarakat setempat. PIMB juga menyebarkan informasi mengenai pengurangan risiko bencana dan mengedukasi kesiapsiagaan masyarakat. Penyebaran arus informasi dan edukasi kebencanaan menggunakan aplikasi seluler multiplatform. Ia akan mudah diakses oleh perangkat bergerak berbasis Android, iOS, Windows Phone, dan Blackberry, serta melalui SMS Gateway. Aplikasi ini disebarkan melalui Play Store, Appstore, Windows Market Place, dan App World sehingga masyarakat mudah mengunduh. Untuk SMS Gateway, masyarakat dapat mendaftarkan nomor telepon selulernya secara gratis. Alur-pesan dari dan ke PIMB tidak memakan biaya.
+  lokasi: Aceh 
+  tipe: software
   gambar: /static/img/hibah/164.jpg
   link: /hibah/164
   
 - nomor: '165'
-  judul: 
+  judul: Papan Informasi Digital Kelurahan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Papan Informasi Digital (digital signage) sebagai pengganti papan pengumuman di Kantor Kelurahan untuk menampilkan berbagai informasi secara dinamis, terkini dan multimedia.
+  lokasi: Bontang, Kalimantan Timur 
+  tipe: hardware
   gambar: /static/img/hibah/165.jpg
   link: /hibah/165
   
 - nomor: '166'
-  judul: 
+  judul: Aplikasi Foto Mata Warga
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi yang menjadi ruang bagi masyarakat untuk mengunggah foto terkait kebijakan publik, pelayanan masyakat, fasilitas umum dan street photography. Aplikasi ini diharapkan dapat menjadi kontrol sosial terhadap pemerintah, badan publik dan penyedia layanan publik.
+  lokasi: Cirebon, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/166.jpg
   link: /hibah/166
   
 - nomor: '167'
-  judul: 
+  judul: Intisari 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi Portal berita (berbasis web berorientasi mobile): Memberikan gambaran besar dari topik-topik berita yang ada di penjuru Indonesia, dan memberikan rekomendasi - rekomendasi artikel dan berita yang membahas topik-topik berita tersebut dari berbagai sisi.
+  lokasi: Jombang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/167.jpg
   link: /hibah/167
   
 - nomor: '168'
-  judul: 
+  judul: Situs Laporan Warga Tanah Papua Berbasis SMS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Situs Laporan Warga Papua Berbasis SMS adalah proyek jurnalisme warga yang dikelola secara mandiri dan sukarela sejak tahun 2010 dengan tujuan mengatasi faktor demografis dan geografis Papua yang mengakibatkan kesenjangan informasi dan pengetahuan. Hingga tahun 2013, proyek ini fokus pada peristiwa kekerasan aktor negara terhadap warga sipil di Papua. Melalui proyek ini, warga dapat melaporkan peristiwa yang terjadi disekitar mereka melalui SMS, e-mail atau formulir online untuk dipublikasikan secara otomatis dalam sebuah situs. Publikasi dilakukan melalui prosedur approval, verified/unverified. Publikasi di situs proyek juga dihubungkan dengan Facebook, Twitter dan SMS App kepada warga yang datanya sudah tersimpan dalam database.
+  lokasi: Jayapura Utara, Papua
+  tipe: konten
   gambar: /static/img/hibah/168.jpg
   link: /hibah/168
   
 - nomor: '169'
-  judul: 
+  judul: Layanan Informasi Kereta Api Terintegrasi Berbasiskan Mobile Application
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi berbasiskan mobile ini adalah aplikasi yang menjadikan pelanggan kereta api atau penumpang kereta api serasa memiliki asisten pribadi ketika mereka ingin melakukan pemesanan tiket maupun mencari informasi tentang kereta api. Aplikasi ini sejatinya tidak hanya untuk dimobile, namun nanti dapat dikembangkan menjadi layana informasi secara digital di seluruh stasiun di Indonesia. Informasi ini nantinya berisikan berbagai informasi mengenai kereta api, baik semua kereta api maupun kereta api yang dipesan oleh penumpang. Informasi ini berisikan rute kereta api, jalur, keberangkatan dan kedatangan, countdown, informasi terkini, notifications, posisi tempat duduk yang kosong, posisi kereta api, status kereta api.
+  lokasi: Malang, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/169.jpg
   link: /hibah/169
   
 - nomor: '170'
-  judul: 
+  judul: TERIAK!
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       TERIAK! dirancang untuk warga dengan mudah menggunakan perangkat seluler yang dimilikinya (hand phone/ HP) untuk menyampaikan keluhan. Dengan mengirimkan sms (Short Message Service) atau telepon ke nomer yang disediakan TERIAK! Warga tidak perlu menemukan sendiri, kemana mereka akan menyalurkan keluhannya. TERIAK! yang akan menyalurkan keluhan kepada lembaga publik yang relevan untuk mendapatkan response.
+  lokasi: Solo, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/170.jpg
   link: /hibah/170
   
 - nomor: '171'
-  judul: 
+  judul: Cipta Selular Cepat Tanggap Kesehatan berbasis SMS Gateway
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kesehatan adalah faktor terpenting dalam hidup kita, lalu bagaimana ketika seseorang yang berharga dalam hidup kita mengalami sakit parah yang mendadak atau mengalami kecelakaan, dan yang pastinya kita akan segera cepat-cepat mencari rumah sakit/puskesmas atau balai kesehatan terdekat, namun bagaimana kita tahu disekitar lokasi kita terdapat rumah sakit, puskesmas dan balai kesehatan yang mempunyai ruang yang masih kosong dan fasilitas yang anda, tentu kita sangat di repotkan dengan masalah ini, padahal nyawa pasien adalah prioritas utama. Untuk itulah aplikasi cepat tanggap ini dibuat.
+  lokasi: Grobogan, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/171.jpg
   link: /hibah/171
   
 - nomor: '172'
-  judul: 
+  judul: i-Rama (Indonesia Dalam Panorama)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       i-Rama (Indonesia Dalam Panorama) adalah aplikasi yang memberikan informasi kepada masyarakat terhadap potensi wisata di Indonesia yang selama ini belum banyak diketahui. Potensi wisata tersebut meliputi pantai, coban, pegunungan, museum dan budaya nusantara. Informasi yang akan diberikan berupa referensi mengenai deskripsi tempat wisata, gambar panorama dan panduan untuk menuju wisata tersebut. Harapannya setelah aplikasi ini selesai diproduksi dan didistribusikan, masyarakat bisa mengetahui bahwa Indonesia mempunyai banyak pesona alam yang selama ini belum terekpose oleh media. Kategori aplikasi berbasis Mobile Application dengan platform Android, iOS, Blackberry, dan web-based. Aplikasi dapat berjalan melalui perangkat smartphone maupun tablet.
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/172.jpg
   link: /hibah/172
   
 - nomor: '173'
-  judul: 
+  judul: Sistem Informasi Pelaporan Fasilitas Umum
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini adalah membangun dan mengembakan Sistem Informasi Pelaporan Fasilitas Umum berbasis data text, foto/image dan data lokasi (latitude/longitude) menggunakan perangkat smartphone/seluler, yang bermanfaat bagi masyarakat untuk melaporkan dan melihat kondisi Fasilitas Umum (Fasum) yang dikelola Pemerintah yang dibangun menggunakan dana masyarakat.
+  lokasi: Kemayoran, Jakarta Pusat
+  tipe: software
   gambar: /static/img/hibah/173.jpg
   link: /hibah/173
   
 - nomor: '174'
-  judul: 
+  judul: Deteksi Dini ADD/ADHD 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Orang tua, guru, dan praktisi kadang memandang wajar perilaku yang muncul di usia 3-8 tahun seperti anak menyukai hal-hal tertentu dan muncul perilaku aktif. Orang tua, guru, dan praktisi dapat melakukan deteksi dini terhadap anak sehingga segera dapat dilakukan penanganan yang sesuai untuk meminimalisir risiko anak dengan ADD/ADHD berikut juga rujukan ke psikolog, terapi, atau rumah sakit tumbuh kembang anak terdekat.
+  lokasi: Sragen, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/174.jpg
   link: /hibah/174
   
 - nomor: '175'
-  judul: 
+  judul: Kotaku Bersih
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Media penghubung antara masyarakat, dinas kebersihan, dan pihak-pihak terkait pengelolaan sampah (Bank sampah, pengelola kompos, dll). Juga berfungsi sebagai sarana edukasi dan pelaporan sampah.
+  lokasi: Cimanggis, Depok Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/175.jpg
   link: /hibah/175
   
 - nomor: '176'
-  judul: 
+  judul: Radio Lentera - Pasang Telinga, Pantau Media
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pasca-reformasi, jumlah media massa membludak di Indonesia. Tiap-tiap media yang lahir memiliki basis kepentingannya sendiri, baik politis maupun ekonomis. Untuk kepentingan politik, ada media yang mendeklarasikan alirannya secara terbuka dan adapula yang bersembunyi dibalik slogan netral. Dalam kebebasan, ada adagium bahwa yang baiklah yang akan bertahan, dan yang tidak baik akan tumbang. Namun di tengah keberagaman yang ada, apa yang disebut baik menjadi relatif. Begitu juga dengan yang tidak baik. Hari ini, kita dapat dengan mudah menemukan media yang berisi konten diskriminatif dan tidak mengusung prinsip ekualitas (equality). Proyek ini adalah upaya untuk melakukan pemantauan media massa daring (online) dan televisi dengan pendekatan jurnalistik yang berbasiskan multikulturalisme. Adapun hasil pantauan dipublikasikan melalui radio streaming secara berkelanjutan. Radio streaming dipilih sebagai medium karena memiliki jangkauan yang tidak terbatas. Selain itu radio juga dikenal memiliki kemampuan memunculkan imajinasi dan membangkitkan emosi (secara kolektif).
+  lokasi: Pasar Minggu, Jakarta Selatan
+  tipe: konten
   gambar: /static/img/hibah/176.jpg
   link: /hibah/176
   
 - nomor: '177'
-  judul: 
+  judul: Perancangan  Sistem Terdistribusi Menggunakan Mobile Device Untuk Pengukuran dan Pengkontrolan Kebakaran Smart Home
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pada proyek ini smartphone berperan sebagai sensor untuk temperature kebakaran yang terjadi. Jika suhu sudah memenuhi kriteria terjadi kebakaran, maka smartphone akan mengirim informasi kepada PC yang berperan sebagai proxy. Jika sudah masuk maka informasi di olah di workfolw management untuk pendistribusiannya, entah itu ke pemadam kebakaran, pihak medis, ataupun pemilik rumah itu sendiri.
+  lokasi: Lumajang, Jawa Timur
+  tipe: sofware
   gambar: /static/img/hibah/177.jpg
   link: /hibah/177
   
 - nomor: '178'
-  judul: 
+  judul: Media Informasi Pertanian
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Latar Belakang program yang kami ajukan berangkat dari permasalahan pertanian yang ada di kabupaten bantul dan sekitarnya. yaitu minimnya informasi dan edukasi bagi petani serta program pemerintah yang kurang sesuai dengan kondisi pertanian yang ada .
+       Media Informasi Pertanian perlu di bangun sehingga membantu petani dalam meningkatkan produksi pertanianya dengan memberikan informasi yang tepat dan sesuai dengan kebutuhan. Bagi pemerintah dapat mengetahui kondisi nyata pertanian sehingga kebijakan yang di buat tepat dan sesuai dengan kondisi pertanian daerah.
+       Media informasi pertanian ini akan memanfaatkan teknologi seperti SMS , WEB dan Papan Informasi Digital.
+  lokasi: Bantul, Daerah Istimewa Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/178.jpg
   link: /hibah/178
   
 - nomor: '179'
-  judul: 
+  judul: Pembelajaran Bahasa Daerah Melalui Seluler
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan untuk melestarikan bahasa daerah dengan membuat aplikasi yang bisa diakses oleh masyarakat luas melalui web atau seluler. Aplikasi ini menyediakan API layanan web buat developer dan juga antar muka buat pengguna umum.
+  lokasi: Batu, Malang Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/179.jpg
   link: /hibah/179
   
 - nomor: '180'
-  judul: 
+  judul: Majulah Petaniku, Jayalah Indonesiaku
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Indonesia adalah negara yang sangat subur. Wilayah yang begitu luas dan kaya akan hasil bumi. Salah satunya adalah pertanian. Namun saat ini petani kita mulai resah karna banyaknya hasil-hasil pertanian dari luar yang masuk ke negara kita. Apakah ini kesalahan kita atau memang hasil pertanian kita tidak layak untuk dinikmati??? Sebenarnya kami melihat ini semua dapat dicarikan jalan keluarnya jika memang para petani mendapatkan informasi dan pendampingan maksimal dalam rangka meningkatkan hasil produksinya.Belajar dari pengalaman di Jepang, kami melihat bahwa pemerintah dan para petani selalu duduk bersama guna membahas bagaimana meningkatkan kualitas produksi pertanian. Hal ini yang perlu kita tiru, jangan saling menyalahkan saja. Kita harus dapat duduk bareng dan menyampaikan segala bentuk informasi guna meningkatkan hasil pertanian lebih baik lagi.
+  lokasi: Kebayoran Lama, Jakarta Selatan
+  tipe: konten
   gambar: /static/img/hibah/180.jpg
   link: /hibah/180
   
 - nomor: '181'
-  judul: 
+  judul: Angkot Where Are You (AWAY)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini akan menampilkan rute angkot suatu kota (tahap alpha: kota Bandung) dan menunjukkan rute atau piihan angkot yang harus diambil untuk mencapai tujuan yang diinginkan. Aplikasi ini memiliki fitur-fitur sebagai berikut :
+       - Menampilkan rute angkot
+       - Menunjukkan pilihan angkot yang harus diambil untuk mencapai tujuan yang diinginkan (secara detail, turun di mana, sambung dengan angkot yang lain, dll)
+       - Menampilkan informasi detail mengenai angkot
+       - Dapat menampilkan informasi lokasi dari gps handset
+       - Overlay tampilan peta dari google map sehingga selalu uptodate
+  lokasi: Sumedang Utara, Jawa Barat
+  tipe: sotfware
   gambar: /static/img/hibah/181.jpg
   link: /hibah/181
   
 - nomor: '182'
-  judul: 
+  judul: Kuliah Dimana
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini bertujuan untuk memudahkan calon mahasiswa memilih program studi yang sesuai dengan minat dan bakatnya sehingga terhindar dari salah pilih.
+  lokasi: Cilacap, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/182.jpg
   link: /hibah/182
   
 - nomor: '183'
-  judul: 
+  judul: Komunitas @iloveaceh Social Media Goes to School
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Hampir setiap orang khususnya remaja kini memiliki gadget yang rata-rata bisa mengakses berbagai situs social media yang ada seperti layanan Facebook, Twitter, Instagram, Path, dan banyak lainnya. Menurut data StatCounter Global Statistic per Oktober 2013 menyebutkan pengguna social media dunia seperti Facebook (71,62%), diikuti dengan Twitter (7,51%), dan Pinterest (7,48%). Sementara di Indonesia sendiri, pertumbuhan pengguna social media terus meningkat yang diprediksi bakal tumbuh hingga 79,2% dari total penduduk.
+       Tak terkecuali siswa-siswi yang masih duduk di bangku sekolah saat ini mulai dari umur 15-18 tahun, mereka juga sudah merasakan kehadiran social media dalam kehidupan sehari-hari. Namun, kebanyakan dari mereka tidak tahu bahwa social media itu sendiri memiliki dampak positif bila bisa memanfaatkan dengan baik dan benar dan juga sebaliknya akan menjadi negatif jika tidak mampu mengetahuinya lebih lanjut. Menilik dari berbagai kasus yang ada, banyak tindak kriminal terjadi akibat penyalahgunaan social media yang berujung terjadinya sejumlah kasus seperti penculikan, pemerkosaan, perdagangan manusia, pencemaran nama baik, penyebaran info atau kabar bohong (HOAX), dan masih banyak lainnya.
+  lokasi: Bireuen, Aceh
+  tipe: konten
   gambar: /static/img/hibah/183.jpg
   link: /hibah/183
   
 - nomor: '184'
-  judul: 
+  judul: Kotak Bahasa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kotak Bahasa yaitu aplikasi berbasis web ataupun mobile yang berguna untuk memberikan pelajar bahasa yang ada di Indonesia(tidak menutup kemungkinan untuk semua bahasa). Konten aplikasi ini tidak hanya kata dan arti saja namun akan ada suara atau video percakapan dialog yang bisa dipelajari.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/184.jpg
   link: /hibah/184
   
 - nomor: '185'
-  judul: 
+  judul: Pemanfaatan Piranti Celluler untuk Membangun Database Difabel
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Secara singkat, proyek ini akan mengembangkan pemanfaatan celluler berbasis SMS sebagai alat untuk membangun, meng-update serta memperoleh database Difabel secara akurat. Fitur SMS akan terhubung ke sebuah server yang akan menerima dan mengolah serta menyimpan data ke dalam database. Sementara organizer Difabel di lapangan akan menjadi pensuply data entry yang sangat akurat karena berbasis di wilayah masing-masing. Pada tahap pengembangan, aplikasi ini akan dikembangkan di satu wilayah kecamatan di Yogyakarta.
+  lokasi: Sleman, Yogyakarta
+  tipe: software
   gambar: /static/img/hibah/185.jpg
   link: /hibah/185
   
 - nomor: '186'
-  judul: 
+  judul: Cyber Democracy
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Usulan ini merupakan upaya membangun makna celoteh netizen di dunia maya. Hasil riset kemudian didiseminasikan ke media massa, media sosial, dan diskusi dengan para pemangku kepentingan. Usulan ini merupakan upaya deliberasi dan channeling terhadap isu publik sebagai fondasi membangun cyber democracy.
+  lokasi: Jakarta Pusat
+  tipe: konten
   gambar: /static/img/hibah/186.jpg
   link: /hibah/186
   
 - nomor: '187'
-  judul: 
+  judul: Warta Warga Lereng Merapi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini tidak hanya mengupayakan agar warga mendapat informasi. Lebih dari itu, program ini juga memberikan kesempatan dan mengajak warga ikut aktif menyumbang informasi dan aspirasinya. Untuk itu, program ini akan mengembangkan website, mobile application untuk smartphone, dan SMS broadcast untuk handphone yang akan saling terintegrasi.
+  lokasi: Magelang, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/187.jpg
   link: /hibah/187
   
 - nomor: '188'
-  judul: 
+  judul: PPMDes - Pusat Pengaduan Masyarakat Desa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       PPMDes adalah komunitas yang merupakan kelompok inisiatif masyarakat untuk melihat berbagai persoalan sosial dan ketidak adilan di desa, agar masyarakat bisa menyampaikan aspirasi dengan bebas, yang bertujuan untuk menyelesaikan persoalan yang ada dengan melihat prinsip musyawarah untuk mufakat, kebebasan menyampaikan pendapat dengan melihat kembali kearifan lokal masarakat
+  lokasi: Kupang, NTT
+  tipe: konten
   gambar: /static/img/hibah/188.jpg
   link: /hibah/188
   
 - nomor: '189'
-  judul: 
+  judul: Info Kuliah
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Data seluruh informasi yang terkait dengan universitas negeri maupun swasta dalam sebuah web dan aplikasi android dan bisa membandingkan antara universitas 1 dengan lainnya berdasarkan kualitas,biaya kuliah dll.
+  lokasi: Metro, Lampung
+  tipe: konten
   gambar: /static/img/hibah/189.jpg
   link: /hibah/189
   
 - nomor: '190'
-  judul: 
+  judul: Kahade Filter SMS Penipuan dan Spam berbasis Kolaborasi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kahade adalah sebuah aplikasi mobile yang bertujuan untuk memberikan kewaspadaan bagi para penggunanya dari penyalahgunaan pesan singkat (SMS), seperti percobaan tindak penipuan melaui SMS atau telepon, dimana kondisi ini masih marak sampai sekarang, sebagai contoh SMS yang berbunyi ”transfer saja ke rekening sekian”, dsb. Melalui aplikasi ini maka para pengguna dapat terhindar dari jerat penipuan dan juga membantu mereka jika terjerat oleh tindak tersebut. Berbeda dengan aplikasi-aplikasi spam filter pada umumnya, penggunaan pendekatan kolaborasi dapat menghasilkan proses filter dan deteksi spam maupun indikasi tindak penipuan secara lebih akurat dan aktual. Selain itu juga sistem ini juga menciptakan interaksi sosial, dimana di dalam hal ini setiap pengguna saling membantu berbagi informasi untuk mencegah tindak penipuan dan juga gangguan dari spam.
+  lokasi: Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/190.jpg
   link: /hibah/190
   
 - nomor: '191'
-  judul: 
+  judul: Pesan Penyelamat Mata Air
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini adalah optimalisasi penggunaan moda komunikasi dengan perangkat selular, terutama fasilitas Short Message Service (SMS) untuk mengkampanyekan pentingnya perlindungan mata air di dua belas desa yang tersebar di empat kabupaten yang termasuk dalam kawasan Pegunungan Kendeng Utara.
+  lokasi: Kediri, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/191.jpg
   link: /hibah/191
   
 - nomor: '192'
-  judul: 
+  judul: Perancangan Sistem Analisa kemacetan sebagai Penentu Jalur Terlancar berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Jadi sistem kerja aplikasi ini ialah kamera di lampu merah -> upload server -> analisis (pengolahan citra untuk menentukan tingkat keramaian di suatu lampu merah).User buka aplikasi -> pilih lokasi salah satu jalan yg ingin ditempuh -> maka akan tampil foto kondisi jalan dan keterangannya untuk pengambilan foto oleh kamera dan diupload digunakan jenjang waktu yg bisa diatur, misal 30 menit sekali.
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/192.jpg
   link: /hibah/192
   
 - nomor: '193'
-  judul: 
+  judul: Aplikasi Lasaka Aplikasi pembaca dan penerjemah Aksara Tradisional Karo
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Minat terhadap Aksara Tradisional Karo mulai memudar di generasi muda suku Karo belakangan ini. Pembelajaran Aksara Karo selama ini tersedia hanya di buku-buku yang digunakan untuk mensuplemen pelajaran muatan lokal / bahasa daerah. Melalui aplikasi ini kami ingin mendekatkan material terkait Aksara Karo ke generasi muda melalui perangkat yang sering digunakan, smartphone. Dengan menggunakan desain aplikasi yang menarik dan interaktif, kami yakin bahasa Karo dan Aksara Karo akan semakin mudah dipelajari. Aplikasi ini juga dapat digunakan untuk mempromosikan kekayaan linguistik Karo kepada pemerhati budaya baik nasional maupun internasional.
+  lokasi: Kabupaten Karo, Sumatera Utara
+  tipe: software
   gambar: /static/img/hibah/193.jpg
   link: /hibah/193
   
 - nomor: '194'
-  judul: 
+  judul: Pesantren IT
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pesantren merupakan asrama pendidikan ilmu agama, dimana siswa dan siswi tinggal di sebuah asrama dan belajar ilmu agama. di pesantren juga di ajarkan matematika, fisika, dll. sama seperti sekolah sederajat lainnya. namun halnya, di bidang Ilmu Komputer sangatlah kecil untuk di bahas di pesantren. saya memiliki sebuah ide "pesantren IT" , yang mana pesantren juga bisa menjadi wadah dunia dan akhirat yang luar biasa. mendapatkan ilmu agama dan juga bisa mengembangkan teknologi yang telah tersedia di dunia ini. Siswa-siswi juga bisa belajar bagaimana cara menggunakan teknologi tersebut dan para ustad/ustadzah juga bisa memanfaatkan komputer sebagai sarana pembelajaran.
+  lokasi: Medan, Sumatra Utara
+  tipe: software
   gambar: /static/img/hibah/194.jpg
   link: /hibah/194
   
 - nomor: '195'
-  judul: 
+  judul: M-SIGAM (Mobile System Informasi Gampoeng)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mobile Sistem informasi Gampoeng Aceh adalah sebuah sistem aplikasi komputer berbasis web dan seluler dengan memanfaatkan jaringan Internet sebagai media komunikasi dan teknologi perangkat seluler yang bertujuan mengetahui secara jelas data jumlah orang miskin, tingkat pendidikan, umur, dan berbagai kategori lainnya yang berkaitan dengan kependudukan mulai tingkatan gampoeng (Desa). Data dapat diinput dan diupdate langsung oleh operator perangkat Gampoeng ke dalam sistem melalui internet sehingga tingkat ke akuratan data dan informasi dapat diwujudkan, karena apapun peristiwa kependudukan yang terjadi di Gampong seperti kelahiran, kematian, perkawinan, cerai dan lainnya, data dapat diupdate langsung ke sistem.
+  lokasi: Pidie, Aceh
+  tipe: software
   gambar: /static/img/hibah/195.jpg
   link: /hibah/195
   
 - nomor: '196'
-  judul: 
+  judul: Alat Penjernih Suara untuk Penderita Bibir Sumbing
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Bibir sumbing sangat umum di jumpai di indonesia. Bahkan menurut riset 7 dari 1000 kelahiran adalah bibir sumbing. Dan bibir sumbing memiliki gangguan pada komunikasi verbal di mana vokal menjadi tidak jelas. Dan perlu 7 kali operasi untuk membuat seorang penderita bibir sumbing agar menjadi normal. Tentu dengan biaya yang tidak sedikit. Atas dasar itulah mengapa tidak membuat aplikasi untuk para penderita bibir sumbing ? selain pangsa pasar jelas, Media marketing akan mudah dan Omset ? jelas luas. Karna tak hanya pemasaran daerah bahkan hingga internasional sekalipun bisa dengan mudah digapai. Karna android berada dalam naungan google. Dimana kita tahu bahwa publikasi oleh google begitu mudah. Dan pricing harga bisa kita sesuaikan pas di kantong orang indonesia dan cocok untuk ukuran internasional.
+  lokasi: Malang, Jawa Timur
+  tipe: hardware
   gambar: /static/img/hibah/196.jpg
   link: /hibah/196
   
 - nomor: '197'
-  judul: 
+  judul: Aplikasi Daerah Rawan Bencana Sulawesi Utara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Berkaitan dengan bencana yang baru terjadi di Manado, aplikasi ini dirancang untuk memberikan informasi wilayah yang rawan terjadi bencana kepada masyarakat. Informasi ditampilkan ke dalam maps dan disertai dengan koordinat lokasi wilayah dan koordinat user. Aplikasi ini dirancang berjalan pada perangkat mobile android dan bersifat online sehingga datanya terus terupdate
+  lokasi: Merauke, Papua
+  tipe: software
   gambar: /static/img/hibah/197.jpg
   link: /hibah/197
   
 - nomor: '198'
-  judul: 
+  judul: Phloemer | Jejaring Sosial Bisnis Lokal Berbasis Mobile App
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       • Phloemer hadir untuk membantu para pedagang, pemilik toko, warung, pedagang kaki lima, penjual bakso, tukang tambal ban (Bisnis Lokal), dalam memasarkan produknya ke internet baik itu via selular maupun media lainnya.
+       • Selain itu phloemer mempunyai tujuan sebagai mesin pencari tempat membeli suatu barang, sehingga memudahkan siapapun dalam mencari barang yang dinginkanya berdasarkan tempat terdekatnya, terutama dengan menggunakan selular. Orang yang menggunakan aplikasi ini akan mudah berinteraksi dengan pemilik bisnis lokal serta informasi peta keberadaan pemilik bisnis lokal tersebut.
+       • Dia juga aplikasi chating (phloemer massangger) untuk para pemilik bisnis lokal dan calon pembeli.
+  lokasi: Sukabumi, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/198.jpg
   link: /hibah/198
   
 - nomor: '199'
-  judul: 
+  judul: Kamila (Kawan Kehamilan Anda)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kamila adalah sebuah layanan berbasis mobile web yang akan membantu wanita hamil yang terkendala finansial/sulitnya menemukan dokter, untuk memonitor perkembangan kehamilan mereka melalui perangkat seluler.
+  lokasi: Cimahi Selatan, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/199.jpg
   link: /hibah/199
   
 - nomor: '200'
-  judul: 
+  judul: Pembelajaran Komputer dan Internet Berbasis Open Source Untuk Anak-Anak Masyarakat Marjinal
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini menawarkan solusi dalam memberikan pembelajaran komputer & internet bagi anak-anak masyarakat marjinal. Salah satu titik pemodelan yang kami gunakan adalah daerah pinggiran rel kereta api di Tanah Abang, yang penduduknya memiliki keterbatasan ekonomi & sumber daya. Anak-anak disini selain mengenyam pendidikan formal, juga belajar secara informal secara rutin dalam komunitas kecil di sebuah rumah singgah. Pengajar dan anak-anak didik memiliki ketertarikan besar untuk belajar komputer dan internet. Sayangnya, mereka mengalami keterbatasan untuk bisa melakukan aktivitas ini.
+       Perkembangan perangkat lunak & perangkat keras akhir-akhir ini memungkinkan dibangunnya workstation untuk diterapkan di kawasan-kawasan marjinal. Teknologi berdaya hemat & murah biaya yang digunakan dalam proyek ini adalah Raspberry Pi, aplikasi edukasi open source, hingga internet cepat nirkabel dengan teknologi seluler.
+  lokasi: Kediri, Jatim
+  tipe: hardware
   gambar: /static/img/hibah/200.jpg
   link: /hibah/200
   
 - nomor: '201'
-  judul: 
+  judul: CONQ Application for OSX & Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi (app) untuk smartphone (baik OSX maupun Android) yang bisa digunakan oleh komunitas LGBT di Indonesia maupun di dunia. Aplikasi ini merangkum keseluruhan isi blog CONQ (http://www.conq.me) dan CONQ Youtube Channel (http://www.youtube.com/user/conqwebseries). CONQ adalah wadah komunal bagi kaum LGBT Indonesia untuk mengekspresikan diri mereka lewat berbagai media (blog dan video), yang sudah berdiri sejak tahun 2012. Lewat aplikasi ini, pengguna bisa membaca artikel-artikel terbaru yang berkaitan dengan issue LGBT, baik nasional maupun internasional. Mereka juga bisa menonton video2 original yang dibuat oleh tim CONQ, yaitu CONQ Web Series dan CONQ Inspiration (mengenai orang2 LGBT Indonesia yang inspiring). Di aplikasi ini juga akan ada listings, yang merangkum seluruh organisasi LGBT yang ada di Indonesia (dari organisasi, tempat klinik pemeriksaan HIV yang LGBT friendly, sampai tempat hiburan yang LGBT friendly di Indonesia). Kami juga ingin membuat fitur chat, dimana kaum LGBT bisa berbicara dengan call center kami mengenai issue-issue penting seperti HIV / AIDS.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/201.jpg
   link: /hibah/201
   
 - nomor: '202'
-  judul: 
+  judul: Waroeng Kupi Kampus Aceh
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Projek ini difokuskan kepada pentingnya pendidikan kewirausahaan muda, penggunaan teknology IT yang sehat, dan pengurangan penganguran masyarakat. Tujuan proyek ini adalah memaksimalkan budaya duduk di warung kopi yang ada di provinsi Aceh menjadi wahana pengembangan masyarakat berbasis kemandirian masyarakat. Metode proyek ini adalah pengembangan teknologi informasi di warung kopi yang memuat informasi peluang usaha bersama, pengunaan teknologi ramah lingkungan dan kesehatan, dan peluang berusaha dan berkarya bagi masyarakat.
+  lokasi:  Banda Aceh
+  tipe: konten
   gambar: /static/img/hibah/202.jpg
   link: /hibah/202
   
 - nomor: '203'
-  judul: 
+  judul: Tutorial Tata Cara Sholat Menggunakan Augmented Reality
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini dijalankan dengan platform android. Konten yang terdapat didalamnya berisi tata cara solat, tata cara wudu, doa setelah solat.
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/203.jpg
   link: /hibah/203
   
 - nomor: '204'
-  judul: 
+  judul: Mobile Cloud Accounting Apps (Mocaps) untuk UKM
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mocaps online accounting software untuk industri UKM. Mendukung invoicing, accounts payable, bank reconciliation & pembukuan.
+  lokasi: Aceh Utara
+  tipe: software
   gambar: /static/img/hibah/204.jpg
   link: /hibah/204
   
 - nomor: '205'
-  judul: 
+  judul: Wuenak – Jejaring Sosial Makanan Khas Daerah Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Wuenak adalah aplikasi jejaring sosial yang dikhususkan untuk berbagi info tentang kearifan pangan (makanan) lokal dari masing-masing daerah di Indonesia. Wuenak akan menjadi sarana berinteraksi antara pecinta pangan lokal (konsumen) dan pemilik bisnis pangan lokal (produsen). Hal ini dapat membantu para produsen untuk memasarkan produknya melalui jejaring social, dan juga dapat membantu para konsumen untuk pencarian makanan lokal terfavorit (rekomendasi) dari masing-masing daerah di Indonesia. Selain berbagi info lewat foto dan informasi tentang pangan lokal, aplikasi yang dibentuk dalam aplikasi mobile disertakan fitur messenger, agar dapat berinteraksi kepada user lain untuk mendapatkan info yang lebih jelas lagi terkait produk pangan lokal yang dibagikan (share).
+  lokasi: Serdang Bedagai, Sumatra Utara
+  tipe: software
   gambar: /static/img/hibah/205.jpg
   link: /hibah/205
   
 - nomor: '206'
-  judul: 
+  judul: SiLilik 2 (Sistem Pengendali Listrik Keluarga)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem Pengendali Listrik Keluarga (Si Lilik) adalah suatu perangkat pintar yang memiliki tugas utama sebagai pengendali beban listrik rumah tangga agar tagihan listrik bulanan tidak melebihi nilai yang telah direncanakan sebelumnya. Kepandaian sistem ini adalah ia dapat mengestimasi tagihan bulanan dengan data yang diambil dari pemakaian listrik hari atau bulan sebelumnya. Bila hasil estimasi menunjukkan nilai yang akan melebihi tagihan yang telah direncanakan, maka alat ini akan memberikan peringatan atau bahkan bila diijinkan untuk mematikan secara paksa peralatan listrik yang masih atau akan menyala di luar jadwal yang dianjurkan oleh sistem.
+  lokasi: Bandung, Jawa Barat
+  tipe: hardware
   gambar: /static/img/hibah/206.jpg
   link: /hibah/206
   
 - nomor: '207'
-  judul: 
+  judul: Dengan Ponsel menekan Stigma dalam Penanggulangan HIV dan AIDS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Membangun kampanye dari pelaku langsung dengan memunculkan kegiatan sehari – hari mereka seperti masyarakat umum lainnya dan juga kegiatan mereka yang berhubungan dengan penanggulangan HIV dilingkungan mereka. Mengembangkan modul pendidikan membuat video sederhana dengan menghormati asas konfidensialitas dan juga menghormati nilai – nilai dalam dunia kesehatan
+  lokasi: Denpasar, Bali
+  tipe: konten
   gambar: /static/img/hibah/207.jpg
   link: /hibah/207
   
 - nomor: '208'
-  judul: 
+  judul: Sistem Pelaporan dan Pendataan Berbasis SMS Mendukung Penegakkan Hukum Lingkungan Hidup
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proses Penegakan Hukum membutuhkan respons cepat, data secara realtime dan pemrosesan secara otomatis pada proses pelaporan dan pendataan, agar tercapai hasil yang optimal. Kendala di lapangan yang dihadapi selama ini terkait ketidak-akuratan informasi di lapangan, dari pihak masyarakat/LSM/pekerja lapangan kepada mitra aparat penegak hukum terkait terjadinya kejahatan (misal : illegal logging, perdagangan satwa liar, dll). Salah satu teknologi yang diusulkan untuk dapat digunakan untuk pelaporan dan pendataan adalah SMS Gateway, data dikirimkan melalui SMS dari telepon seluler agen-agen di lapangan, sehingga data tersebut dapat diproses langsung, cepat dan murah.
+  lokasi: Kutoarjo, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/208.jpg
   link: /hibah/208
   
 - nomor: '209'
-  judul: 
+  judul: Membangun Media Advokasi Hak-hak Masyarakat Adat Berbasis Jurnalisme Warga
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Inisiatif ini diajukan dengan beberapa alasan. Pertama, menjawab permasalahan yang diungkapkan masyarakat adat Rejang di 5 Desa pada sesi diskusi Jurnalisme sebagai Sarana Memperoleh Pengakuan Hak-Hak Masyarakat Adat dalam Kampanye Pelatihan Penyusunan Kebijakan Daerah yang difasilitasi Yayasan Akar dengan dukungan HuMa dengan melibatkan Perkumpulan Spora pada 17 November 2013 dan mengoptimalkan hasil Pelatihan Jurnalisme Warga yang akan difasilitasi Yayasan Akar yang juga didukung HuMa yang juga akan melibatkan Perkumpulan Spora pada Mei 2014 ini. Kedua, menghubungkan dan membangun sinergisitas dengan masyarakat adat di 8 desa lainnya yang memiliki kesamaan perjuangan, yang difasilitasi Yayasan Akar dengan dukungan The Samdhana Institute. Ketiga, menjadi rujukan bagi masyarakat adat di desa lainnya di Lebong atau daerah lain. Media dibangun berbasiskan SMS dalam memproduksi dan menyampaikan berita dan informasi yang bermuatan lokal, dan dalam strategi pendistribusian berita dan informasi akan dikonvergensikan dengan website, media sosial dan pamflet.
+  lokasi: Bengkulu
+  tipe: konten
   gambar: /static/img/hibah/209.jpg
   link: /hibah/209
   
 - nomor: '210'
-  judul: 
+  judul: Suara Rakyat Untuk Presiden Teknologi Massal Untuk Perubahan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Penggunaan teknologi vidio Handpone untuk menyalurkan suara rakyat ke presiden dan untuk pemantauan konflik di lapangan. Masyarakat diorganisir untuk mengambil sendiri vidio dirinya dengan konten pemantauan konflik dan keinginan untuk perubahan. Huma kemudian memfasilitasi web untuk menambung dan mendistribusikan vidio itu.
+  lokasi:  Pasar Minggu, Jakarta Selatan
+  tipe: konten
   gambar: /static/img/hibah/210.jpg
   link: /hibah/210
   
 - nomor: '211'
-  judul: 
+  judul: Desaku Bersih Pemanfaatan Seluler untuk Memfasilitasis Warga
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Desa sebagai institusi terdepan dalam memberikan pelayanan kepada masyarakat mengelola sejumlah anggaran yang disusun dalam Anggaran Pendapatan dan Belanja Desa atau APBDes. Maka anggaran yang direncanakan secara partisipatif, dikelola secara tranparan dan dipertanggungjawabkan dengan meyakinkan. Karena dengan cara inilah anggaran akan terkelola dengan sesuai sasaran dan rencana warga desa. Lahirnya UU Desa yang memungkinkan desa akan mengelola uang yang cukup besar dimana menurut hitungan dari Pansus RUU Desa DPR RI sekitar 800 juta sampai 1,7 Miyard rupiah. Uang yang makin besar di desa harus didukung dengan kesiapan masyarakat dan sistem yang memudahkan masyarakat mengetahui dan kemudian mengawal anggaran desa. Media seluler tentu sangat membantu untuk memudahkan masyarakat mengetahui anggaran desa yang sudah ditetapkan pemerintah desa dan BPD (Badan Permusyawaratan Desa). Program ini juga akan membantu menjawab keraguan publik bahwa masyarakat desa dianggap tidak mampu mengelola anggaran yang besar dan akan melahirkan korupsi bari di desa. Dengan pemanfaatan seluler diharapkan akan terwujud pengelolaan anggaran yang transparan dan masyarakat akan semakin giat bergotong royong karena meyakini bahwa anggaran desa adalah uang mereka yang harus dipastikan akan menghantarkan kepada kesejahteraan warga desa. Dan kemudian tercipta desa yang bersih dan Anti Korupsi.
+  lokasi: Boyolali, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/211.jpg
   link: /hibah/211
   
 - nomor: '212'
-  judul: 
+  judul: Village Video Voice (V3) 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Village Video Voice (V3), yaitu sebuah gerakan anak muda kampung yang menggunakan video dari seluler (handphone) untuk menyuarakan berbagai persoalan maupun ide mereka terkait dengan isu konservasi Taman Nasional Gunung Palung (TNGP) yang terletak di Kabupaten Kayong Utara dan Ketapang, Provinsi Kalimantan Barat. Karena itu, proyek ini akan dilaksanakan di 10 desa yang berada dan di dalam sekitar kawasan TNGP di 2 kabupaten tersebut.
+  lokasi: Kalimantan Barat
+  tipe: konten
   gambar: /static/img/hibah/212.jpg
   link: /hibah/212
   
 - nomor: '213'
-  judul: 
+  judul: Cirebon Travel Advisor
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi berbasis Android yang menyediakan informasi wisata, hotel, restoran, agenda acara, jadwal ritual tradisi dan budaya untuk wilayah III Cirebon. Aplikasi ini juga mengupdate konten dengan destinasi baru hasil survei yang dilakukan tim. Sebab, banyak objek wisata barubelum diketahui wisatawan yang berkunjung ke wilayah III Cirebon.
+  lokasi: Kuningan, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/213.jpg
   link: /hibah/213
   
 - nomor: '214'
-  judul: 
+  judul: 332lab Database & Media Seluler untuk Perkembangan Pengetahuan Desain, Kriya, dan Arsitektur Indonesia 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       332lab adalah sebuah knowledge support di bidang desain, kriya, dan arsitektur Indonesia yang berbasis web & applikasi seluler. 1 tahun ke depan 332lab akan membangun media & database yang tertaut dg aplikasi seluler. Kegiatan utama proyek ini: merancang website & aplikasi seluler, mengumpulkan data awal, menulis artikel & mempublikasinya di website 332lab, melakukan diseminasi & distribusi konten melalui medsos & kegiatan offline, & melakukan penetrasi informasi ke media-media. Visi 332lab: keterbukaan informasi dan pengetahuan desain & kriya; perkembangan desain progresif yg selaras dg keberagaman budaya & kriya nusantara; terciptanya pelaku desain dan kriya yang berkualitas dan beretika dalam berpraktik; kesejahteraan pelaku bidang ini.
+  lokasi: Jakarta Barat
+  tipe: konten
   gambar: /static/img/hibah/214.jpg
   link: /hibah/214
   
 - nomor: '215'
-  judul: 
+  judul: PutraJakarta (Public Transportation of Jakarta)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kemacetan sudah menjadi permasalahan rutin di kota Jakarta. Banyak upaya telah dilakukan pemerintah untuk mengatasi permasalahan ini. Penyebab utama kemacetan di kota Jakarta disebabkan oleh tingginya volume kendaraan yang didominasi oleh kendaraan pribadi. Perbaikan kualitas fasilitas kendaraan umum tidaklah cukup untuk menarik perhatian warga Jakarta untuk menggunakan angkutan umum. Selain fasilitas yang baik, warga Jakarta juga membutuhkan informasi trayek yang komprehensif. Sejauh ini, sistem informasi trayek angkutan umum kota Jakarta masih terpisah-pisah dan belum terintegrasi dengan sempurna. Untuk itu, dibutuhkan sebuah aplikasi yang mampu mengintegrasikan dan menginformasikan dengan cepat dan akurat semua trayek angkutan umum di kota Jakarta. Aplikasi PutraJakarta merupakan sebuah aplikasi sistem informasi transportasi angkutan umum kota Jakarta. Secara umum, aplikasi ini bertujuan untuk memberikan informasi yang cepat dan akurat mengenai trayek angkutan yang akan digunakan. Untuk menjamin kecepatan dan kemudahan akses, aplikasi ini akan dibangun pada mobile platform khususnya Android.
+  lokasi: Depok, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/215.jpg
   link: /hibah/215
   
 - nomor: '216'
-  judul: 
+  judul: Mr. Cleaner - Game Edukasi Lingkungan Bagi Anak Usia Dini
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mr. Cleaner merupakan permainan yang diimplementasikan pada platform android, dimana kami menawarkan permainan yang mendidik dan menyenangkan dalam membuang sampah. Dalam permainan ini terdapat bermacam-macam ground yang terdiri dari ground 1 hingga ground 7. Permainan ini akan dilakukan selama 30 detik pada setiap groundnya. Pemain yang berhasil memasukan sampah kedalam tempat sampah yang tepat akan mendapatkan reward berupa poin. Sebaliknya jika pemain salah memasukan sampah maka akan ada pengurangan poin. Pada setiap ground juga akan ada koin emas dan perak sebagai reward kepada pengguna.
+  lokasi: Surabaya, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/216.jpg
   link: /hibah/216
   
 - nomor: '217'
-  judul: 
+  judul: Semua Orang Bisa Terbantu Software untuk pencari donor darah
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Melihat orang yang di rumah sakit mengalami kesulitan mencari darah (stok darah) di PMI atau rumah sakit setempat maka di butuhkan sebuah aplikasi smartphone yang membuat list pendonor darah setiap wilayah untuk masing-masing wilayah pasien dan contact list orang-orang yang memiliki list darah. Software ini menyediakan peta lengkap dengan nama, no hp dan alamat social median. Bagi pengguna hp yang bukan smartphone bisa mengirim ke sms center. Contoh "Butuh darah area aceh utara"
+  lokasi: Aceh Utara
+  tipe: software
   gambar: /static/img/hibah/217.jpg
   link: /hibah/217
   
 - nomor: '218'
-  judul: 
+  judul: Pengelolaan Pengetahuan Bersama Melalui Peta Krisis Ekologis Jawa Timur
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Peta Krisis Ekologis Jawa Timur adalah sistem pengelolaan pengetahuan bersama berupa aplikasi dengan platform android (tahap awal), website, media sosial dan SMS Gateway. Saat ini Peta Krisis Ekologis Jawa Timur telah bisa diakses melalui laman web: datakrisis.walhijatim.or.id Aplikasi Peta Krisis Ekologis Jawa Timur akan menampilkan semua titik berita, investigasi serta laporan masyarakat terkait kerusakan dan ancaman ekologis di wilayah Jawa Timur, sehingga masyarakat bisa mengetahui situasi terkini yang terjadi lingkungannya. Peta Krisis Ekologis Jawa Timur juga bisa dipakai sebagai basis advokasi dan pengambilan kebijakan untuk penyelamatan lingkungan. Laporan masyarakat terkait krisis ekologis di wilayahnya bisa disampaikan melalui nomor telepon hotline, SMS, website, media sosial (twitter dan facebook), serta aplikasi yang akan dibangun dan bisa diunduh secara gratis pada perangkat smartphone berbasis Android.
+  lokasi: Sidoarjo, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/218.jpg
   link: /hibah/218
   
 - nomor: '219'
-  judul: 
+  judul: Gampong To The World
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Jaringan sukarelawan, melalui berbagai media sebut saja AISEC, IIWC, dan lain-lain, telah mencakup seluruh dunia. Tentunya banyak persoalan yang masih ada dalam negri ini yang belum tersentuh oleh dunia sukarelawan itu sendiri. Maka dari itu, melalui project ini kami ingin memberi akses kepada para relawan untuk menjangkau perdesaan, begitu pun sebaliknya. Bukan tidak mungkin suatu project sukarelawan tersebut dilakukan di pelosok desa yang jauh dari kota. Hanya saja akses informasi yang tersedia masih menjadi masalah besar bagi ke dua belah pihak. Dalam piranti lunak yang ingin kami kembangkan, kami akan membangun suatu social network yang berbasis pada bidang sukarelawan. Diharapkan bagi mereka yang ingin terlibat dan yang ingin mendukung program sosial tersebut dapat tergabung di dalamnya.
+  lokasi: Jaya Banda Aceh 
+  tipe: software
   gambar: /static/img/hibah/219.jpg
   link: /hibah/219
   
 - nomor: '220'
-  judul: 
+  judul: Situ (Supporter Indonesia Satu)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Situ (Supporter Indonesia Satu) merupakan aplikasi yang memberikan informasi kepada masyarakat Indonesia pecinta sepak bola nasional terutama supporter sepak bola Indonesia. Informasi berupa berita seputar klub dan sepak bola nasional, jadwal pertandingan, jadwal supporter home maupun saat tour away, forum komunikasi internal dan antar supporter, agenda supporter, chant supporter, ticketing, merchandise, dll. Aplikasi ini dikembangkan pada smartphone mobile application. Harapan dari aplikasi ini tidak hanya sekedar memberikan informasi kepada para supporter, namun dapat digunakan sebagai media komunikasi dan silaturahmi antar supporter untuk dapat menjalin rasa persaudaraan, persatuan, dan perdamaian demi terciptanya pertandingan sepak bola di Indonesia yang lebih aman dan tertib.
+  lokasi: Mojokerto, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/220.jpg
   link: /hibah/220
   
 - nomor: '221'
-  judul: 
+  judul: Generasi Hebat
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Platform yang kami tawarkan kali ini berbentuk peranti lunak (software). Software ini akan menyediakan informasi mengenai sekolah dan universitas di luar negeri yang berkualitas disertai dengan tata cara pendaftaran bagi siswa asing. Selain itu, software ini juga memberikan informasi beasiswa atau program pendanaan terkait dari pihak-pihak pemberi dana bantuan. Software nantinya akan ditunjang dengan platform program pengembangan diri secara tatap muka sebagai program persiapan karakter siswa yang akan melanjutkan pendidikan di luar negeri dan sebuah web untuk mempertemukan antar stakeholder dan shareholder pada platform ini.
+  lokasi: Depok, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/221.jpg
   link: /hibah/221
   
 - nomor: '222'
-  judul: 
+  judul: Game Multiplayer Pembelajaran Beribadah Berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Game multi player yang diperuntukkan untuk anak sd kelas 1 - 5 yang memiliki konten untuk pembelajran agama, dimana antar player bisa berkomunikasi, saling membantu dalam pembelajran.
+  lokasi: Sumenep, Madura
+  tipe: software
   gambar: /static/img/hibah/222.jpg
   link: /hibah/222
   
 - nomor: '223'
-  judul: 
+  judul: Info Jalan Kota Jayapura
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kota Jayapura Papua ini banyak keluhan jika kita hendak mencari solusi di malam atau siang hari untuk kendaraan kita yang mengalami kemacetan oleh beberapa hal, seperti ; BBM habis, ban kempes atau pecah dan kemacetan lainnya. Dengan adanya konten m.infojalankotajayapua dapat membantu mengatasi masalah tersebut. Konten ini di sediakan dalam 2 (dua) versi diantaranya SMS dan online mobilephone.
+  lokasi: Jayapura, Papua
+  tipe: konten
   gambar: /static/img/hibah/223.jpg
   link: /hibah/223
   
 - nomor: '224'
-  judul: 
+  judul: Giziku. com
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Giziku.com adalah sebuah aplikasi dan web yang berguna untuk mengontrol kebutuhan gizi seseorang melalui track record asupan makanan dari pengguna itu sendiri, sehingga beberapa penyakit yang dikarenakan oleh kelebihan atau kekurangan asupan kandungan gizi tertentu dapat dengan mudah diketahui.
+  lokasi: Bogor, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/224.jpg
   link: /hibah/224
   
 - nomor: '225'
-  judul: 
+  judul: Ponsel Solidaritas PerempuAN (Ponsopan) Rentan Ekonomi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ponsel Solidaritas Perempuan (ponsopan) Aceh merupakan upaya pemanfaatan teknologi telpon seluler (ponsel) untuk tujuan-tujuan kemanusiaan, memperkuat solidaritas dan networking , utamanya sesama korban , keluarga korban agar berkenan berbagi informasi , saling berinteraksi, dengan harapan agar program-program pemberdayaan yang dilakukan baik oleh pemerintah maupun lembaga dapat tersosialisasi dan menyentuh korban lebih komprehensif, baik program yang telah, sedang dan yang akan dilancarkan tentunya.Interaksi dan komunikasi memanfaatkan program ponsopan diharap mampu memotret tahap lanjutan kebutuhan-kebutuhan esensi komunitas perempuan, perorangan atau kelompok , medapat akses perlindungan hukum , akses informasi terutama terkait program lanjutan sebagai wujud solusi dan opsi pemulihan pasca konflik di Aceh . Terutama dalam mengatasi masalah-masalah sosial dan ekonomi yang tengah dihadapi.
+  lokasi: Banda Aceh
+  tipe: konten
   gambar: /static/img/hibah/225.jpg
   link: /hibah/225
   
 - nomor: '226'
-  judul: 
+  judul: JEJAQ - Olahraga untuk Perubahan Sosial
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       JEJAQ adalah sebuah media multi-platform (aplikasi seluler dan website) untuk mengajak masyarakat Indonesia bersama-sama membuat perubahan ke arah yang lebih baik, sambil dibarengi ajakan gaya hidup sehat dengan semakin rajin dan rutin berolahraga.
+  lokasi: Jakarta Timur
+  tipe: software
   gambar: /static/img/hibah/226.jpg
   link: /hibah/226
   
 - nomor: '227'
-  judul: 
+  judul: Videokatif Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Videokatif Indonesia merupakan proyek mengenai edukasi yang berbasis video. Video yang disajikan merupakan video mengenai pembelajaran mata pelajaran tingkat SMA dengan kualitas video 3gp sehingga mudah diakses melalui perangkat seluler pelajar. Dengan begitu diharapkan para pelajar setingkat SMA bisa belajar di mana saja dengan konsumsi data yang rendah dan hemat biaya dibandingkan mengikuti program bimbel di sekitarnya.
+  lokasi: Bandung, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/227.jpg
   link: /hibah/227
   
 - nomor: '228'
-  judul: 
+  judul: Appropria
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Appropria adalah proyek literasi digital berbasis portal berita dan aplikasi mobile yang ditujukan pada orangtua usia 25-40 tahun di kota-kota besar dengan segmentasi menengah ke atas. Appropria bertujuan untuk memberikan panduan bagi orangtua dalam menyikapi semakin akrabnya anak (diutamakan yang berusia 6-15 tahun) dengan berbagai bentuk perkembangan internet dan dunia digital lainnya.
+  lokasi: Jakarta
+  tipe: konten
   gambar: /static/img/hibah/228.jpg
   link: /hibah/228
   
 - nomor: '229'
-  judul: 
+  judul: Membuat Website Tanya Jawab dengan Dukungan Aplikasi Mobile
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Membuat sebuah website tanya jawab (bukan forum diskusi) yang didukung dengan aplikasi mobile (IOS, Android, RIM BlackBerry) untuk memudahkan kalangan mahasiswa, pelajar, dan umum untuk mencari tau jawaban dari pertanyaan yang sering menghambat proses kerja/belajar. Setiap pertanyaan akan dipublish di website sehingga user lain dapat membantu apabila user tersebut mengetahui jawaban dari pertanyaan tersebut. Website ini juga menyediakan fasilitas mencari tenaga kerja dan mencari kerja.
+  lokasi: Banda Aceh
+  tipe: konten
   gambar: /static/img/hibah/229.jpg
   link: /hibah/229
   
 - nomor: '230'
-  judul: 
+  judul: Sistem Informasi Pendesaan Berbasis Web
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi yang mampu menyampaikan segala informasi desa dan juga dilengkapi dengan segala transaksi di sekretariat desa seperti, surat,rekomendasi, informasi penduduk, informasi mesjid, dan aset desa.
+  lokasi: Aceh Besar
+  tipe: software
   gambar: /static/img/hibah/230.jpg
   link: /hibah/230
   
 - nomor: '231'
-  judul: 
+  judul: Pengembangan aplikasi Pendeteksian dan Pengenalan Tumbuhan Obat Secara Realtime Berbasiskan Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini dibangun untuk membantu masyarakat dalam memanfaatkan tumbuhan obat yang jumlahnya sangat banyak (menurut Bappenas mencapai 38.000 spesies). Aplikasi ini juga menyediakan fitur searc engine untuk pencaian tumbuhan obat berdasarkan penyakitnya.
+  lokasi: Depok, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/231.jpg
   link: /hibah/231
   
 - nomor: '232'
-  judul: 
+  judul: Situs Penjual Bahan Pangan Lokal Jayapura
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini adalah proyek penjual bahan pangan lokal Papua. Proyek ini memadukan platform SMS Frontline dan Ushahidi. Melalui proyek ini, pedagang dapat melaporkan setiap harga ataupun produk lokal melalui sms, email atau formulir online untuk dipublikasikan secara otomatis dalam sebuah situs/ website. Fokus dari proyek ini adalah informasi dari pedagang lokal Papua. Siapa saja bisa kontribusi melalui prosedur verified dan unverified. Namun beberapa pedagang akan dilatih membuat laporan singkat via SMS di nomor Hotline situs dengan format sederhana agar secara reguler bisa mengupdate harga dan jenis jualan lokal mereka untuk menarik pembeli dan mengoptimalkan hasil dagang mereka. Untuk mendisitribusikan konten situs yang merupakan laporan warga ini, situs proyek ini akan dihubungkan dengan jejaring sosial seperti Facebook dan Twitter dan melalui SMS App (frontline sms) kepada audience yang sudah tersimpan datanya di database kami.
+  lokasi: Biak
+  tipe: konten
   gambar: /static/img/hibah/232.jpg
   link: /hibah/232
   
 - nomor: '233'
-  judul: 
+  judul: Serune Kalee Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Serune Kalee, adalah alat musik tiup tradisional dari Aceh. Serune Kalee dimainkan dalam perayaan acara adat seperti pernikahan. Namun, seiring dengan perkembangan teknologi, suara unik instrumen ini mulai ditinggalkan dan diganti dengan iringan musik modern.
+       Pesatnya perkembangan Android akan menjadi media untuk melestarikan Serune Kalee. Serune Kalee akan dibangun kembali dalam bentuk digital berbasis Android. Sehingga, dengan adanya aplikasi ini, penikmat musik dapat mengetahui cara belajar dan menggunakan Serune Kalee dan tidak membingungkan dalam proses belajar Serune Kalee.
+  lokasi: Aceh
+  tipe: software
   gambar: /static/img/hibah/233.jpg
   link: /hibah/233
   
 - nomor: '234'
-  judul: 
+  judul: Aplikasi Sistem Informasi Sekolah (ASIS) Berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ASIS (Sistem Informasi Sekolah) adalah aplikasi berbasis Android yang ditujukan sebagai aplikasi belajar yang dapat digunakan di sekolah dan sebagai fasilitas untuk membantu proses belajar siswa. Aplikasi ini membantu sekolah untuk menjadwalkan berbagai kegiatan belajar sehari-hari, termasuk diantaranya menjadwalkan kegiatan ulangan, ujian, ekstra kurikuler, dan sebagainya. Aplikasi ini juga terhubung kepada orang tua atau wali siswa sehingga orang tua atau wali siswa juga dapat membantu proses belajar siswa di rumah dan juga memantau aktivitas belajar yang dilakukan siswa di sekolah.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/234.jpg
   link: /hibah/234
   
 - nomor: '235'
-  judul: 
+  judul: Suara Muncul Teks Aplikasi Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Masyarakat harus mengelola keungan dengan sistem yang baik maka keuangan masyarakat dapat di kelola dengan baik dengan sistem online dan memudahkan di akses oleh publik Dengan program android ini selain memudahkan masyarakat dalam berkomunikasi sistem yang memudahkan masyarakat mencari tahu, seluler informasi yang di sampaikan dilanjutkan di lapangan misalnya melalui pertemuan warga masyarakat, saya berharap akan semakin peduli terhadapa pembangunan sosial yang diadakan dan memastikan anggaran tepat pada sasaran dan menjawab kebutuhan masyarakat papua dan non-papua
+  lokasi: Sentani, Papua
+  tipe: konten
   gambar: /static/img/hibah/235.jpg
   link: /hibah/235
   
 - nomor: '236'
-  judul: 
+  judul: Aplikasi HAK 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini membantu masyarakat mendapatkan hak-haknya atas kesejahteraan, khususnya di bidang kesehatan di wilayah DKI Jakarta
+  lokasi: Malang, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/236.jpg
   link: /hibah/236
   
 - nomor: '237'
-  judul: 
+  judul: MDCare, Improves Medical Doctors in Taking Care of Their Patients.
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       MDCare adalah aplikasi mobile health yang digunakan oleh dokter, dokter gigi dan praktisi kesehatan lainnya yang berfungsi untuk membantu mereka dalam melayani dan merawat pasien mereka dari jarak jauh menggunakan media smartphone. MDCare berfungsi untuk membantu seorang dokter mengingatkan pasiennya tentang terapi, minum obat, pantangan dan anjuran pengobatan. Seorang dokter, hanya perlu menginputkan data pengobatan pasiennya seperti data obat, diagnosa, pantangan dan saran kedalam smartphone yang dimilikinya , lalu MDCare akan mengingatkan pasien tersebut secara otomatis di waktu-waktu yang ditentukan .
+  lokasi: Bogor, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/237.jpg
   link: /hibah/237
   
 - nomor: '238'
-  judul: 
+  judul: MobiTV Community (Mobile TV Community)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       MobiTV Community merupakan nama singkat dari Mobile TV Community, yaitu aplikasi TV Broadcaster yang dapat digunakan pada perangkat seluler Android. Aplikasi ini dapat digunakan untuk membroadcast siaran televisi suatu komunitas secara online dengan media akses streaming di jaringan intranet maupun internet dengan IP Publik. MobiTV Community diperuntukkan untuk komunitas dengan tujuan sasaran untuk berbagi informasi positif mengenai kondisi di sekitarnya. Keunggulan aplikasi ini dapat langsung melakukan broadcast secara langsung dari suatu tempat dengan memanfaatkan kamera telepon seluler Android, sehingga tidak memerlukan biaya yang sangat besar untuk pengadaan kamera untuk media siar. Untuk pengguna yang ingin menonton, dapat langsung mengakses ke alamat web atau IP Server dari saluran TV komunitas dan dapat langsung dilihat di perangkat Android dengan bantuan Flash Player atau aplikasi untuk streaming seperti VLC dan lainnya. Dengan demikian, salah satu contoh sasaran penerapan MobiTV Community yaitu di Kampus Universitas Syiah Kuala, dengan membagikan jadwal siar untuk setiap BEM atau Komunitas masing-masing Fakultas, sehingga pada saat jadwal siar suatu fakultas dapat memanfaatkan gadget Android mereka sebagai kamera dan dapat memilih file iklan atau musik secara langsung di Android untuk selingan. Sehingga, setiap fakultas dapat membagikan informasi yang positif kepada mahasiswa di lingkungan kampus atau masyarakat sekitar.
+  lokasi: Aceh
+  tipe: software
   gambar: /static/img/hibah/238.jpg
   link: /hibah/238
   
 - nomor: '239'
-  judul: 
+  judul: Unity in Diversity (Game Edukasi Pengenalan Kebhinekaan Indonesia)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Unity in Diversity merupakan permainan yang diimplementasikan pada platform android (bila dimungkinkan akan di kembangkan pada pc, dan browser), yang mana menawarkan pengenalan alat musik, rumah adat, dan pakaian adat dari masing masing provinsi di Indonesia. dalam game ini terdapat 2 jenis permainan yang berbeda, yang mengajak untuk mengingat dan berfikir serta kelincahan tangan untuk menyelesaikan tantangan. selain terdapat permainan, dalam Unity in Diversity juga terdapat kamus tentang masing masing daerah yang berisi mengenai keunikan suatu daerah/provinsi.
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/239.jpg
   link: /hibah/239
   
 - nomor: '240'
-  judul: 
+  judul: Bebas Tuna Aksara melalui selular
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       selular akan dipergunakan dalam upaya pemberantasan dan pencegahan tuna aksara/ buta huruf/ tidak bisa baca-tulis-menghitung 2000 warga masyarakat kabupaten Bantul, DIY. dengan cara memberikan sms learning pada seluruh masyarakat penyandang tuna aksara melalui celular yang dimiliki masyarakat atau diberi sebelumnya.
+  lokasi: Tasikmalaya, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/240.jpg
   link: /hibah/240
   
 - nomor: '241'
-  judul: 
+  judul: Rekam Medik untuk Semua
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini akan mengembankan piranti lunak berbasis awan untuk menyimpan dan mengakses rekam medik. Para dokter dapat mengisi dan melihat sejarah penyakit dan pengobatan seorang pasien agar dapat mendiagnosa dengan lebih benar dan memberikan pengobatan dengan lebih tepat. Para pasien dapat mengakses informasi kesehatan pribadinya dan bisa dengan mudah untuk diperlihatkan kepada para pihak yang memerlukannya.
+  lokasi: Aceh
+  tipe: software
   gambar: /static/img/hibah/241.jpg
   link: /hibah/241
   
 - nomor: '242'
-  judul: 
+  judul: Aplikasi Pemetaan Kejadian Kriminal (Crime Zone)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Crime Zone adalah aplikasi map-based crowdsourcing yang memberikan informasi kepada pengguna mengenai tingkat kriminalitas di suatu tempat dalam bentuk peta interaktif. Informasi interaktif yang diberikan di peta diolah dari laporan-laporan tindak kejahatan yang di-sampaikan oleh masyarakat selaku pengguna Crime Zone itu sendiri. Aplikasi ini dapat menjadi media bagi masyarakat untuk saling berbagi informasi kejahatan serta berbagi kewaspadaan dan meningkatkan awareness masyarakat terhadap potensi tindak kejahatan.
+  lokasi: Depok, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/242.jpg
   link: /hibah/242
   
 - nomor: '243'
-  judul: 
+  judul: Try Out ONLine berbasis Web dan SMS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem terdiri dari :
+      - Bank Soal meliputi SD, SMP, SMA/K lengkap dengan kunci jawaban yang diperoleh dari narasumber (Prof, Guru, Tenaga Ahli pendidikan, dan tim pembuat soal ujian sekolah)
+      - Kunci jawaban meliputi multiple choice dan essay (dilengkapi dengan deskripsi penyelesaian soal)
+      - hasil try out akan diumumkan melalui sms ke nomor pengguna login peserta try out online.
+  lokasi: Asahan, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/243.jpg
   link: /hibah/243
   
 - nomor: '244'
-  judul: 
+  judul: iRelawan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       iRelawan adalah sebuah platform penanganan bencana di Indonesia yang dibuat khusus sebagai platform berbagi informasi:
+       - Bencana Terkini dengan klasifikasi dan status
+       - Early Warning System
+       - Identifikasi Lokasi Pengungsian
+       - Identifikasi Korban
+       - Identifikasi Pengungsi
+       - Identifikasi Relawan per lokasi
+       - Kebutuhan Logistik per lokasi
+       - Informasi Penyalur Bantuan
+       Dengan platform ini, informasi-informasi yang sifatnya kritikal dapat segera dibroadcast sehingga memungkinkan aksi yang lebih dini.
+  lokasi: Makasar, Sulawesi Utara 
+  tipe: software
   gambar: /static/img/hibah/244.jpg
   link: /hibah/244
   
 - nomor: '245'
-  judul: 
+  judul: Penyediaan Informasi Perlindungan Anak Usia Dini Bagi Guru dan Wali Murid PAUD se Kabupaten Magelang
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Lembaga Pendidikan Anak Usia Dini (PAUD) seringkali dikelola tak ubahnya lembaga pendidikan formal SD, SMP dan SMA. Seharusnya, PAUD dikelola dengan menggunakan pendekatan holistik yang menyakup 4 kebutuhan anak: pendidikan, perawatan, pengasuhan dan perlindungan. Pelaksanaan pendidikan holistik integratif ini menunjukkan adanya kesadaran pendidikan harus dilakukan dengan melibatkan orang tua murid, dan membangun kerja sama dengan pihak-pihak pemangku kepentingan. Ketika Lembaga PAUD hanya bekerja pada ranah pendidikan, yang terjadi justru melanggar hak anak. Misalnya, memungkinkan terjadinya kekerasan psikis, dan bahkan tak jarang kekerasan fisik. Program yang diajukan akan mendorong pengembangan Lembaga PAUD dengan menggunakan pendekatan holistik pada 4 kebutuhan anak, dan menggunakan perspektif gender dan hak anak dalam pengelolaan proses belajar-mengajarnya. Upaya ini dilakukan dengan memproduksi dan mendistribusikan content melalui sms kepada guru dan wali murid.
+  lokasi: Magelang, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/245.jpg
   link: /hibah/245
   
 - nomor: '246'
-  judul: 
+  judul: Jajaka (Jalan-jalan Kota)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Jajaka merupakan aplikasi berbasis peta untuk mengetahui lokasi tempat-tempat wisata yang ada di kota-kota besar di Indonesia. Tempat wisata ini dibagi menjadi wisata sejarah seperti museum, benteng, keraton, candi dan tempat-tempat bersejarah lainnya di kota tersebut, serta wisata modern seperti mall, waterpark, taman dan pusat wisata modern lainnya. Manfaat aplikasi ini secara langsung adalah mempermudah wisatawan untuk memaksimalkan pencarian tempat wisata yang ada di kota tersebut dengan menampilkan semua tempat wisata yang terdata dalam bentuk peta serta memberikan pengalaman wisata edukasi bagi para wisatawan dengan fitur peta wisata sejarah. Secara tidak langsung aplikasi ini membantu mempromosikan tempat-tempat wisata yang ada di kota-kota Indonesia, terutama tempat wisata yang belum terlalu dikenal masyarakat, sekaligus memajukan perekonomian masyarakat disekitar daerah wisata tersebut karena meningkatnya jumlah wisatawan.
+  lokasi: Bengkulu
+  tipe: software
   gambar: /static/img/hibah/246.jpg
   link: /hibah/246
   
 - nomor: '247'
-  judul: 
+  judul: Smart Earthquake Emergency Response System (SHAKERS)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Indonesia merupakan salah satu negara yang terletak di Pacific Ring of Fire. Banyak sekali gunung berapi aktif yang terletak di kawasan Negara Kesatuan Republik Indonesia. Hal ini memicu terjadi nya gempa baik yang berskala rendah maupun berskala tinggi. Menurut data dari BNPB (Badan Nasional Penanggulangan Bencana), intensitas kejadian gempa bumi tercatat lebih rendah jika dibandingkan dengan banjir atau bencana lainnya. Namun, jumlah korban yang ditimbulkan dari bencana gempa bumi ini lebih tinggi jika dibandingkan dengan banjir dan beberapa bencana lainnya. Salah satu faktor yang menyebabkan hal tersebut adalah kurangnya sistem peringatan dan respon ketika gempa bumi terjadi. Proyek ini ditujukan dalam membangun sebuah sistem peringatan gempa bumi pintar yang menggunakan teknologi kecerdasan buatan. Alasan utama dari pengembangan aplikasi ini adalah kurangnya sistem peringatan terhadap bencana gempa khususnya di Indonesia. Aplikasi ini dibangun dengan memanfaatkan accelerometer pada smartphone untuk mendeteksi kejadian gempa. Dengan memanfaatkan sensor yang tertanam di smartphone, diharapkan masyarakat tidak membutuhkan perangkat tambahan yang sangat mahal hanya untuk mendeteksi terjadinya gempa.
+  lokasi: Buahbatu, Bandung Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/247.jpg
   link: /hibah/247
   
 - nomor: '248'
-  judul: 
+  judul: Peramalan Hasil Panen Kelapa Sawit dan Solusi Perawatan Menggunakan Metode  Newthon dan  Mengoptimalkan  Cleant-Server
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini adalah sebuah konten yang memberikan informasi kepada masyarakat perkebunan kelapa sawit berupa peramalan dan solusi perawatan yang terbaik sehingga masyarakat mengetahui hasil panen yang di dapat pada panen berikutnya dan bagaimana perawatan yang terbaik yang harus di lakukan sehingga hasil panen kelapa sawit masyarakat meningkat. Adapun data yang di gunakan yaitu perawatan dan hasil panen dari masyarakat , dengan beragamnya data yang di peroleh dan semakin banyak data yang di peroleh maka analisis / peramalan hasil penen kelapa sawit dan solusi perawatan terbaiknya semakin akurat
+  lokasi: Kabupaten Ogan Komering Ulu, Sumatra Selatan 
+  tipe: konten
   gambar: /static/img/hibah/248.jpg
   link: /hibah/248
   
 - nomor: '249'
-  judul: 
+  judul: Pemanfaatan HP untuk Pemantauan Kinerja Aparat Pemerintah Daerah dalam Penyediaan Pelayanan Public Melalui Pengembangan SIPAK 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pemanfaatan HP untuk pemantauan kinerja aparat pemerintah daerah dalam penyediaan pelayanan public melalui pengembangan SIPAK (Sistem Informasi Pengaduan dan Analisis Kinerja).
+       SIPAK (Sistem Informasi Pengaduan dan Analisis Kinerja) adalah Sistem informasi berbasis web yang yang memberikan informasi mengenai kondisi dan kualitas pelayanan publik di suatu wilayah berdasarkan informasi, keluhan, apresiasi dan pengaduan warga yang disampaikan melalui HP. Sistem informasi ini juga berguna dalam melakukan analisis dan evaluasi kinerja aparat pemerintah daerah, khususnya dalam penyediaan layanan publik. Pada tahap awal sistem informasi ini akan diimpelementasikan di kota Bogor dan nantinya akan dimodifikasi dan diterapkan di kota-kota lainnya di Indonesia
+  lokasi: Depok, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/249.jpg
   link: /hibah/249
   
 - nomor: '250'
-  judul: 
+  judul: ITBirokreasi (Informasi Tahapan Pengurusan Birokrasi)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       ITBirokreasi merupakan nama singkat dari Informasi Tahapan Pengurusan Birokrasi, yaitu aplikasi berbasis mobile yang dapat berjalan pada sistem operasi Android yang dapat menjelaskan kepada masyarakat yang ingin mengurus suatu berkas yang menyangkut layanan publik pada suatu instansi pemerintahan, meliputi persyaratan yang harus dipersiapkan, tahapan yang akan dijalani, biaya administrasi yang harus dikeluarkan dan berapa lama waktu yang dibutuhkan untuk pengurusan berkas dan pelayanan yang bersifat layanan publik pada suatu instansi pemerintah (seperti pengurusan pembuatan/perpanjangan SIM, pembuatan sertifikat tanah, pengurusan NPWP, dll). Jika tahapan pengurusan sudah selesai masyarakat dapat memberi rate tingkat kepuasan (rating dari 1 s/d 5) untuk instansi yang sudah melayani, sehingga pihak instansi yang terkait dapat mengetahui tingkat kepuasan publik. Jika publik yang dilayani merasa terdapat tindak korupsi selama tahapan pengurusan berkas, publik dapat melapor melalui aplikasi ITBirokreasi. Aplikasi Informasi Tahapan Pengurusan Birokrasi ini untuk pengembangan awal ditujukan untuk masyarakat luas dengan sample data dari instansi pemerintah(Kepolisian, Perpajakan, Pertanahan) untuk daerah Provinsi Aceh.
+  lokasi: Aceh
+  tipe: software
   gambar: /static/img/hibah/250.jpg
   link: /hibah/250
   
 - nomor: '251'
-  judul: 
+  judul: Informasi Bersama Menjalankan Produksi Bersama 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Karena dapur adalah laboratorium di mana perempuan menuangkan kreativitas mereka . Wanita adalah seniman di dapur mereka , di mana mereka mendapatkan kreatif dan mempertahankan keragaman. Pan4women adalah sebuah wadah yang bertujuan untuk menciptakan dapur kolektif bagi perempuan yang akan berfungsi sebagai laboratorium pengolahan makanan , sehingga akan membantu anggota untuk menambah nilai ke dalam produk mereka. Sementara mereka membuat produksi mereka , mereka benar-benar menenun kekuatan batin mereka. Dengan memperkuat, ini adalah jalan untuk meletakkan dasar lingkungan , persahabatan , dan yang paling penting kehidupan dari desa itu sendiri. Kami mengambil ini dalam kaitannya dengan kemandirian mereka untuk menjadi pimpinan di ruang mereka sendiri dengan memberikan dan mendukung tidak hanya ide-ide mereka , jugamenciptakan hasil produksi pangan dan pertanian mereka serta mendukung pangan lokal dan teknologi yang menjamin keseimbangan alam dan ekologi.
+  lokasi: Cempaka Putih, Jakarta Pusat 
+  tipe: konten
   gambar: /static/img/hibah/251.jpg
   link: /hibah/251
   
 - nomor: '252'
-  judul: 
+  judul: Papua Berdering Berbasis Website
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini adalah proyek masyarakat adat di daerah Papua. Proyek ini memadukan platform SMS Frontline dan Website. Melalui proyek ini, warga dapat melaporkan setiap peristiwa ataupun yang terjadi di kampung melalui sms, email atau formulir online untuk dipublikasikan secara otomatis dalam sebuah website. Fokus dari proyek ini adalah informasi dari kampung dan wilayah-wilayah pedalaman Papua. Siapa saja bisa menjadi pelapor melalui prosedur verified dan unverified. Namun beberapa warga akan dilatih membuat laporan singkat via SMS di nomor Hotline situs dengan format SMS yang baik, agar secara reguler bisa melaporkan peristiwa atau permasalahan Sumber Daya Alam, Hak Ekonomi Sosial dan Budaya di Tanah Papua. Untuk mendisitribusikan konten situs website yang merupakan laporan masyarakat, website proyek ini akan dihubungkan dengan jejaring sosial seperti Facebook dan Twitter dan melalui SMS App (frontline sms) kepada audience/masyarakat yang sudah tersimpan datanya di database.
+  lokasi: Abepura, Papua
+  tipe: konten
   gambar: /static/img/hibah/252.jpg
   link: /hibah/252
   
 - nomor: '253'
-  judul: 
+  judul: Kamus Bahasa Aceh for Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Bahasa Aceh merupakan bahasa yang umum digunakan oleh masyarakat Aceh, baik anak-anak hingga orang dewasa. Bahasa Aceh bukan bahasa formal yang digunakan di Aceh, namun bahasa ini sudah menjadi media komunikasi yang digunakan oleh masyarakat Aceh. Dan akan menjadi sebuah kesulitan sendiri bagi masyarakat yang bukan berasal dari Aceh.
+       Kamus Bahasa Aceh for Android merupakan aplikasi berbasis Android yang ditujukan bagi masyarakat yang ingin belajar bahasa Aceh, terutama bagi masyarakat yang berasal dari luar Aceh.
+       Pada setiap kata yang terdapat diaplikasi ini akan dilengkapi juga dengan audio, sehingga pengguna dapat mendengar dan mengucapkan kembali kata tersebut dengan benar. Diharapkan aplikasi ini dapat digunakan oleh semua masyarakat yang ingin belajar bahasa Aceh dan ikut berpartisipasi melestarikan kebudayaan Aceh itu sendiri.
+  lokasi: Aceh
+  tipe: software
   gambar: /static/img/hibah/253.jpg
   link: /hibah/253
   
 - nomor: '254'
-  judul: 
+  judul: Seluler Untuk Emergency
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Memberikan informasi emergency (layanan Ambulan, Puskesmas, Rumahsakit) melalui SMS kepada Masyarakat yang berada di 10 kecamatan di wilayah Kabupaten Tasikmalaya dengan jarak lebih dari 50 KM dari rumahsakit terdekat.
+  lokasi: Tasikmalaya, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/254.jpg
   link: /hibah/254
   
 - nomor: '255'
-  judul: 
+  judul: Game Angkringan: Upaya Promosi Warung Angkringan melalui Game Berbasis Mobile
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Game Angkringan adalah sebuah game yang menantang para pemainnya untuk menentukan strategi dalam berwirausaha warung angkringan. Dengan kata lain, game ini mencoba mengajak para pemain untuk belajar dalam posisi sebagai pelaku penjual yang bertugas memanage sebuah warung angkringan. Game ini bertujuan untuk mempromosikan salah satu kekayaan lokal yang sudah menjadi salah satu ciri khas negara indonesia. Selain itu, game ini juga bertujuan untuk menjadi media promosi bagi pelaku wirausaha warung angkringan.
+  lokasi: Jepara, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/255.jpg
   link: /hibah/255
   
 - nomor: '256'
-  judul: 
+  judul: MataKota
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi seluler ini bertujuan untuk wadah masyarakat untuk suatu kota untuk memberikan aspirasi secara personal dan langsung serta wadah mengelola berbagai aspirasi masyarakat yang akan ditujukan bagi pemimpin kotanya.
+  lokasi: Bandung, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/256.jpg
   link: /hibah/256
   
 - nomor: '257'
-  judul: 
+  judul: Trans-Traffic
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Penggunaan lampu lalu lintas juga belum dianggap optimal dalam mengatasi kemacetan, untuk itu perlunya edukasi serta tindakan pemberian hukuman (sanksi) terhadap pengguna jalan yang “nakal” secara langsung atau memberikan peringatan awal bagi mereka yang melanggar.Tentunya pemerintah juga ambil alih dalam kegiatan ini. Proyek ini memberikan simulasi tiga dimensi yang memperagakan kendaraan yang sedang melewati jalan raya. Setiap simpang dan jalan akan dibuat semirip mungkin dengan jalan aslinya sehingga membuat simulasi lebih nyata. Mobil akan digantikan oleh robot line follower yang mengikuti jalur jalan yang akan dibuat sebagai miniature jalan raya. Robot line follower nantinya akan dapat di drive pada perangkat seluler, melalui komunikasi Bluetooth. User akan ‘berlatih’ mengendarai ‘mobil’ yang nantinya akan di atur oleh sistem lalu lintas. Ketika lampu hijau menyala maka mereka boleh melewati persimpangan untuk mengarahkan mobil mereka ke tujuan nya masing-masing. Namun ketika lampu merah , mereka wajib berhenti dibelakang garis dan dilarang melintas. Jika terdapat user yang melintas, sistem akan mengetahui nomor identitas kendaraan dan mengirimnya ke server, melalui data ini nantinya server mengetahui identitas user dan kemudian akan memberi peringatan awal berupa sms/toast mobile.
+  lokasi: -
+  tipe: hardware
   gambar: /static/img/hibah/257.jpg
   link: /hibah/257
   
 - nomor: '258'
-  judul: 
+  judul: Penguatan Akses Informasi Buruh Migran Melalui Radio Online Buruh Migran
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini bertujuan untuk memperluas keteraksesan informasi di kalangan Buruh Migran Indonesia, yang juga dikenal dengan Tenaga Kerja Indonesia (TKI), di negara tujuan melalui radio online buruh migran. Kesenjangan informasi di kalangan TKI perlu diatasi secara partisipatif dengan melibatkan secara langsung kelompok ini sebagai pelaku atau subyek. Tidak semata tertuju pada menjadikan kelompok TKI semata sebagai penerima informasi, program ini juga bertujuan untuk membangun “komunitas informasi” di kalangan TKI yang berperan dalam pengelolaan dan diseminasi informasi di kalangan TKI di masing-masing negara. Secara umum program ini terfokus pada beberapa aktivitas, yaitu (1) Mengembangkan teknologi selular yang memudahkan BMI untuk mengakses informasi yang disediakan melalui radio online; (2) membangun komunitas informasi TKI di beberapa negara tujuan, yaitu Arab Saudi, Singapura, dan Hong Kong yang menjadi pengelola di masing-masing negara; (3) Pengembangan Konten Audio pendidikan seputar migrasi ketenagakerjaan; 4) Membangun lumbung audio pengetahuan untuk pendidikan TKI.
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/258.jpg
   link: /hibah/258
   
 - nomor: '259'
-  judul: 
+  judul: MAILE (Madrasah Mobile Interactive Learning Environment)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini digunakan untuk siswa-siswi madrasah, guru madrasah,madrasah dan orang pendidikan yang konstruktif terhadap perkembangan madrasah. aplikasi ini sebagai tempat berbagi (share) materi, soal dan pembahasan tentang mata pelajaran. untuk konsep pembelajaran bebasis multimedia, terinspirasi pada situs http://www.khanacademy.org/, untuk tekniknya akan menggunakan guru madrasah dan siswa-siswi madrasah yang kontruktif untuk memproduksi konten video dan ebook sehingga dapat memberikan materi yang tepat, kejelasan konsep dan kualitas pembelajaran. sehingga akan menarik minat para siswa-siswi madrasah karena lebih komunikatif dalam bentuk visual dan merasa dilibatkan secara langsung. ide ini juga terinspirasi dari situs http://grephysics.net/ans/ yaitu suatu konsep yang menyediakan soal-soal dan pembahasannya yang dapat dikatakan sebagai bank soal nasional.aplikasi ini sangat bermanfaat bagi siswa-siswa madrasah yaitu sebagai tempat untuk menunjukkan kemampuan diri dari siswa-siswi madrasah, sebagai tempat untuk pubilkasi prestasi diri dari siswa-siswa madrasah, sebagai tempat untuk informasi (beasiswa,perguruan tinggi,program pemerintah,lomba-lomba, dan kegiatan dunia pendidikan), dan bisa sebagai tempat untuk penghubung dengan dunia kerja.
+  lokasi: Kediri, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/259.jpg
   link: /hibah/259
   
 - nomor: '260'
-  judul: 
+  judul: Save Mangrove Signal (SMS) 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Save Mangrove Signal (SMS)), yaitu sebuah kegiatan menyelamatkan hutan mangrove melalui peningkatan kapasitas masyarakat pesisir di bidang fotografi selular. Mereka menjadi subjek yang menyampaikan, menginformasikan sekaligus kondisi hutan mangrove serta lingkungan sekitarnya.
+  lokasi: Pontianak, Kalimantan Barat
+  tipe: konten
   gambar: /static/img/hibah/260.jpg
   link: /hibah/260
   
 - nomor: '261'
-  judul: 
+  judul: Lingkar Suara Buruh Perempuan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Lingkar Suara Buruh Perempuan adalah program yang dikembangkan dari Radio Buruh Perempuan Marsinah FM. Radio tersebut ingin mengembangkan daya jangkau, isi atau materi dan tingkat partisipasi buruh dengan menggunakan teknologi ponsel. Melalui ponsel buruh tidak hanya mendapatkan kemudahan untuk mengakses informasi, tetapi juga akan mendapatkan akses untuk pendampingan langsung ketika mereka menghadapi situasi sulit. Pendampingan melalui ponsel ini akan memberi bantuan bagi buruh perempuan tanpa menghilangkan atau menggantikan peran langsungnya. Hal ini akan memberi pengalaman juang dan keberanian bagi buruh tersebut. Pengembangan di kalangan buruh perempuan ini juga dijalin melalui grup komunikasi Whatsapp dan Facebook.
+  lokasi: Cilincing, Jakarta Utara
+  tipe: konten
   gambar: /static/img/hibah/261.jpg
   link: /hibah/261
   
 - nomor: '262'
-  judul: 
+  judul: Sharing With Apps
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SHARING WITH APPS adalah sebuah inisiatif untuk mendorong dan memperluas pemanfaatan aplikasi mobile untuk kegiatan amal dan penggalangan dukungan/sumber daya publik melalui mekanisme lomba, pelatihan, kampanye dan aksi fundraising
+  lokasi: Bogor, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/262.jpg
   link: /hibah/262
   
