@@ -72,17 +72,17 @@ layout: info
 	<div class="row">
     	<br/>
 	<ul id="itemContainer" style="list-style:none;">
-	{% for hibah in site.data.hibah %}
+	{% for hibahcms in site.data.hibahcms %}
 	{% assign loopindex = forloop.index | modulo: 3 %}
 	<li>
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive center-block" src="{{ hibah.gambar }}"></a>
+		<a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}"></a>
                 <hr>
-		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
-                {{ hibah.deskripsi | truncatewords: 20 }}
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
 		<hr>
-		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
               </div>
     	</div>
 	{% if loopindex == 0 %}
@@ -104,18 +104,18 @@ layout: info
 	<div class="row">
     	<br/>
     <ul id="itemContainer2" style="list-style:none;">
-    {% for hibah in site.data.hibah %}
-    {% if hibah.tipe == 'hardware' %}
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'hardware' %}
 	{% assign counter-hard = counter-hard | plus: 1 %}
     <li>
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
                 <hr>
-		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
-                {{ hibah.deskripsi | truncatewords: 20 }}
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
 		<hr>
-		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
               </div>
     	</div>
 	{% assign ifindex = counter-hard | modulo: 3 %}
@@ -139,18 +139,18 @@ layout: info
 	<div class="row">
     	<br/>
     <ul id="itemContainer3" style="list-style:none;">
-    {% for hibah in site.data.hibah %}
-    {% if hibah.tipe == 'software' %}
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'software' %}
 	{% assign counter-soft = counter-soft | plus: 1 %}
     <li>
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
                 <hr>
-		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
-                {{ hibah.deskripsi | truncatewords: 20 }}
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
 		<hr>
-		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
               </div>
     	</div>
 	{% assign ifindex = counter-soft | modulo: 3 %}
@@ -174,18 +174,18 @@ layout: info
 	<div class="row">
     	<br/>
     <ul id="itemContainer4" style="list-style:none;">
-    {% for hibah in site.data.hibah %}
-    {% if hibah.tipe == 'konten' %}
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'konten' %}
 	{% assign counter-kont = counter-kont | plus: 1 %}
     <li>
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
-		<a href="{{ hibah.link }}"><img class="img-responsive text-center" src="{{ hibah.gambar }}"></a>
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
                 <hr>
-		<a href="{{ hibah.link }}"><h4>{{ hibah.nomor }} - {{ hibah.judul | truncatewords: 10 }}</h4></a><br/>
-                {{ hibah.deskripsi | truncatewords: 20 }}
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
 		<hr>
-		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
               </div>
     	</div>
 	{% assign ifindex = counter-kont | modulo: 3 %}
