@@ -1,6 +1,6 @@
 ---
 title: 'Bhinneka: Keberagaman dan Kesetaraan Tanpa Batas'
-date: 2017-02-06 15:24:00 +07:00
+date: 2012-12-15 15:24:00 +07:00
 categories:
 - CMB
 - Acara

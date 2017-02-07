@@ -1,6 +1,6 @@
 ---
 title: 'Indonesian Street Art Database: Data Agar Perjuangan di Jalan Tidak Terlupakan'
-date: 2017-02-06 14:27:00 +07:00
+date: 2012-12-18 14:27:00 +07:00
 categories:
 - CMB
 - Acara

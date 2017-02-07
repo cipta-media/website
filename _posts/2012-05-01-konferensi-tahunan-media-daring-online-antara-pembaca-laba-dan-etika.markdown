@@ -1,6 +1,6 @@
 ---
 title: 'Konferensi Tahunan Media Daring (Online): Antara Pembaca, Laba dan Etika'
-date: 2017-02-06 18:41:00 +07:00
+date: 2012-05-01 18:41:00 +07:00
 categories:
 - CMB
 - Acara

@@ -1,6 +1,6 @@
 ---
 title: Dana bantuan bukan satu satunya jawaban untuk perubahan
-date: 2017-02-06 17:56:00 +07:00
+date: 2012-10-05 17:56:00 +07:00
 categories:
 - CMB
 - Acara
