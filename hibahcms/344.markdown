@@ -1,0 +1,46 @@
+---
+title: Energy Saver
+date: 2017-02-20 10:47:00 +07:00
+nohibah: 344
+nama: Irfan Kamil
+lokasi: Bandung, Jawa Barat
+lama: 6 Bulan
+target: Keluarga yang tinggal di Bandung
+keberhasilan: |-
+  – Semua fitur berhasil diimplementasikan
+  – Sistem digunakan di 30 rumah
+  – Terdapat 60 user
+  – Sosialisasi minimal 2 kali
+tipe: Integrasi antara arduino yang dihubungakn dengan modul pembaca aliran listrik
+  serta koneksi jaringan untuk mengendalikan perangkat elektronik
+strategi: |-
+  – Pemasaran langsung ke pengguna
+  – Sosialisasi pada user
+  – Menggunakan media sosial untuk gerakan penghematan listrik
+  – Pendekatan ke organisasi/komunitas hemat energi
+  – Membuat hardware seringkas mungkin sehingga udah dipasang, ini dilakukan dengan pengembangan protoype beberapa kali hingga ditemukan bentuk paling efisien
+dana: Rp. 300 Juta
+deskripsi: Aplikasi Energy Saver ini merupakan integrasi antara server, hardware,
+  dan aplikasi mobile untuk mengelola penggunaan listrik. Hardware akan dipasang di
+  rumah atau gedung, kemudian dihubungkan ke server melalui internet dan terhubung
+  ke aplikasi mobile. Melalui aplikasi mobile, user dapat memantau penggunaan listrik,
+  sistem akan mengirimkan notifikasi ke HP jika penggunaan berlebih. Selain itu user
+  bisa mengendalikan (mematikan/menghidupkan) alat eletronik dalam rumah
+masalah: |-
+  Penggunaan energi listrik di Indonesia tergolong tinggi. Banyak masyarakat yang menggunakan listrik secara berlebihan, di sisi lain banyak daerah atau tempat yang belum mendapat akses listrik yang cukup, hal ini karena pemerintah memang belum sanggup menyediakan semua listrik yang dibutuhkan oleh masyarakat. Harga listrik pun semakin lama semakin meningkat, dengan adanya fakta tersebut kita perlu menggalakan gerakan hemat energi, pengehematan ini akan mengurangi pengeluaran kita untuk listrik dan membantu pemerataan konsumsi listrik.
+  Tantanganya adalah bagaimana bisa berhemat jika kita tidak bisa memantau penggunaan listrik kita sendiri, oleh karena itu dengan adanya aplikasi ini kita bisa memantau penggunaan listrik kita dan mematikan alat elektronik yang boros energi langsung dari handphone kita
+solusi: |-
+  Membuat aplikasi Energy Saver dimana user dapat :
+  – memantau penggunaan listrik
+  – mengendalikan alat elektronik
+  – memberikan notifikasi jika penggunaan berlebih
+  – membatasi penggunaan
+---
+
+![344](/static/img/hibahcms/344.png){: .img-responsive }{: width="350" }
+
+### {{ page.nohibah }} - {{ page.title }}
+
+{{ page.deskripsi }}
+
+---
