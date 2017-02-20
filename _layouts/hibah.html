@@ -56,22 +56,18 @@
             <div class="col-lg-3">Lokasi:</div><div class="col-lg-9">{{ page.lokasi }}</div>
          </div>
         <hr>
-        {% if page.organisasi != NA %}
         <div class="row">
             <div class="col-lg-3">Organisasi:</div><div class="col-lg-9">{{ page.organisasi }}</div>
          </div>
         <hr>
-        {% endif %}
          <div class="row">
             <div class="col-lg-3">Judul Proyek:</div><div class="col-lg-9">{{ page.title }}</div>
          </div>
         <hr>
-        {% if page.lama != NA %}
          <div class="row">
             <div class="col-lg-3">Lama Aktivitas:</div><div class="col-lg-9">{{ page.lama }}</div>
          </div>
         <hr>
-        {% endif %}
          <div class="row">
             <div class="col-lg-3">Target Pengguna / Penerima Manfaat:</div><div class="col-lg-9">{{ page.target | newline_to_br }}</div>
          </div>
@@ -88,12 +84,10 @@
             <div class="col-lg-3">Strategi Distribusi:</div><div class="col-lg-9">{{ page.strategi | newline_to_br }}</div>
          </div>
         <hr>
-        {% if page.kuantitas != NA %}
         <div class="row">
             <div class="col-lg-3">Kuantitas Output Konten:</div><div class="col-lg-9">{{ page.kuantitas }}</div>
          </div>
         <hr>
-        {% endif %}
         <div class="row">
             <div class="col-lg-3">Dana yang Diminta:</div><div class="col-lg-9">{{ page.dana }}</div>
          </div>
