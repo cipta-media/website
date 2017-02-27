@@ -1,0 +1,21 @@
+---
+title: '427'
+date: 2014-01-23 11:08:00 +07:00
+nohibah: '427'
+inisiator:
+lokasi:
+dana:
+topik:
+lama:
+deskripsi:
+masalah:
+solusi:
+keberhasilan:
+layout: hibahcmb
+---
+
+![427](/static/img/hibahcmb/427.png){: .img-responsive }{: width="427" }
+
+### {{ page.nohibah }} - {{ page.title }}
+
+---
