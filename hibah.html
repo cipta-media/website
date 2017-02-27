@@ -19,6 +19,33 @@ layout: info
 			midRange: 3,
 			endRange: 1
 		});
+
+		$("#holder2").jPages({
+			containerID : "itemContainer2",
+			perPage : 9,
+			tartPage: 1,
+			startRange: 1,
+			midRange: 3,
+			endRange: 1
+		}); 
+
+		$("#holder3").jPages({
+			containerID : "itemContainer3",
+			perPage : 9,
+			startPage: 1,
+			startRange: 1,
+			midRange: 3,
+			endRange: 1
+		}); 
+
+		$("#holder4").jPages({
+			containerID : "itemContainer4",
+			perPage : 9,
+			startPage: 1,
+			startRange: 1,
+			midRange: 3,
+			endRange: 1
+		}); 
 	});
   </script>
   <!-- jPages -->
@@ -32,6 +59,18 @@ layout: info
         </div>
     </div>
     	
+<ul class="nav nav-pills nav-justified">
+  <li class="active"><a data-toggle="pill" href="#semua">Semua</a></li> 
+  <li><a data-toggle="pill" href="#hardware">Perangkat Keras</a></li> 
+  <li><a data-toggle="pill" href="#software">Perangkat Lunak</a></li> 
+  <li><a data-toggle="pill" href="#konten">Produksi dan Penyampaian Konten</a></li>
+</ul>
+	
+<div class="tab-content">
+	<!--semua-->
+	<div id="semua" class="tab-pane fade in active">
+	<div class="row">
+    	<br/>
 	<ul id="itemContainer" style="list-style:none;">
 	{% for hibahcms in site.data.hibahcms %}
 	{% assign loopindex = forloop.index | modulo: 3 %}
@@ -52,5 +91,118 @@ layout: info
 	{% endfor %}
     </li>
     </ul>
+    <div class="row m-b-lg text-center">
+    	<div class="col-md-12">
+        	<div class="pag-holder" id="holder"></div>
+    	</div>
+	</div>
+	</div>
+	</div>
 
+	<!--hardware-->
+	<div id="hardware" class="tab-pane fade active">
+	<div class="row">
+    	<br/>
+    <ul id="itemContainer2" style="list-style:none;">
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'hardware' %}
+	{% assign counter-hard = counter-hard | plus: 1 %}
+    <li>
+    	<div class="col-md-4">
+             <div class="col-md-12 well well-lg">
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
+                <hr>
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
+		<hr>
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
+              </div>
+    	</div>
+	{% assign ifindex = counter-hard | modulo: 3 %}
+	  {% if ifindex == 0 %}
+		<div class="clearfix visible-md visible-lg"></div>
+  	  {% endif %}
+	{% endif %}
+    {% endfor %}
+    </li>
+    </ul>
+    <div class="row m-b-lg text-center">
+    	<div class="col-md-12">
+        	<div class="pag-holder" id="holder2"></div>
+    	</div>
+	</div>
+	</div>
+	</div>
+
+	<!--software-->
+	<div id="software" class="tab-pane fade active">
+	<div class="row">
+    	<br/>
+    <ul id="itemContainer3" style="list-style:none;">
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'software' %}
+	{% assign counter-soft = counter-soft | plus: 1 %}
+    <li>
+    	<div class="col-md-4">
+             <div class="col-md-12 well well-lg">
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
+                <hr>
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
+		<hr>
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
+              </div>
+    	</div>
+	{% assign ifindex = counter-soft | modulo: 3 %}
+	  {% if ifindex == 0 %}
+		<div class="clearfix visible-md visible-lg"></div>
+  	  {% endif %}
+	{% endif %}
+    {% endfor %}
+    </li>
+    </ul>
+    <div class="row m-b-lg text-center">
+    	<div class="col-md-12">
+        	<div class="pag-holder" id="holder3"></div>
+    	</div>
+	</div>
+	</div>
+	</div>
+	
+	<!--konten-->
+	<div id="konten" class="tab-pane fade active">
+	<div class="row">
+    	<br/>
+    <ul id="itemContainer4" style="list-style:none;">
+    {% for hibahcms in site.data.hibahcms %}
+    {% if hibahcms.tipe == 'konten' %}
+	{% assign counter-kont = counter-kont | plus: 1 %}
+    <li>
+    	<div class="col-md-4">
+             <div class="col-md-12 well well-lg">
+		<a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
+                <hr>
+		<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                {{ hibahcms.deskripsi | truncatewords: 20 }}
+		<hr>
+		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
+              </div>
+    	</div>
+	{% assign ifindex = counter-kont | modulo: 3 %}
+	  {% if ifindex == 0 %}
+		<div class="clearfix visible-md visible-lg"></div>
+  	  {% endif %}
+	{% endif %}
+    {% endfor %}
+    </li>
+    </ul>
+	<div class="row m-b-lg text-center">
+    	<div class="col-md-12">
+        	<div class="pag-holder" id="holder4"></div>
+    	</div>
+	</div>
+	</div>
+	</div>
+
+</div>
 </div>
