@@ -7,6 +7,7 @@ categories:
 tags:
 - Tutorial
 author: admincmb
+comments: true
 ---
 
 ## Menulis di Siteleaf

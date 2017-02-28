@@ -6,6 +6,7 @@ categories:
 - Teladan
 tags:
 - Media
+comments: true
 ---
 
 Bagaimana pers di Indonesia bekerja? Banyak tulisan mengenai hal ini di Indonesia, namun untuk masyarakat Indonesia belum ada film tentang media di negara ini. Media di Indonesia terlalu sibuk membuat liputan tentang hal yang lain dan lupa napak tilas apa yang terjadi pada media itu sendiri terlepas dari kepentingan lain.
