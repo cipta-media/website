@@ -1,1 +1,27 @@
+# tipe: retas, adil, bebas, pantau
+- nomor: '001'
+  judul: 
+  deskripsi: |
+      
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibahcmb/001.png
+  link: /hibahcmb/001
 
+- nomor: '169'
+  judul: Lets Sign for Indonesia
+  deskripsi: |
+      ** Catatan admin: berdasarkan surel ke info at ciptamedia dot org yang diterima oleh admin pada tanggal 13 Maret 2013, pemohon hibah menyampaikan permintaan untuk menghapus isi dari permintaannya. Seluruh naratif dari permohonannya ini dihapus oleh admin per 3 Mei 2013, beberapa informasi ditinggalkan sebagai bukti.
+  lokasi: Malang, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/169.png
+  link: /hibahcmb/169
+
+- nomor: '713'
+  judul: Report2DewanPers untuk Media Siber Indonesia
+  deskripsi: |
+      Report2DewanPers adalah sistem pelaporan ke Dewan Pers yang diintegrasikanke seluruh media siber (website berita) di Indonesia, baik nasional maupun lokal. Dengan sistem ini, maka dalam setiap halaman berita website berita akan terdapat tombol “Lapor ke Dewan Pers” (report2dewanpers). Mirip seperti tombol Facebook atau Twitter yang tersebar di berbagai macam website.
+  lokasi: DKI Jakarta
+  tipe: pantau
+  gambar: /static/img/hibahcmb/713.png
+  link: /hibahcmb/713
