@@ -7,6 +7,7 @@ categories:
 tags:
 - papua
 - jaringan seluler
+- perkumpulan jubi
 author: hillun
 ---
 

@@ -6,6 +6,9 @@ categories:
 - Berita
 tags:
 - sempugi
+- konten
+- jaringan seluler
+- ringtone
 author: hillun
 ---
 

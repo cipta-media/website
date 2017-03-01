@@ -8,6 +8,8 @@ categories:
 tags:
 - difabilitas
 - disabilitas
+- saujana
+- kerjabilitas
 author: hillun
 ---
 

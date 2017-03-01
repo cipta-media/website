@@ -6,6 +6,8 @@ categories:
 - Gagasan
 tags:
 - masyarakat adat
+- jaringan seluler
+- AMAN
 author: nasir
 ---
 

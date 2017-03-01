@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - buruh perempuan
+- buruh
+- LSBP
 author: hillun
 ---
 

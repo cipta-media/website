@@ -6,6 +6,7 @@ categories:
 - Inspirasi
 tags:
 - buruh
+- buruh perempuan
 author: hillun
 ---
 

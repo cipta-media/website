@@ -6,6 +6,8 @@ categories:
 - Teladan
 tags:
 - aplikasi
+- android
+- iOS
 author: admincmb
 ---
 

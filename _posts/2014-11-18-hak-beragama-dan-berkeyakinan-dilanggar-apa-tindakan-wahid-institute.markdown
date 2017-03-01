@@ -8,6 +8,7 @@ tags:
 - agama
 - keyakinan
 - hak
+- wahid institute
 author: hillun
 ---
 

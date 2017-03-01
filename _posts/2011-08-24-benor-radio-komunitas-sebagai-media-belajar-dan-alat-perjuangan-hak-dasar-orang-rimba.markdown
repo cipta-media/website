@@ -8,6 +8,7 @@ categories:
 tags:
 - radio komunitas
 - orang rimba
+- kki warsi
 author: admincmb
 ---
 

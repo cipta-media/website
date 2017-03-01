@@ -8,6 +8,7 @@ categories:
 tags:
 - buruh
 - buruh perempuan
+- LSBP
 author: hillun
 ---
 

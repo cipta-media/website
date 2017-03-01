@@ -7,6 +7,7 @@ categories:
 tags:
 - disabilitas
 - seluler
+- difabel
 author: ivonne
 ---
 

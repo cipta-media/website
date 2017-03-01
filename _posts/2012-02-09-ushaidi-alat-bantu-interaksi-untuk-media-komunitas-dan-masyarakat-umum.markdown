@@ -16,7 +16,7 @@ Pada awal upaya Cipta Media Bersama diluncurkan pada bulan Juli 2011, upaya ini 
 
 Kini setelah pengumuman dan 20 penerima hibah telah ditentukan, penyelenggara Cipta Media Bersama merancang cara baru agar suara komunitas dimana organisasi – organisasi penerima hibah ini bekerja dapat dilihat langsung oleh publik (tanpa perantara dan tanpa agenda khusus).
 
-Sebagai bagian dari upaya iniÂ  sebuah ushaidi baru kami luncurkan untuk para penerima hibah, sementara publik dapat mengaksesnya melalui [www.lapor.ciptamedia.org](http://lapor.ciptamedia.org/). dimana ke-20 organisasi penerima hibah telah diberikan nomor telpon lapor di **0877-8880-2262** menggunakan [daftar kata kunci](http://www.ciptamedia.org/kata-kunci-organisasi-untuk-lapor-ciptamedia-org-melalui-sms/) yang telah disediakan oleh [Air Putih](http://www.airputih.or.id/) untuk mempermudah penggunaan.Pada tanggal 9 Februari 2012 situs ushaidi ini diuji cobakan untuk pertama kalinya di kantor Air Putih.
+Sebagai bagian dari upaya ini sebuah ushaidi baru kami luncurkan untuk para penerima hibah, sementara publik dapat mengaksesnya melalui [www.lapor.ciptamedia.org](http://lapor.ciptamedia.org/). dimana ke-20 organisasi penerima hibah telah diberikan nomor telpon lapor di **0877-8880-2262** menggunakan [daftar kata kunci](http://www.ciptamedia.org/kata-kunci-organisasi-untuk-lapor-ciptamedia-org-melalui-sms/) yang telah disediakan oleh [Air Putih](http://www.airputih.or.id/) untuk mempermudah penggunaan.Pada tanggal 9 Februari 2012 situs ushaidi ini diuji cobakan untuk pertama kalinya di kantor Air Putih.
 
 Apabila anda tertarik untuk mencoba silahkan kirimkan pesan ke nomor tersebut!
 

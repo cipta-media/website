@@ -7,6 +7,7 @@ categories:
 tags:
 - wiki
 - hibah
+- CMB
 author: admincmb
 ---
 

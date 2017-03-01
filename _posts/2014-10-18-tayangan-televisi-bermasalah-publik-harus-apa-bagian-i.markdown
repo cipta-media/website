@@ -7,6 +7,8 @@ categories:
 tags:
 - televisi
 - tayangan
+- remotivi
+- rapotivi
 author: hillun
 ---
 

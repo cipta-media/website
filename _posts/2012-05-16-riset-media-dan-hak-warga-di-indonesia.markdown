@@ -5,8 +5,9 @@ categories:
 - CMB
 - Acara
 tags:
-- media
-- hak
+- riset media
+- CIPG
+- HIVOS
 author: admincmb
 ---
 

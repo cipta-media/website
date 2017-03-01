@@ -7,6 +7,7 @@ categories:
 tags:
 - jaringan seluler
 - kesehatan
+- sistem informasi
 author: nasir
 ---
 

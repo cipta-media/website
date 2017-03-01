@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - desa melung
+- desa 2.0
+- gerakan desa membangun
 author: hillun
 ---
 

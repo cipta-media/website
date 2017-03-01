@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - sempugi
+- ringtone
+- seni & budaya
 author: hillun
 ---
 

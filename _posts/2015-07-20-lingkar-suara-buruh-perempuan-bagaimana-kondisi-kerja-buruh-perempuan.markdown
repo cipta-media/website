@@ -9,6 +9,7 @@ tags:
 - buruh
 - buruh perempuan
 - kondisi kerja
+- LSBP
 author: siska
 ---
 

@@ -7,6 +7,7 @@ categories:
 - Gagasan
 tags:
 - pramuka
+- aplikasi
 author: admin
 ---
 

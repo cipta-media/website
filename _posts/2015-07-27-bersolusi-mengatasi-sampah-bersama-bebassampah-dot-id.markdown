@@ -6,6 +6,8 @@ categories:
 - Inspirasi
 tags:
 - sampah
+- bandung
+- peta persampahan bandung
 author: hillun
 ---
 

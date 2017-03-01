@@ -5,7 +5,8 @@ categories:
 - CMS
 - Gagasan
 tags:
-- burug
+- buruh
+- solidaritas
 author: hillun
 ---
 

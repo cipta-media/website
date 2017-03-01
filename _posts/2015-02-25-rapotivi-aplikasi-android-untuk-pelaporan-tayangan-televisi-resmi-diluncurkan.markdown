@@ -7,6 +7,8 @@ categories:
 tags:
 - televisi
 - android
+- rapotivi
+- remotivi
 author: hillun
 ---
 

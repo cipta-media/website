@@ -6,6 +6,7 @@ categories:
 - Acara
 tags:
 - pemilihan publik
+- CMB
 author: admincmb
 ---
 

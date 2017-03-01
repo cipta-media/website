@@ -7,6 +7,7 @@ categories:
 tags:
 - frekuensi
 - Media
+- rapotivi
 author: hillun
 ---
 

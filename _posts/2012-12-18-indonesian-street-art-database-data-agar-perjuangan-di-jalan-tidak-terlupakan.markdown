@@ -10,6 +10,7 @@ tags:
 - seni
 - street art
 - seni jalanan
+- ISAD
 author: admincmb
 ---
 

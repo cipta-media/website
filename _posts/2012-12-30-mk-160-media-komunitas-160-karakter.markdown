@@ -7,8 +7,8 @@ categories:
 - Teladan
 tags:
 - sms gateway
-- Media
-- komunitas
+- media komunitas
+- MK-160
 author: admincmb
 ---
 

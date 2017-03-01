@@ -7,6 +7,7 @@ categories:
 tags:
 - OpenBTS
 - teknologi
+- Universitas Surya
 author: hillun
 ---
 

@@ -7,6 +7,7 @@ categories:
 tags:
 - ekonomi politik
 - buruh
+- solidaritas
 author: hillun
 ---
 

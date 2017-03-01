@@ -7,6 +7,9 @@ categories:
 tags:
 - masyarakat adat
 - hutan adat
+- AMAN
+- hutan Tobelo
+- tobelo
 author: hillun
 ---
 

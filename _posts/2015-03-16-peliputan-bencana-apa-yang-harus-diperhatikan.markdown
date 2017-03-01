@@ -7,6 +7,8 @@ categories:
 tags:
 - bencana
 - Media
+- rapotivi
+- remotivi
 author: hillun
 ---
 

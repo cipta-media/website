@@ -6,6 +6,8 @@ categories:
 - Inspirasi
 tags:
 - solidaritas
+- media alternatif
+- buruh
 author: hillun
 ---
 

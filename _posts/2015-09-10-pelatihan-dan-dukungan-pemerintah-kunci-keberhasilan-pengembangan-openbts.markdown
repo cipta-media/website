@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - OpenBTS
+- jaringan seluler
+- telekomunikasi
 author: hillun
 ---
 

@@ -7,6 +7,10 @@ categories:
 - Berita
 tags:
 - budaya lokal
+- seni & budaya
+- sulawesi selatan
+- objek wisata
+- sempugi
 author: hillun
 ---
 

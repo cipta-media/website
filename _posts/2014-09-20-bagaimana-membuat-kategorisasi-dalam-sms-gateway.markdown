@@ -6,12 +6,14 @@ categories:
 - Tutorial
 tags:
 - sms gateway
+- sms
+- jaringan seluler
 author: hillun
 ---
 
 ![Bagaimana-membuat-kategorisasi-dalam-SMS-Gateway-400x266.jpg](/uploads/Bagaimana-membuat-kategorisasi-dalam-SMS-Gateway-400x266.jpg){: .img-responsive .center-block }
 
-Akhmad Nasir, pegiat J[aringan Informasi Lingkar Merapi (Jalin Merapi)](http://teknologi.news.viva.co.id/news/read/187337-jalin-merapi-penuhi-kebutuhan-informasi-warga) mengatakan, ada beberapa cara untuk mengkategorikan SMS dalam SMS gateway. Ingin tahu caranya? Mari simak penjelasan berikut.
+Akhmad Nasir, pegiat [Jaringan Informasi Lingkar Merapi (Jalin Merapi)](http://teknologi.news.viva.co.id/news/read/187337-jalin-merapi-penuhi-kebutuhan-informasi-warga) mengatakan, ada beberapa cara untuk mengkategorikan SMS dalam SMS gateway. Ingin tahu caranya? Mari simak penjelasan berikut.
 
 T: Ada berapa cara untuk mengkategorikan SMS yang masuk?
 

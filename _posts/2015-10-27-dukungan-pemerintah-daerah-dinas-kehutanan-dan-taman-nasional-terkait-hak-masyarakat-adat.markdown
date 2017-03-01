@@ -8,6 +8,8 @@ categories:
 tags:
 - masyarakat adat
 - kehutanan
+- Halmahera Timur
+- AMAN
 author: hillun
 ---
 

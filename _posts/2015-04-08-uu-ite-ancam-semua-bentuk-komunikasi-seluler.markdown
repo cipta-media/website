@@ -7,6 +7,7 @@ categories:
 tags:
 - UU ITE
 - seluler
+- telekomunikasi
 author: prima
 ---
 

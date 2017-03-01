@@ -7,6 +7,7 @@ categories:
 tags:
 - pramuka
 - anggaran
+- aplikasi
 author: hillun
 ---
 

@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - ketenagakerjaan
+- solidaritas
+- buruh
 author: hillun
 ---
 

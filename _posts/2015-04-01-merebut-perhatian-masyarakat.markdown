@@ -6,6 +6,8 @@ categories:
 - Inspirasi
 tags:
 - media
+- rapotivi
+- remotivi
 author: kurniawan
 ---
 

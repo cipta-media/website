@@ -7,6 +7,7 @@ categories:
 tags:
 - buruh
 - lowongan kerja
+- solidaritas
 author: hillun
 ---
 

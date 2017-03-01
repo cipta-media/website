@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - pandu app
+- pramuka
+- aplikasi
 author: hillun
 ---
 

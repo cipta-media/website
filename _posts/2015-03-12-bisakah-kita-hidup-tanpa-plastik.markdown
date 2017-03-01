@@ -7,6 +7,7 @@ categories:
 tags:
 - plastik
 - sampah
+- peta persampahan bandung
 author: hillun
 ---
 

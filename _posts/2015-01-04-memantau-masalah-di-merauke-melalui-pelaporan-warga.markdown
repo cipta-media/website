@@ -4,6 +4,10 @@ date: 2015-01-04 14:54:00 +07:00
 categories:
 - CMS
 - Inspirasi
+tags:
+- merauke
+- laporan warga
+- perkumpulan jubi
 author: hillun
 ---
 

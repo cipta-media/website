@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - buruh
+- solidaritas
 author: hillun
 ---
 

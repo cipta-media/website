@@ -8,6 +8,7 @@ tags:
 - media daring
 - buruh
 - jurnalis
+- AJI
 author: admincmb
 ---
 

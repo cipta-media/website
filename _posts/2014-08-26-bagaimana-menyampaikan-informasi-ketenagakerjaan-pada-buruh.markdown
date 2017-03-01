@@ -7,6 +7,7 @@ categories:
 tags:
 - buruh
 - ketenagakerjaan
+- solidaritas
 author: hillun
 ---
 

@@ -8,6 +8,8 @@ categories:
 tags:
 - telepon
 - operator
+- jaringan seluler
+- telekomunikasi
 author: 'reza
 
 '

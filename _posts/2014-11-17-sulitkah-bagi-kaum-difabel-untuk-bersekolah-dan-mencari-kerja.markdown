@@ -6,6 +6,9 @@ categories:
 - Berita
 tags:
 - difabel
+- disabilitas
+- saujana
+- kerjabilitas
 author: hillun
 ---
 

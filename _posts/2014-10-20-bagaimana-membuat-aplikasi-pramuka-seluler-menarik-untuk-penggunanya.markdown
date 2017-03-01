@@ -6,6 +6,7 @@ categories:
 - Inovasi
 tags:
 - pramuka
+- aplikasi
 author: hillun
 ---
 

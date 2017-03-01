@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - agama
+- m-Pantau KBB
+- wahid institute
 author: 
 ---
 

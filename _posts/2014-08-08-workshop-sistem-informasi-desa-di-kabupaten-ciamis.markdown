@@ -5,7 +5,9 @@ categories:
 - CMS
 - Berita
 tags:
-- bla
+- desa
+- desa 2.0
+- gerakan desa membangun
 ---
 
 Jumat-Sabtu     7-8 Agustus 2015

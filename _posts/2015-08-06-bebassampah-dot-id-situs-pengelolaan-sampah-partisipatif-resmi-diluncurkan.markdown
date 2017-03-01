@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - sampah
+- peta persampahan bandung
+- bandung
 author: hillun
 ---
 

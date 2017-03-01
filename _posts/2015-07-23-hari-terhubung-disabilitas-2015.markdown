@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - disabilitas
+- kerjabilitas
+- saujana
 author: isabella
 ---
 

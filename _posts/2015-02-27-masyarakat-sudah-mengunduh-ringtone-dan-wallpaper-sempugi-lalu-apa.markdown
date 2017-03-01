@@ -6,6 +6,9 @@ categories:
 - Berita
 tags:
 - sempugi
+- kearifan lokal
+- seni & budaya
+- ringtone
 author: hillun
 ---
 

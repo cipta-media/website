@@ -6,6 +6,7 @@ categories:
 - Acara
 tags:
 - konferensi pers
+- CMB
 author: admincmb
 ---
 

@@ -10,6 +10,7 @@ tags:
 - open street map
 - halmahera
 - peta
+- AMAN
 author: siska
 ---
 

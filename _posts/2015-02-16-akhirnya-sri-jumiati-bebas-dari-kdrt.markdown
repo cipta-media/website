@@ -7,6 +7,8 @@ categories:
 tags:
 - kdrt
 - kekerasan
+- buruh
+- buruh perempuan
 author: hillun
 ---
 

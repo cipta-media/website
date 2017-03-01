@@ -7,6 +7,7 @@ categories:
 tags:
 - sampah
 - bandung
+- peta persampahan bandung
 author: hillun
 ---
 

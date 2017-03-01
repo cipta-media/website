@@ -7,6 +7,7 @@ categories:
 tags:
 - jaringan seluler
 - anak-anak
+- aplikasi
 author: nasir
 ---
 

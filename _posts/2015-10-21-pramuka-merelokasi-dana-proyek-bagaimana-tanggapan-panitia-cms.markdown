@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - pramuka
+- aplikasi
 author: hillun
 ---
 

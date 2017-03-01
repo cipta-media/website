@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - masyarakat adat
+- AMAN
+- tobelo
 author: hillun
 ---
 

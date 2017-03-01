@@ -7,6 +7,9 @@ categories:
 tags:
 - difabel
 - kerja
+- disabilitas
+- kerjabilitas
+- saujana
 author: siska
 ---
 

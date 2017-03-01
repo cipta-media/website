@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - rapotivi
+- remotivi
+- televisi
 author: hillun
 ---
 

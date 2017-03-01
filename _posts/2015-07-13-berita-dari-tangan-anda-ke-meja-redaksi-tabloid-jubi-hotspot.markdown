@@ -7,6 +7,7 @@ categories:
 tags:
 - berita
 - jaringan seluler
+- perkumpulan jubi
 author: siska
 ---
 

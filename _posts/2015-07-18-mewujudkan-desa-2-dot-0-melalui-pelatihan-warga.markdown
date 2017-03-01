@@ -6,10 +6,11 @@ categories:
 - Berita
 tags:
 - desa 2.0
+- jurnalisme warga
 author: hillun
 ---
 
-![kabar-desa-350x350.jpg](/uploads/kabar-desa-350x350.jpg)Lingkar Suara Buruh Perempuan: Bagaimana kondisi kerja buruh perempuan?
+![kabar-desa-350x350.jpg](/uploads/kabar-desa-350x350.jpg)
 
 [Yossy Suparyo](http://ciptamedia.org/team/yossy-suparyo/) percaya bahwa adanya konten mengenai desa akan mengurangi isu miring soal desa, seperti isu keterbelakangan, tidak berpendidikan dan desa sebagai beban. Hal ini bisa diwujudkan melalui Desa 2.0, sebuah sistem tata kelola sumber daya desa berbasis internet. Lalu, bagaimana sistem tersebut bisa terwujud? Simak perbincangan tim Cipta Media Seluler dengan Fadli, fasilitator pelatihan warga di Desa Cilacap.
 

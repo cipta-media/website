@@ -6,7 +6,8 @@ categories:
 - Berita
 tags:
 - buruh
-- Media
+- media alternatif
+- solidaritas
 author: hillun
 ---
 

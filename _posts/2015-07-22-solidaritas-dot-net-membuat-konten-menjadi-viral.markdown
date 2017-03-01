@@ -6,6 +6,7 @@ categories:
 - Inspirasi
 tags:
 - solidaritas
+- konten
 author: hillun
 ---
 

@@ -7,6 +7,8 @@ categories:
 tags:
 - Media
 - politik
+- rapotivi
+- remotivi
 author: hillun
 ---
 

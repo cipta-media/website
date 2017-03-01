@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - rapotivi
+- remotivi
 author: hillun
 ---
 

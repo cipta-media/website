@@ -6,6 +6,8 @@ categories:
 - Inovasi
 tags:
 - sinyal
+- jaringan seluler
+- telekomunikasi
 author: hillun
 ---
 

@@ -8,6 +8,7 @@ categories:
 tags:
 - blogger
 - perbatasan
+- border blogger movement
 author: admincmb
 ---
 

@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - buruh perempuan
+- buruh
+- radio marsinah
 author: hillun
 ---
 

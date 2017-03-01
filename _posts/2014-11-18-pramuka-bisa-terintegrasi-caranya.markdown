@@ -4,6 +4,8 @@ date: 2014-11-18 19:16:00 +07:00
 categories:
 - CMS
 - Inovasi
+tags:
+- pramuka
 author: hillun
 ---
 

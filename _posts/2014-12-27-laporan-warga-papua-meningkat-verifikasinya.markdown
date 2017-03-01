@@ -7,6 +7,7 @@ categories:
 - Kajian
 tags:
 - papua
+- perkumpulan jubi
 author: hillun
 ---
 

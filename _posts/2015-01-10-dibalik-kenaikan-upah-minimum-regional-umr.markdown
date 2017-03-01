@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - UMR
+- buruh
 author: hillun
 ---
 

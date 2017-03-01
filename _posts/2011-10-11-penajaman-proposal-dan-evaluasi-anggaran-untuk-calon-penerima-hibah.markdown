@@ -4,6 +4,11 @@ date: 2011-10-11 13:46:00 +07:00
 categories:
 - CMB
 - Acara
+tags:
+- penajaman proposal
+- evaluasi anggaran
+- hibah
+- CMB
 author: admincmb
 ---
 

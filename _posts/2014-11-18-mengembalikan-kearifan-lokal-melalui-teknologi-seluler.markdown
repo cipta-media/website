@@ -8,6 +8,9 @@ tags:
 - kearifan lokal
 - teknologi seluler
 - jaringan seluler
+- seni & budaya
+- AMAN
+- sempugi
 author: hillun
 ---
 

@@ -9,6 +9,7 @@ categories:
 tags:
 - HAM
 - blogger
+- human rights blogger award
 author: admincmb
 ---
 

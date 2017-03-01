@@ -8,6 +8,8 @@ tags:
 - BTS
 - OpenBTS
 - teknologi
+- jaringan seluler
+- telekomunikasi
 author: siska
 ---
 

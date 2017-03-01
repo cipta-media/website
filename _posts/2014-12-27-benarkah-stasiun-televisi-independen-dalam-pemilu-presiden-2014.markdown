@@ -8,6 +8,8 @@ tags:
 - televisi
 - pemilu
 - Media
+- remotivi
+- rapotivi
 author: hillun
 ---
 

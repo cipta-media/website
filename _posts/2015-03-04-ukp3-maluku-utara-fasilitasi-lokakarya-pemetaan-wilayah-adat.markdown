@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - masyarakat adat
+- AMAN
 author: hillun
 ---
 
