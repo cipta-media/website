@@ -7,6 +7,7 @@ categories:
 tags:
 - BTS
 - Indonesia Timur
+- jaringan seluler
 author: arman
 ---
 

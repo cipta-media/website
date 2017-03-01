@@ -6,6 +6,8 @@ categories:
 - Kajian
 tags:
 - komunikasi laut
+- jaringan seluler
+- telekomunikasi
 author: reza
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: Ilham Cendekia Srimarga - Praktik Open Data Sudah Saatnya Dijalankan
-date: 2016-03-21 00:00:00 Z
+date: 2016-03-21 07:00:00 +07:00
 categories:
 - CMS
 - Berita
 tags:
 - CMS
 - Jogja
+- Open Data
 layout: post
 ---
 
