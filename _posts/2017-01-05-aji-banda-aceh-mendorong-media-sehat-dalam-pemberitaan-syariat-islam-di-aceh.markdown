@@ -8,6 +8,7 @@ categories:
 tags:
 - Aceh
 - Media
+- AJI Banda Aceh
 author: admincmb
 ---
 
