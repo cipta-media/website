@@ -1,11 +1,13 @@
 ---
 title: 'Di Balik Frekuensi: Film Dokumenter Mengenai Media di Indonesia'
-date: 2017-01-05 16:49:00 +07:00
+date: 2012-01-12 16:49:00 +07:00
 categories:
 - CMB
 - Teladan
 tags:
 - Media
+- Ucu Agustin
+- Dokumenter
 comments: true
 ---
 

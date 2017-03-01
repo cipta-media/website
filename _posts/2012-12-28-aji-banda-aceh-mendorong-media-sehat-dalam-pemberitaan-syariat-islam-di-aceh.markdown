@@ -1,6 +1,6 @@
 ---
 title: 'AJI Banda Aceh: Mendorong Media Sehat Dalam Pemberitaan Syariat Islam Di Aceh'
-date: 2017-01-05 17:02:00 +07:00
+date: 2012-12-28 17:02:00 +07:00
 categories:
 - CMB
 - Acara
