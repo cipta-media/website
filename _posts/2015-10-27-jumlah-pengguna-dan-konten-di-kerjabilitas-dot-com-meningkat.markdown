@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - kerjabilitas
+- disabilitas
+- saujana
 author: hillun
 ---
 

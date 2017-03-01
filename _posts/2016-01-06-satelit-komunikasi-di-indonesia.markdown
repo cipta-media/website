@@ -7,6 +7,7 @@ categories:
 tags:
 - satelit
 - telekomunikasi
+- jaringan seluler
 author: reza
 ---
 

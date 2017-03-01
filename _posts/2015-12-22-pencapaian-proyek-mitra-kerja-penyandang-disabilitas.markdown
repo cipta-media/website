@@ -6,6 +6,8 @@ categories:
 - Berita
 tags:
 - disabilitas
+- CMS
+- Yogyakarta
 author: hillun
 ---
 

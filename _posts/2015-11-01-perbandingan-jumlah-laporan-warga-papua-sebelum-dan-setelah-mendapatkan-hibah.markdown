@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - papua
+- CMS
 author: hillun
 ---
 

@@ -6,6 +6,7 @@ categories:
 - Kajian
 tags:
 - telekomunikasi
+- jaringan seluler
 author: reza
 ---
 

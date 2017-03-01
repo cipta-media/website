@@ -6,6 +6,8 @@ categories:
 - berita
 tags:
 - jubi
+- CMS
+- Laporan warga
 author: hillun
 ---
 
