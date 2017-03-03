@@ -9,12 +9,13 @@
 
             <div class="vote-item">
                 <div class="row">
-		{% for post in site.posts limit:5 %}
+		{% for post in site.posts limit:6 %}
                     <div class="col-md-6">
                         <a href="{{ post.url | prepend: site.baseurl }}" class="vote-title">{{ post.title }}</a>
                         <div class="vote-info"><i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a></div>
 			<div class="vote-info"><p>{{ post.content | strip_html | truncatewords:10 }}</p></div>
                     </div>
+		<hr>
 		{% endfor %}
                 </div>
             </div>
