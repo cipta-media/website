@@ -8,6 +8,7 @@ tags:
 - Tutorial
 author: admincmb
 comments: true
+img: '/uploads/favicon.ico'
 ---
 
 ## Menulis di Siteleaf
