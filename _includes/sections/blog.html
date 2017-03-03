@@ -15,6 +15,7 @@
                         <div class="vote-info"><i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a></div>
 			<div class="vote-info"><p>{{ post.content | strip_html | truncatewords:10 }}</p></div>
                     </div>
+		<hr>
 		{% endfor %}
                 </div>
             </div>
