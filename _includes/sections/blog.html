@@ -15,10 +15,12 @@
 				<div class="col-md-12">
 					<img src="{{ post.img }}" class="img-responsive center-block">
 				</div>
-				<div class="col-md-12" style="background-color:#D0D0D0">
-					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
-					<p>{{ post.content | strip_html | truncatewords:20 }}</p>
+				<div class="col-md-12">
+					<div style="background-color:#FFDAA5">
+						<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+						<p>{{ post.content | strip_html | truncatewords:20 }}</p>
+					</div>
 				</div>
 			</div>
 			<hr>
