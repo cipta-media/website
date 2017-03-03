@@ -9,6 +9,7 @@ tags:
 - Indonesia Timur
 - jaringan seluler
 author: arman
+img: "/uploads/Infografis-BTS-Indonesia.png"
 ---
 
 ![Infografis-BTS-Indonesia.png](/uploads/Infografis-BTS-Indonesia.png){: .img-responsive .center-block }
