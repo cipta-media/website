@@ -9,6 +9,8 @@ tags:
 - stasiun pemancar
 - bts
 author: reza
+comments: true
+img: "/uploads/Infografis-BTS-Indonesia-97e20b.png"
 ---
 
 ![Infografis-BTS-Indonesia-97e20b.png](/uploads/Infografis-BTS-Indonesia-97e20b.png){: .img-responsive .center-block }
