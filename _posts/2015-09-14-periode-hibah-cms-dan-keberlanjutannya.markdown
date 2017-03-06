@@ -8,7 +8,7 @@ tags:
 - hibah
 - CMS
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Cipta-Media-Seluler-CMS-Logo-350x350.jpg"
 ---
 

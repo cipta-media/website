@@ -8,7 +8,7 @@ tags:
 - hibah
 - CMS
 author: hillun
-comment: true
+comments: true
 img: "/uploads/GRAFIK-PENERIMA-HIBAH-368x400.jpg"
 ---
 

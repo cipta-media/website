@@ -9,7 +9,7 @@ tags:
 - ringtone
 - seni & budaya
 author: hillun
-comment: true
+comments: true
 img: "/uploads/042-Ringtone-Wallpaper-Seni-Budaya-Sulawesi-350x350.jpg"
 ---
 

@@ -8,7 +8,7 @@ tags:
 - hibah
 - CMS
 author: hillun
-comment: true
+comments: true
 img: "/uploads/cropped-logo-CMS23.png"
 ---
 

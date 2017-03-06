@@ -9,7 +9,7 @@ tags:
 - YPBB
 - hibah
 author: hillun
-comment: true
+comments: true
 img: "/uploads/cropped-logo-CMS32.png"
 ---
 

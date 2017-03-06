@@ -8,7 +8,7 @@ tags:
 - desa 2.0
 - gerakan desa membangun
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Desa-Melung-Kini-Apa-yang-Berbeda-400x250.jpg"
 ---
 

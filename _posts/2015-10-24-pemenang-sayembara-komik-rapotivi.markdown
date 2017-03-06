@@ -8,7 +8,7 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/250px-Oktober_5_2015_KFMP_Sayembara_Komik.jpg"
 ---
 

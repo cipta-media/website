@@ -9,7 +9,7 @@ tags:
 - buruh
 - LSBP
 author: hillun
-comment: true
+comments: true
 img: "/uploads/261-Lingkar-Suara-Buruh-Perempuan-350x350.jpg"
 ---
 

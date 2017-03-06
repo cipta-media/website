@@ -8,7 +8,7 @@ tags:
 - pramuka
 - aplikasi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Bagaimana-Membuat-Aplikasi-Pramuka-Seluler-Menarik-Untuk-Penggunanya-345x400-dd3fa6.jpg"
 ---
 

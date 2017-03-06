@@ -10,7 +10,7 @@ tags:
 - bandung
 - peta persampahan bandung
 author: hillun
-comment: true
+comments: true
 img: "/uploads/800px-Agustus_1_2015_PPB_Audiensi_PD_Kebersihan_2-400x300.jpg"
 ---
 

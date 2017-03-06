@@ -11,7 +11,7 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Kami-adalah-Pemilik-Frekuensi-Kami-Berhak-Mendapat-Tayangan-Berkualitas-400x269.jpg"
 ---
 

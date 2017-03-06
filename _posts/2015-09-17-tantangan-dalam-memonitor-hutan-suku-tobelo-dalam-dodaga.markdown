@@ -10,7 +10,7 @@ tags:
 - tobelo
 - AMAN
 author: hillun
-comment: true
+comments: true
 img: "/uploads/MASY-ADAT-DI-HUTAN-400x227.jpg"
 ---
 

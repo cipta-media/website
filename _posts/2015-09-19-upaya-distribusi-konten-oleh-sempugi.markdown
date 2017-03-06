@@ -10,7 +10,7 @@ tags:
 - jaringan seluler
 - ringtone
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309-542d2c.jpg"
 ---
 

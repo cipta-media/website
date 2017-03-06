@@ -9,7 +9,7 @@ tags:
 - anggaran
 - aplikasi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/IMG-20151022-WA0005-400x300.jpg"
 ---
 
