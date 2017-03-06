@@ -142,6 +142,132 @@
   tipe: retas
   gambar: /static/img/hibahcmb/016.png
   link: /hibahcmb/016 
+  
+- nomor: '017'
+  judul: Digital Villagers (DVERS)
+  deskripsi: |
+      Situs sosionomic ini merupakan suatu sosial media yang di dalamnya orang dapat saling berinteraksi, mengatur akun twitter dan facebook, mencari lowongan kerja, memperbaharui CV, melakukan promo bisnis, dan berjualan langsung di market place. Dalam situs ini terdapat hampir semua fasilitas jejaring sosial ditambah dengan fasilitas market place, job board, dan business
+  lokasi: DKI Jakarta
+  tipe: pantau
+  gambar: /static/img/hibahcmb/017.png
+  link: /hibahcmb/017 
+  
+- nomor: '018'
+  judul: Infomobilisasi Telecenter
+  deskripsi: |
+      Pengadaan fasilitas sarana dan prasarana teknologi informasi (TI) untuk masyarakat desa, mulai dari pelajar sampai pengusaha (UKM) dalam bentuk website yang menonjolkan potensi daerah
+  lokasi: Sukabumi, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/018.png
+  link: /hibahcmb/018 
+   
+- nomor: '019'
+  judul: Multimedia Studio
+  deskripsi: |
+      Pembangunan studio multimedia untuk mengkristalisasi hasil karya komunitas-komunitas setempat dan memperkenalkannya secara representatif
+  lokasi: Cisaat, Sukabumi
+  tipe: retas
+  gambar: /static/img/hibahcmb/019.png
+  link: /hibahcmb/019  
+    
+- nomor: '020'
+  judul: Dokumentasi Jejak Masa Lalu Indonesia
+  deskripsi: |
+      Sebuah proyek pendokumentasian situs-situs bersejarah (candi, makam, rumah ibadah, dan bangunan cagar budaya lainnya). Hasil dokumentasi kemudian dikabarkan keberadaannya melalui jejaring sosial dan buku
+  lokasi: Sleman, DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/020.png
+  link: /hibahcmb/020  
+     
+- nomor: '021'
+  judul: Informasi Tiada Henti
+  deskripsi: |
+      NA
+  lokasi: Idi, Aceh Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/021.png
+  link: /hibahcmb/021   
+     
+- nomor: '022'
+  judul: Warnet
+  deskripsi: |
+      Sebuah proyek untuk mendirikan sebuah warnet sebagai usaha mata pencaharian penggagas proyek
+  lokasi: Semarang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/022.png
+  link: /hibahcmb/022
+       
+- nomor: '023'
+  judul: Lab Komputer dan Internet
+  deskripsi: |
+      Sebuah proyek untuk membangun kembali laboratorium komputer yang dilengkapi dengan akses internet di sekolah SMAN 1 Sugihwaras. Pembangunan dan peremajaan lab. komputer yang sebelumnya seringkali terbentur oleh kurangnya dana sehingga tidak dapat berjalan dengan baik
+  lokasi: Bojonegoro, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/023.png
+  link: /hibahcmb/023
+         
+- nomor: '024'
+  judul: Lab Komputer dan Internet
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk mengurangi korban dari bencana banjir di daerah aliran Sungai Bengawan Solo dengan menggunakan alat untuk mendeteksi ketinggian air dan mengirimkannya ke pihak terkait (Kepala Desa)
+  lokasi: Lamongan, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/024.png
+  link: /hibahcmb/024
+  
+- nomor: '025'
+  judul: Integrated Farm
+  deskripsi: |
+      NA
+  lokasi: Kediri, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/025.png
+  link: /hibahcmb/025
+    
+- nomor: '026'
+  judul: Solusee.com
+  deskripsi: |
+      Sebuah layanan search engine untuk pencarian alamat, telepon, dan informasi untuk area Indonesia
+  lokasi: Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/026.png
+  link: /hibahcmb/026
+      
+- nomor: '027'
+  judul: Social Networking and Community Web for Moslem
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk menyediakan berbagai informasi dan artikel yang berkaitan dengan kebutuhan umat Muslim dalam sebuah website portal berita Muslim berbasis komunitas. Saat ini telah ada 2000 member lebih, tetapi sayangnya website ini masih belum mampu memenuhi kebutuhan komunitas.
+  lokasi: Bojongsereh, Bandung
+  tipe: bebas
+  gambar: /static/img/hibahcmb/027.png
+  link: /hibahcmb/027
+       
+- nomor: '028'
+  judul: Portal TV Musik (PTM)
+  deskripsi: |
+      Proyek ini merupakan pembentukkan media pendidikan karakter anak muda yang dikemas dalam bentuk media hiburan. Portal TV Musik (PTM) sendiri merupakan sebuah program TV musik di jaringan internet atau portal musik dalam format TV yang dirancang untuk komunitas anak muda yang bersifat akrab, menghibur, inspiratif, dan berwawasan Indonesia. Bagi pemirsanya, PTM diharapkan mampu menggapai peran sebagai sahabat pemirsanya yang mau mendengarkan, memahami, mendukung, dan memberi solusi
+  lokasi: Bogor, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/028.png
+  link: /hibahcmb/028 
+        
+- nomor: '029'
+  judul: Telecenter sebagai Solusi Ekonomi Kerakyatan
+  deskripsi: |
+      Proyek ini merupakan pembentukkan media pendidikan karakter anak muda yang dikemas dalam bentuk media hiburan. Portal TV Musik (PTM) sendiri merupakan sebuah program TV musik di jaringan internet atau portal musik dalam format TV yang dirancang untuk komunitas anak muda yang bersifat akrab, menghibur, inspiratif, dan berwawasan Indonesia. Bagi pemirsanya, PTM diharapkan mampu menggapai peran sebagai sahabat pemirsanya yang mau mendengarkan, memahami, mendukung, dan memberi solusi
+  lokasi: Kabupaten Minahasa Utara, Sulawesi Utara
+  tipe: adil
+  gambar: /static/img/hibahcmb/029.png
+  link: /hibahcmb/029  
+          
+- nomor: '030'
+  judul: Layar Tancap
+  deskripsi: |
+      Sebuah proyek pemutaran film berwawasan yang tayang secara berkala 2 kali setiap bulannya di tempat yang berbeda. Pemutaran film ini juga dilengkapi dengan sesi tanya jawab, bernyanyi, dan edukasi)
+  lokasi: Jakarta Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/030.png
+  link: /hibahcmb/030  
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
