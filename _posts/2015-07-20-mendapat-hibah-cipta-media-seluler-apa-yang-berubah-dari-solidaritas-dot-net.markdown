@@ -9,7 +9,7 @@ tags:
 - media alternatif
 - buruh
 author: hillun
-comment: true
+comments: true
 img: "/uploads/124-Solidaritas.net-Media-Center-350x350-38501c.jpg"
 ---
 

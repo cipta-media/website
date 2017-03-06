@@ -10,6 +10,8 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
+comments: true
+img: "/uploads/IMG-20150221-WA0005-400x225.jpg"
 ---
 
 ![IMG-20150221-WA0005-400x225.jpg](/uploads/IMG-20150221-WA0005-400x225.jpg){: .img-responsive .center-block }

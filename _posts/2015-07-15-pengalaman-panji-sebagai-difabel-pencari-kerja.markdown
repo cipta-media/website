@@ -11,7 +11,7 @@ tags:
 - kerjabilitas
 - saujana
 author: siska
-comment: true
+comments: true
 img: "/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284-b33087.jpg"
 ---
 

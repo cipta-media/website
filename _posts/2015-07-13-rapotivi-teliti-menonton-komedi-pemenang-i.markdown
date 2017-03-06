@@ -9,7 +9,7 @@ tags:
 - remotivi
 - televisi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Kini-NIlai-TV-Ada-di-Tangan-Anda-400x369.jpg"
 ---
 

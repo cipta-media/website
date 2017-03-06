@@ -8,6 +8,8 @@ tags:
 - buruh
 - buruh perempuan
 author: hillun
+comments: true
+img: "/uploads/yohana-1-620x400-400x258.jpg"
 ---
 
 ![yohana-1-620x400-400x258.jpg](/uploads/yohana-1-620x400-400x258.jpg){: .img-responsive .center-block }

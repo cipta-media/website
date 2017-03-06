@@ -9,7 +9,7 @@ tags:
 - kerjabilitas
 - saujana
 author: isabella
-comment: true
+comments: true
 img: "/uploads/IMG_0937-e1437462359626-299x400.jpg"
 ---
 

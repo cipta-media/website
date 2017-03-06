@@ -9,6 +9,8 @@ tags:
 - sampah
 - peta persampahan bandung
 author: hillun
+comments: true
+img: "/uploads/300px-Maret_6_2015_PPB_Evaluasi_Detektif1.jpg"
 ---
 
 ![300px-Maret_6_2015_PPB_Evaluasi_Detektif1.jpg](/uploads/300px-Maret_6_2015_PPB_Evaluasi_Detektif1.jpg){: .img-responsive .center-block }

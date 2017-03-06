@@ -8,6 +8,8 @@ tags:
 - buruh
 - buruh perempuan
 author: hillun
+comments: true
+img: "/uploads/perempuan-dunia-e1425399388155-620x400-400x258.jpg"
 ---
 
 ![perempuan-dunia-e1425399388155-620x400-400x258.jpg](/uploads/perempuan-dunia-e1425399388155-620x400-400x258.jpg){: .img-responsive .center-block }

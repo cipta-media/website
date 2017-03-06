@@ -8,6 +8,8 @@ tags:
 - desa 2.0
 - gerakan desa membangun
 author: hillun
+comments: true
+img: "/uploads/324-Desa-2-0-Sistem-Tata-Kelola-Sumber-Daya-Desa-350x350.jpg"
 ---
 
 ![324-Desa-2-0-Sistem-Tata-Kelola-Sumber-Daya-Desa-350x350.jpg](/uploads/324-Desa-2-0-Sistem-Tata-Kelola-Sumber-Daya-Desa-350x350.jpg){: .img-responsive .center-block }

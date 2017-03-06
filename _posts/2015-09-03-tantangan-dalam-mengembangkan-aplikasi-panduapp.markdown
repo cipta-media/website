@@ -7,7 +7,7 @@ categories:
 tags:
 - aplikasi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Bagaimana-Membuat-Aplikasi-Pramuka-Seluler-Menarik-Untuk-Penggunanya-345x400-641cdf.jpg"
 ---
 

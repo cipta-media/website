@@ -9,6 +9,8 @@ tags:
 - rapotivi
 - remotivi
 author: kurniawan
+comments: true
+img: "/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222-fc85a9.png"
 ---
 
 ![Screen-Shot-2015-07-13-at-1.17.44-PM-400x222-fc85a9.png](/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222-fc85a9.png){: .img-responsive .center-block }

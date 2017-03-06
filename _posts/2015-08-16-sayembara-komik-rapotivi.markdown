@@ -8,7 +8,7 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Sayembara-Rapotivi-357x400.jpg"
 ---
 

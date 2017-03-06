@@ -11,7 +11,7 @@ tags:
 - kondisi kerja
 - LSBP
 author: siska
-comment: true
+comments: true
 img: "/uploads/Buruh-garmen-400x215-51ed9f.png"
 ---
 

@@ -11,8 +11,8 @@ tags:
 - jaringan seluler
 - telekomunikasi
 author: siska
-comment: true
-img: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Walaupun mengaku pening saat [dicalonkan untuk menjadi Menteri](http://tekno.kompas.com/read/2014/07/26/15050027/Masuk.Bursa.Menkominfo.Ini.Kata.Onno.W.Purbo) Komunikasi dan Informatika, Onno Purbo yang lebih akrab dipanggil sebagai “Pak Onno”, tidak pening apabila diminta menjelaskan mengenai teknologi OpenBTS.

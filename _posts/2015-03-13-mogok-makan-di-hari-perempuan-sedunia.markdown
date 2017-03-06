@@ -8,6 +8,8 @@ tags:
 - perempuan
 - buruh perempuan
 author: hillun
+comments: true
+img: "/uploads/buruh-400x379-2.jpg"
 ---
 
 ![buruh-400x379-2.jpg](/uploads/buruh-400x379-2.jpg){: .img-responsive .center-block }

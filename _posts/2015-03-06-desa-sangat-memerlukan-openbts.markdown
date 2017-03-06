@@ -9,6 +9,8 @@ tags:
 - desa 2.0
 - gerakan desa membangun
 author: hillun
+comments: true
+img: "/uploads/PEGUNUNGAN-400x227.jpg"
 ---
 
 ![PEGUNUNGAN-400x227.jpg](/uploads/PEGUNUNGAN-400x227.jpg){: .img-responsive .center-block }

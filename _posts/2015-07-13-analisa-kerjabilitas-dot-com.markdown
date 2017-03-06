@@ -11,7 +11,7 @@ tags:
 - disabilitas
 - saujana
 author: siska
-comment: true
+comments: true
 img: "/uploads/Screen-Shot-2015-07-13-at-9.35.45-AM-400x274.png"
 ---
 

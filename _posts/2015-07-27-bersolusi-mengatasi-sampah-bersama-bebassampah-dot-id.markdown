@@ -9,8 +9,8 @@ tags:
 - bandung
 - peta persampahan bandung
 author: hillun
-comment: true
-img: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Kota Bandung memiliki [masalah yang kritis](https://www.youtube.com/watch?t=73&v=0iEY8lKElqE), yaitu sampah. Tiap harinya lebih dari 1.500 ton sampah dihasilkan oleh warga Bandung, 60% diantaranya berasal dari pemukiman. Sebagian besar dari sampah tersebut tidak dipilah dan langsung diangkut ke tempat pembuangan akhir Sarimukti yang diperkirakan akan penuh di tahun 2016.

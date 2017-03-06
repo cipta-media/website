@@ -9,6 +9,8 @@ tags:
 - Media
 - rapotivi
 author: hillun
+comments: true
+img: "/uploads/138-Kampanye----Frekuensi-Milik-Publik----350x350.jpg"
 ---
 
 ![138-Kampanye----Frekuensi-Milik-Publik----350x350.jpg](/uploads/138-Kampanye----Frekuensi-Milik-Publik----350x350.jpg){: .img-responsive .center-block }

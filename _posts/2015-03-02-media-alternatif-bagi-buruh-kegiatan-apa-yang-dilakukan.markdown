@@ -9,6 +9,8 @@ tags:
 - media alternatif
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/buruh-400x379-3.jpg"
 ---
 
 ![buruh-400x379-3.jpg](/uploads/buruh-400x379-3.jpg){: .img-responsive .center-block }

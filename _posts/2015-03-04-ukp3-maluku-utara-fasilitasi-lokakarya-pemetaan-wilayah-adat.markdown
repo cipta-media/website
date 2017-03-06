@@ -8,6 +8,8 @@ tags:
 - masyarakat adat
 - AMAN
 author: hillun
+comments: true
+img: "/uploads/pemetaanhutan-400x278.jpg"
 ---
 
 ![pemetaanhutan-400x278.jpg](/uploads/pemetaanhutan-400x278.jpg){: .img-responsive .center-block }
