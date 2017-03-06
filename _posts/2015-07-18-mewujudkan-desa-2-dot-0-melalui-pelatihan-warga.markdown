@@ -8,6 +8,8 @@ tags:
 - desa 2.0
 - jurnalisme warga
 author: hillun
+comment: true
+img: "/uploads/kabar-desa-350x350.jpg"
 ---
 
 ![kabar-desa-350x350.jpg](/uploads/kabar-desa-350x350.jpg)

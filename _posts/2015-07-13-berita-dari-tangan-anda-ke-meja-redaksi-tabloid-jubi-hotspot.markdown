@@ -9,6 +9,8 @@ tags:
 - jaringan seluler
 - perkumpulan jubi
 author: siska
+comment: true
+img: "/uploads/Screen-Shot-2015-07-13-at-10.13.12-AM-400x252.png"
 ---
 
 ![Screen-Shot-2015-07-13-at-10.13.12-AM-400x252.png](/uploads/Screen-Shot-2015-07-13-at-10.13.12-AM-400x252.png){: .img-responsive .center-block }

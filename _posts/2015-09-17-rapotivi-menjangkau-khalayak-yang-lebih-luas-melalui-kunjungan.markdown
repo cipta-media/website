@@ -9,6 +9,8 @@ tags:
 - remotivi
 - televisi
 author: hillun
+comment: true
+img: "/uploads/600px-Agustus_2_2015_KFMP_Rapotivi_Goes_To_CFD-350x350.jpg"
 ---
 
 ![600px-Agustus_2_2015_KFMP_Rapotivi_Goes_To_CFD-350x350.jpg](/uploads/600px-Agustus_2_2015_KFMP_Rapotivi_Goes_To_CFD-350x350.jpg){: .img-responsive .center-block }

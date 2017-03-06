@@ -9,6 +9,8 @@ tags:
 - buruh
 - LSBP
 author: hillun
+comment: true
+img: "/uploads/261-Lingkar-Suara-Buruh-Perempuan-250x250.jpg"
 ---
 
 ![261-Lingkar-Suara-Buruh-Perempuan-250x250.jpg](/uploads/261-Lingkar-Suara-Buruh-Perempuan-250x250.jpg){: .img-responsive .center-block }

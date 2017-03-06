@@ -9,6 +9,8 @@ tags:
 - jaringan seluler
 - telekomunikasi
 author: hillun
+comment: true
+img: "/uploads/121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-250x250.jpg"
 ---
 
 ![121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-250x250.jpg](/uploads/121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-250x250.jpg){: .img-responsive .center-block }

@@ -8,6 +8,8 @@ tags:
 - solidaritas
 - konten
 author: hillun
+comment: true
+img: "/uploads/header-sms-400x59.jpg"
 ---
 
 ![header-sms-400x59.jpg](/uploads/header-sms-400x59.jpg){: .img-responsive .center-block }

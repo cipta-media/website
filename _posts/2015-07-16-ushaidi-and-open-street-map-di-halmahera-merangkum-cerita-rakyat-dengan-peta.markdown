@@ -12,6 +12,8 @@ tags:
 - peta
 - AMAN
 author: siska
+comment: true
+img: 
 ---
 
 

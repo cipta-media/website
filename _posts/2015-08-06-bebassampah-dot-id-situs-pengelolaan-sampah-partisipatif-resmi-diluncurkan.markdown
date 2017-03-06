@@ -9,6 +9,8 @@ tags:
 - peta persampahan bandung
 - bandung
 author: hillun
+comment: true
+img: "/uploads/Juni_5_2015_PPB_Launching_BSID-400x300.jpg"
 ---
 
 ![Juni_5_2015_PPB_Launching_BSID-400x300.jpg](/uploads/Juni_5_2015_PPB_Launching_BSID-400x300.jpg){: .img-responsive .center-block }

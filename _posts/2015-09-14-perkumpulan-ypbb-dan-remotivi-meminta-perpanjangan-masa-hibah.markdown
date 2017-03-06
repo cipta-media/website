@@ -9,6 +9,8 @@ tags:
 - YPBB
 - hibah
 author: hillun
+comment: true
+img: "/uploads/cropped-logo-CMS32.png"
 ---
 
 ![cropped-logo-CMS32.png](/uploads/cropped-logo-CMS32.png){: .img-responsive .center-block }

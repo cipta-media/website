@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comment: true
+img: "/uploads/Cipta-Media-Seluler-CMS-Logo-350x350.jpg"
 ---
 
 ![Cipta-Media-Seluler-CMS-Logo-350x350.jpg](/uploads/Cipta-Media-Seluler-CMS-Logo-350x350.jpg){: .img-responsive .center-block }

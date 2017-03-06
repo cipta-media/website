@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comment: true
+img: "/uploads/cropped-logo-CMS31.png"
 ---
 
 ![cropped-logo-CMS31.png](/uploads/cropped-logo-CMS31.png){: .img-responsive .center-block }
