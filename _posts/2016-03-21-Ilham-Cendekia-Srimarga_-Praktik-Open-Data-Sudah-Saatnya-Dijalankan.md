@@ -8,6 +8,9 @@ tags:
 - CMS
 - Jogja
 - Open Data
+author: 
+comment: true
+img: 
 layout: post
 ---
 
