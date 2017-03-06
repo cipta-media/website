@@ -7,6 +7,9 @@ categories:
 tags:
 - CMS
 - UI
+author: 
+comment: true
+img: 
 layout: post
 ---
 
