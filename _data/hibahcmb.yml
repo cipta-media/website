@@ -1,10 +1,10 @@
 # tipe: retas, adil, bebas, pantau
 - nomor: '001'
-  judul: 
+  judul:   Tangerang Direkpedia
   deskripsi: |
-      
-  lokasi: 
-  tipe: 
+      Situs yang berisi direktori dan ensiklopedia tentang Tangerang
+  lokasi: Tangerang
+  tipe: adil
   gambar: /static/img/hibahcmb/001.png
   link: /hibahcmb/001
  
@@ -680,6 +680,199 @@
   tipe: adil
   gambar: /static/img/hibahcmb/190.png
   link: /hibahcmb/190
+    
+- nomor: '191'
+  judul:   Lab.Multimedia untuk Pembelajaran Berbasis ICT
+  deskripsi: |
+      Proyek pengadaan komputer untuk lab multimedia dalam rangka pembelajaran berbasis ICT (CBI or CAI) dan pelatihan ICT bagi guru2 SMP N 5 Kota Magelang (blog, E-learning & Pengembangan Bahan Ajar berbasis ICT).
+  lokasi: Magelang
+  tipe: adil
+  gambar: /static/img/hibahcmb/191.png
+  link: /hibahcmb/191
+  
+- nomor: '192'
+  judul:   Jaringan Majalah Dinding (Mading) Online Sekolah Indonesia
+  deskripsi: |
+      Jaringan Majalah Dinding (Mading) Online Sekolah Indonesia merupakan jaringan pemberitaan yang dikelola oleh siswa/i sekolah setingkat SMP dan SMA atau komunitas siswa, berbasis blog. Jaringan tersebar di daerah-daerah yang ada di Indonesia. Konten pemberitaannya mencakup kegiatan sekolah serta hal-hal lainnya yang terjadi di sekitar sekolah atau tempat tinggal siswa/i nya masing-masing. Pemberitaan bisa juga tentang sesuatu yang menarik dari daerah tempat sekolah mereka berada.
+      Dengan Jaringan Mading Online Sekolah Indonesia ini diharapkan penyebaran informasi antarmading online sekolah akan lebih cepat. Perkembangan sekolah di suatu daerah akan cepat diketahui oleh sekolah lain yang jauh lokasinya. Apa yang terjadi di suatu sekolah dapat diikuti atau dikembangkan di sekolah lain. Dengan demikian, selain sebagai sarana penyebaran informasi, Jaringan Mading Online Sekolah Indonesia juga bisa dijadikan sarana pertukaran kegiatan sekolah. Jaringan Mading Online Sekolah Indonesia ini tidak akan mematikan keberadaan mading (majalah dinding) konvensional di sekolah-sekolah. Bahkan diharapkan akan terjadi sinergi antara keduanya. Website induk dari Jaringan Mading Online Sekolah Indonesia ini adalah madingonline.net
+  lokasi: Pekanbaru, Riau
+  tipe: retas
+  gambar: /static/img/hibahcmb/192.png
+  link: /hibahcmb/192
+  
+- nomor: '193'
+  judul:   Ruang Belajar Alternatif
+  deskripsi: |
+      Gedung Kesenian Solo sebagai ruang berkesenian yang dikelola secara independen berusaha merintis rumah baca untuk meningkatkan kecakapan daya pikir, memperluas wawasan pengetahuan, dan mengembangkan kreativitas. Rumah baca yang dinamakan “BaleBaca” diharapkan menyediakan ruang baca yang representative dan menyediakan referensi yang lengkap. BaleBaca diharapkan mampu menjadi database penyedia informasi, pengembangan ilmu pengetahuan, teknologi, seni dan budaya bagi komunitas dan masyarakat luas serta meningkatkan minat baca dan memupuk kreativitas bakat dan minat serta meningkatkan mutu Sumber Daya Manusia dibidang seni budaya
+  lokasi: Solo,Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/193.png
+  link: /hibahcmb/193
+  
+- nomor: '194'
+  judul:   Muwujudkan Aplikasi e-Desa di Kecamatan Cimenyan
+  deskripsi: |
+      Aplikasi e-Desa adalah aplikasi cloud computing atau sistem sewa sehingga pemerintah desa/kantor desa tidak memerlukan server, perawatan dan tenaga ahli IT, yang memungkinkan proses administrasi desa (pelayanan publik, seperti pembuatan surat-surat pemohonan KTP, IMB, Domisili, Asal Usul, SKTM, numpang nikah dll) di desa menjadi otomatis, sehingga dapat memberikan pelayanan yang akurat, cepat, mudah dan murah
+  lokasi: Bandung, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/194.png
+  link: /hibahcmb/194
+  
+- nomor: '195'
+  judul:   Penerbitan dan Distribusi Majalah Gratis 3 Versi (Online, Digital, Cetak)
+  deskripsi: |
+      Penerbitan sekaligus distribusi majalah gratis (Majalah Sekebuluh) khususnya bagi warga Kampung Sekebuluh Desa Ciburial Kecamatan Cimenyan, Kabupaten Bandung, Jawa Barat. Majalah Sekebuluh terdiri dari 3 (tiga) versi, yaitu versi online, versi digital, dan versi konvensional (cetak). Tiga versi Majalah Sekebuluh ini dimaksudkan agar dapat meningkatkan minat baca dan minat menulis warga kampung Sekebuluh. Majalah ini didedikasikan oleh warga Kampung Sekebuluh, dengan slogan dari Sekebuluh, oleh Sekebuluh, untuk Indonesia
+  lokasi: Bandung, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/195.png
+  link: /hibahcmb/195
+  
+- nomor: '196'
+  judul:   Pengembangan Animasi Edukasi Berbasis Website (Games dan Simulasi) dan Komunitas Anak SD (engineeringtown.com for KIDS)
+  deskripsi: |
+      Pengembangan animasi edukasi (games dan simulasi) berbasis website dan pengenalan ilmu teknik (teknologi) melalui roadshow ke sekolah-sekolah dasar (SD) di Jabodetabek dan event di fakultas teknik berbagai universitas
+  lokasi: Jakarta Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/196.png
+  link: /hibahcmb/196
+  
+- nomor: '197'
+  judul:   Media Anak Bangsa
+  deskripsi: |
+      Sebuah proyek yang mefasilitasi pelatihan gagas media kebinekaan antar-siswa SMA di DIY, krasidenan Surakarta dan Krasidenan Kedu. Proyek ini juga memfasilitasi penerbitan majalah atau buletin alternatif bagi kalangan pelajar di tiga wilayah tersebut
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/197.png
+  link: /hibahcmb/197
+  
+- nomor: '198'
+  judul:   Kampanye Sampah Kampung
+  deskripsi: |
+      Penggunaan media sebagai alat kampanye cukup efektif dilakukan dalam penyampaian informasi di komunitas. Desa Kemenuh Gianyar-Bali saat ini memiliki permasalahan dengan penanganan sampah masyarakat dan TPA yang ada di desa mereka. Masyarakat sudah mulai menolak truk-truk sampah dari luar desa yang dibuang ke desanya. Melalui media pendidikan, seperti film, spanduk, selebaran, mural maupun kesenian lokal diharapkan dapat merubah kebiasaan masyarakat dengan sampahnya. Keterlibatan anak sekolah maupun pemuda-pemudi sebagai pelaku dalam pembuatan media adalah strategi yang akan dibuat. Dengan kegiatan ini diharapkan dapat sebagai contoh media yang telah dibuat, untuk diaplikasikan ditempat lainnya terutama di Bali, melihat Bali saat ini memiliki masalah besar dengan sampahnya
+  lokasi: Batuan, Gianyar, Bali
+  tipe: retas
+  gambar: /static/img/hibahcmb/198.png
+  link: /hibahcmb/198
+  
+- nomor: '199'
+  judul:   Pembelajaran Bahasa Indonesia-Inggris-Arab Terintegrasi Bertemakan Etika Dalam Berbahasa Berbasiskan E-learning
+  deskripsi: |
+      Program pembuatan media ajar dan kurikulum untuk pelajaran Bahasa Indonesia-Inggris-Arab tingkat SMU yang menggunakan kurikulum terintegrasi menggunakan sistem tematik, dimana tema yang diutamakan dalam pelajaran bahasa Indonesia-Inggris-Arab tersebut berkaitan dengan etika berbahasa bagi siswa. Salah satu materi yang akan ditekankan adalah etika dan kebebasan dalam menggunakan media, seperti dalam social media seperti facebook, twitter, youtube, dll. Media pendidikan ini akan menggunakan e-learning, seperti e-book, vcd/dvd pembelajaran, cd tutorial interaktif, website elearning, pemaksimalan fasilitas jejaring sosial dan media lainnya, seperti facebook, twitter, youtube, dll, yang semuanya bersifat gratis untuk digunakan, siapa saja, kapan saja, dimana saja.
+      Media pendidikan ini akan dibuat semenarik mungkin sehingga anak tidak merasa tertekan dan menikmati dengan baik, misalkan dengan pemateri bintang film terkenal berupa cupllikan film/sinetron, dengan animasi serta sound system yang baik serta naskah materi pembelajaran tematik yang menyentuh. Lalu diadakannya pelatihan bagi guru-guru se-Indonesia untuk memaksimalkan penggunaan media ajar dan kurikulum yang telah dibuat
+  lokasi: Bandung, Jawa Barat
+  tipe: bebas
+  gambar: /static/img/hibahcmb/199.png
+  link: /hibahcmb/199
+  
+- nomor: '200'
+  judul:   Situs Jejaringku.Com
+  deskripsi: |
+      Situs www.jejaringku.com ialah situs multi-author yang didedikasikan untuk memelihara iklim demokrasi dan mempublikasikan artikel, berita, laporan, aktivitas yang berkaitan penggunaan internet secara sehat
+  lokasi: Jawa Barat
+  tipe: bebas
+  gambar: /static/img/hibahcmb/200.png
+  link: /hibahcmb/200
+  
+- nomor: '201'
+  judul:   Kebebasan Pers
+  deskripsi: |
+      Proyek ini dilaksanakan dengan membangun sebuah media baca atau pemberitaan tingkat lokal dengan konsentrasi isu dibidang pendidikan dan penegakan hukum yang transparan. Pelaksanaan proyek ini dilakukan dengan pelatihan-pelatihan jurnalistik tingkat dasar dan lanjut serta pelatihan kepemimpinan sehingga nantinya akan terbangun sebuah media yang transparan, fokus, dan yang paling utama adalah tidak bermotif keuntungan, melainkan pengabdian
+  lokasi: Tangerang
+  tipe: adil
+  gambar: /static/img/hibahcmb/201.png
+  link: /hibahcmb/201
+
+- nomor: '202'
+  judul:   Perempuan Grass Root Mencipta Media untuk Suarakan Hak-haknya
+  deskripsi: |
+      Proyek ini hendak mengembangkan kapasitas perempuan grassroot yang tergabung dalam dua kelompok Pusat Pembelajaran Perempuan dan Anak (P3A) di Kabupaten Banjarnegara yang bermitra dengan Mitra Wacana WRC sejak tahun 2009. P3A berperan sebagai media belajar bersama dan memecahkan berbagai persoalan ketidakadilan yang dialami perempuan dan anak melalui produksi dan transformasi informasi. Melalui produksi dan transformasi informasi yang dimulai dari memetakan dan menganalisa persoalan dan potensi yang ada dalam masyarakatnya sendiri, kedua kelompok ini tengah berupaya membangun kesadaran kritis masyarakat utamanya perempuan sebagai basis untuk menggerakkan mereka mengakses kesejahteraan dan keadilan. Proyek ini akan memfasilitasi perempuan yang tergabung dalam kedua P3A memperkuat kapasitas jurnalistiknya, melakukan pemetaan dan analisa mendalam -dengan gender sebagai pisau analisis- terhadap berbagai persoalan dan potensi sumber daya yang ada di lingkungannya, serta mengembangkan media promosinya guna menyuarakan hak-haknya. Pengembangan media promosi dilakukan melalui pembuatan koran selembar, pelatihan internet dan pembuatan portal
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/202.png
+  link: /hibahcmb/202
+
+- nomor: '203'
+  judul:   “Schoolmagz.net” Komunitas Pelajar Indonesia
+  deskripsi: |
+      Schoolmagz adalah media khusus tentang pelajar. Media ini mengetengahkan berbagai informasi tentang pelajar secara interaktif baik online maupun offline. Schoolmagz memadukan antara printed version dan digital version pada website schoolmagz.net menjadikan semakin sempurnanya media kami. Schoolmagz terlahir dari tangan kreator muda asli Indonesia yang dianugrahi Tuhan berupa bakat, karakter serta pendidikan tinggi sehingga mampu mengolah dan menyajikan secara berbeda.
+
+      Printed version
+      Schoolmagz printed version juga menjadi guide atau petunjuk untuk website http://schoolmagz.net/. Dengan komposisi paduan antara teknologi cetak, serta desain modern menjadikan informasi yang Anda sampaikan benar-benar sampai kepada pembaca.
+
+      Digital version
+      www.schoolmagz.net sebuah website yang berisi tentang pelajar. Website ini merupakan media interaktif-realtime di Internet. Dengan mengakses schoolmagz.net maka informasi akan tersampaikan dengan mudahnya di seluruh dunia secara realtime (saat ini juga) serta tayang 24 jam non-stop perhari.
+
+      Segmen remaja terpelajar di bidik mengingat kelompok komunitas ini merupakan kelompok konsumen berdaya kuat, trend setter, sedang mencari jatidiri dan pengakuan sosial di masyarakat. Sebuah kebanggaan yang tak ternilai bagi remaja ketika punya prestasi, karya maupun yang lainnya yang bisa diketahui semua orang didunia ini.
+
+      Kebijakan konten serta sistem yang kita buat untuk “bagaimana bisa membentuk ikatan emosional pelajar dengan schoolmagz” menjadikan kami yakin bahwa apa yang kami cita-citakan bakalan tercapai
+
+  lokasi: Jetak Kedungdowo Kaliwungu, Kudus, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/203.png
+  link: /hibahcmb/203
+
+- nomor: '204'
+  judul:   Rattan e-Farmers
+  deskripsi: |
+      “Rattan e-Farmers” adalah insiatif bersama untuk melakukan peningkatan kapasitas melalui pelatihan penguasaan optimal teknologi informasi bagi para pelaku rotan. Tujuan dari pelatihan Rattan e-Farmers ini adalah untuk memberikan pengetahuan dasar penggunaan teknologi informasi agar tercapai penguatan jejaring komunikasi antarpelaku rotan sehingga terjadi peningkatan nilai tambah rotan ditingkat produksi, pengolahan, dan pemasaran
+  lokasi: Bogor, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/204.png
+  link: /hibahcmb/204
+
+- nomor: '205'
+  judul:   ADB, School for Deaf & Disable
+  deskripsi: |
+      Sekolah gratis digital, animasi, dan web coder untuk orang tuli, dan cacat. Outputnya adalah mereka bisa bekerja secara remote/jarak jauh sehingga mereka tidak lagi dipandang sebelah mata
+  lokasi: DI Yogyakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/205.png
+  link: /hibahcmb/205
+
+- nomor: '206'
+  judul:   Social Media Multi Layanan Untuk Wisata Indonesia
+  deskripsi: |
+      Sebuah sosial media dimana pengguna bisa membagi foto, video, komentar, deskripsi, lokasi, dan segala aktivitas mengenai suatu venue di Indonesia. Media ini juga menyediakan wadah bagi pemilik usaha yang berkaitan dengan venue untuk memberikan informasi tambahan, interface multi-language, tersedia dalam media web, mobile web maupun native mobile apps
+  lokasi: Malang, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/206.png
+  link: /hibahcmb/206
+ 
+- nomor: '207'
+  judul:   Forumlingkarpena.net
+  deskripsi: |
+      Meningkatnya keinginan menulis masyarakat Indonesia dari berbagai rentang usia dan latar belakang pendidikan menimbulkan kebutuhan ruang belajar, informasi dan tutorial yang bisa didapatkan kapan saja, di mana saja dan gratis! Para calon penulis memerlukan bimbingan dari mereka yang telah terjun lebih dahulu atau punya pengalaman di dunia tulis menulis. Setelah bisa menulis, para penulis baru itu juga perlu ruang untuk menuliskan hasil belajar mereka. Forumlingkarpena.net dalam perkembangan nantinya membagi halaman situsnya menjadi: Tips Menulis (berbagai trik dan tips menulis), Ruang Karya (halaman bagi anggota situs untuk menulis), Kegiatan Menulis (berbagai informasi acara kepenulisan luar dan dalam negeri), Lomba (Kompetisi Menulis), Bacaan Penunjang (berbagai buku atau bacaan untuk asupan menulis), Dokumentasi Media (karya-karya yang dimuat media massa cetak/elektronik), Pelatihan (ruang untuk belajar menulis online/daring) yang sekaligus berfungsi sebagai SEKOLAH MENULIS ONLINE untuk anggota Forum Lingkar Pena yang saat ini beranggotakan lebih dari 5000 orang di cabang 30 propinsi dan luar negeri (Arab Saudi, Jepang, Sudan, Mesir, Hongkong, Malaysia, Amerika/Kanada) dan masih terbuka bagi siapapun yang ingin menjadi anggota.
+  lokasi: Jakarta Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/207.png
+  link: /hibahcmb/207
+ 
+- nomor: '208'
+  judul:   Ear Magazine
+  deskripsi: |
+      Sebuah proyek pendokumentasian kegiatan-kegitan yang berkaitan dengan perkembangan musik indie, baik secara lokal maupun nasional
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/208.png
+  link: /hibahcmb/208 
+ 
+- nomor: '209'
+  judul:   Pusat Informasi Penerapan Teknologi Tepat Guna Pompa Hidram
+  deskripsi: |
+      Sebuah proyek pembangunan informasi lengkap tentang fungsi dan cara membuat pompa hidram untuk memenuhi kebutuhan masyarakat terhadap air bersih tanpa menggunakan bahan bakar minyak dan listrik
+  lokasi: Depok, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/209.png
+  link: /hibahcmb/209   
+  
+- nomor: '210'
+  judul:   Penyelenggaraan Media Anak Online sebagai Sarana Ekspresi dan Advokasi Hak Anak
+  deskripsi: |
+      Sanggar Anak Akar adalah sebuah organisasi yang concern pada pengembangan model pendidikan alternatif untuk anak pinggiran dalam mendorong minat anak untuk bisa menguasai dan memanfaatkan teknologi informasi secara bijak. Sejalan dengan itu Sanggar Anak Akar berupaya menjadikan teknologi informasi sebagai bagian dari sinergi kemampuan ekspresi dan upaya advokasi hak anak. Secara konkret sinergi beragam potensi itu diwujudkan dalam proyek penyelenggaraan dan pengembangan media anak online
+  lokasi: Jakarta Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/210.png
+  link: /hibahcmb/210 
   
 - nomor: '713'
   judul: Report2DewanPers untuk Media Siber Indonesia
