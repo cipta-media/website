@@ -10,6 +10,8 @@ tags:
 - buruh perempuan
 - LSBP
 author: hillun
+comment: true
+img: "/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284-8f0bf1.jpg"
 ---
 
 ![Beberapa-buruh-perempuan-sedang-diskusi-400x284-8f0bf1.jpg](/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284-8f0bf1.jpg){: .img-responsive .center-block }

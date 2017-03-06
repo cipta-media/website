@@ -8,6 +8,8 @@ tags:
 - sempugi
 - CMS
 author: hillun
+comment: true
+img: "/uploads/Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309.jpg"
 ---
 
 ![Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309.jpg](/uploads/Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309.jpg){: .img-responsive .center-block }

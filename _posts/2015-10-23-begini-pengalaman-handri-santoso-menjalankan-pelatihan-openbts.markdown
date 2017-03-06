@@ -9,6 +9,8 @@ tags:
 - teknologi
 - Universitas Surya
 author: hillun
+comment: true
+img: "/uploads/121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-350x350.jpg"
 ---
 
 ![121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-350x350.jpg](/uploads/121-Pengadaan-Pusat-Training-Wireless-Cellular-Network-berbasis-OpenBTS-350x350.jpg){: .img-responsive .center-block }

@@ -9,6 +9,8 @@ tags:
 - remotivi
 - televisi
 author: hillun
+comment: true
+img: "/uploads/800px-Oktober_6_2015_KFMP_Gamifikasi_Rapotivi-400x278.jpg"
 ---
 
 ![800px-Oktober_6_2015_KFMP_Gamifikasi_Rapotivi-400x278.jpg](/uploads/800px-Oktober_6_2015_KFMP_Gamifikasi_Rapotivi-400x278.jpg){: .img-responsive .center-block }

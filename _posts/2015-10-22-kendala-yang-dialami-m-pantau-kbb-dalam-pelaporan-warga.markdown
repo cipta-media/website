@@ -9,6 +9,8 @@ tags:
 - m-Pantau KBB
 - wahid institute
 author: 
+comment: true
+img: "/uploads/136-Mobile-Pantau-Kebebasan-Beragama-dan-Berkeyakinan-m-Pantau-KBB-350x350.jpg"
 ---
 
 ![136-Mobile-Pantau-Kebebasan-Beragama-dan-Berkeyakinan-m-Pantau-KBB-350x350.jpg](/uploads/136-Mobile-Pantau-Kebebasan-Beragama-dan-Berkeyakinan-m-Pantau-KBB-350x350.jpg){: .img-responsive .center-block }

@@ -10,6 +10,8 @@ tags:
 - saujana
 - difabel
 author: hillun
+comment: true
+img: "/uploads/Screen-Shot-2015-07-21-at-7.28.14-PM-400x291.png"
 ---
 
 ![Screen-Shot-2015-07-21-at-7.28.14-PM-400x291.png](/uploads/Screen-Shot-2015-07-21-at-7.28.14-PM-400x291.png){: .img-responsive .center-block }
