@@ -8,7 +8,7 @@ tags:
 - telekomunikasi
 - jaringan seluler
 author: reza
-comment: true
+comments: true
 img: "/uploads/Wikimedia-Infografis_Design_Mengenal-Teknologi-Jaringan-Komunikasi-01-1024x717.jpg"
 ---
 

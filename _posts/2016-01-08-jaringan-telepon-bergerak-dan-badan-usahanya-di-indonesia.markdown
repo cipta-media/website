@@ -9,7 +9,7 @@ tags:
 - ponsel
 - jaringan seluler
 author: reza
-comment: true
+comments: true
 img: "/uploads/Infografis-Jaringan-Telepon-Bergerak-dan-Badan-Usahanya-di-Indonesia.png"
 ---
 

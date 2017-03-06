@@ -8,7 +8,7 @@ tags:
 - papua
 - CMS
 author: hillun
-comment: true
+comments: true
 img: "/uploads/168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350.jpg"
 ---
 

@@ -9,7 +9,7 @@ tags:
 - telekomunikasi
 - jaringan seluler
 author: reza
-comment: true
+comments: true
 img: "/uploads/Wikimedia-Infografis_Design_Info-Satelit-Komunikasi-Milik-Operator-Telekomunikasi-Indonesia-01-1024x717.jpg"
 ---
 

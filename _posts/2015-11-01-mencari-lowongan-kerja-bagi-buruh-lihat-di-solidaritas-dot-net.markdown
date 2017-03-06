@@ -9,7 +9,7 @@ tags:
 - lowongan kerja
 - solidaritas
 author: hillun
-comment: true
+comments: true
 img: "/uploads/124-Solidaritas.net-Media-Center-350x350.jpg"
 ---
 

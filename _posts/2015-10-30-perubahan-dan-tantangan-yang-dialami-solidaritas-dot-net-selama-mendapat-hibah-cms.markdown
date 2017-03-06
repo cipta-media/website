@@ -8,7 +8,7 @@ categories:
 tags:
 - solidaritas
 author: hillun
-comment: true
+comments: true
 img: "/uploads/124-Solidaritas.net-Media-Center-400x400.jpg"
 ---
 

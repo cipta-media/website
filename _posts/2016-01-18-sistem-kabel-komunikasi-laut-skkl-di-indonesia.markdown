@@ -9,7 +9,7 @@ tags:
 - jaringan seluler
 - telekomunikasi
 author: reza
-comment: true
+comments: true
 img: "/uploads/Kabel-Laut-Indonesia.png"
 ---
 

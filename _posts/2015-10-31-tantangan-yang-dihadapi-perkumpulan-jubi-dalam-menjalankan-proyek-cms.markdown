@@ -7,7 +7,7 @@ categories:
 tags:
 - jubi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350-6ec011.jpg"
 ---
 

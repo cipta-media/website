@@ -7,7 +7,7 @@ categories:
 tags:
 - buruh
 author: arman
-comment: true
+comments: true
 img: "/uploads/Screen-Shot-2015-12-08-at-00.31.02-1024x563.png"
 ---
 
