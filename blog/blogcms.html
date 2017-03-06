@@ -13,23 +13,21 @@ layout: blog
 <div class="wrapper wrapper-content  animated fadeInRight blog">
     <div class="row m-b-lg">
 		<ul id="pag-itemContainer" style="list-style:none;">
-    {% assign counter = 0 %}
-		{% for post in site.categories['CMS'] %}
-		{% assign counter = counter | plus: 1 %}
+	{% assign counter = 0 %}
+	{% for post in site.categories['CMS'] %}
+	{% assign counter = counter | plus: 1 %}
 		<li>
-        <div class="col-lg-8 col-lg-offset-2">
+        <div class="col-lg-8">
             <div class="ibox">
                 <div class="ibox-content">
                     <a href="{{ post.url | prepend: site.baseurl }}" class="btn-link">
-                        <h2>
-                            {{ post.title }}
-                        </h2>
+                        <h2>{{ post.title }}</h2>
                     </a>
                     <div class="small m-b-xs">
                         <span class="text-muted"><i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                     </div>
                     <p>
-                    	{{ post.content | strip_html | truncate:100 }}
+                    	{{ post.content | strip_html | truncatewords:20 }}
                     </p>
                     <div class="row">
                         <div class="col-md-6">
@@ -46,6 +44,13 @@ layout: blog
         {% endfor %}
         </ul>
         {% include pagination.html %}
-
+	<div class="col-lg-4">
+		Kategori:
+		<ul>
+		{% for tag in site.data.CMS %}
+			<li><a href="{{ tag.href }}">{{ tag.name }}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
     </div>
 </div>
