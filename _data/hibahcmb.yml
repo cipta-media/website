@@ -635,6 +635,51 @@
   tipe: adil
   gambar: /static/img/hibahcmb/185.png
   link: /hibahcmb/185
+     
+- nomor: '186'
+  judul:   www.jurnalfootage.net
+  deskripsi: |
+      Jurnal Footage telah berdiri sejak tahun 2008 adalah jurnal online yang fokus kepada pengembangan kritik, pengarsipan, dan distribusi pengetahuan tentang media audio visual (film dan video) di Indonesia. Jurnal ini dikembangkan sebagai tempat bagi peminat media audio visual untuk mendapatkan akses pengetahuan tentang berbagai hal yang berkaitan dengan film, media televisi, new media dan video.
+  lokasi: Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/186.png
+  link: /hibahcmb/186
+    
+- nomor: '187'
+  judul:   Menggerakkan Inisiatif Warga Pulau Mandangin Melalui Media Mading Untuk Mengatasi Persoalan Listrik dan Air Bersih Secara MandiriMenggerakkan Inisiatif Warga Pulau Mandangin Melalui Media Mading Untuk Mengatasi Persoalan Listrik dan Air Bersih Secara Mandiri
+  deskripsi: |
+      Sebuah proyek untuk menggerakkan inisiatif warga melalui media mading “Wind of Change” (offline dan online) agar secara mandiri mampu mengatasi persoalan listrik dan air bersih. Proyek bertujuan: (a) memperkenalkan dan membangun pilot project pembangkit energi hibrid (wind power dan solar cell) dan teknologi desalinasi (destilasi dan reverse oemosis); (b) menginisiasi terbentuknya koperasi untuk mengelola listrik dan air bersih; (c) menghimpun swadaya warga.
+  lokasi: Pulau Mandangin Kab. Sampang Madura
+  tipe: adil
+  gambar: /static/img/hibahcmb/187.png
+  link: /hibahcmb/187
+    
+- nomor: '188'
+  judul:   Sobat Bumi
+  deskripsi: |
+      Media online yang berbasis jejaring sosial tempat berbagi dan melakukan kegiatan yang berhubungan dengan hidup hijau dan gerakan untuk menyayangi ibu pertiwi
+  lokasi: Bandung, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/188.png
+  link: /hibahcmb/188
+    
+- nomor: '189'
+  judul:   Belajar dan Berbagi Pengetahuan di Rumah Publik
+  deskripsi: |
+      Melakukan forum-forum masyarakat melalui institusi sosial yang sudah ada di masyarakat yang kemudian diperkuat melalui pembentukan clearing house yang berfungsi melakukan sharing pengetahuan antar kelompok masyarakat, untuk membangun budaya yang partisipatif, transparan dan akuntabel.
+  lokasi: Malang, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/189.png
+  link: /hibahcmb/189
+    
+- nomor: '190'
+  judul:   Pers Goes to Kampuang
+  deskripsi: |
+      Sebuah proyek pemberdayaan insan pers yang menangani pembinaan dan pengembangan potensi akses informasi dan pemberitaan yang adil dengan target daerah-daerah terpencil yang memiliki banyak keunikan dan keanekaragaman pemberitaan serta kebutuhan informasi dan teknologi bermedia. Proyek ini juga meliputi akses informasi didampingi dengan pengadaan pembinaan, penyuluhan dan pelatihan bagi masyarakat serta terlibat aktif dalam suasana kritis bermedia kedepannya yang diharapkan menjadi sebuah contoh untuk diterapkan di semua daerah di Nusantara
+  lokasi: Padang, Sumatera Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/190.png
+  link: /hibahcmb/190
   
 - nomor: '713'
   judul: Report2DewanPers untuk Media Siber Indonesia
