@@ -11,36 +11,14 @@ layout: blog
 </div>
 
 <div class="row m-b-lg">
-    <div class="col-lg-8 col-lg-offset-2">
-        <div class="wrapper wrapper-content animated fadeInRight">
-
-            <!-- latest 10 blog -->
-			{% for post in site.posts limit:10 %}
-            <div class="vote-item">
-                <div class="row">
-                    <div class="col-md-10">
-                        <a href="{{ post.url }}" class="vote-title">
-                            {{ post.title }}
-                        </a>
-                        <div class="vote-info">
-                            <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="row m-b-lg">
     <div class="col-lg-2 text-center"></div>
     <div class="col-lg-4 text-center m-b-lg">
+	<img src="/static/img/landing/cms-placeholder.jpg" width="200" class="img-responsive center-block" alt=""><br/>
         <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href= "blogcms.html">Blog Cipta Media Seluler</a>
     </div>
     <div class="col-lg-4 text-center m-b-lg">
+	<img src="/static/img/landing/Logo_Cipta_Media_Bersama.jpg" width="200" class="img-responsive center-block" alt=""><br/>
         <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href= "blogcmb.html">Blog Cipta Media Bersama</a>
     </div>
     <div class="col-lg-2 text-center"></div>
 </div>
-
