@@ -8,6 +8,8 @@ tags:
 - papua
 - CMS
 author: hillun
+comment: true
+img: 
 ---
 
 ![168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350.jpg](/uploads/168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350.jpg){: .img-responsive .center-block }

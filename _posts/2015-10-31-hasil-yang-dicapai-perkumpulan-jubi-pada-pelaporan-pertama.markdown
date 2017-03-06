@@ -9,6 +9,8 @@ tags:
 - CMS
 - Laporan warga
 author: hillun
+comment: true
+img: 
 ---
 
 ![Situs-Laporan-Warga-Papua-Berbasis-SMS.jpg](/uploads/Situs-Laporan-Warga-Papua-Berbasis-SMS.jpg){: .img-responsive .center-block }
