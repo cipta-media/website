@@ -8,24 +8,13 @@ layout: default
         <div class="col-lg-7 col-lg-offset-1">
             <div class="ibox">
                 <div class="ibox-content">
-                    <div class="pull-right">
-                    	<h5 style="display: inline;">Kategori:</h5>
-                    	{% for category in page.categories %}
-                        	<button class="btn btn-white btn-xs" type="button">{{ category }}</button>
-                        {% endfor %}
-			</br>
-			<span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
-                    </div>
                     <div class="text-center article-title">
-                        <h1>
-                            {{ page.title }}
-                        </h1>
-			<span class="text-muted">Oleh: {{ author.name }}</span>
+                        <h1> {{ page.title }}</h1>
                     </div>
                     	{{ content }}
                     <hr>
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                                 <h5 style="display: inline;">Tags:</h5>
                                 {% for tag in page.tags %}
                                     <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
@@ -34,7 +23,7 @@ layout: default
                     </div>
                     <br>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-12">
 					{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
@@ -64,14 +53,46 @@ s.setAttribute('data-timestamp', +new Date());
         </div>
 	<div class="col-lg-3">
 		<div class="panel-group" id="accordion">
+			
 		  <div class="panel panel-default">
 		    <div class="panel-heading">
 		      <h4 class="panel-title">
 			<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+			Penulis dan Tanggal Penulisan</a>
+		      </h4>
+		    </div>
+		    <div id="collapse1" class="panel-collapse collapse">
+		      <div class="panel-body">
+			{{ author.name }}<br/>
+			<i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}
+		      </div>
+		    </div>
+		  </div>
+
+		  <div class="panel panel-default">
+		    <div class="panel-heading">
+		      <h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+			Kategori</a>
+		      </h4>
+		    </div>
+		    <div id="collapse2" class="panel-collapse collapse">
+		      <div class="panel-body">
+                    	{% for category in page.categories %}
+                        	<button class="btn btn-white btn-xs" type="button">{{ category }}</button>
+                        {% endfor %}
+		      </div>
+		    </div>
+		  </div>
+			
+		  <div class="panel panel-default">
+		    <div class="panel-heading">
+		      <h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
 			Lisensi Artikel</a>
 		      </h4>
 		    </div>
-		    <div id="collapse1" class="panel-collapse collapse in">
+		    <div id="collapse3" class="panel-collapse collapse in">
 		      <div class="panel-body text-center">
 			{% assign tahun = page.date | date: "%Y" %}
 			{{ page.date | date: "%B" }} {{ tahun }} | 
@@ -94,14 +115,15 @@ s.setAttribute('data-timestamp', +new Date());
 		      </div>
 		    </div>
 		  </div>
+			
 		  <div class="panel panel-default">
 		    <div class="panel-heading">
 		      <h4 class="panel-title">
-			<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
 			Berita Terbaru</a>
 		      </h4>
 		    </div>
-		    <div id="collapse2" class="panel-collapse collapse">
+		    <div id="collapse4" class="panel-collapse collapse">
 		      <div class="panel-body">
 		      {% for post in site.categories['Berita'] limit:5 %}
 			<a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
@@ -110,6 +132,7 @@ s.setAttribute('data-timestamp', +new Date());
 		      </div>
 		    </div>
 		  </div>
+			
 		  </div>
 		</div>
         </div>
