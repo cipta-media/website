@@ -8,7 +8,7 @@ tags:
 - buruh
 author: arman
 comment: true
-img: 
+img: "/uploads/Screen-Shot-2015-12-08-at-00.31.02-1024x563.png"
 ---
 
 ![Screen-Shot-2015-12-08-at-00.31.02-1024x563.png](/uploads/Screen-Shot-2015-12-08-at-00.31.02-1024x563.png){: .img-responsive .center-block }

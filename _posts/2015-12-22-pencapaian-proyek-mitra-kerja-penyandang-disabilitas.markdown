@@ -10,7 +10,7 @@ tags:
 - Yogyakarta
 author: hillun
 comment: true
-img: 
+img: "/uploads/Screen-Shot-2015-07-21-at-7.28.14-PM-400x291-8df944.png"
 ---
 
 ![Screen-Shot-2015-07-21-at-7.28.14-PM-400x291-8df944.png](/uploads/Screen-Shot-2015-07-21-at-7.28.14-PM-400x291-8df944.png){: .img-responsive .center-block }

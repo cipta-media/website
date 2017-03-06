@@ -10,7 +10,7 @@ tags:
 - LSBP
 author: hillun
 comment: true
-img: 
+img: "/uploads/261-Lingkar-Suara-Buruh-Perempuan-350x350.jpg"
 ---
 
 ![261-Lingkar-Suara-Buruh-Perempuan-350x350.jpg](/uploads/261-Lingkar-Suara-Buruh-Perempuan-350x350.jpg){: .img-responsive .center-block }

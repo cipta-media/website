@@ -12,7 +12,7 @@ tags:
 - AMAN
 author: hillun
 comment: true
-img: 
+img: "/uploads/Monitoring-Wilayah-Hutan-Suku-Tobelo-Dalam-Dodaga-Dengan-Seluler-250x250.jpg"
 ---
 
 ![Monitoring-Wilayah-Hutan-Suku-Tobelo-Dalam-Dodaga-Dengan-Seluler-250x250.jpg](/uploads/Monitoring-Wilayah-Hutan-Suku-Tobelo-Dalam-Dodaga-Dengan-Seluler-250x250.jpg){: .img-responsive .center-block }

@@ -9,7 +9,7 @@ tags:
 - solidaritas
 author: hillun
 comment: true
-img: 
+img: "/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg"
 ---
 
 ![Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg](/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg){: .img-responsive .center-block }

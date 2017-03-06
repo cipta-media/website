@@ -12,7 +12,7 @@ tags:
 - remotivi
 author: hillun
 comment: true
-img: 
+img: "/uploads/Kami-adalah-Pemilik-Frekuensi-Kami-Berhak-Mendapat-Tayangan-Berkualitas-400x269.jpg"
 ---
 
 ![Kami-adalah-Pemilik-Frekuensi-Kami-Berhak-Mendapat-Tayangan-Berkualitas-400x269.jpg](/uploads/Kami-adalah-Pemilik-Frekuensi-Kami-Berhak-Mendapat-Tayangan-Berkualitas-400x269.jpg){: .img-responsive .center-block }

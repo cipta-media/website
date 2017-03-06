@@ -10,7 +10,7 @@ tags:
 - remotivi
 author: hillun
 comment: true
-img: 
+img: "/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png"
 ---
 
 ![Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png](/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png)

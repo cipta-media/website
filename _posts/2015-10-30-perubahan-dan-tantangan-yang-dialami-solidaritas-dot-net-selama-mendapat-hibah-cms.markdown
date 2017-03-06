@@ -9,7 +9,7 @@ tags:
 - solidaritas
 author: hillun
 comment: true
-img: 
+img: "/uploads/124-Solidaritas.net-Media-Center-400x400.jpg"
 ---
 
 ![124-Solidaritas.net-Media-Center-400x400.jpg](/uploads/124-Solidaritas.net-Media-Center-400x400.jpg){: .img-responsive .center-block }

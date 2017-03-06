@@ -10,7 +10,7 @@ tags:
 - Laporan warga
 author: hillun
 comment: true
-img: 
+img: "/uploads/Situs-Laporan-Warga-Papua-Berbasis-SMS.jpg"
 ---
 
 ![Situs-Laporan-Warga-Papua-Berbasis-SMS.jpg](/uploads/Situs-Laporan-Warga-Papua-Berbasis-SMS.jpg){: .img-responsive .center-block }
