@@ -61,7 +61,7 @@ s.setAttribute('data-timestamp', +new Date());
 			Penulis dan Tanggal Penulisan</a>
 		      </h4>
 		    </div>
-		    <div id="collapse1" class="panel-collapse collapse">
+		    <div id="collapse1" class="panel-collapse collapse in">
 		      <div class="panel-body">
 			{{ author.name }}<br/>
 			<i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}
@@ -92,7 +92,7 @@ s.setAttribute('data-timestamp', +new Date());
 			Lisensi Artikel</a>
 		      </h4>
 		    </div>
-		    <div id="collapse3" class="panel-collapse collapse in">
+		    <div id="collapse3" class="panel-collapse collapse">
 		      <div class="panel-body text-center">
 			{% assign tahun = page.date | date: "%Y" %}
 			{{ page.date | date: "%B" }} {{ tahun }} | 
