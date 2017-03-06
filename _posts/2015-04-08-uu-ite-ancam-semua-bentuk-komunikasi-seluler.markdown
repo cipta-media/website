@@ -9,6 +9,8 @@ tags:
 - seluler
 - telekomunikasi
 author: prima
+comments: true
+img: "/uploads/UU-ITE-350x350.jpg"
 ---
 
 ![UU-ITE-350x350.jpg](/uploads/UU-ITE-350x350.jpg){: .img-responsive .center-block }

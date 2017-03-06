@@ -8,6 +8,8 @@ tags:
 - seluler
 - pengguna seluler
 author: kurniawan
+comments: true
+img: "/uploads/Group_of_young_people_texting_on_mobile_phones._10699648676-400x284.jpg"
 ---
 
 ![Group_of_young_people_texting_on_mobile_phones._10699648676-400x284.jpg](/uploads/Group_of_young_people_texting_on_mobile_phones._10699648676-400x284.jpg){: .img-responsive .center-block }

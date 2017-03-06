@@ -9,6 +9,8 @@ tags:
 - buruh
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/Januari_23_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x257.jpg"
 ---
 
 ![Januari_23_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x257.jpg](/uploads/Januari_23_2015_SMC_Pendidikan_ekonomi_politik_dasar-400x257.jpg){: .img-responsive .center-block }

@@ -10,6 +10,7 @@ tags:
 - jaringan seluler
 author: arman
 img: "/uploads/Infografis-BTS-Indonesia.png"
+comments: true
 ---
 
 ![Infografis-BTS-Indonesia.png](/uploads/Infografis-BTS-Indonesia.png){: .img-responsive .center-block }

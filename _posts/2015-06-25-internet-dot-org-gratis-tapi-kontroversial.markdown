@@ -7,6 +7,8 @@ categories:
 tags:
 - internet
 author: prima
+comments: true
+img: "/uploads/internet.org_.jpg"
 ---
 
 ![internet.org_.jpg](/uploads/internet.org_.jpg){: .img-responsive .center-block }

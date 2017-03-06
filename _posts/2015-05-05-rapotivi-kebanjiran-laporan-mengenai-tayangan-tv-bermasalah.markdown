@@ -9,6 +9,8 @@ tags:
 - remotivi
 - televisi
 author: hillun
+comments: true
+img: "/uploads/rapotivi.jpg"
 ---
 
 ![rapotivi.jpg](/uploads/rapotivi.jpg){: .img-responsive .center-block }

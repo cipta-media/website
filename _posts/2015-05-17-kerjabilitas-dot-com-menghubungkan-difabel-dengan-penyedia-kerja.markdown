@@ -10,6 +10,8 @@ tags:
 - kerjabilitas
 - saujana
 author: hillun
+comments: true
+img: "/uploads/aku-seberdaya-kamu-350x400.jpg"
 ---
 
 ![aku-seberdaya-kamu-350x400.jpg](/uploads/aku-seberdaya-kamu-350x400.jpg){: .img-responsive .center-block }

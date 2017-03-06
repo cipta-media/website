@@ -7,6 +7,8 @@ categories:
 tags:
 - perkumpulan jubi
 author: hillun
+comments: true
+img: "/uploads/Screenshot-2015-03-28-19.42.11.png"
 ---
 
 ![Screenshot-2015-03-28-19.42.11.png](/uploads/Screenshot-2015-03-28-19.42.11.png){: .img-responsive .center-block }

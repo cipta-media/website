@@ -9,8 +9,8 @@ tags:
 - Jogja
 - Open Data
 author: 
-comment: true
-img: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 

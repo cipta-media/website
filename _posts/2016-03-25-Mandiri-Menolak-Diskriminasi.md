@@ -8,8 +8,8 @@ tags:
 - CMS
 - UI
 author: 
-comment: true
-img: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 

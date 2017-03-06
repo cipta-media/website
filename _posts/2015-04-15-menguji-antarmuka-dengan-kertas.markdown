@@ -8,6 +8,8 @@ tags:
 - antarmuka
 - aplikasi
 author: Kurniawan
+comments: true
+img: "/uploads/3082619149_bd0a816331_o.jpg"
 ---
 
 ![3082619149_bd0a816331_o.jpg](/uploads/3082619149_bd0a816331_o.jpg){: .img-responsive .center-block }
