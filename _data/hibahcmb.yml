@@ -16,6 +16,132 @@
   tipe: retas
   gambar: /static/img/hibahcmb/002.png
   link: /hibahcmb/002
+  
+- nomor: '003'
+  judul: Animasi Penyuluhan Keselamatan Jalur Pipa Bahan Bakar/ Minyak
+  deskripsi: |
+      Pembuatan program animasi penyuluhan keselamatan jalur pipa bahan bakar/ minyak berdurasi 5 menit dalam bentuk VCD dan dibagikan pada masyarakat
+  lokasi: Muntilan, Magelang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/003.png
+  link: /hibahcmb/003
+ 
+- nomor: '004'
+  judul: Multimedia untuk Belajar
+  deskripsi: |
+      Proyek pembuatan informasi dan materi pelajaran untuk sekolah melalui media interaktif menggunakan multimedia, animasi, dan internet  
+  lokasi: Losari, Brebes, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/004.png
+  link: /hibahcmb/004
+  
+- nomor: '005'
+  judul: Net Box
+  deskripsi: |
+      Awal 2012 sampai waktu tertentu
+  lokasi: Banjarmasin, Kalimantan Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/005.png
+  link: /hibahcmb/005
+  
+- nomor: '006'
+  judul: Doa (Festival Menyanyi)
+  deskripsi: |
+      Konser atau festival menyanyi di Jakarta
+  lokasi: DKI Jakarta Utara
+  tipe: bebas
+  gambar: /static/img/hibahcmb/006.png
+  link: /hibahcmb/006
+  
+- nomor: '007'
+  judul: SeeBogor.com Pusat Informasi Online Wisata Bogor
+  deskripsi: |
+      Pembuatan situs web informasi wisata daerah Bogor, Jawa Barat dwibahasa Inggris-Indonesia
+  lokasi: Bogor, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/007.png
+  link: /hibahcmb/007
+    
+- nomor: '008'
+  judul: Link Internet Murah
+  deskripsi: |
+      Pembangunan internet murah untuk pemuda, pelajar, dan mahasiswa di Kota Palu dengan membangun link-link wi fii antar kos-net
+  lokasi: Sulawesi Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/008.png
+  link: /hibahcmb/008
+  
+- nomor: '009'
+  judul: Sidomi News (www.sidomi.com)
+  deskripsi: |
+      Situs berita modern dengan crowd sourcing menggunakan khalayak umum sebagai kontributor
+  lokasi: Denpasar, Bali
+  tipe: retas
+  gambar: /static/img/hibahcmb/009.png
+  link: /hibahcmb/009
+  
+- nomor: '010'
+  judul: Media Informasi Komunitas & Pelatihan Jurnalistik
+  deskripsi: |
+      Pembangunan media informasi alternatif, terutama untuk daerah Kabupaten Muna, yang ditujukan untuk mencerdaskan dan membangun perekonomian daerah marjinal, serta meningkatkan kapasitas masyarakat lokal dalam menentukan dan mengubah kebijakan publik
+  lokasi: Kabupaten Muna, Sulawesi Tenggara
+  tipe: adil
+  gambar: /static/img/hibahcmb/010.png
+  link: /hibahcmb/010
+  
+- nomor: '011'
+  judul: Pemberdayaan Keterampilan Menulis Petani Organik
+  deskripsi: |
+      Memberdayakan keterampilan menulis kelompok tani organik (menik) untuk memahami dan merumuskan persoalan pertanian organik. Kerjasama antar mahasiswa UNNES dan kelompok tani
+  lokasi: Semarang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/011.png
+  link: /hibahcmb/011
+    
+- nomor: '012'
+  judul: Digitalisasi & Broadcast Budaya Sunda Online
+  deskripsi: |
+      Sebuah proyek yang berupaya untuk mengkoleksi budaya Sunda yang bernilai tinggi dan mempublikasikannya secara online dengan tujuan meningkatkan kunjungan wisata ke Pulau Jawa, meningkatkan solidaritas kemasyarakatan dan kecintaan terhadap budaya lokal, serta memungkinkan komersialisasi produk karya sehingga meningkatkan kesejahteraan rakyat
+  lokasi: Bandung
+  tipe: retas
+  gambar: /static/img/hibahcmb/012.png
+  link: /hibahcmb/012
+      
+- nomor: '013'
+  judul: Media Sekolah
+  deskripsi: |
+      Sebuah program yang berupaya untuk menyediakan sebuah media informasi online untuk para pelajar agar dapat mengakses ilmu pengetahuan dengan lebih luas. Dengan hal ini diharapakan akan adanya kesetaraan antara daerah kota dan daerah dalam hal pengaksesan informasi
+  lokasi: Surabaya, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/013.png
+  link: /hibahcmb/013
+       
+- nomor: '014'
+  judul: Warung Penerangan Masyarakat
+  deskripsi: |
+      Sebuah program yang berupaya untuk menyediakan sebuah media informasi online untuk para pelajar agar dapat mengakses ilmu pengetahuan dengan lebih luas. Dengan hal ini diharapakan akan adanya kesetaraan antara daerah kota dan daerah dalam hal pengaksesan informasi
+  lokasi: Surabaya. Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/014.png
+  link: /hibahcmb/014 
+         
+- nomor: '015'
+  judul: Dunia Wayang adalah Cermin Dunia Kita
+  deskripsi: |
+      Sebuah proyek yang berusaha untuk menjadikan wayang sebagai jembatan antara generasi muda dengan nilai kearifan budaya lokal, dimana pemberdayaan diri adalah fondasi, untuk membentuk karakter bangsa Indonesia
+  lokasi: Surabaya. Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/015.png
+  link: /hibahcmb/015
+          
+- nomor: '016'
+  judul: Katalog UMKM Online
+  deskripsi: |
+      Sebuah wadah pemasaran produk-produk UMKM dan menjadi pihak ketiga sehingga UMKM dengan pelanggan tidak ada yang dirugikan. Katalog UMKM ini dibuat dalam bentuk website yang juga memaparkan aktivitas produksi dari UMKM terpercaya
+  lokasi: Surabaya, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/016.png
+  link: /hibahcmb/016 
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
