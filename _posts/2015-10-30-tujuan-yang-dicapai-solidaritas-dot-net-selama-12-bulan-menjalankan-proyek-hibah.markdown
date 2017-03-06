@@ -8,6 +8,8 @@ tags:
 - buruh
 - solidaritas
 author: hillun
+comment: true
+img: 
 ---
 
 ![Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg](/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg){: .img-responsive .center-block }
