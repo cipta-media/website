@@ -444,6 +444,159 @@
   tipe: retas
   gambar: /static/img/hibahcmb/050.png
   link: /hibahcmb/050
+    
+- nomor: '051'
+  judul:  pelajartangerangnews.com
+  deskripsi: |
+      Sebuah proyek yang merupakan portal berita yang isinya ditujukan khusus untuk pelajar, terutama yang berada di Tangerang. Portal berita ini akan melibatkan pelajar sebagai koresponden berita yang nantinya diharapkan akan muncul konten-konten lokal
+  lokasi: Tangerang, Banten
+  tipe: bebas
+  gambar: /static/img/hibahcmb/051.png
+  link: /hibahcmb/051
+    
+- nomor: '052'
+  judul:  Heritage Kita
+  deskripsi: |
+      Sebuah proyek untuk membangun website yang memuat sejarah suatu kampung masyarakat, potensi warisan budaya bendawi (tangible heritage) maupun nonbendawi (intangible heritage)
+  lokasi: Pasuruan
+  tipe: retas
+  gambar: /static/img/hibahcmb/052.png
+  link: /hibahcmb/052
+    
+- nomor: '053'
+  judul:  Heritage Kita
+  deskripsi: |
+      Sebuah proyek yang mengusung konsep pasar tradisional dimana penjual dan pembeli harus saling bertemu dan bergaul terlebih dahulu sehingga transaksi online dapat lebih aman dan nyaman
+  lokasi: Semarang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/053.png
+  link: /hibahcmb/053 
+    
+- nomor: '055'
+  judul:  Care. Share.
+  deskripsi: |
+      Proyek utama berupa CARE yaitu membuat paket-paket donasi berbasis website yang berisi data base penerima bantuan dan membuat propaganda program-program yang dilakukan; juga SHARE yaitu membagikan buku dan majalah berkala anak gratis, cerita motivasi dan hiburan berupa IKIDS TV dan Video atau games, pelatihan, kursus singkat, dll
+  lokasi: Tangerang, Banten
+  tipe: retas
+  gambar: /static/img/hibahcmb/055.png
+  link: /hibahcmb/055
+    
+- nomor: '056'
+  judul:  Majalah dKmagz (Job and Career)
+  deskripsi: |
+      Sebuah proyek pendirian Majalah dKmagz (Job and Carier) yang sudah berjalan 11 bulan dengan membagikan majalah gratis (hingga 10 ribu eksemplar) yang berisi informasi mengenai info lowongan kerja. Majalah ini tidak sekedar memberikan lowongan, tetapi juga arahan dan edukasi kepada calon pekerja. Sasaran utama majalah ini adalah lulusan setingkat SMK/D1-3
+  lokasi: Tangerang Selatan, Banten
+  tipe: retas
+  gambar: /static/img/hibahcmb/056.png
+  link: /hibahcmb/056
+    
+- nomor: '057'
+  judul:  DengerinRadio.com
+  deskripsi: |
+      Sebuah situs jejaring sosial yang dilengkapi dengan radio online dimana setiap user dapat melakukan siaran dari mana saja
+  lokasi: Tangerang, Banten
+  tipe: retas
+  gambar: /static/img/hibahcmb/057.png
+  link: /hibahcmb/057
+    
+- nomor: '058'
+  judul:  Desa Online
+  deskripsi: |
+      Sebuah proyek untuk membangun website yang memuat berbagai kejadian atau ide pengembangan yang terjadi di suatu desa sehingga informasi ini akan segera tersebar secara terkini ke seluruh Indonesia
+  lokasi: Demak
+  tipe: bebas
+  gambar: /static/img/hibahcmb/058.png
+  link: /hibahcmb/058
+    
+- nomor: '059'
+  judul:  CCTV Security System
+  deskripsi: |
+      Sebuah proyek pemasangan cctv secara global dan ditayangkan dengan jaringan wifi untuk mengamankan daerah sekitar
+  lokasi: Tangerang, Banten
+  tipe: pantau
+  gambar: /static/img/hibahcmb/059.png
+  link: /hibahcmb/059
+    
+- nomor: '060'
+  judul:  Research and Development Centre (RNDC)
+  deskripsi: |
+      Sebuah wadah untuk meningkatkan dan mengembangkan pengetahuan IT security di Indonesia dan menciptakan SDM yang berkompeten dan siap bersaing dengan cara melakukan pengembangkan aplikasi dan penelitian
+  lokasi: Bekasi, Jawa Barat
+  tipe: pantau
+  gambar: /static/img/hibahcmb/060.png
+  link: /hibahcmb/060
+    
+- nomor: '061'
+  judul:  Sebar Jakarta
+  deskripsi: |
+      Sebuah media online yang berisikan informasi mengenai pelayanan publik di Jakarta berdasarakan pengaduan masyarakat dan liputan reporter yang terjun langsung ke lapangan
+  lokasi: Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/061.png
+  link: /hibahcmb/061
+    
+- nomor: '062'
+  judul:  HMINEWS
+  deskripsi: |
+      Sebuah proyek untuk menyediakan portal yang khusus diperuntukkan bagi gerakan kaum muda dan mahasiswa Indonesia
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/062.png
+  link: /hibahcmb/062
+    
+- nomor: '063'
+  judul:  Media Online Gratis Masyarakat Siantar
+  deskripsi: |
+      Sebuah proyek untuk membangun media komunitas lokal masyarakat di wilayah kota Pematang Siantar
+  lokasi: Pematangsiantar, Sumatera Utara
+  tipe: adil
+  gambar: /static/img/hibahcmb/063.png
+  link: /hibahcmb/063
+    
+- nomor: '064'
+  judul:  Media UKM, Menembus Batas Menjemput Mimpi
+  deskripsi: |
+      Sebuah proyek untuk memajukan Usaha Kecil Menengah di Malang
+  lokasi: Malang, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/064.png
+  link: /hibahcmb/064
+    
+- nomor: '066'
+  judul:  Media Online Kesehatan Wanita Sehat
+  deskripsi: |
+      Sebuah media online yang berisikan informasi mengenai kesehatan wanita
+  lokasi: Aceh Besar
+  tipe: bebas
+  gambar: /static/img/hibahcmb/066.png
+  link: /hibahcmb/066
+    
+- nomor: '067'
+  judul:  Penyimpangan Kebijakan Syariah Islam terhadap Hak-hak Perempuan
+  deskripsi: |
+      Sebuah bantuan hukum untuk perempuan-perempuan yang menjadi korban ketidakadilan sosial
+  lokasi: Banda Aceh
+  tipe: retas
+  gambar: /static/img/hibahcmb/067.png
+  link: /hibahcmb/067
+    
+- nomor: '068'
+  judul:  Penguatan Sistem Ekonomi Keluarga Pemulung dan Pendidikan Alternatif melalui Pembangunan Media Alternatif
+  deskripsi: |
+      Sebuah media alternatif sebagai sarana untuk memajukan ekonomi pemulung di Banda Aceh
+  lokasi: Banda Aceh
+  tipe: adil
+  gambar: /static/img/hibahcmb/068.png
+  link: /hibahcmb/068
+    
+- nomor: '069'
+  judul:  Roadshow Edukasi Sehat Berinternet
+  deskripsi: |
+      Sebuah proyek pembelajaran klasikal secara marathon di setiap komunitas dengan durasi 2 JP/sesi
+  lokasi: Bandung, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/069.png
+  link: /hibahcmb/069
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
@@ -453,7 +606,36 @@
   tipe: retas
   gambar: /static/img/hibahcmb/169.png
   link: /hibahcmb/169
-
+    
+- nomor: '178'
+  judul:  Kantor Berita Difabel
+  deskripsi: |
+      Kantor Berita Difabel (KBD) adalah sebuah media yang akan menjadi rujukan bagi semua orang untuk mendapatkan berita dan informasi mengenai isu-isu difabilitas (kecacatan) yang meliputi permasalahan-permasalahan yang dihadapi kaum difabel; aktivitas, pencapaian dan prestasi kaum difabel; potensi sumberdaya manusia kaum difabel; statistik tentang difabel dan lembaga-lembaga yang menangani difabilitas; sera kebijakan publik terkait difabilitas. KBD berbasis di website, namun dalam sosialisasi kontennya akan menggunakan berbagai jejaring sosial yang ada seperti Facebook, Twitter dan LinkedIn. Kontributor KBD adalah kaum difabel, jurnalis yang peduli isu difabilitas, dan masyarakat umum yang peduli. KBD menargetkan setiap harinya dapat meng-upload berita/informasi difabilitas rata-rata 3-5 konten. Kehadiran KBD diharapkan juga menjadi inspirasi bagi pengambil kebijakan untuk: (1) memperhatikan keberadaan dan kebutuhan kaum difabel dalam pengambilan kebijakan dan (2) membuat kebijakan yang tepat sasaran dan tepat guna bagi pemberdayaan kaum difabel dan keluarganya. Bagi masyarakat sendiri, KBD diharapkan menjadi inspirasi untuk membuka diri terhadap keberadaan dan potensi kaum difabel, menghapus stereotipe negatif tentang difabilitas, serta menerima kaum difabel sebagai bagian yang tak terpisahkan dari masyarakat. Dalam jangka menengah dan panjang, KBD akan menjadi media untuk mereduksi diskriminasi terhadap kaum difabel serta menstimulasi partisipasi kaum difabel dalam segala aspek kehidupan
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/178.png
+  link: /hibahcmb/178
+    
+- nomor: '184'
+  judul:  Bioidea
+  deskripsi: |
+      Sebuah proyek yang memberikan akses media informasi edukasi dan edusains biologi bagi guru dan dosen, siswa dan mahasiswa, aktivis dan pencinta lingkungan, peneliti dan ilmuwan sesuai dengan ruang lingkup biologi dan umumnya bagi masyarakat melalui sadar pengetahuan, ide, dan inspirasi yang berkaitan dengan pentingnya menjaga lingkungan hidup
+  lokasi: Pamulang, Tangerang Selatan, Banten
+  tipe: adil
+  gambar: /static/img/hibahcmb/184.png
+  link: /hibahcmb/184
+    
+- nomor: '185'
+  judul:  Peningkatan Aksesibilitas Informasi Kebijakan Publik bagi Masyarakat Marginal dalam Penguatan Demokrasi Lokal (Zona-Zona Bebas Informasi)
+  deskripsi: |
+      Proyek ini berinisiatif untuk melakukan peningkatan aksesibilitas Informasi Kebijakan Publik bagi masyarakat marginal. Tujuannya, agar masyarakat marginal dan kelompok tertentu lebih mudah mengakses informasi kebijakan publik. Dengan demikian, masyarakat marginal dan kelompok tersebut mampu mengadvokasi kebijakan-kebijakan pemerintah daerah yang tidak memihak rakyat.
+      Tujuan Besar dari Proyek ini adalah tersedianya berbagai jenis Informasi Kebijakan Publik yang bisa diakses oleh masyarakat marginal.
+      Output (Hasil) Proyek ini adalah berdirinya papan Infromasi yang mampu menginformasi berbagai jenis informasi kebijakan publik kepada masyarakat, terpenuhinya kebutuhan berbagai kelompok masyarakat akan informasi kebijakan publik, dan adanya jaringan kerja diantara berbagai kelompok masyarakat yang mampu mengadvokasi kebijakan-kebijakan pemerintah yang tidak memihak rakyat.
+  lokasi: Tabanan, Bali
+  tipe: adil
+  gambar: /static/img/hibahcmb/185.png
+  link: /hibahcmb/185
+  
 - nomor: '713'
   judul: Report2DewanPers untuk Media Siber Indonesia
   deskripsi: |
