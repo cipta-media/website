@@ -267,7 +267,30 @@
   lokasi: Jakarta Timur
   tipe: retas
   gambar: /static/img/hibahcmb/030.png
-  link: /hibahcmb/030  
+  link: /hibahcmb/030 
+          
+- nomor: '031'
+  judul: LenteraTimur.com – Menyigi Identitas Indonesia
+  deskripsi: |
+      Proyek ini hadir untuk merespon sentralisme di Indonesia yang dianggap berdampak serius pada pluralisme dan multikulturalisme, yang membuat hak dan peluang tiap individu untuk tumbuh dan berkembang menjadi tidak sama. LenteraTimur.com membagi proses peliputan dalam sejumlah rubrik yang keseluruhannya berbasis pluralisme dan multikulturalisme, yakni: jejak (eksplorasi sejarah dan kebudayaan), kasatmata (fenomena sosial-politik aktual berperspektifkan sejarah dan kebudayaan, jelajah (eksplorasi kawasan-kawasan yang tak banyak diliput media atau dengan perspektif lokal), eksklusif (dialog dengan tokoh inspiratif), nukilan (resensi buku dan film), boga (kuliner tradisi), Agenda (kegiatan komunitas terkait sosial-kultural), lentera Anak (perspektif anak), potret (esai foto), TV Lentera, peliputan/dokumentasi audio-visual), Radio Lentera (peliputan dan atau siaran konten lokal dan atau dialog isu-isu aktual), bernala (opini), dan kolom (pemikiran reflektif dari Martin Aleida)
+  lokasi: Jakarta Timur, DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/031.png
+  link: /hibahcmb/031  
+          
+- nomor: '032'
+  judul: Film Animasi Tsunami Aceh (dari kisah korban tsunami)
+  deskripsi: |
+      Sebuah proyek untuk dapat memberikan pembelajaran kepada masyarakat indonesia akan pentingnya pendidikan kebencanaan, karena Indonesia merupakan daerah rawan bencana. Kejadian Tsunami yang begitu dasyat melanda aceh pada tahun 2004 yang menelan korban jiwa hingga lebih 100 ribu jiwa. Film ini bermotivasi untuk menginggat akan kejadian tersebut, juga agar masyarakat akan selalu tanggap pada kejadian dan sadar akan menjaga lingkungan hidup.
+
+      – Kegiatan dilakukan dengan update pada web site http://www.acehcity.com pada link berita (news) dan link (video)
+      – Membuat dan Mambagikan dalam bentuk Video dan CD yang akan dikirim kepada panitia dan publik atau pemerintah, lembaga-lembaga yang memerlukannya untuk memberi Pendidikan Kebencanaan yang sekarang lagi menjadi bahan kurikulum disekolah-sekolah dasar tentang Pendidikan Kebencanaan
+      – Mengadakan Pers Konferens kepada media dan memuat berita pada media cetak lokal dan nasional
+      – Publik dapat mengakses / mendownload video melalui web site http://www.acehcity.com dan juga http://youtube.com dengan gratis
+  lokasi: Aceh Besar
+  tipe: retas
+  gambar: /static/img/hibahcmb/032.png
+  link: /hibahcmb/032
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
