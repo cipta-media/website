@@ -1,12 +1,15 @@
 ---
 title: Donor Baru dan Penjajakan Kerja Sama antara Penerima Hibah CMS
-date: 2016-03-17 00:00:00 Z
+date: 2016-03-17 07:00:00 +07:00
 categories:
 - CMS
 - Berita
 tags:
 - CMS
 - MAVC
+author: 
+comment: true
+img: 
 layout: post
 ---
 
