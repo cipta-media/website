@@ -9,7 +9,7 @@ tags:
 - CMS
 author: hillun
 comment: true
-img: 
+img: "/uploads/CMSBerbagi-400x225.jpg"
 ---
 
 ![CMSBerbagi-400x225.jpg](/uploads/CMSBerbagi-400x225.jpg){: .img-responsive .center-block }

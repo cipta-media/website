@@ -9,6 +9,8 @@ tags:
 - disabilitas
 - saujana
 author: hillun
+comment: true
+img: 
 ---
 
 ![Andakah-yang-difasilitasi-oleh-Mitra-Kerja-Penyandang-Disabilitas-400x266-35db7e.jpg](/uploads/Andakah-yang-difasilitasi-oleh-Mitra-Kerja-Penyandang-Disabilitas-400x266-35db7e.jpg){: .img-responsive .center-block }

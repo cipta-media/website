@@ -10,6 +10,8 @@ tags:
 - hutan Tobelo
 - AMAN
 author: hillun
+comment: true
+img: 
 ---
 
 ![Bagaimana-Suku-Tobelo-Dalam-Dodaga-mengawasi-hutan-adat-mereka-400x266-d1a070.jpg](/uploads/Bagaimana-Suku-Tobelo-Dalam-Dodaga-mengawasi-hutan-adat-mereka-400x266-d1a070.jpg){: .img-responsive .center-block }

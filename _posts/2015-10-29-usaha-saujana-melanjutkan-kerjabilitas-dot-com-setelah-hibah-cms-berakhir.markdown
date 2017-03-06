@@ -10,6 +10,8 @@ tags:
 - disabilitas
 - difabel
 author: hillun
+comment: true
+img: 
 ---
 
 Saujana sebagai pengelola proyek [Mitra Kerja Penyandang Disabilitas](http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas) (MKPD) mulai gencar mencari sumber dana untuk keberlanjutan Kerjabilitas. Alasannya sangat jelas, layanan Kerjabilitas baru disediakan selama 6 bulan sehingga sulit untuk mengukur dampak sosialnya. Selain itu, kami juga harus memiliki cukup dana setelah hibah CMS berakhir agar layanan ini tidak mati sebelum manfaatnya benar-benar dirasakan oleh pengguna.

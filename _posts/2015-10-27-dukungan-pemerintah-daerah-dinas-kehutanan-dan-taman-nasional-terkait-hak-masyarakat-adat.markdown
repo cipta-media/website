@@ -11,6 +11,8 @@ tags:
 - Halmahera Timur
 - AMAN
 author: hillun
+comment: true
+img: 
 ---
 
 ![Monitoring-Wilayah-Hutan-Suku-Tobelo-Dalam-Dodaga-Dengan-Seluler-250x250.jpg](/uploads/Monitoring-Wilayah-Hutan-Suku-Tobelo-Dalam-Dodaga-Dengan-Seluler-250x250.jpg){: .img-responsive .center-block }

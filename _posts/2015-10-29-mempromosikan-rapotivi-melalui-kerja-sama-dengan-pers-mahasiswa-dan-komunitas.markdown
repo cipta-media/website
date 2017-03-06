@@ -9,6 +9,8 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
+comment: true
+img: 
 ---
 
 ![Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png](/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png)
