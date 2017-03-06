@@ -291,6 +291,159 @@
   tipe: retas
   gambar: /static/img/hibahcmb/032.png
   link: /hibahcmb/032
+          
+- nomor: '033'
+  judul: Mencerdaskan Emosi Bangsaku
+  deskripsi: |
+      Sinetron dan dokumenter pendidikan yang ber-akhlaq selaras dengan Pancasila sebagai wadah pembentuk Akhlaqul Kariim untuk menangkal etika moral pemuda yang mudah terprovoksi, tersinggung, dan melakukan tindakan kekerasan
+  lokasi: Gunung Putri, Bogor, Jawa Barat
+  tipe: pantau
+  gambar: /static/img/hibahcmb/033.png
+  link: /hibahcmb/033  
+        
+- nomor: '034'
+  judul: Iklim Karbon
+  deskripsi: |
+      Iklim Karbon dikonsepsi untuk menjadi sebuah media yang mampu menguraikan topik-topik mengenai perubahan iklim dalam Bahasa Indonesia yang mudah dipahami. Selanjutnya, jika masyarakat Indonesia telah beroleh pemahaman yang memadai tentang masalah ini, akan terjadi pemberdayaan sosial untuk sama-sama melakukan sesuatu demi menyelamatkan bumi tercinta dalam konteks mitigasi dan adaptasi perubahan iklim
+  lokasi: Jakarta Utara, DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/034.png
+  link: /hibahcmb/034 
+         
+- nomor: '035'
+  judul: Jurnalisme Warga – Ruang Bicara Warga Surabaya untuk Sengketa Tanah
+  deskripsi: |
+      Perhatian khusus untuk isu sengketa tanah di Surabaya dimana warga yang memiliki hak atas tanah kurang mendapatkan ruang bicara di media massa sehingga banyak kampung yang hilang dan berubah menjadi hotel dan mall
+  lokasi: Surabaya, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/035.png
+  link: /hibahcmb/035  
+           
+- nomor: '037'
+  judul: Media Online Berbasis Bahasa Daerah
+  deskripsi: |
+      Sebuah proyek yang merupakan gerakan penyadaran kembali akan pentingnya bahasa daerah guna menjaga sejarah dan nilai kearifan lokal. Hal ini didasarkan pada hilangnya kesadaran dan kepedulian pemuda bangsa Indonesia terhadap bahasa dan budaya lokal yang justru tenggelam oleh kebhinekaan
+  lokasi: Sumenep, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/037.png
+  link: /hibahcmb/037
+            
+- nomor: '038'
+  judul: Lomba Cerpen Fantasy Fiesta
+  deskripsi: |
+      Penyelenggaraan lomba cerpen Fantasy Fiesta yang jumlah pesertanya bertambah dari tahun ke tahun dan membutuhkan tambahan dana. Sebelumnya peserta sudah 322 orang
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/038.png
+  link: /hibahcmb/038
+             
+- nomor: '039'
+  judul: Radio Talk – Smart Digital Life Style (Radio Smart FM)
+  deskripsi: |
+      Program bincang-bincang radio untuk berbagai topik TIK dan advokasi produk-produk TIK yang dijual dan kemampuannya. Penyeimbangan arus informasi bisnis tidak hanya dari perspektif pedagang untuk masyarakat yang tidak tahu kemampuan alat-alat digital
+  lokasi: Manado, Sulawesi Utara
+  tipe: retas
+  gambar: /static/img/hibahcmb/039.png
+  link: /hibahcmb/039
+               
+- nomor: '040'
+  judul: Pusat Data Kecamatan
+  deskripsi: |
+      Sebuah proyek pengembangan aplikasi berbasis web yang digunakan untuk mengumpulkan data-data setiap kecamatan, SDM, SDA, sejarah, dll di Kabupaten Sinjai, Sulawesi Selatan
+  lokasi: Kabupaten Sinjai, Sulawesi Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/040.png
+  link: /hibahcmb/040
+                 
+- nomor: '041'
+  judul: Ujungkulon Protection
+  deskripsi: |
+      Dengan adanya lembaga ini diharapkan terjadi penyelesaian masalah antara masyarakat sekitar dan pihak pengelola Taman Nasional Ujungkulon sehingga keamanan dan kelestariannya dapat terjaga. Mengingat bahwa di dalam taman nasional ini adalah satu-satunya habitat badak bercula satu di dunia dan masih banyaknya hutan pohon lindung, Taman Nasional Ujungkulon dapat menjadi objek pariwisata yang menjanjikan sekaligus meningkatkan perekonomian di daerah sekitar
+  lokasi: Banten
+  tipe: adil
+  gambar: /static/img/hibahcmb/041.png
+  link: /hibahcmb/041
+                   
+- nomor: '042'
+  judul: E-Tabloid Nanggroe
+  deskripsi: |
+      Proyek ini melibatkan semua kalangan masyarakat untuk secara bebas menulis artikel. E-tabloid ini juga akan memuat foto, karikatur, dan gambar pendukung lainnya untuk tidak membosankan pembacanya. E-tabloid ini akan disebarluaskan via jejaring sosial dan group milis serta blog dan komunitas blogger Aceh
+  lokasi: Aceh
+  tipe: retas
+  gambar: /static/img/hibahcmb/042.png
+  link: /hibahcmb/042
+    
+- nomor: '043'
+  judul: Media Program Pelayanan Informasi Terpadu
+  deskripsi: |
+      Sebuah proyek yang bertujuan untuk membangun sebuah sistem informasi guna menjembatani kesenjangan informasi dua arah antara masyarakat dan pemerintah
+  lokasi: Parepare, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/043.png
+  link: /hibahcmb/043 
+    
+- nomor: '044'
+  judul: Meningkatkan Kualitas Pembelajaran Guru Dalam Menggunakan Pembelajaran ICT di Dalam Kelas
+  deskripsi: |
+      Sebuah proyek untuk memberikan edukasi kepada para pendidik dan praktisi pendidikan mengenai pentingnya penggunaan IT secara baik dan benar
+  lokasi: Medan, Sumatera Utara
+  tipe: adil
+  gambar: /static/img/hibahcmb/044.png
+  link: /hibahcmb/044  
+  
+- nomor: '045'
+  judul: Digital Printing
+  deskripsi: |
+      Sebuah program pelatihan bagia siswa/i SMK untuk berwirausaha di dunia IT dalam bentuk Digital Printing
+  lokasi: Medan, Sumatera Utara
+  tipe: bebas
+  gambar: /static/img/hibahcmb/045.png
+  link: /hibahcmb/045  
+  
+- nomor: '046'
+  judul: Creative Campus (Beyond Way of Your Talent)
+  deskripsi: |
+      Sebuah proyek kegiatan belajar untuk menjadi kreatif guna membangun pondasi edukasi siswa, mahasiswa, remaja putus sekolah, dan masyarakat umum dalam menghadapi globalisasi dan persaingan era mendatang di Pontianak
+  lokasi: Pontianak, Kalimantan Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/046.png
+  link: /hibahcmb/046  
+   
+- nomor: '047'
+  judul: Open Animation Project
+  deskripsi: |
+      Proyek ini merupakan produksi film animasi pendek secara terbuka dimana setiap orang dapat terlibat di dalamnya dan proses pembuatan animasinya dapat diakses melalui jejaring sosial. Pembentukkan team produksi dilakukan dengan merekrut animator dari berbagai daerah dan bekerja sama dengan animator atau studio partner handal
+  lokasi: Perum. Minomartani, Kec. Ngalik, Sleman, DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/047.png
+  link: /hibahcmb/047  
+   
+- nomor: '048'
+  judul: Lokal IP-TV Edukasi
+  deskripsi: |
+      Sistem stasiun tv yang bersumber dari TV Edukasi dimana para pelajar dapat memilih program acaranya sesuai kebutuhan
+  lokasi: Jakarta Timur/DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/048.png
+  link: /hibahcmb/048    
+    
+- nomor: '049'
+  judul: Kampanye dan Advokasi Masyarakat dan Pekerja Pers Guna Mendorong Terwujudnya Jaminan Perlindungan terhadap Kebebasan Pers
+  deskripsi: |
+      Sebuah proyek yang didirikan atas dasar kebebasan pers yang masih seringkali dihambat, diteror, dan ditutup-tutupi. Oleh karena itu diperlukan sebuah gerakan untuk menghentikan upaya-upaya membungkam kebebasan pers di Indonesia dalam bentuk kampanye dan penguatan kesadaran masyarakat guna menjamin kebebasan pers
+  lokasi: Kota Baubau, Sulawesi Tenggara
+  tipe: adil
+  gambar: /static/img/hibahcmb/049.png
+  link: /hibahcmb/049  
+      
+- nomor: '050'
+  judul: Dah Na’ Buka’
+  deskripsi: |
+      Sebuah kegiatan turun ke jalan untuk mempersiapkan bibit-bibit potensial masayarakat muda kota dengan memberikan pelatihan gratis tentang desain grafis, multimedia, animasi, sistem informasi, pembuatan produk kreatif, seni, dll. Pada tahap selanjutnya peserta akan dijaring dalam komunitas Kreativisi Indonesia yang bekerja sama dengan Dinas Perindustrian dan Perdagangan Kalimantan Barat untuk memasarkan produk hasil karya
+  lokasi: Pontianak, Kalimantan Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/050.png
+  link: /hibahcmb/050
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
