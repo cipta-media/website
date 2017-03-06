@@ -9,7 +9,7 @@ tags:
 - rapotivi
 - remotivi
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Screen-Shot-2015-07-13-at-1.17.44-PM-400x222.png"
 ---
 

@@ -8,7 +8,7 @@ tags:
 - buruh
 - solidaritas
 author: hillun
-comment: true
+comments: true
 img: "/uploads/Beberapa-buruh-perempuan-sedang-diskusi-400x284.jpg"
 ---
 
