@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comment: true
+img: 
 ---
 
 ![CMSBerbagi-400x225.jpg](/uploads/CMSBerbagi-400x225.jpg){: .img-responsive .center-block }
