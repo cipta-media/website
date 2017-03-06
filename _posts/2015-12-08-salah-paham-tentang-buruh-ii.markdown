@@ -7,6 +7,8 @@ categories:
 tags:
 - buruh
 author: arman
+comment: true
+img: 
 ---
 
 ![buruh-di-indonesia-dan-buruh-di-inggris-ini-yang-membedakannya-400x252.jpg](/uploads/buruh-di-indonesia-dan-buruh-di-inggris-ini-yang-membedakannya-400x252.jpg){: .img-responsive .center-block }

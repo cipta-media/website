@@ -8,6 +8,8 @@ tags:
 - cdma
 - jaringan seluler
 author: reza
+comment: true
+img: 
 ---
 
 ![Wikimedia-Infografis_Design_Operator-CDMA-01-1024x717.jpg](/uploads/Wikimedia-Infografis_Design_Operator-CDMA-01-1024x717.jpg){: .img-responsive .center-block }
