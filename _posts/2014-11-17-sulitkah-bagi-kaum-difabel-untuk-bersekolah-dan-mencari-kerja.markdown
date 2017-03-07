@@ -10,6 +10,8 @@ tags:
 - saujana
 - kerjabilitas
 author: hillun
+comments: true
+img: "/uploads/Sulitkah-Bagi-Kaum-Difabel-e1419631924507.jpg"
 ---
 
 ![Sulitkah-Bagi-Kaum-Difabel-e1419631924507.jpg](/uploads/Sulitkah-Bagi-Kaum-Difabel-e1419631924507.jpg){: .img-responsive .center-block }

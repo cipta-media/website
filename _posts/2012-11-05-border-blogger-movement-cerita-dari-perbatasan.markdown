@@ -10,7 +10,8 @@ tags:
 - perbatasan
 - border blogger movement
 author: admincmb
-comment: true
+comments: true
+img: "/uploads/Border-Blogger-Movement.png"
 ---
 
 ![Border-Blogger-Movement.png](/uploads/Border-Blogger-Movement.png){: .img-responsive .center-block }

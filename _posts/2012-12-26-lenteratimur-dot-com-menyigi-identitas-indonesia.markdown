@@ -10,6 +10,8 @@ tags:
 - Indonesia
 - Penulis
 author: admincmb
+comments: true
+img: "/uploads/Lentera-Timur-e1349545842661.jpg"
 ---
 
 ![Lentera-Timur-e1349545842661.jpg](/uploads/Lentera-Timur-e1349545842661.jpg){: .img-responsive .center-block }

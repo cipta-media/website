@@ -9,6 +9,8 @@ tags:
 - anak-anak
 - aplikasi
 author: nasir
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Teknologi seluler sangat cocok digunakan untuk membantu proses belajar, khususnya bagi anak-anak di taman belajar. Sebabnya anak-anak merasa sedang bermain ketika belajar menggunakan aplikasi berbasis edukasi di telpon gengam. Jadi dengan begitu akan lebih mudah menyerap ilmu pengetahuan yang ada di dalamnya.

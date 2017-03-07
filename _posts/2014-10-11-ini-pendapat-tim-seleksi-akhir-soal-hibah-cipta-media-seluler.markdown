@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comments: true
+img: "/uploads/keputusan-tim-seleksi-akhir.png"
 ---
 
 ![keputusan-tim-seleksi-akhir.png](/uploads/keputusan-tim-seleksi-akhir.png){: .img-responsive .center-block }

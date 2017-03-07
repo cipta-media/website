@@ -7,6 +7,8 @@ categories:
 tags:
 - pramuka
 author: hillun
+comments: true
+img: "/uploads/Ada-Fungsi-Obrolan-di-Aplikasi-Kepramukaan.png"
 ---
 
 ![Ada-Fungsi-Obrolan-di-Aplikasi-Kepramukaan.png](/uploads/Ada-Fungsi-Obrolan-di-Aplikasi-Kepramukaan.png){: .img-responsive .center-block }

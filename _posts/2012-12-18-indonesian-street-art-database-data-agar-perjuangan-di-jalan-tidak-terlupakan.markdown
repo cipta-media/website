@@ -12,6 +12,8 @@ tags:
 - seni jalanan
 - ISAD
 author: admincmb
+comments: true
+img: "/uploads/Indonesian-Street-Art-Database.png"
 ---
 
 ![Indonesian-Street-Art-Database.png](/uploads/Indonesian-Street-Art-Database.png){: .img-responsive .center-block }

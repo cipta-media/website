@@ -8,6 +8,8 @@ tags:
 - ponsel pintar
 - anak muda
 author: nasir
+comments: true
+img: "/uploads/smartphone-google-riset-300x191.jpg"
 ---
 
 Berencana menyasar pengguna ponsel pintar? Sebaiknya Anda kenali dulu profil mereka. Pendeknya, pengguna ponsel pintar di Indonesia bisa digambarkan sebagai anak muda, terpelajar dan tinggal di kota. Selengkapnya simak data berikut.

@@ -8,6 +8,8 @@ tags:
 - buruh
 - jaringan seluler
 author: ivonne
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Buruh adalah salah satu kelompok yang sering mengalami masalah ketenagakerjaan. Mereka membutuhkan informasi dengan tema-tema hukum perburuhan dan pengalaman penyelesaian kasus perburuhan. Upaya membangun media online untuk buruh sudah dilakukan, tapi buruh belum secara aktif mampu menuangkan gagasannya dalam bentuk tulisan, karena tidak memiliki perangkat komputer dan tidak terampil dalam menulis.

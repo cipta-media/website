@@ -9,6 +9,8 @@ tags:
 - buruh
 - radio marsinah
 author: hillun
+comments: true
+img: "/uploads/Masalah-Buruh-Perempuan-Berlapis-Solusinya-400x343.jpg"
 ---
 
 ![Masalah-Buruh-Perempuan-Berlapis-Solusinya-400x343.jpg](/uploads/Masalah-Buruh-Perempuan-Berlapis-Solusinya-400x343.jpg){: .img-responsive .center-block }

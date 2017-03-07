@@ -9,6 +9,8 @@ tags:
 - jurnal
 - akumassa
 author: admincmb
+comments: true
+img: "/uploads/Akumassa.png"
 ---
 
 ![Akumassa.png](/uploads/Akumassa.png){: .img-responsive .center-block }

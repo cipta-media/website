@@ -8,6 +8,8 @@ tags:
 - pengguna seluler
 - jajak kebutuhan
 author: ivonne
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Cipta Media Seluler mengadakan jajak kebutuhan secara online tahap 1 pada 20 Desember 2013 — 15 Januari 2014. Sebanyak 53 orang mengisi jajak kebutuhan. Mereka berasal dari latar belakang yang beragam. Berdasarkan jenis kelamin: laki-laki 84,91%, perempuan 15,09%. Latar belakang profesi: wiraswasta 22,64%, mahasiswa 16,98%, aktivis/pekerja sosial 13,21%, guru/dosen 11,32%, karyawan swasta 9,43%, wartawan 7,55%, PNS 5,66%, profesional 7,55%, ibu rumah tangga 3,77%, dan petani 1,89%

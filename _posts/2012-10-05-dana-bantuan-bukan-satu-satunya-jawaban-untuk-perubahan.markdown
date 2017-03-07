@@ -9,6 +9,8 @@ tags:
 - hibah
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/6832520648_6a3a0e5df7_k-1024x723.jpg"
 ---
 
 ![6832520648_6a3a0e5df7_k-1024x723.jpg](/uploads/6832520648_6a3a0e5df7_k-1024x723.jpg){: .img-responsive .center-block }

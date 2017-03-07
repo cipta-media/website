@@ -9,6 +9,8 @@ tags:
 - sms
 - jaringan seluler
 author: hillun
+comments: true
+img: "/uploads/Bagaimana-membuat-kategorisasi-dalam-SMS-Gateway-400x266.jpg"
 ---
 
 ![Bagaimana-membuat-kategorisasi-dalam-SMS-Gateway-400x266.jpg](/uploads/Bagaimana-membuat-kategorisasi-dalam-SMS-Gateway-400x266.jpg){: .img-responsive .center-block }

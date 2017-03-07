@@ -11,6 +11,8 @@ tags:
 - blogger
 - human rights blogger award
 author: admincmb
+comments: true
+img: "/uploads/HAM-Blogger.png"
 ---
 
 ![HAM-Blogger.png](/uploads/HAM-Blogger.png){: .img-responsive .center-block }

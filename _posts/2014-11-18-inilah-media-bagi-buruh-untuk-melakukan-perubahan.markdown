@@ -8,6 +8,8 @@ tags:
 - buruh
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/Bisa-kah-buruh-melakukan-perubahan-400x266-c99ba8.jpg"
 ---
 
 ![Bisa-kah-buruh-melakukan-perubahan-400x266-c99ba8.jpg](/uploads/Bisa-kah-buruh-melakukan-perubahan-400x266-c99ba8.jpg){: .img-responsive .center-block }

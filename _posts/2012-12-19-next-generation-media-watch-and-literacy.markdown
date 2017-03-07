@@ -12,6 +12,8 @@ tags:
 - anak-anak
 - Nextgen
 author: admincmb
+comments: true
+img: "/uploads/Next-Gen-Feature.png"
 ---
 
 ![Next-Gen-Feature.png](/uploads/Next-Gen-Feature.png){: .img-responsive .center-block }

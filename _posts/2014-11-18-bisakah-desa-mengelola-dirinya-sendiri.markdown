@@ -9,6 +9,8 @@ tags:
 - desa 2.0
 - gerakan desa membangun
 author: hillun
+comments: true
+img: "/uploads/Bisakah-Desa-Mengelola.jpg"
 ---
 
 ![Bisakah-Desa-Mengelola.jpg](/uploads/Bisakah-Desa-Mengelola.jpg){: .img-responsive .center-block }

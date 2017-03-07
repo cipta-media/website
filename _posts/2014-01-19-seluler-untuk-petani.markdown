@@ -8,6 +8,8 @@ tags:
 - petani
 - seluler
 author: ivonne
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Petani merupakan kelompok masyarakat yang masih tertinggal dalam hal akses informasi, karena sebagian besar dari mereka tidak mengenal teknologi komputer ataupun internet. Padahal, apabila bisa memperoleh informasi pertanian yang relevan, petani akan mampu menjalankan pengelolaan lahan dengan lebih baik.

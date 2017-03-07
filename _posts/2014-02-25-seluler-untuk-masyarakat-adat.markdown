@@ -9,6 +9,8 @@ tags:
 - jaringan seluler
 - AMAN
 author: nasir
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Keberadaan masyarakat adat tersebar di seluruh Indonesia. Biasanya mereka tinggal di kawasan yang jauh dari pusat kota (pedalaman). Mengingat masih terjadi kesenjangan infrastruktur teknologi informasi dan komunikasi di Indonesia, terutama antara Jawa dan Luar Jawa, maka akses informasi di kawasan masyarakat adat sangat lemah, atau minim.

@@ -8,6 +8,8 @@ tags:
 - buruh
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/Bagaimana-Buruh-Menyebarluaskan.jpg"
 ---
 
 ![Bagaimana-Buruh-Menyebarluaskan.jpg](/uploads/Bagaimana-Buruh-Menyebarluaskan.jpg){: .img-responsive .center-block }

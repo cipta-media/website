@@ -8,6 +8,9 @@ tags:
 - CMS
 - MAVC
 - desa
+author: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 

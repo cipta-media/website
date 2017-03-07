@@ -13,6 +13,8 @@ tags:
 - ibu rumah tangga
 - JRKL
 author: admincmb
+comments: true
+img: "/uploads/JRKL-1024x423.png"
 ---
 
 ![JRKL-1024x423.png](/uploads/JRKL-1024x423.png){: .img-responsive .center-block }

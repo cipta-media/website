@@ -9,6 +9,8 @@ tags:
 - Media
 - hpku teman belajarku
 author: admincmb
+comments: true
+img: "/uploads/Peluncuran-HPku-Teman-Belajarku.jpg"
 ---
 
 ![Peluncuran-HPku-Teman-Belajarku.jpg](/uploads/Peluncuran-HPku-Teman-Belajarku.jpg){: .img-responsive .center-block }

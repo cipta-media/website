@@ -12,6 +12,8 @@ tags:
 - objek wisata
 - sempugi
 author: hillun
+comments: true
+img: "/uploads/lomba-sempugi-300x212.png"
 ---
 
 ![lomba-sempugi-300x212.png](/uploads/lomba-sempugi-300x212.png){: .img-responsive .center-block }

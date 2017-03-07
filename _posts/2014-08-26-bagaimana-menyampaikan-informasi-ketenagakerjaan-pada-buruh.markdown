@@ -9,6 +9,8 @@ tags:
 - ketenagakerjaan
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/buruh-300x284.jpg"
 ---
 
 Bagaimana menyampaikan informasi dan pengetahuan tentang ketenagakerjaan pada buruh?

@@ -9,6 +9,8 @@ tags:
 - wirausaha
 - saujana
 author: hillun
+comments: true
+img: "/uploads/IMG-20141103-WA0002-370x400.jpg"
 ---
 
 ![IMG-20141103-WA0002-370x400.jpg](/uploads/IMG-20141103-WA0002-370x400.jpg){: .img-responsive .center-block }

@@ -11,6 +11,8 @@ tags:
 - hutan Tobelo
 - tobelo
 author: hillun
+comments: true
+img: "/uploads/Bagaimana-Suku-Tobelo-Dalam-Dodaga-mengawasi-hutan-adat-mereka-400x266.jpg"
 ---
 
 ![Bagaimana-Suku-Tobelo-Dalam-Dodaga-mengawasi-hutan-adat-mereka-400x266.jpg](/uploads/Bagaimana-Suku-Tobelo-Dalam-Dodaga-mengawasi-hutan-adat-mereka-400x266.jpg){: .img-responsive .center-block }

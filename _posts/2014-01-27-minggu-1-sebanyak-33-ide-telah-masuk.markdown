@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: nasir
+comments: true
+img: "/uploads/tag-cloud-CMS-minggu-1-300x113.jpg"
 ---
 
 ![tag-cloud-CMS-minggu-1-300x113.jpg](/uploads/tag-cloud-CMS-minggu-1-300x113.jpg){: .img-responsive .center-block }

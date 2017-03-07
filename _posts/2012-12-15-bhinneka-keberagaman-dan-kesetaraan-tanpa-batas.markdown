@@ -10,6 +10,8 @@ tags:
 - keberagaman
 - kesetaraan
 author: admincmb
+comments: true
+img: "/uploads/Majalah-Bhinneka-1024x616.jpg"
 ---
 
 ![Majalah-Bhinneka-1024x616.jpg](/uploads/Majalah-Bhinneka-1024x616.jpg){: .img-responsive .center-block }

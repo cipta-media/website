@@ -10,6 +10,8 @@ tags:
 - remotivi
 - rapotivi
 author: hillun
+comments: true
+img: "/uploads/form-pengaduan-lapor-kpi-247x400-2.png"
 ---
 
 ![form-pengaduan-lapor-kpi-247x400-2.png](/uploads/form-pengaduan-lapor-kpi-247x400-2.png){: .img-responsive .center-block }

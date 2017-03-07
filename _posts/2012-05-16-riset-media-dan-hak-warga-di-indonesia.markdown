@@ -9,6 +9,8 @@ tags:
 - CIPG
 - HIVOS
 author: admincmb
+comments: true
+img: "/uploads/mapping-media-policy-in-Indonesia.png"
 ---
 
 ![mapping-media-policy-in-Indonesia.png](/uploads/mapping-media-policy-in-Indonesia.png){: .img-responsive .center-block }

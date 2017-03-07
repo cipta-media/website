@@ -9,6 +9,8 @@ tags:
 - pramuka
 - aplikasi
 author: admin
+comments: true
+img: "/uploads/Pramuka-400x280.png"
 ---
 
 ![Pramuka-400x280.png](/uploads/Pramuka-400x280.png){: .img-responsive .center-block }

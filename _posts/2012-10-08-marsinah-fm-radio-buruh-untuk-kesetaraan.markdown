@@ -11,6 +11,8 @@ tags:
 - buruh perempuan
 - radio marsinah
 author: admincmb
+comments: true
+img: "/uploads/MarsinahFM.png"
 ---
 
 ![MarsinahFM.png](/uploads/MarsinahFM.png){: .img-responsive .center-block }

@@ -9,6 +9,8 @@ tags:
 - pramuka
 - aplikasi
 author: hillun
+comments: true
+img: "/uploads/BvxFnDNCIAA2EVH-400x278-0cdeed.png"
 ---
 
 ![BvxFnDNCIAA2EVH-400x278-0cdeed.png](/uploads/BvxFnDNCIAA2EVH-400x278-0cdeed.png){: .img-responsive .center-block }

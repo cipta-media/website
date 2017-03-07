@@ -7,6 +7,8 @@ categories:
 tags:
 - pramuka
 author: hillun
+comments: true
+img: "/uploads/Sudah-cukup-terintegrasi-kah-kegiatan-pramuka-400x266.jpg"
 ---
 
 ![Sudah-cukup-terintegrasi-kah-kegiatan-pramuka-400x266.jpg](/uploads/Sudah-cukup-terintegrasi-kah-kegiatan-pramuka-400x266.jpg){: .img-responsive .center-block }

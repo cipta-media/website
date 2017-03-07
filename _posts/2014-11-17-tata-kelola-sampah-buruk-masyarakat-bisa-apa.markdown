@@ -8,6 +8,8 @@ tags:
 - sampah
 - peta persampahan bandung
 author: hillun
+comments: true
+img: "/uploads/Tata-Kelola-Sampah.jpg"
 ---
 
 ![Tata-Kelola-Sampah.jpg](/uploads/Tata-Kelola-Sampah.jpg){: .img-responsive .center-block }

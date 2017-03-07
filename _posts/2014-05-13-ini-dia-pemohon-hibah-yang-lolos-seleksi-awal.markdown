@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: nasir
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Sejak 23 April 2014, tim seleksi awal Cipta Media Seluler memberikan penilaian kepada 368 ide yang diajukan pemohon hibah. Proses penilaian ini dilakukan dalam beberapa tahap. Pertama, secara terpisah, semua anggota tim seleksi awal memberikan skor pada setiap ide yang masuk. Aspek penilaian mengacu pada 6 kriteria; pemecahan masalah, inovasi, replikasi, target, kelayakan, dan keberlanjutan. Lalu skor yang dibuat oleh tim seleksi awal digabung menjadi satu. Kedua, hasil penilaian dipilah berdasarkan kategori, tema atau isu, lokasi, jenis institusi, dan teknologi yang akan digunakan. Ketiga, memilih 30 Calon Penerima Hibah untuk bertemu dengan developer dan melakukan penajaman proposal lengkap dan anggaran. Hasil dari wawancara dan pelatihan ini akan diserahkan kepada Tim Seleksi

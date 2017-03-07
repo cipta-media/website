@@ -9,6 +9,8 @@ tags:
 - kesehatan
 - sistem informasi
 author: nasir
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Selama ini pemberdayaan kesehatan masyarakat sudah dilakukan melalui bimbingan kepada masyarakat. Data semacam tulisan atau cetak terkadang hanya dibutuhkan untuk kalangan tertentu sehingga keterbukaan informasi sangat kurang dan penanggulangan oleh pihak tertentu sangat terlambat. Informasi kesehatan yang ada selama ini merupakan sistem informasi kesehatan biasa yang digunakan di puskesmas atau rumah sakit. Data yang dimasukkan masih terbatas dari sumber internal dan bisa dibilang masih manual karena harus menginputkan dari data yang ada.

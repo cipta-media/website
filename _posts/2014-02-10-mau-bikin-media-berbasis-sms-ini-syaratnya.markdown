@@ -7,6 +7,8 @@ categories:
 tags:
 - sms
 author: nasir
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Teknologi seluler membuka banyak peluang untuk dieksplorasi. Apalagi di Indonesia sebagian besar penduduknya telah menggunakan teknologi ini. Namun, penting dicatat bahwa dari 250 juta nomor seluler aktif, hanya 20 persen yang menggunakan internet dan media sosial. Sebagian besar (80 persen) pengguna perangkat seluler masih menggunakan SMS dan panggilan suara.

@@ -9,6 +9,8 @@ tags:
 - seluler
 - difabel
 author: ivonne
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Penyandang disabilitas, (sebagian menyebut diffabel=different ability) terutama tuna daksa memiliki keterbatasan fisik dalam beraktifitas. Selama ini sebagian dari mereka mengalami kesulitan dalam bekerja karena keterbatasan tersebut. Keberadaan perangkat seluler akan mendukung dan memudahkan penyandang disabilitas dalam bekerja, baik secara individu maupun secara tim. Mobilitas mereka akan meningkat terutama bagi difabel tunadaksa. Hal ini mendukung kehidupan mereka sehari-hari dalam berkomunikasi hingga bekerja tanpa dibatasi keterbatasan fisik mereka. Kemampuan bekerja yang lebih produktif tentunya akan meningkatkan tingkat kesejahteranaan mereka.

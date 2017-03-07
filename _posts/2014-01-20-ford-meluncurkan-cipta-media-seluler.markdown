@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: siska
+comments: true
+img: "/uploads/logo-cms-ok-300x78.png"
 ---
 
 ![logo-cms-ok-300x78.png](/uploads/logo-cms-ok-300x78.png){: .img-responsive .center-block }

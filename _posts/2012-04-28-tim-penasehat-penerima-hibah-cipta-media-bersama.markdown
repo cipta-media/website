@@ -8,6 +8,8 @@ tags:
 - tim penasehat
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Tim-penasihat-300x233.jpg"
 ---
 
 ![Tim-penasihat-300x233.jpg](/uploads/Tim-penasihat-300x233.jpg){: .img-responsive .center-block }

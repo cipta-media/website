@@ -8,6 +8,9 @@ tags:
 - desa
 - desa 2.0
 - gerakan desa membangun
+author: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 Jumat-Sabtu     7-8 Agustus 2015

@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comments: true
+img: "/uploads/Sudah-Baguskah-Kesempatan.jpg"
 ---
 
 ![Sudah-Baguskah-Kesempatan.jpg](/uploads/Sudah-Baguskah-Kesempatan.jpg){: .img-responsive .center-block }

@@ -8,6 +8,8 @@ tags:
 - pengguna seluler
 - jajak kebutuhan
 author: nasir
+comments: true
+img: "/uploads/jajak-pendapat-CMS-2-siapa.jpg"
 ---
 
 ![jajak-pendapat-CMS-2-siapa.jpg](/uploads/jajak-pendapat-CMS-2-siapa.jpg){: .img-responsive .center-block }

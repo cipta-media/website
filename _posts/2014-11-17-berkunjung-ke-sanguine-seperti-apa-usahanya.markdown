@@ -11,6 +11,8 @@ tags:
 - disabilitas
 - difabel
 author: hillun
+comments: true
+img: "/uploads/Berkunjung-ke-Sanguine.jpg"
 ---
 
 ![Berkunjung-ke-Sanguine.jpg](/uploads/Berkunjung-ke-Sanguine.jpg){: .img-responsive .center-block }

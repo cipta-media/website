@@ -10,6 +10,8 @@ tags:
 - media komunitas
 - MK-160
 author: admincmb
+comments: true
+img: "/uploads/MK160Angkringan.jpg"
 ---
 
 ![MK160Angkringan.jpg](/uploads/MK160Angkringan.jpg){: .img-responsive .center-block }

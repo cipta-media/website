@@ -8,6 +8,8 @@ tags:
 - sempugi
 - konten
 author: hillun
+comments: true
+img: "/uploads/Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309-69ecf9.jpg"
 ---
 
 ![Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309-69ecf9.jpg](/uploads/Apa-yang-Dilakukan-Sempugi-untuk-Produksi-Konten-400x309-69ecf9.jpg){: .img-responsive .center-block }

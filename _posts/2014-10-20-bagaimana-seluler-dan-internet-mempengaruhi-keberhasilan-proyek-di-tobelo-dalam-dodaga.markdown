@@ -11,6 +11,8 @@ tags:
 - AMAN
 - tobelo
 author: hillun
+comments: true
+img: "/uploads/Bagaimana-Seluler-dan-Internet-Mempengaruhi-Keberhasilan-Proyek-di-Tobelo-Dalam-Dodaga-400x272.jpg"
 ---
 
 ![Bagaimana-Seluler-dan-Internet-Mempengaruhi-Keberhasilan-Proyek-di-Tobelo-Dalam-Dodaga-400x272.jpg](/uploads/Bagaimana-Seluler-dan-Internet-Mempengaruhi-Keberhasilan-Proyek-di-Tobelo-Dalam-Dodaga-400x272.jpg){: .img-responsive .center-block }

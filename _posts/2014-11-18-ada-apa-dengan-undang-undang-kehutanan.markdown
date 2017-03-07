@@ -9,6 +9,8 @@ tags:
 - kehutanan
 - AMAN
 author: hillun
+comments: true
+img: "/uploads/Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg"
 ---
 
 ![Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg](/uploads/Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg){: .img-responsive .center-block }

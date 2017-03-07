@@ -8,6 +8,8 @@ tags:
 - hibah
 - promosi keliling
 author: hillun
+comments: true
+img: "/uploads/jadwal-promosi-keliling4-1024x707.jpg"
 ---
 
 ![jadwal-promosi-keliling4-1024x707.jpg](/uploads/jadwal-promosi-keliling4-1024x707.jpg){: .img-responsive .center-block }

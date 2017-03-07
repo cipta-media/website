@@ -8,6 +8,8 @@ tags:
 - ushaidi
 - media komunitas
 author: admincmb
+comments: true
+img: "/uploads/Lapor-Cipta-Media-ushaidi-300x179.png"
 ---
 
 ![Lapor-Cipta-Media-ushaidi-300x179.png](/uploads/Lapor-Cipta-Media-ushaidi-300x179.png){: .img-responsive .center-block }

@@ -10,6 +10,8 @@ tags:
 - jurnalis
 - AJI
 author: admincmb
+comments: true
+img: "/uploads/2012-02-23-13.37.01-11.jpg"
 ---
 
 ![2012-02-23-13.37.01-11.jpg](/uploads/2012-02-23-13.37.01-11.jpg){: .img-responsive .center-block }
