@@ -39,9 +39,27 @@ layout: blog
     </nav>
 </div>
 
+<section id="header" style="margin-top: 65px;background-image: url(static/img/landing/heade-placeholder.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;background-position: center center;padding-bottom: 250px;">
+    <div class="container" style="padding-top:250px;">
+        <div class="row" style="color:#FFFFFF">
+            <div class="col-md-6">
+                <h1 class="title">Pendaftaran Hibah Cipta Media Baru</h1>
+                <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tincidunt ut libero non consectetur. Curabitur sed turpis dolor. In non pharetra nunc. Nullam fermentum, nulla id dictum mollis, leo arcu fermentum sapien, et maximus orci leo in metus. Sed dapibus id dui a aliquet. Cras vel tristique tellus. Aliquam dictum nisi a augue commodo vehicula.</h4>
+                <br>
+                <a href="#" class="btn btn-danger btn-lg">
+                     Daftar di sini
+                </a>
+                <a href="#" class="btn btn-info btn-lg">
+                     Informasi lebih lanjut
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
 {% for section in site.sections %}
   {% assign loopindex = forloop.index | modulo: 2 %}
-  <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: {% if forloop.index == 1 %} 20px {% else %} 0px {% endif %};">
+  <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0px;">
     {% include sections/{{section.tpl}} %}
   </section>
 {% endfor %}
