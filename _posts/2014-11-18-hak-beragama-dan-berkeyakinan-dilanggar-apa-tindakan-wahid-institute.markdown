@@ -10,6 +10,8 @@ tags:
 - hak
 - wahid institute
 author: hillun
+comments: true
+img: "/uploads/Hak-Beragama-dan.jpg"
 ---
 
 ![Hak-Beragama-dan.jpg](/uploads/Hak-Beragama-dan.jpg){: .img-responsive .center-block }

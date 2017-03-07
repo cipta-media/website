@@ -12,6 +12,8 @@ tags:
 - AMAN
 - sempugi
 author: hillun
+comments: true
+img: "/uploads/Terancam-Punah.jpg"
 ---
 
 ![Terancam-Punah.jpg](/uploads/Terancam-Punah.jpg){: .img-responsive .center-block }
