@@ -9,6 +9,7 @@ tags:
 - Ucu Agustin
 - Dokumenter
 comments: true
+img: "/static/img/landing/Logo_Cipta_Media_Bersama.jpg"
 ---
 
 Bagaimana pers di Indonesia bekerja? Banyak tulisan mengenai hal ini di Indonesia, namun untuk masyarakat Indonesia belum ada film tentang media di negara ini. Media di Indonesia terlalu sibuk membuat liputan tentang hal yang lain dan lupa napak tilas apa yang terjadi pada media itu sendiri terlepas dari kepentingan lain.

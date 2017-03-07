@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Penerima-hibah-300x207.jpg"
 ---
 
 ![Penerima-hibah-300x207.jpg](/uploads/Penerima-hibah-300x207.jpg){: .img-responsive .center-block }

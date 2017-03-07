@@ -10,6 +10,8 @@ tags:
 - hibah
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Idaman-Fasilitator-Result-Based-Management-Project-300x173.jpg"
 ---
 
 ![Idaman-Fasilitator-Result-Based-Management-Project-300x173.jpg](/uploads/Idaman-Fasilitator-Result-Based-Management-Project-300x173.jpg){: .img-responsive .center-block }

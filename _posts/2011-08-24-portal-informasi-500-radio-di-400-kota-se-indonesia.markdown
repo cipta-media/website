@@ -8,6 +8,8 @@ tags:
 - radio
 - kbr68h
 author: admincmb
+comments: true
+img: "/uploads/0045-d53028.jpg"
 ---
 
 ![0045-d53028.jpg](/uploads/0045-d53028.jpg){: .img-responsive .center-block }

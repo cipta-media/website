@@ -9,6 +9,8 @@ tags:
 - android
 - iOS
 author: admincmb
+comments: true
+img: "/uploads/0150-146-JBDK_Mobile_Developer-300x222.jpg"
 ---
 
 ![0150-146-JBDK_Mobile_Developer-300x222.jpg](/uploads/0150-146-JBDK_Mobile_Developer-300x222.jpg){: .img-responsive .center-block }

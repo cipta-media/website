@@ -8,6 +8,8 @@ tags:
 - pemilihan publik
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Picture-43.png"
 ---
 
 ![Picture-43.png](/uploads/Picture-43.png){: .img-responsive .center-block }

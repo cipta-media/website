@@ -10,6 +10,8 @@ tags:
 - Media
 - Ucu Agustin
 author: admincmb
+comments: true
+img: "/uploads/Dibalik-Frekuensi-1024x492.png"
 ---
 
 ![Dibalik-Frekuensi-1024x492.png](/uploads/Dibalik-Frekuensi-1024x492.png){: .img-responsive .center-block }

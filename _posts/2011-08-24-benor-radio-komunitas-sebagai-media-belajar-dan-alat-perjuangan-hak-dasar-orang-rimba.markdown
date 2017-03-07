@@ -10,6 +10,8 @@ tags:
 - orang rimba
 - kki warsi
 author: admincmb
+comments: true
+img: "/uploads/0167-166-logo_copy-300x300.jpg"
 ---
 
 ![0167-166-logo_copy-300x300.jpg](/uploads/0167-166-logo_copy-300x300.jpg){: .img-responsive .center-block }

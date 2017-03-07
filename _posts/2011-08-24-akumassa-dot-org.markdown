@@ -7,6 +7,8 @@ categories:
 tags:
 - akumassa
 author: admincmb
+comments: true
+img: "/uploads/akumassa.jpg"
 ---
 
 ![akumassa.jpg](/uploads/akumassa.jpg){: .img-responsive .center-block }

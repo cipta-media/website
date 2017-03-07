@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/launch_photo-300x200.jpg"
 ---
 
 ![launch_photo-300x200.jpg](/uploads/launch_photo-300x200.jpg){: .img-responsive .center-block }

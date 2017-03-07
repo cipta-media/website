@@ -8,6 +8,8 @@ tags:
 - konferensi pers
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/6176493219_5af41e4908.jpg"
 ---
 
 ![6176493219_5af41e4908.jpg](/uploads/6176493219_5af41e4908.jpg){: .img-responsive .center-block }

@@ -7,6 +7,8 @@ categories:
 tags:
 - LenteraTimur
 author: admincmb
+comments: true
+img: "/uploads/0045.jpg"
 ---
 
 ![0045.jpg](/uploads/0045.jpg){: .img-responsive .center-block }

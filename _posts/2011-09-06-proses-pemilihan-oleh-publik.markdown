@@ -8,6 +8,8 @@ tags:
 - pemilihan publik
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Jadwal_ID.jpg"
 ---
 
 ![Jadwal_ID.jpg](/uploads/Jadwal_ID.jpg){: .img-responsive .center-block }

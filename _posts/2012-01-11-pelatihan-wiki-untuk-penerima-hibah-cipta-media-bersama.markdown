@@ -9,6 +9,8 @@ tags:
 - hibah
 - CMB
 author: admincmb
+comments: true
+img: "/uploads/Pelatihan-Wiki-Cipta-Media-930x1024.jpg"
 ---
 
 ![Pelatihan-Wiki-Cipta-Media-930x1024.jpg](/uploads/Pelatihan-Wiki-Cipta-Media-930x1024.jpg){: .img-responsive .center-block }
