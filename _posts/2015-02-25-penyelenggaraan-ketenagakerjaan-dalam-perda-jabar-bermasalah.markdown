@@ -9,6 +9,8 @@ tags:
 - solidaritas
 - buruh
 author: hillun
+comments: true
+img: "/uploads/124-Solidaritas.net-Media-Center-350x350-a7d649.jpg"
 ---
 
 ![124-Solidaritas.net-Media-Center-350x350-a7d649.jpg](/uploads/124-Solidaritas.net-Media-Center-350x350-a7d649.jpg){: .img-responsive .center-block }

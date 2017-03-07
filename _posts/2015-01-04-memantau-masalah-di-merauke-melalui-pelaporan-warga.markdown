@@ -9,6 +9,8 @@ tags:
 - laporan warga
 - perkumpulan jubi
 author: hillun
+comments: true
+img: "/uploads/memantau-masalah-di-merauke-melalui-pelaporan-warga-360x400.jpg"
 ---
 
 ![memantau-masalah-di-merauke-melalui-pelaporan-warga-360x400.jpg](/uploads/memantau-masalah-di-merauke-melalui-pelaporan-warga-360x400.jpg){: .img-responsive .center-block }

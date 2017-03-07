@@ -10,6 +10,8 @@ tags:
 - kerjabilitas
 - saujana
 author: hillun
+comments: true
+img: "/uploads/Adakah-Ruang-Bagi-Difabel.jpg"
 ---
 
 ![Adakah-Ruang-Bagi-Difabel.jpg](/uploads/Adakah-Ruang-Bagi-Difabel.jpg){: .img-responsive .center-block }

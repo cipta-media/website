@@ -8,6 +8,8 @@ tags:
 - hak cipta
 - creative commons
 author: hillun
+comments: true
+img: "/uploads/pulau-kodingareng-400x225.jpg"
 ---
 
 ![pulau-kodingareng-400x225.jpg](/uploads/pulau-kodingareng-400x225.jpg){: .img-responsive .center-block }

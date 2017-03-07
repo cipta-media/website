@@ -13,6 +13,8 @@ tags:
 author: 'reza
 
 '
+comments: true
+img: "/uploads/Operator-dan-Jaringan-Tetap-Kabel-Indonesia.png"
 ---
 
 ![Operator-dan-Jaringan-Tetap-Kabel-Indonesia.png](/uploads/Operator-dan-Jaringan-Tetap-Kabel-Indonesia.png){: .img-responsive .center-block }

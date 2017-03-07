@@ -9,6 +9,8 @@ tags:
 - AMAN
 - tobelo
 author: hillun
+comments: true
+img: "/uploads/petisi-400x225.jpg"
 ---
 
 ![petisi-400x225.jpg](/uploads/petisi-400x225.jpg){: .img-responsive .center-block }

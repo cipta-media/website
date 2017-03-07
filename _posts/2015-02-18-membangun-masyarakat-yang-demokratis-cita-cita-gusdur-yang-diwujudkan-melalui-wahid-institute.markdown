@@ -10,6 +10,8 @@ tags:
 - wahid institute
 - gusdur
 author: hillun
+comments: true
+img: "/uploads/800px-November_14_2014_PANTAU_Sosialisasi_MPantau_KBB-400x251.jpg"
 ---
 
 ![800px-November_14_2014_PANTAU_Sosialisasi_MPantau_KBB-400x251.jpg](/uploads/800px-November_14_2014_PANTAU_Sosialisasi_MPantau_KBB-400x251.jpg){: .img-responsive .center-block }

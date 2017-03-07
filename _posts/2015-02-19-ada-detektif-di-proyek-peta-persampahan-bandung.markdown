@@ -9,6 +9,8 @@ tags:
 - bandung
 - peta persampahan bandung
 author: hillun
+comments: true
+img: "/uploads/300px-Februari_1_2015_PPB_Pelatihan_Detektif_Hari21.jpg"
 ---
 
 ![300px-Februari_1_2015_PPB_Pelatihan_Detektif_Hari21.jpg](/uploads/300px-Februari_1_2015_PPB_Pelatihan_Detektif_Hari21.jpg){: .img-responsive .center-block }

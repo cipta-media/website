@@ -8,6 +8,8 @@ tags:
 - UMR
 - buruh
 author: hillun
+comments: true
+img: "/uploads/dibalik-kenaikan-upah-minumum-regional-umr-400x306-54169e.jpg"
 ---
 
 ![dibalik-kenaikan-upah-minumum-regional-umr-400x306-54169e.jpg](/uploads/dibalik-kenaikan-upah-minumum-regional-umr-400x306-54169e.jpg){: .img-responsive .center-block }

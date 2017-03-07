@@ -10,6 +10,8 @@ tags:
 - buruh
 - buruh perempuan
 author: hillun
+comments: true
+img: "/uploads/Sri-Jumiati-985x10241-400x357.jpg"
 ---
 
 ![Sri-Jumiati-985x10241-400x357.jpg](/uploads/Sri-Jumiati-985x10241-400x357.jpg){: .img-responsive .center-block }
