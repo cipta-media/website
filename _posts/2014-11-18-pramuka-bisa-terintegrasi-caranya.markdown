@@ -7,6 +7,8 @@ categories:
 tags:
 - pramuka
 author: hillun
+comments: true
+img: "/uploads/Bagaimanakah-cara-agar-pramuka-bisa-terintegrasi-400x266.jpg"
 ---
 
 ![Bagaimanakah-cara-agar-pramuka-bisa-terintegrasi-400x266.jpg](/uploads/Bagaimanakah-cara-agar-pramuka-bisa-terintegrasi-400x266.jpg){: .img-responsive .center-block }

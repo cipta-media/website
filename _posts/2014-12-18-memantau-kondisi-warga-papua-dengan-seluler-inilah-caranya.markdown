@@ -9,6 +9,8 @@ tags:
 - jaringan seluler
 - perkumpulan jubi
 author: hillun
+comments: true
+img: "/uploads/Memonitor-Kondisi-Warga.jpg"
 ---
 
 ![Memonitor-Kondisi-Warga.jpg](/uploads/Memonitor-Kondisi-Warga.jpg){: .img-responsive .center-block }

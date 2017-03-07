@@ -9,6 +9,8 @@ tags:
 - jaringan seluler
 - telekomunikasi
 author: hillun
+comments: true
+img: "/uploads/Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266-e4bc76.jpg"
 ---
 
 ![Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266-e4bc76.jpg](/uploads/Bagaimana-orang-di-tempat-terpencil-mendapatkan-akses-komunikasi-400x266-e4bc76.jpg){: .img-responsive .center-block }

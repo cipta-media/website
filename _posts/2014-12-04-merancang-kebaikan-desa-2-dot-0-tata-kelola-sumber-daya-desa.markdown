@@ -9,6 +9,8 @@ tags:
 - desa 2.0
 - desa
 author: admin
+comments: true
+img: "/uploads/Merancang-Kebaikan-Desa-2.0-Tata-Kelola-Sumber-Daya-Desa-400x266.jpg"
 ---
 
 ![Merancang-Kebaikan-Desa-2.0-Tata-Kelola-Sumber-Daya-Desa-400x266.jpg](/uploads/Merancang-Kebaikan-Desa-2.0-Tata-Kelola-Sumber-Daya-Desa-400x266.jpg){: .img-responsive .center-block }
