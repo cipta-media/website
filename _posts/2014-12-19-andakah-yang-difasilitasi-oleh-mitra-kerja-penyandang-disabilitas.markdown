@@ -11,6 +11,8 @@ tags:
 - saujana
 - kerjabilitas
 author: hillun
+comments: true
+img: "/uploads/Andakah-yang-difasilitasi-oleh-Mitra-Kerja-Penyandang-Disabilitas-400x266.jpg"
 ---
 
 ![Andakah-yang-difasilitasi-oleh-Mitra-Kerja-Penyandang-Disabilitas-400x266.jpg](/uploads/Andakah-yang-difasilitasi-oleh-Mitra-Kerja-Penyandang-Disabilitas-400x266.jpg){: .img-responsive .center-block }

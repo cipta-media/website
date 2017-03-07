@@ -8,6 +8,8 @@ tags:
 - pemilu
 - matamassa
 author: hillun
+comments: true
+img: "/uploads/MataMassa-300x168.jpg"
 ---
 
 ![MataMassa-300x168.jpg](/uploads/MataMassa-300x168.jpg){: .img-responsive .center-block }

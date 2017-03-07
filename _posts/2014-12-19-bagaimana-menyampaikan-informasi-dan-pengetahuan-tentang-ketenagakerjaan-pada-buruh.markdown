@@ -11,6 +11,8 @@ tags:
 - ketenagakerjaan
 - solidaritas
 author: hillun
+comments: true
+img: "/uploads/buruh-400x379-166e88.jpg"
 ---
 
 ![buruh-400x379-166e88.jpg](/uploads/buruh-400x379-166e88.jpg){: .img-responsive .center-block }

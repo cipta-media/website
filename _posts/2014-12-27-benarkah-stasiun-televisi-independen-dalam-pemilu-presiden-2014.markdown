@@ -11,6 +11,8 @@ tags:
 - remotivi
 - rapotivi
 author: hillun
+comments: true
+img: "/uploads/remotivi-400x300.jpg"
 ---
 
 ![remotivi-400x300.jpg](/uploads/remotivi-400x300.jpg){: .img-responsive .center-block }

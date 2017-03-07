@@ -9,6 +9,8 @@ categories:
 tags:
 - pramuka
 author: hillun
+comments: true
+img: "/uploads/Pramuka.png"
 ---
 
 ![Pramuka.png](/uploads/Pramuka.png){: .img-responsive .center-block }

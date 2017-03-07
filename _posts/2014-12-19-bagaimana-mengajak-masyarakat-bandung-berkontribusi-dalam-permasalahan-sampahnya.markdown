@@ -9,6 +9,8 @@ tags:
 - sampah
 - peta persampahan bandung
 author: hillun
+comments: true
+img: "/uploads/peta-persampahan-bandung-400x264.jpg"
 ---
 
 ![peta-persampahan-bandung-400x264.jpg](/uploads/peta-persampahan-bandung-400x264.jpg){: .img-responsive .center-block }

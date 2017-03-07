@@ -10,6 +10,8 @@ tags:
 - saujana
 - kerjabilitas
 author: hillun
+comments: true
+img: "/uploads/ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg"
 ---
 
 ![ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg](/uploads/ada-yang-luput-dari-proyek-mitra-kerja-penyandang-disabilitas-400x306.jpg){: .img-responsive .center-block }

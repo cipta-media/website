@@ -10,6 +10,8 @@ tags:
 - Media
 - seni & budaya
 author: hillun
+comments: true
+img: "/uploads/pemanfaatan-media-baru-dan-media-konvensional-dalam-penyebaran-konten-oleh-sempugi-400x248.jpg"
 ---
 
 ![pemanfaatan-media-baru-dan-media-konvensional-dalam-penyebaran-konten-oleh-sempugi-400x248.jpg](/uploads/pemanfaatan-media-baru-dan-media-konvensional-dalam-penyebaran-konten-oleh-sempugi-400x248.jpg){: .img-responsive .center-block }

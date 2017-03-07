@@ -9,6 +9,8 @@ tags:
 - papua
 - perkumpulan jubi
 author: hillun
+comments: true
+img: "/uploads/infografis-laporan-sms-papua.png"
 ---
 
 ![infografis-laporan-sms-papua.png](/uploads/infografis-laporan-sms-papua.png){: .img-responsive .center-block }
