@@ -10,22 +10,6 @@ collections:
     output: true
 description: Arsip Cipta Media, menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
-sections:
-- id: tentang
-  i18n: nav.tentang
-  name: Tentang
-  tpl: tentang.html
-  css: 
-- id: proyek
-  i18n: nav.proyek
-  name: Penerima Hibah
-  tpl: proyek.html
-  css: project
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  css: 
 disqus:
   name: nama_disini
   public_key: public_key_disini
