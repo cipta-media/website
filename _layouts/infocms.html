@@ -17,19 +17,17 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right"> 
-                        <li><a href="/blog/blog.html">Blog</a></li>
-                        <li class="dropdown">
-                          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Daftar Permintaan Hibah<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                              <li class="active"><a class="page-scroll" href="/hibah.html">Cipta Media Seluler</a></li>
-                              <li><a class="page-scroll" href="#">Cipta Media Bersama</a></li>
-                            </ul>
-                        </li>    
+                        <li><a href="/tentangcms.html">Tentang CMS</a></li>
+                        <li><a href="#">Penerima Hibah</a></li>
+                        <li><a href="/hibahcms-semua.html">Pendaftar Hibah</a></li> 
+                        <li><a href="/blog/blogcms.html">Blog</a></li>
+                        <li><a href="/timkami.html">Tim CMS</a></li>  
                     </ul>
                 </div>
             </div>
         </nav>
 </div>
+
 <div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
     <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -43,8 +41,20 @@
     </div>
 </div>
 
-{{ content }}
+<div class="container">
+  <div class="row m-b-lg">
+    <div class="col-sm-12">
+      <a href="/tentangcms.html">Tentang CMS</a> 
+      <a href="#">Penerima Hibah</a> 
+      <a href="/hibahcms-semua.html">Pendaftar Hibah</a> 
+      <a href="/blog/blogcms.html">Blog</a> 
+      <a href="/timkami.html">Tim CMS</a>
+    </div>
+  </div>
+</div>
 
+{{ content }}
+  
 {% include footer.html %}
 {% include footer_content.html %}
 

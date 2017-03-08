@@ -40,6 +40,12 @@
   img: 'static/img/landing/jekyll.png'
   desc: 'Mitra Kerja Penyandang Disabilitas adalah sistem informasi berbasis piranti lunak seluler yang menjadi penghubung antara penyandang disabilitas pencari kerja dan pemberi kerja.'
 
+- name: 'Sempugi - Ringtone dan Wallpaper'
+  i18n: 'Sempugi - Ringtone dan Wallpaper'
+  url: ''
+  img: ''
+  desc: 'Lorem ipsum'
+
 - name: 'bebassampah.id'
   i18n: 'Peta Persampahan Bandung'
   url: '/Peta_Persampahan_Bandung'
