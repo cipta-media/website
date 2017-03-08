@@ -15,7 +15,13 @@
   url: ''
   img: ''
   desc: 'Lorem ipsum'
-  
+
+- name: 'Lingkar Suara Buruh Perempuan'
+  i18n: 'Lingkar Suara Buruh Perempuan'
+  url: '/Lingkar_Suara_Buruh_Perempuan'
+  img: 'static/img/landing/jekyll.png'
+  desc: 'Lingkar Suara Buruh Perempuan adalah program yang dikembangkan dari capaian dan kelemahan Radio Buruh Perempuan Marsinah FM.'
+
 - name: 'Pandu App'
   i18n: 'Pandu App'
   url: ''
@@ -46,12 +52,6 @@
   img: ''
   desc: 'Lorem ipsum'
 
-- name: 'Lingkar Suara Buruh Perempuan'
-  i18n: 'Lingkar Suara Buruh Perempuan'
-  url: '/Lingkar_Suara_Buruh_Perempuan'
-  img: 'static/img/landing/jekyll.png'
-  desc: 'Lingkar Suara Buruh Perempuan adalah program yang dikembangkan dari capaian dan kelemahan Radio Buruh Perempuan Marsinah FM.'
-
 - name: 'Situs Laporan JUBI'
   i18n: 'Situs Laporan JUBI'
   url: ''
@@ -63,9 +63,3 @@
   url: '/Monitoring_Wilayah_Hutan_Suku_Tobelo_Dalam_Dodaga_dengan_Seluler'
   img: 'static/img/landing/jekyll.png'
   desc: 'Monitoring terhadap hutan adat mereka sendiri menjadi penting sebagai strategi pengawasan untuk menjaga kelestarian hutan adat.'
-
-- name: 'Sempugi - Ringtone dan Wallpaper'
-  i18n: 'Sempugi - Ringtone dan Wallpaper'
-  url: ''
-  img: ''
-  desc: 'Lorem ipsum'
