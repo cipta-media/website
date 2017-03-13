@@ -3,6 +3,7 @@ title: Tim Kami
 layout: info
 ---
 
+{% include card.html %}
 <div class="container">
 
     <div class="row m-b-lg">
@@ -12,165 +13,38 @@ layout: info
         </div>
     </div>
 
-<div class="row">
-<div class="col-md-12">
+    <div class="row m-b-lg">
+        <br/>
+        {% for member in site.data.members %}
+        {% assign counter = counter | plus: 1 %}
+        <div class="col-md-3 m-b-lg">
 
-  <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" href="#home">Pemimpin Proyek</a></li>
-    <li><a data-toggle="tab" href="#menu1">Tim Mentor</a></li>
-    <li><a data-toggle="tab" href="#menu2">Tim Sekretariat</a></li>
-    <li><a data-toggle="tab" href="#menu3">Tim Seleksi Awal</a></li>
-    <li><a data-toggle="tab" href="#menu4">Tim Seleksi Akhir</a></li>
-  </ul>
+            <div class="row">
+                <!-- Card Projects -->
+                <div class="col-sm-12">
+                    <div class="card">
+                        <div class="card-image">
+                            <a href="{{ member.halaman }}"><img class="img-responsive" src="{{ member.foto }}"></a>
+                        </div>
+                        
+                        <div class="card-content" style="height:140px;">
+                            <a href="{{ member.halaman }}"><h2>{{ member.name }}</h2></a>
+                            <br/>
+                            {% for member in member.posisi %}
+                                <h4>{{ member }}</h4>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-  <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-        <div class="row">
-        	<br/>
-            {% for member in site.data.members %}
-            {% if member.posisi contains 'lead' %}
-            {% assign counter-lead = counter-lead | plus: 1 %}
-            <div class="col-md-4 m-b-lg">
-                <div class="row">
-                    <div class="col-xs-6">
-                        photo di sini
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>{{ member.name }}</h3>
-                        <hr>
-                        {{ member.desc | truncate:200 }} 
-                        <br/>
-                        <br/>
-                        <a href="#" class="btn btn-danger" role="button">Profil Lengkap</a>
-                    </div>
-                </div>
-            </div>
-            	{% assign ifindex-lead = counter-lead | modulo: 3 %}
-	                {% if ifindex-lead == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
-  	                {% endif %}
-            {% endif %}
-            {% endfor %}
         </div>
-    </div>
-    <div id="menu1" class="tab-pane fade">
-        <div class="row">
-        	<br/>
-            {% for member in site.data.members %}
-            {% if member.posisi contains 'mentor' %}
-            {% assign counter-ment = counter-ment | plus: 1 %}
-            <div class="col-md-4 m-b-lg">
-                <div class="row">
-                    <div class="col-xs-6">
-                        photo di sini
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>{{ member.name }}</h3>
-                        <hr>
-                        {{ member.desc | truncate:200 }} 
-                        <br/>
-                        <br/>
-                        <a href="#" class="btn btn-danger" role="button">Profil Lengkap</a>
-                    </div>
-                </div>
-            </div>
-                {% assign ifindex-ment = counter-ment | modulo: 3 %}
-	                {% if ifindex-ment == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
-  	                {% endif %}
+            {% assign ifindex = counter | modulo: 4 %}
+            {% if ifindex == 0 %}
+                <div class="clearfix visible-md visible-lg"></div>
             {% endif %}
-            {% endfor %}
-        </div>
+        {% endfor %}
     </div>
-    <div id="menu2" class="tab-pane fade">
-        <div class="row">
-        	<br/>
-            {% for member in site.data.members %}
-            {% if member.posisi contains 'sekre' %}
-            {% assign counter-sekre = counter-sekre | plus: 1 %}
-            <div class="col-md-4 m-b-lg">
-                <div class="row">
-                    <div class="col-xs-6">
-                        photo di sini
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>{{ member.name }}</h3>
-                        <hr>
-                        {{ member.desc | truncate:200 }} 
-                        <br/>
-                        <br/>
-                        <a href="#" class="btn btn-danger" role="button">Profil Lengkap</a>
-                    </div>
-                </div>
-            </div>
-                {% assign ifindex-sekre = counter-sekre | modulo: 3 %}
-	                {% if ifindex-sekre == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
-  	                {% endif %}
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-    <div id="menu3" class="tab-pane fade">
-        <div class="row">
-        	<br/>
-            {% for member in site.data.members %}
-            {% if member.posisi contains 'selwal' %}
-            {% assign counter-selwal = counter-selwal | plus: 1 %}
-            <div class="col-md-4 m-b-lg">
-                <div class="row">
-                    <div class="col-xs-6">
-                        photo di sini
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>{{ member.name }}</h3>
-                        <hr>
-                        {{ member.desc | truncate:200 }} 
-                        <br/>
-                        <br/>
-                        <a href="#" class="btn btn-danger" role="button">Profil Lengkap</a>
-                    </div>
-                </div>
-            </div>
-                {% assign ifindex-selwal = counter-selwal | modulo: 3 %}
-	                {% if ifindex-selwal == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
-  	                {% endif %}
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-    <div id="menu4" class="tab-pane fade">
-        <div class="row">
-        	<br/>
-            {% for member in site.data.members %}
-            {% if member.posisi contains 'selkir' %}
-            {% assign counter-selkir = counter-selkir | plus: 1 %}
-            <div class="col-md-4 m-b-lg">
-                <div class="row">
-                    <div class="col-xs-6">
-                        photo di sini
-                    </div>
-                    <div class="col-xs-6">
-                        <h3>{{ member.name }}</h3>
-                        <hr>
-                        {{ member.desc | truncate:200 }} 
-                        <br/>
-                        <br/>
-                        <a href="#" class="btn btn-danger" role="button">Profil Lengkap</a>
-                    </div>
-                </div>
-            </div>
-                {% assign ifindex-selkir = counter-selkir | modulo: 3 %}
-	                {% if ifindex-selkir == 0 %}
-		                <div class="clearfix visible-md visible-lg"></div>
-  	                {% endif %}
-            {% endif %}
-            {% endfor %}
-        </div>
-    </div>
-  </div>
 
 </div>
-</div>
-</div>
+

@@ -1,207 +1,103 @@
-- name: Roy Thaniago		
-  desc: |
-    Roy Thaniago adalah Pendiri dan Direktur Remotivi sejak 2010. Ia mempunyai latar belakang sebagai seorang pemusik, penulis dan aktif dalam beberapa upaya-upaya masyarakat sipil, khususnya bidang budaya. Selama empat tahun terakhir, Remotivi telah melakukan berbagai upaya untuk mengoreksi praktik industri televisi yang keliru baik pada isu penyiaran maupun isu lainnya melalui penelitian, advokasi, pendidikan dan kampanye. Dalam menjalankan upaya tersebut Remotivi bekerja sama dengan regulator, pelaku industri dan berbagai kelompok masyarakat sipil.
-  posisi: lead
-  head_img: 
-
-- name: Yossy Suparyo
-  desc: |
-    Yossy Suparyo adalah pendiri dan koordinator Gerakan Desa Membangun (GDM). Saat ini ia menjabat sebagai Direktur Eksekutif Yayasan Gedhe Nusantara atau Gedhe Foundation (2012-sekarang), sebuah organisasi non-pemerintah berbadan hukum yayasan yang berpusat di Purwokerto, Jawa Tengah. Gedhe Foundation dibentuk untuk mendukung gerakan desa dan inovasi teknologi berbasis open source. Sebelumnya, ia pernah bekerja sebagai senior knowledge management officer di Combine Resource Institution (2006-2011) Yogyakarta, kepala editor di Quills Publisher (2004-2006), fasilitator media di PP Lakpesdam NU (2004). Ia menempuh pendidikan formal di Jurusan Teknik Mesin Universitas Negeri Yogyakarta (1997) dan Ilmu Perpustakaan dan Informasi Universitas Islam Negeri Yogyakarta (2002).
-  posisi: lead
-  head_img: 
-
-- name: Dian Septi Trisnanti
-  desc: |
-    Dian Septi Trisnanti adalah penanggung jawab program radio komunitas buruh perempuan. Dari perempuan buruh untuk kesetaraan yang dijalankan oleh Forum Buruh Lintas Pabrik (FBLP). Sebelumnya Dian Septi Trisnanti adalah anggota Jurnal Perempuan sebagai koordinator Radio Jurnal Perempuan pada tahun 2010–2011, kontributor radio UNISI FM Yogyakarta, 2007-2009, anggota Aliansi Jurnalis Independen (AJI) Yogyakarta, 2007-2010. Selain aktif di kegiatan jurnalistik, Dian juga aktif sebagai anggota Perempuan Mahardhika dan di FBLP semenjak tahun 2009. Secara pribadi, Dian ingin memperjuangkan kesetaraan perempuan dan mendorong perempuan untuk menjadi maju, berani berekspresi, belajar dan berposisi.
-  posisi: lead
-  head_img: 
-
-- name: Rubby Emir
-  desc: |
-    Rubby Emir pernah terlibat dalam beberapa proyek pembuatan video partisipatif, salah satunya adalah Mata Pencaharian dalam Aliran Beracun yang merupakan video dokumenter terkait erupsi lumpur di Sidoardjo. Ia juga terlibat dalam pembuatan video Bola, Ikan dan Kerang yang dibuat oleh anak-anak yang selamat dari Tsunami di Aceh. Selain itu, ia adalah koordinator proyek dalam program pemulihan anak-anak dan mata pencaharian bagi orang tua tunggal di tiga desa di Aceh Jaya. Pada tahun 2004 Rubby menjadi fasilitator pendidikan untuk orang rimba (masyarakat adat) di Taman Nasional Bukit Dua Belas, Jambi. Pada tahun yang sama ia juga menyelesaikan pendidikan D3 pada bidang Desain Grafis di Universitas Surabaya.
-  posisi: lead
-  head_img: 
-
-- name: Munadi Kilkoda
-  desc: |
-    Munadi Kilkoda adalah ketua Badan Pengurus Harian Aliansi Masyarakat Adat Nusantara (BPH AMAN) di Maluku untuk periode 2013-2018. Sebelumnya, ia menjabat sebagai Deputi AMAN Maluku Utara (2011-2013) dan Deputi Proyek Kerja Sama Yayasan Foshal-USAID (2010-2011). Munadi juga pernah berada dalam organisasi terkait lingkungan hidup, yaitu menjadi staf Wahana Lingkungan Hidup di Maluku Utara (2009-2010). Ia juga menulis di media lokal tentang isu-isu gerakan masyarakat adat dan konflik sumber daya alam. Munadi yang merupakan seorang sarjana Ilmu Politik ini kerap menjadi narasumber dan fasilitator pada kegiatan seminar, lokakarya atau diskusi.
-  posisi: lead
-  head_img: 
-  
 - name: Heidi Arbuckle
-  desc: |
-    Heidi Arbuckle adalah Program Officer Ford Foundation Indonesia di bidang media. Pada tahun 2011 ia mengawali program Cipta Media Bersama sebagai usaha untuk membuka proses pemberian hibah yang lebih transparan dan terbuka dengan menerapkan semangat digital sebagai platfonnya. Heidi memegang gelar S3 dari University of Melbourne di bidang studi gender dan sejarah. Lahir di Australia, ia sudah tinggal lama di Indonesia dan sekarang menjadi orang Batak dengan marga Gultom.
   posisi:
-    - selwal
-    - selkir
-  head_img: 
+    - Tim Seleksi Awal
+    - Tim Seleksi Akhir
+  foto:
+  halaman: 
 
 - name: Siska Doviana
-  desc: |
-    Siska Doviana menjabat sebagai Ketua Umum Wikimedia Indonesia terpilih sejak 2010 dan merupakan salah satu pendirinya di tahun 2008. Sebelumnya, sarjana komunikasi Universitas Mercu Buana ini juga menangani pengelolaan hibah terbuka untuk perbaikan media di tahun 2011 “Cipta Media Bersama”.
   posisi: 
-    - selwal
-    - sekre
-  head_img: 
-
-- name: Pipit Maizier
-  desc: |
-    Pipit Maizier memiliki pengalaman menjadi sekretaris dan akuntan. Ia merupakan Sekretaris Proyek pada WWF Region Sahul Papua (Desember 2004-September 2007) dan Sekretaris Administratif pada Organisasi Perburuhan Internasional untuk proyek EAST atau Education and Skills Training for Youth yang didanai oleh pemerintah Belanda (September 2007 – Oktober 2011) dan proyek PcDP Phase 2 (Januari – Desember 2013) yang didanai oleh pemerintah Selandia Baru. Ia menjadi akuntan dalam proyek SUM 2 yang didanai oleh USAID (November 2011-May 2012). Pipit menempuh pendidikan pada dua bidang yang berbeda, yaitu bahasa Perancis di Universitas Padjajaran, Bandung (1993-1996) dan akuntansi di Universitas Cenderawasih, Jayapura (2009-2014).
-  posisi: lead
-  head_img: 
-
-- name: Mulyana Sandi
-  desc: |
-    Mulyana Sandi adalah staf tata usaha bidang sistem informasi manajemen di SMKN 1 Sukabumi (2008-sekarang). Pada tahun 2013 Mulyana mendapatkan penghargaan SNIT dalam peningkatan peran ekonomi kreatif melalui teknologi informasi dan komunikasi dalam mendukung daya saing bangsa. Di tahun yang sama ia menciptakan Antenna Star Bolic sebagai solusi menerima sinyal Wi-Fi jarak jauh. Pada tahun 2014 Mulyana menulis buku yang berjudul Bikin Website Dengan Aplikasi-aplikasi Gratis, Cepat, Mudah dan Murah serta menjadi Pemuda Pelopor tingkat Jawa Barat di bidang Komunikasi dan Informasi. Ia juga mengikuti Konferensi Indonesia Creative Open Source Software (ICrOSS) di Surabaya (2014).
-  posisi: lead
-  head_img:  
-
-- name: Andi Rahmat Munawar
-  desc: |
-    Andi Rahmat Munawar adalah komisioner Komisi Pemilihan Umum (KPU) Kabupaten Wajo pada periode 2008-2013. Ia juga bergabung dalam Himpunan Mahasiswa Islam (HMI) di Makassar Timur pada tahun 2001-2003 dan Dewan Pengurus Daerah Komite Nasional Pemuda Indonesia (DPD KNPI) Wajo pada tahun 2013-2016. Andi menyelesaikan pendidikan Diploma III pada bidang Akuntansi di Politeknik Negeri Ujung Pandang (1997-2002), S1 bidang Administrasi Negara di Sekolah Tinggi Ilmu Administrasi (STIA) Puangrimaggalatung Sengkang (2008) dan melanjutkan pada jenjang magister pada bidang dan sekolah tinggi yang sama, yaitu Administrasi Negara di STIA Puangrimaggalatung Sengkang (2013).
-  posisi: lead
-  head_img: 
-
-- name: Sarinah
-  desc: |
-    Sarinah adalah jurnalis di Majalah Silo (2010-2011) dan Seputar Rakyat (2011-2012). Sejak tahun 2013 sampai sekarang ia menjadi penulis lepas. Pada tahun 2014 Sarinah merupakan peserta Konferensi Asian Transnational Coorporation Monitoring Network (ATNC) yang diselenggarakan di Bogor. Pada tahun 2008 ia meraih juara sebagai penulis esai dalam kompetisi yang diselenggarakan oleh Aliansi Jurnalis Independen (AJI). Lalu, Ia menyelesaikan pendidikan sarjana pada bidang Ilmu Komunikasi di Universitas Tadulako (2006-2012) dan saat ini sedang berkuliah pada bidang hukum (ekstensi) di Universitas Bhayangkara (2012-sekarang) serta Sastra Inggris dan Minat Penerjemahan di Universitas Terbuka (2013-sekarang)
-  posisi: lead
-  head_img: 
-
-- name: Handri Santoso
-  desc: |
-    Handri Santoso adalah Ketua Program Studi Informatika dan dosen di Universitas Surya serta STKIP Surya (April 2011-sekarang). Sebelumnya ia menjadi peneliti pada proyek top-runner incubation center for academia-industry fusion, Nagaoka University of Technology (2008-2011). Ia menyelesaikan pendidikan sarjana pada bidang Fisika (1996) di Universitas Indonesia, serta master (2005) dan doktor (2008) pada bidang Ilmu Informasi dan Teknik Kontrol di Nagaoka University of Technology, Jepang. Pada tahun 2009 Handri meraih penghargaan dalam kategori karya tulis terbaik di Konferensi Internasional IADIS pada bidang Teknologi Informasi dan Komunikasi, Portugal. Pada tahun yang sama ia juga meraih penghargaan serupa di ISIS, Busan dan penghargaan sebagai presenter terbaik di Konferensi ICACSIS pada sesi e-learning.
-  posisi: lead
-  head_img: 
-
-- name: Christian Natalie
-  desc: |
-    Christian Natalie bekerja di Greeneration Indonesia sebagai salah satu pendiri (co-founder) dan ketua departemen program (2011-sekarang). Ia menempuh pendidikan sarjana pada bidang Teknik Lingkungan di Institut Teknologi Bandung (2006-2011). Hinga saat ini ia juga bergabung dalam beberapa organisasi, seperti Gerakan Earth Hour (2011-sekarang) dan Bandung Juara Bebas Sampah (2014-sekarang). Pada tahun 2014, Christian menjadi perwakilan Indonesia dalam Konferensi Jaringan Asia di bidang Wirausahawan Sosial Muda di Korea Selatan. Selain itu, pada Juli 2013 ia mewakili Greeneration Indonesia dalam undangan khusus dengan Presiden Susilo Bambang Yudhoyono untuk membahas media digital dan pergerakan lingkungan di Indonesia.
-  posisi: lead
-  head_img:
-
-- name: Gamal Ferdhi
-  desc: |
-    Gamal Ferdhi adalah pengurus program di Wahid Institute (2008-sekarang). Sebelumnya ia menjadi pemimpin redaksi di Buletin Nawala yang diterbitkan oleh Wahid Institute (2006-2008). Ia juga pernah menjadi pemimpin redaksi di www.gusdur.net dan thewahidinstitute.org (2004-2008). Pada tahun 1998 Gamal mendapatkan beasiswa untuk program jurnalisme investigasi dari kantor berita ANTARA. Lalu, di tahun 2008 ia kembali mendapatkan beasiswa untuk program jurnalisme naratif dari Yayasan Sinar Mas. Lulusan Universitas Jember pada bidang Ilmu Sejarah ini juga membuat video dokumenter yang berjudul Namanya Juga Napak Tilas (2008) dan For All Woman (2010).
-  posisi: lead
-  head_img:
+    - Tim Seleksi Awal
+    - Sekretariat
+  foto:
+  halaman:  
 
 - name: Idaman Andarmosoko
-  desc: |
-    Idaman Andarmosoko dikenal sebagai fasilitator untuk organisasi laba maupun nirlaba terutama di bidang hak asasi manusia, manajemen informasi dan manajemen pengetahuan. Idaman banyak menangani acara-acara sebagai fasilitator, diantaranya 2nd Asia Source Camp on Free Open Source Software, www.tacticaltech.org, HIVOS dan UNDP-APDIP, International workshop on Challenges and Opportunities for freedom of Expression: An exploration of the networked communications environment in Asia (2007), Global Partners Associate, Ford Foundation, Combine Resource Institute. Idaman pernah menempuh pendidikan di Fakultas Teknik Elektro Universitas Indonesia pada tahun 1981 dan mengundurkan diri di tahun 1983. Saat ini ia menjadi mentor untuk proyek berikut ini : 
-    1. Andi Rakhmat Munawar – Ringtone, Wallpaper, NSP 
-    2. Munadi Kilkoda – Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
 
 - name: Ilham Cendekia Srimarga
-  desc: |
-    Ilham Cendekia Srimarga adalah seorang peneliti dan pekerja di Lembaga Swadaya Masyarakat. Ia memiliki kompetensi pada bidang kajian pembangunan, analisis pemerintahan dan pemodelan pelayanan publik. Selain itu, ia pernah bekerja sama dengan pemerintah pusat (beberapa kementerian dan UKP4). Ilham menempuh pendidikan sarjana pada bidang Informatika di Institut Teknologi Bandung (1990-1998) dan master di universitas yang sama untuk bidang Kajian Pembangunan (2006-2008). Saat ini Ilham menjadi konsultan di Sinergantara sejak tahun 2013. Salah satu karya tulisnya yang telah dipublikasi adalah Mekanisme Komplain dalam Pelayanan Publik Berbasis Kepentingan Kelompok Miskin. Saat ini ia bersama dengan Yanuar Nugroho menjadi mentor  untuk Christian Natalie dalam proyek Peta Persampahan Bandung.
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Akhmad Nasir
-  desc: |
-    Akhmad Nasir merupakan salah satu pegiat Koalisi Masyarakat Informasi Publik Yogyakarta (KMIPY), Jaringan Informasi Lingkar Merapi (JALIN Merapi), dan Relawan Teknologi Informasi-Komunikasi Kabupaten Bantul. Sejak tahun 2000, Nasir terlibat dalam gerakan advokasi, dokumentasi, penelitian, pelatihan, dan pengembangan media komunitas dan teknologi informasi-komunikasi tepat guna di Indonesia. Saat ini, ia menjadi mentor bersama dengan Yanuar Nugroho untuk M. Rubby Emir Fahriza dalam proyek Mitra Kerja Penyandang Disabilitas.
   posisi: 
-    - mentor
-    - selwal
-  head_img:
+    - Mentor
+    - Tim Seleksi Awal
+  foto:
+  halaman: 
   
 - name: Muhammad Irsyadul Ibad
-  desc: |
-    Muhammad Irsyadul Ibad adalah seorang konsultan, analis dan peneliti. Sejak bulan Mei 2014 hingga kini Irsyad menjadi konsultan untuk penguatan kapasitas lembaga publik dalam penyelenggaraan keterbukaan informasi publik, Australia-Indonesia Partnership for Decentralization (AIPD). Sebagai analis Irsyad terlibat dalam pengembangan sistem mitra desa untuk pengelolaan informasi dan pemerintahan desa. Irsyad juga giat meneliti literasi media di kalangan perempuan di Yogyakarta dan telah beberapa karya tulisnya, diantaranya “Kelola Informasi Kuatkan Buruh Migran”, “Pewartaan Warga: Membangun Demokrasi Akar Rumput” dan “Panduan Tata Kelola Keterbukaan Informasi Publik Sektor Migrasi Ketenagakerjaan”. Irsyad didaulat oleh penerima hibah Gamal Ferdhi untuk menjadi mentor upaya m-Pantau Kebebasan Beragama dan Berkeyakinan bersama Hilmar Farid dari Cipta Media Seluler.
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Heru Tjatur
-  desc: |
-    Heru Tjatur adalah Direktur Eksekutif ICT Watch dan pegiat upaya “internet sehat”. Selain upayanya di bidang nirlaba, Heru juga merupakan otodidak dan profesional yang berkecimpung di bidang Teknik Informatika dan Komputer dengan bidang ketertarikan proses bisnis di internet, interaksi oleh web dan pengalaman pengguna. Saat ini Heru menjadi mentor proyek berikut ini: 
-    1. Roy Thaniago – Kampanye “Frekuensi Milik Publik” 
-    2. Handri Santoso – Pusat Training Wireless Cellular Network OpenBTS 
-    3. Mulyana Sandi – Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android 
   posisi: 
-    - mentor
-    - selwal
-  head_img:
+    - Mentor
+    - Tim Seleksi Awal
+  foto:
+  halaman: 
   
 - name: Bayu Setyo Nugroho
-  desc: |
-    Bayu Setyo Nugroho adalah Kepala Desa Dermaji periode 2011 sampai sekarang. Sebelumnya, ia juga menjabat sebagai Kepala Desa Dermaji untuk periode 2005-2011. Selain itu, ia adalah Wakil Ketua MWC Nahdlatul Ulama Lumbir (2010-sekarang), Dewan Pakar Komunitas OS Blankon Banyumas (2011-sekarang) dan Kepala Museum Desa Naladipa (2012-sekarang). Bayu menyelesaikan pendidikan sarjana pada bidang Ilmu Administrasi Negara di Universitas Jendral Soedirman pada tahun 1993. Lalu, ia menyelesaikan pendidikan magister pada bidang dan universitas yang sama, yaitu Ilmu Administrasi Negara di Universitas Jendral Soedirman pada tahun 2008. Saat ini Bayu menjadi mentor bersama dengan Yanuar Nugroho untuk Yossy Suparyo dalam proyek Desa 2.0: Sistem Tata Kelola Sumber Daya Desa.
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Roedy Rustam
-  desc: |
-    Roedy Rustam memiliki pengalaman dengan radio komunitas untuk pemuda sejak tahun 1998. Ia terlibat dan ikut mendirikan jaringan radio komunitas Sulawesi Selatan dan Sulawesi Barat yang bernama Jirak Celebes dan menjadi sekretaris umum di radio tersebut sejak tahun 2010 sampai sekarang. Ia juga seorang penyiar, penata musik dan produser di sebuah radio komunitas di Sulawesi Selatan (1998-2010). Lalu, pada tahun 2012-2014 ia menjadi koordinator provinsi dalam diskusi PNPM Support Facility (PSF) – Combine Research Institution (CRI) di Makassar. Selain itu, ia juga terlibat dalam pelatihan mengenai program dan manejemen radio komunitas yang diselenggarakan oleh JURnaL Celebes & Tifa Foundation. Roedy dipilih untuk menjadi mentor bersama dengan Idaman Andarmosoko oleh penerima hibah Andi Rahmat Munawar dalam upaya mengenalkan kembali budaya Sulawesi Selatan kepada masyarakatnya via Ringtone dan Wallpaper.
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Maman Suherman
-  desc: |
-    Maman Suherman adalah penulis buku, presenter, pembicara dan konsultan media & kreatif serta humas kantor Pengacara Dwi RiaLatif & Partner (2009-sekarang). Maman menjadi editor untuk buku Menuju Partai Orang Biasa: Asal Usul Wimar Witoelar. Maman juga menjadi pemimpin redaksi di Kelompok Kompas Gramedia untuk Tabloid Citra (1994-2002) dan Majalah SeRu (2002-2003). Ia juga menjadi penggagas ide, verifikator dan dewan juri Panasonic Gobel Awards serta FTV Awards (SCTV) sejak tahun 1997 sampai sekarang. Lulus dari Universitas Indonesia (1984-1990) jurusan Kriminologi, Maman meneruskan studinya dengan mengambil bidang Manajemen di Prasetya Mulya serta IPPM Jakarta. Saat ini ia menjadi mentor bersama dengan Heru Tjatur untuk Roy Thaniago dalam upaya Kampanye “Frekuensi Milik Publik”.
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Yanuar Nugroho
-  desc: |
-    Yanuar Nugroho adalah pemegang salah satu fellowship bergengsi Hallsworth Fellow dalam bidang Ekonomi Politik dalam Inovasi dan Perubahan Sosial 2010-2012. Yanuar bergabung dengan Manchester Institute of Innovation Research (MIoIR) di Manchester Business School, University of Manchester UK sejak Agustus 2004. Ia terpilih sebagai akademisi terbaik di Manchester Business School 2009. Dia menyelesaikan pendidikan doktoralnya di bidang Inovasi Teknologi dan Perubahan Sosial di mana ia meneliti peran internet dalam aktivitas masyarakat sipil. Sejak akhir 2012 Yanuar menjabat sebagai Direktur dan Staf Ahli Kepala UKP4. Ia juga mantan tim seleksi akhir cipta media seluler yang saat ini menjadi mentor proyek berikut ini: 
-    1. Yossi Suparyo – Desa 2.0:Sistem Tata Kelola Sumber Daya Desa 
-    2. M. Rubby Emir Fahriza – Mitra Kerja Penyandang Disabilitas 
-    3. Christian Natalie – Peta Persampahan Bandung 
-    4. Pipit Maizier – Situs Laporan Warga Papua Berbasis SMS
   posisi: 
-    - mentor
-    - selkir
-  head_img:
+    - Mentor
+    - Tim Seleksi Akhir
+  foto:
+  halaman: 
   
 - name: Yantisa Akhadi
-  desc: |
-    Yantisa Akhadi adalah Manajer Tim Peta Terbuka Kemanusiaan Indonesia (Humanitarian OpenStreetMap)  dan aktif dalam pelatihan penggunaan OpenStreetMap, Quantum GIS serta InaSAFE untuk berbagai institusi pemerintah, universitas, dan organisasi. Gelar Masternya diperoleh dari University of Melbourne dalam bidang Spatial Information Science (2013), sementara gelar Sarjana dari Universitas Islam Indonesia, Yogyakarta (2006) dalam bidang teknik informatika. Pendukung gerakan piranti lunak terbuka FOSS (free and open source software) ini ikut mendirikan beberapa komunitas FOSS di Indonesia.  Ia juga mantan tim developer cipta media seluler yang saat ini menjadi mentor proyek berikut ini: 
-    1. Mulyana Sandi – Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android 
-    2. Munadi Kilkoda – Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler
-  posisi: mentor
-  head_img:
+  posisi: Mentor
+  foto:
+  halaman: 
   
 - name: Onno Purbo
-  desc: |
-    Onno Purbo adalah tokoh dan pakar di bidang teknologi informasi. Ia juga dikenal sebagai penulis, pendidik, dan pembicara seminar. Impiannya adalah melihat berdirinya sebuah komunitas berbasis pengetahuan di Indonesia. Sebagai aktivis Onno giat dalam upaya memperjuangkan internet murah dan menyebarkan Linux. Karya inovatifnya antara lain Wajanbolic sebagai upaya koneksi internet murah tanpa kabel, RT/RW-Net sebagai jaringan komputer swadaya masyarakat untuk menyebarkan internet murah, serta penerapan Open BTS. Di tahun 2013, ia bergabung sebagai dosen di Surya University, yang didirikan oleh fisikawan Prof. Yohanes Surya, Ph.D. Kontribusi Pak Onno dalam upaya hibah terbuka dimulai pada saat menjadi Tim Seleksi Akhir Cipta Media Bersama (2011) dan Cipta Media Seluler (2014). Kini Pak Onno bersama Heru Tjatur menjadi mentor untuk Handri Santoso dalam upaya  Pusat Training Wireless Cellular Network OpenBTS
   posisi: 
-    - mentor
-    - selkir
-  head_img:
+    - Mentor
+    - Tim Seleksi Akhir
+  foto:
+  halaman: 
   
 - name: Hilmar Farid
-  desc: |
-    Hilmar Farid adalah seorang sejarawan dan aktivis gerakan sosial.  Saat ini ia menjabat sebagai Ketua Perkumpulan Praxis. Meraih gelar sarjana dari Fakultas Ilmu Sejarah Universitas Indonesia dan gelar Doktor dari National University of Singapore, Hilmar Farid saat ini juga menjabat sebagai Ketua Dewan Pembina  Institut Sejarah Sosial Indonesia (ISSI). Ia merupakan seorang peneliti dan penulis, serta salah seorang penggagas upaya penulisan sejarah lisan tragedi pembantaian 65. Ia juga merupakan salah satu pendiri Jaringan Kerja Budaya (JKB), yang terdiri dari seniman, peneliti dan pekerja budaya. Hilmar Farid menjadi salah satu dari anggota tim seleksi akhir Cipta Media Seluler, dan kini menjadi mentor dari proyek-proyek berikut ini:
-    1. Dian Septi Trisnanti – Lingkar Suara Buruh Perempuan 
-    2. Gamal Ferdhi – m-Pantau Kebebasan Beragama dan Berkeyakinan 
-    3. Sarinah – Solidaritas.net Media Center
   posisi:
-    - mentor
-    - selkir
-  head_img:
+    - Mentor
+    - Tim Seleksi Akhir
+  foto:
+  halaman: 
 
 - name: Hillun Vilayl Napis
-  desc: |
-    Hillun Vilayl Napis adalah penulis blog untuk situs Cipta Media Seluler. Saat menulis Hillun akan mewawancara penerima hibah, mentor, dan panitia untuk mendapatkan masukan masukan atas apa yang menarik yang sedang terjadi pada proyek proyek yang sedang berjalan. Saat ini Hillun sedang menjalani pendidikan S1 bidang Ilmu Komunikasi Kajian Media di Universitas Indonesia, Depok semester tujuh. Sebelumnya Hillun adalah peserta dari kompetisi menulis Bebaskan Pengetahuan 2014.
-  posisi: sekre
-  head_img:
+  posisi: Sekretariat
+  foto:
+  halaman: 
   
 - name: Biyanto Rebin
-  desc: |
-    Biyanto Rebin merupakan pengguna Wikipedia Bahasa Indonesia sejak bulan Mei 2006. Lulusan Program Studi Cina, Universitas Indonesia dan Bahasa Italia, Università per Stranieri di Perugia ini tertarik dengan misi Wikipedia yang menekankan bahwa ilmu pengetahuan itu bebas diakses oleh semua orang. Saat ini ia menjabat sebagai Wakil Sekretaris Jenderal Wikimedia Indonesia.
-  posisi: sekre
-  head_img:
+  posisi: Sekretariat
+  foto:
+  halaman: 
   
 - name: Isabella Apriyana
-  desc: |
-    Isabella Apriyana adalah Wakil Sekretaris Jenderal masa jabatan 2013-2015 yang ditunjuk oleh Ketua Umum Terpilih pada Rapat Februari 2013, dan bergabung sebagai anggota WMID pada tahun 2013. Isabella mulai berkontribusi di Wikipedia bahasa Indonesia sejak mengikuti kompetisi Bebaskan Pengetahuan 2010 sebagai peserta. Isabella kemudian terlibat dalam proyek Cipta Media Bersama sebagai penanggung jawab sosial media (twitter) proyek tersebut di tahun 2011-2012. Isabella juga senang mendesain, salah satu karyanya adalah desain kalender Wikimedia Indonesia 2013 yang dibagikan pada anggota.Isabella adalah sarjana S1 dari Fakultas T eknobiologi, Universitas Katolik Indonesia Atma Jaya, dan kini bekerja di Lembaga Biologi Molekuler Eijkman, Jakarta.
-  posisi: sekre
-  head_img:
+  posisi: Sekretariat
+  foto:
+  halaman: 
   
 - name: Margiyono
-  desc: |
-    Margiyono adalah seorang wartawan dan aktivis. Ia meraih gelar sarjana dari Fakultas Hukum Universtitas Indonesia dan memperoleh gelar Master di bidang Hukum Siber, Teknologi Informatika, Hukum dan Masyarakat dari University of Leeds, Inggris Raya. Pada 2008 hingga 2011 menjabat sebagai Koordinator Advokasi Aliasi Jurnalis Independen (AJI). Ia merintis ndonesia Online Advocacy disingkat IDOLA (www.idola.or.id). Inisiatif ini dicetuskan sebagai upaya untuk mendorong regulasi internet yang lebih baik dan meningkatkan kapasitas Organisasi Non-Pemerintah dalam isu penanganan internet.
-  posisi: selwal
-  head_img:
+  posisi: Tim Seleksi Awal
+  foto:
+  halaman: 
