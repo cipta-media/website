@@ -141,7 +141,7 @@
        Masyarakat dalam hal ini komunitas-komunitas yang berkembang di Lampung, akan diajarkan teknik jurnalistik dengan tema utama pemberitaan tentang sejarah. Secara spesifik, tema utama dapat dipecah lagi menjadi tema-tema kecil, seperti peristiwa masa lalu, perkembangan daerah, atau budaya daerah. Pemberitaan yang dihasilkan akan disiarkan melalui laman yang telah memiliki aplikasi ponsel.
   lokasi: Bandar Lampung, Lampung
   tipe: konten
-  gambar: /static/img/hibahcms/016.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/016
 
 - nomor: '017'
@@ -150,7 +150,7 @@
        mobile apps di platform iOS, Android, dan BlackBerry yang berguna sebagai emergency reporter dan emergency responder. Jadi dengan mobile apps ini, user dapat melaporkan keadaan emergency mereka, misalkan saja mereka kecelakaan, mereka hanya perlu membuka aplikasi ini dan meminta bantuan, dengan koordinat gps dan data-data user yang tercatat nantinya laporan akan dibuat, kemudian user lain pada radius tertentu dari pelapor akan menerima push notification untuk membantu atau melaporkan kepada pihak selanjutnya. 
   lokasi: Jakarta Barat
   tipe: software
-  gambar: /static/img/hibahcms/017
+  gambar: /static/img/hibahcms/017.png
   link: /hibahcms/017
 
 - nomor: '018'
@@ -159,7 +159,7 @@
        Proyek ini berusaha menghubungkan para pengguna internet mobile di suatu daerah kota/kabupaten, untuk saling terhubung, baik secara horinsontal (sesama warga untuk berbagi informasi) dan secara vertikal (dengan legislator yang mewakili daerahnya, dengan pemerintah daerah untuk mendorong keterbukaan). Kami akan menggawali dengan di daerah pemilihan Jateng V di Kabupaten Banyumas.
   lokasi: Bantul, Yogyakarta
   tipe: konten
-  gambar: /static/img/hibahcms/018.png
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/018
 
 - nomor: '019'
@@ -168,7 +168,7 @@
        The mommy story is the hub between mommy, health care service providers and the product & service market. The mommy will have the one-stop-answer to all their need in their having-kids journey.
   lokasi: Jakarta Barat
   tipe: software
-  gambar: /static/img/hibahcms/019.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/019
 
 - nomor: '020'
@@ -186,7 +186,7 @@
        Media perangkat lunak versi mobile yang dilengkapi dengan peta menunjukan lokasi terdekat pengguna yang memberikan tebengan dan pencari tebengan. Mempunyai fitur gamifikasi untuk reputasi pengguna.
   lokasi: Jakarta Timur
   tipe: software
-  gambar: /static/img/hibahcms/021.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/021
   
 - nomor: '022'
@@ -222,7 +222,7 @@
        #10for1thalassemia mencari 10 pendonor sukarela tetap untuk tiap 1 penderita thalassemia.
   lokasi: Bandar Lampung, Lampung
   tipe: konten
-  gambar: /static/img/hibahcms/025.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/025
   
 - nomor: '026'
@@ -231,7 +231,7 @@
        Memasyarakatkan profesi seorang Trader Forex untuk mengatasi masalah pengangguran dan keterbatasan lapangan kerja.
   lokasi: Padang, Sumatera Barat
   tipe: konten
-  gambar: /static/img/hibahcms/026.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/026
   
 - nomor: '027'
@@ -240,7 +240,7 @@
        Sulawesi Tengah adalah wilayah yang pernah dilanda konflik dan saat ini sedang gencar melaksanakan pembangunan. Kehidupan media massa dan penggunaan telepon seluler juga tumbuh secara signifikan. Ironisnya, media seluler hanya dimanfaatkan sebagai sarana hiburan semata tanpa ada konten-konten khusus yang bersifat menggali potensi kearifan lokal dan budaya komunikasi politik. Budaya komunikasi politik menjadi topik menarik karena Indonesia adalah negara yang paling banyak melakukan pemilihan kepala daerah, sehingga penggunaan seluler menjadi arena sosialisasi para kandidat.
   lokasi:  Palu, Sulawesi Tengah
   tipe: konten
-  gambar: /static/img/hibahcms/027.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/027
   
 - nomor: '028'
@@ -249,7 +249,7 @@
        Sebuah aplikasi seluler dan website yang membantu pengendara kendaraan bermotor (roda dua&roda empat) untuk mencari solusi dan referensi permasalahan mesin untuk kerusakan dan informasinya. Selain itu Aplikasi ini juga akan membantu para pengendara untuk menghindari adanya penipuan pihak bengkel untuk permasalahan yang mereka hadapi karena bisa melakukan cross check, juga membantu memantau jadwal pergantian oli, juga alarm yang terkoneksi dengan aplikasi teman yang didaftarkan ketika mereka menghadapi bahaya atau membutuhkan bantuan.
   lokasi: Medan, Sumatera Utara
   tipe: konten
-  gambar: /static/img/hibahcms/028.jpg
+  gambar: /static/img/hibahcms/028.png
   link: /hibahcms/028
   
 - nomor: '029'
@@ -258,7 +258,7 @@
        Media ini akan memberikan pelayanan kepada lebih dari 4500 ibu hamil di kota Yogyakarta tentang tanya jawab tentang problem kehamilan secara cepat melalui SMS dan internet, pengiriman SMS tentang bagaimana menjaga kesehatan ibu hamil, dan penyediaan konten berupa teks dan video tentang kesehatan ibu hamil. Proyek ini akan menggandeng pihak puskesmas se-kota Yogyakarta dan beberapa bidan yang sudah berpengalaman.
   lokasi: Kebumen, Jawa Tengah
   tipe: konten
-  gambar: /static/img/hibahcms/029.jpg
+  gambar: /static/img/hibahcms/029.png
   link: /hibahcms/029
   
 - nomor: '030'
@@ -285,7 +285,7 @@
        Pembangunan Jaringan Wifi Desa di Wilayah Desa Ciburial untuk mendukung pemberdayaan masyarakat Desa Ciburial sebagai Desa Wisata
   lokasi: Bandung, Jawa Barat
   tipe: hardware
-  gambar: /static/img/hibahcms/032.jpg
+  gambar: /static/img/hibahcms/032.png
   link: /hibahcms/032
   
 - nomor: '033'
@@ -304,7 +304,7 @@
        Smart Parking System merupakan sistem pengelolaan perparkiran yang menggabungkan teknologi komputasi awan, basis data, dan perangkat bergerak dalam sistem perparkiran. Sistem yang dibuat bukan sekedar sistem operasional untuk pengelolaan lahan parkir, melainkan juga penyimpanan informasi serta akses informasi terkini mengenai kondisi lahan parkir. 
   lokasi: Malang, Jawa Timur
   tipe: software
-  gambar: /static/img/hibahcms/034.jpg
+  gambar: /static/img/hibahcms/034.png
   link: /hibahcms/034
   
 - nomor: '035'
@@ -313,7 +313,7 @@
        Web database komunitas anak muda berbasis geo-mapping
   lokasi: Jakarta
   tipe: konten
-  gambar: /static/img/hibahcms/035.jpg
+  gambar: /static/img/hibahcms/035.png
   link: /hibahcms/035
   
 - nomor: '036'
@@ -322,7 +322,7 @@
        SMS gateway dan ITKP (internet telepon untuk keperluan publik) sebagai media komunikasi dalam upaya PENGURANGAN RESIKO BENCANA (PRB) dan sebagai sistem komunikasi pada posko tanggap darurat. 
   lokasi: Manokwari, Papua Barat
   tipe: konten
-  gambar: /static/img/hibahcms/036.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/036
   
 - nomor: '037'
@@ -331,7 +331,7 @@
        Membangun jaringan komunikasi nirkabel untuk implementasi Rumah Cerdas (Smart House),dengan adanya perangkat ini maka rumah akan berperan sebagai node-network sehingga bisa berkomunikasi satu sama lain atau seemless communication (Isitilah redaksi Communication of Things)
   lokasi: Depok, Jawa Barat
   tipe: hardware
-  gambar: /static/img/hibahcms/037.jpg
+  gambar: /static/img/hibahcms/037.png
   link: /hibahcms/037
   
 - nomor: '038'
@@ -340,7 +340,7 @@
        Ada pameo : GANTI MENTERI, GANTI KURIKULUM, akibatnya waktu mengajar guru dan waktu luang orang tua tersita untuk mempelajari kurikulum baru ini. Oleh karena itu, saya berinisiatif meluncurkan Disain Kurikulum Digital berbasis Kearifan Lokal dan Keunggulan Lokal sehingga para siswa tidak tercerabut dari akar budayanya tapi tetap mampu bersaing di forum internasional.
   lokasi: Jakarta Pusat
   tipe: konten
-  gambar: /static/img/hibahcms/038.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/038
   
 - nomor: '039'
@@ -358,7 +358,7 @@
        Aplikasi ini bermananfaat bagi para produsen dan konsumen yang ingin membeli dan memasarkan secara langsung serta tepat sasaran, khususnya untuk aplikasi ini adalah pemasaran ternak dan nelayan. Dalam aplikasi ini juga terdapat tips, serta pemecahan masalah yang pernah atau kemungkinan terjadi dalam kegiatan peternakan, sehingga antar pelaku ternak bisa saling share/berbagi jika menemukan permasalahan.
   lokasi: Tangerang, Banten
   tipe: software
-  gambar: /static/img/hibahcms/040.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/040
 
 - nomor: '041'
@@ -367,7 +367,7 @@
        Upaya membantu para petani di Indonesia agar dapat meningkatkan kualitas, baik dari SDA ataupun SDM petani itu sendiri. Membantu Produsen (Petani) dan Konsumen (Individual atau Pengusaha) untuk dapat bertransaksi secara langsung tanpa melalui perantara (tengkulak), sehingga harga yang didapat produsen dan yang dikeluarkan konsumen tidak melonjak tinggi seperti sekarang.
   lokasi: Tangerang, Banten
   tipe: software
-  gambar: /static/img/hibahcms/041.jpg
+  gambar: /static/img/hibahcms/041.png
   link: /hibahcms/041
 
 - nomor: '042'
@@ -385,7 +385,7 @@
        Segitiga Formulasi (Forum Multimedia-Edukasi) adalah program peningkatan mutu output generasi muda dalam hal ini peserta didik jenjang SD yang melibatkan tri partit yakni orang tua, peserta didik dan pendidik dengan berbasis multimedia (Seluler, website, MPI). Proyek ini mengambil setting di Kabupaten Semarang dengan subyek pendidikan meliputi peserta didik yang berkaitan dengan keluh-kesah terhadap faktor-faktor penghambat pembelajaran di rumah dan sekolah, orang tua (wali murid) yang peduli terhadap perkembangan pendidikan anak di rumah, sekolah dan masyarakat, serta peran pendidik sebagai inspirator, motivator dan akselerator terhadap orang tua dan peserta didiknya. 
   lokasi: Semarang, Jawa Tengah
   tipe: konten
-  gambar: /static/img/hibahcms/043.jpg
+  gambar: /static/img/hibahcms/043.png
   link: /hibahcms/043
 
 - nomor: '044'
@@ -412,7 +412,7 @@
        Pengadaan.net adalah situs non-pemerintah yang menyediakan layanan notifikasi atau pemberitahuan ke email tentang informasi pengadaan barang dan jasa dari seluruh Indonesia. Dengan adanya layanan ini, masyarakat yang membutuhkan informasi bisa dengan mudah dan lebih cepat mendapatkan informasi pengadaan.
   lokasi: Nganjuk, Jawa Timur
   tipe: software
-  gambar: /static/img/hibahcms/046.jpg
+  gambar: /static/img/hibahcms/046.png
   link: /hibahcms/046
 
 - nomor: '047'
@@ -439,7 +439,7 @@
        Selama ini banyak pemerhati atas gerakan merawat bumi dan berguru kepada bumi yang sudah dilakukan di Taman Hutan Raya Djuanda bersama dengan Eco Learning Camp, belum tercatat dalam database sehingga setiap kali satu kegiatan selesai, tidak ditindaklanjuti untuk diskusi lebih lanjut kepada para peserta kegiatan dan tidak ada tindak lanjut pembentukan komunitas dan tidak ada update kepada para pemerhati kegiatan ini melalui info yang disebarkan melalui sms dan platform.
   lokasi: Jakarta Timur
   tipe: konten
-  gambar: /static/img/hibahcms/049.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/049
 
 - nomor: '050'
@@ -448,7 +448,7 @@
        BTS ini akan ramah lingkungan. BTS ini juga akan mengintegrasikan alat komunikasi seluler tidak melalui jaringan GSM.
   lokasi: Jakarta
   tipe: hardware
-  gambar: /static/img/hibahcms/050.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/050
 
 - nomor: '051'
@@ -457,7 +457,7 @@
        Disini saya akan membuat aplikasi yang bertujuan untuk mengenalkan serta mengembangkan bahasa jawa agar bisa dikenal oleh masyarakat lebih luas dan bisa berguna oleh seluruh gender dan usia masyarakat. diantaranya adalah kamus android bahasa Inggris - Jawa krama - Jawa ngoko -indonesia. mengapa bahasa Jawa?
   lokasi: Semarang, Jawa Tengah
   tipe: software
-  gambar: /static/img/hibahcms/051.jpg
+  gambar: /static/img/hibahcms/051.png
   link: /hibahcms/051
 
 - nomor: '052'
@@ -466,7 +466,7 @@
        eFishery adalah alat pemberi pakan ikan dan udang otomatis. Alat ini dapat memberikan pakan sesuai dengan jadwal dan nafsu makan ikan, sehingga pemberian pakan lebih efisien dan profitabilitas lebih tinggi. 
   lokasi: Bekasi, Jawa Barat
   tipe: hardware
-  gambar: /static/img/hibahcms/052.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/052
 
 - nomor: '053'
@@ -488,7 +488,7 @@
        3. Melakukan evaluasi hasil belajar siswa.
   lokasi: Jakarta
   tipe: konte 
-  gambar: /static/img/hibahcms/054.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/054
 
 - nomor: '055'
@@ -497,7 +497,7 @@
        Dalam upaya peningkatan dan pemanfaatan teknologi informasi yang sudah di rasakan sebagian besar oleh masyarakat perkotaan, tentunya masyarakat desa punya banyak potensi yang perlu dikembangkan dan didukung oleh teknologi. Project ini bertujuan mensosialisasikan, memanfaatkan dan memeratakan perkembangan teknologi informasi untuk peningkatan kualitas hidup dan ekonomi di desa-desa
   lokasi: Bogor, Jawa Barata
   tipe: hardware
-  gambar: /static/img/hibahcms/055.jpg
+  gambar: /static/img/hibahcms/055.png
   link: /hibahcms/055
 
 - nomor: '056'
@@ -518,7 +518,7 @@
        Saya harap saya bisa mendorong keterbukaan akuntansi publik (government accounting) dengan menyediakan aplikasi yang dapat running melalui mobile device, maupun diakses melalui web.
   lokasi: Kebumen, Jawa Tengah
   tipe: software
-  gambar: /static/img/hibahcms/057.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/057
 
 - nomor: '058'
@@ -527,7 +527,7 @@
        Proyek ini ingin menampilkan konten teks dipadu foto mengenai informasi suatu letak lokasi kepada pengguna internet mobile, terkhusus nama jalan di suatu kota atau kabupaten. Kami akan memulai dengan kota Yogyakarta dengan 14 kecamatan.
   lokasi: Yogyakarta
   tipe: konten
-  gambar: /static/img/hibahcms/058.jpg
+  gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/058
 
 - nomor: '059'
@@ -536,7 +536,7 @@
        Jogja Hangouts TV adalah Televisi Online yang disiarkan live streaming melalui youtube dengan menggunakan fitur social media Google Plus yang didalamnya ada fasilitas Google Hangouts On Air yang terhubung dengan Youtube. Content yang dibuat Jogja Hangouts TV berisi tentang pendidikan, sosial, hiburan, dan gaya hidup masyarakat.
   lokasi: Yogyakarta
   tipe: konten
-  gambar: /static/img/hibahcms/059.jpg
+  gambar: /static/img/hibahcms/059.png
   link: /hibahcms/059
 
 - nomor: '060'
@@ -545,7 +545,7 @@
        Sistem perangkat lunak berbasis SMS sebagai media edukasi bagi ibu-ibu, terutama ibu hamil, mengenai pentingnya peran ibu dalam menjaga tumbuh kembang anak semenjak masih dalam kandungan.
   lokasi: Batam, Riau
   tipe: software
-  gambar: /static/img/hibahcms/060.jpg
+  gambar: /static/img/hibahcms/060.png
   link: /hibahcms/060
 
 - nomor: '061'
@@ -563,7 +563,7 @@
        Dengan kondisi bumi yang semakin lama semakin mengkhawatirkan, pemanasan global terus meningkat dan fungsi hutan yang terus di alihkan oleh para orang-orang yang tidak bertanggung jawab maka kita harus melakukan hal yang dapat mencegah dampak buruk semua hal di atas. Dengan memanfaatkan teknologi khususnya seluler kita bisa membuat sebuah terobosan baru dalam melakukan reboisasi atau tanam sejuta pohon. Terobosan yang di maksudkan adalah kita membuat sebuah aplikasi seluler yang memiliki fitur untuk menanam pohon secara online.
   lokasi: Probolinggo, Jawa Timur
   tipe: software
-  gambar: /static/img/hibahcms/062.jpg
+  gambar: /static/img/hibahcms/062.png
   link: /hibahcms/062
 
 - nomor: '063'
@@ -608,7 +608,7 @@
        Sistem peringatan dini berfungsi untuk penyebaran informasi dan pengumpulan data terkait kebencanaan di Indonesia, sumber informasi resmi diperoleh dari lembaga-lembaga yang menangani kebencanaan seperti BMKG dan USGS. Namun masyarakat Indonesia sebagai subyek juga dapat menginformasikan kejadian, kondisi atau informasi lainnya terkait bencana yang diketahuinya, sehingga terjadi pertukaran informasi antar masyarakat yang tidak hanya mendapatkan informasi dari lembaga resmi yang menangani kebencanaan.
   lokasi: Jakarta Selatan
   tipe: software
-  gambar: /static/img/hibahcms/067.jpg
+  gambar: /static/img/hibahcms/067.png
   link: /hibahcms/067
 
 - nomor: '068'
@@ -618,7 +618,7 @@
        suatu jaringan komputer.
   lokasi: Bandung, Jawa Barat 
   tipe: konten
-  gambar: /static/img/hibahcms/068.jpg
+  gambar: /static/img/hibahcms/068.png
   link: /hibahcms/068
 
 - nomor: '069'
@@ -636,7 +636,7 @@
        Tingkat kekerasan berbasis agama dan gender pada perkembangan nya mengalami peningkatan yang cenderung naik, dan yang cukup memprihatinkan, adalah dilibatkan nya para pemuda dalam aksi-aksi perusakan dan tindakan-tindakan yang berlawanan dengan hukum dan sangat merugikan pihak-pihak korban. Handphone dan para pemuda sudah cukup familiar dalam kesehariannya, peran handphone ini akan sangat efektif untuk dijadikan sebagai Media Pendidikan Sosial untuk melakukan kerja-kerja Pengorganisasian pemuda dalam menekan angka kekerasan berbasis Agama dan Gender, dengan sasaran para pelajar SLTP, SLTA dan Perguruan Tinggi, serangkaian peristiwa bullying yang terjadi ditingkatan pelajar merupakan wujud kekerasan awal yang dapat berujung pada tindakan-tindakan kekerasan sosial pada saat dewasa nantinya.
   lokasi: Sidoarjo, Jawa Timur
   tipe: konten
-  gambar: /static/img/hibahcms/070jpg
+  gambar: /static/img/hibahcms/070.jpg
   link: /hibahcms/070
 
 - nomor: '071'
