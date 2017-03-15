@@ -150,7 +150,7 @@
        mobile apps di platform iOS, Android, dan BlackBerry yang berguna sebagai emergency reporter dan emergency responder. Jadi dengan mobile apps ini, user dapat melaporkan keadaan emergency mereka, misalkan saja mereka kecelakaan, mereka hanya perlu membuka aplikasi ini dan meminta bantuan, dengan koordinat gps dan data-data user yang tercatat nantinya laporan akan dibuat, kemudian user lain pada radius tertentu dari pelapor akan menerima push notification untuk membantu atau melaporkan kepada pihak selanjutnya. 
   lokasi: Jakarta Barat
   tipe: software
-  gambar: /static/img/hibahcms/017.jpg
+  gambar: /static/img/hibahcms/017
   link: /hibahcms/017
 
 - nomor: '018'
@@ -159,7 +159,7 @@
        Proyek ini berusaha menghubungkan para pengguna internet mobile di suatu daerah kota/kabupaten, untuk saling terhubung, baik secara horinsontal (sesama warga untuk berbagi informasi) dan secara vertikal (dengan legislator yang mewakili daerahnya, dengan pemerintah daerah untuk mendorong keterbukaan). Kami akan menggawali dengan di daerah pemilihan Jateng V di Kabupaten Banyumas.
   lokasi: Bantul, Yogyakarta
   tipe: konten
-  gambar: /static/img/hibahcms/018.jpg
+  gambar: /static/img/hibahcms/018.png
   link: /hibahcms/018
 
 - nomor: '019'
