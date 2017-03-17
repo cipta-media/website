@@ -318,6 +318,15 @@
   tipe: adil
   gambar: /static/img/hibahcmb/035.png
   link: /hibahcmb/035  
+
+- nomor: '036'
+  judul: Innovation for Vulnerable Service Program (IVSP)
+  deskripsi: |
+      Kebutuhan akan akses pendidikan yang layak dan sesuai tanpa diskriminasi bagi anak-anak yang memiliki kebutuhan khusus dalam rangka pemenuhan dan peningkatan taraf hidup mereka dalam segala aspek, mengkampayekan: kesetaraan, nondiskriminasi, tanggung jawab negara, universalitas, menghargai martabat manusia, dan saling ketergantungan
+  lokasi: Beujroh Aceh
+  tipe: adil
+  gambar: /static/img/hibahcmb/036.png
+  link: /hibahcmb/036
            
 - nomor: '037'
   judul: Media Online Berbasis Bahasa Daerah
@@ -472,6 +481,15 @@
   gambar: /static/img/hibahcmb/053.png
   link: /hibahcmb/053 
     
+- nomor: '054'
+  judul: Radio Komunitas sebagai Sentral Penguatan Kapasitas Komunitas Rentan di Kabupaten Flores Timur, NTT
+  deskripsi: |
+      Sebuah proyek yang dibangun atas dasar rendahnya pendapatan per kapita rakyat Flores Timur dan belum adanya media yang fokus menyuarakan kepentingan komunitas-komunitas rentan atau media penyeimbang penetrasi media-media kapitalistik yang murah dan terjangkau
+  lokasi: Larantuka, Kabupaten Flores, NTT
+  tipe: retas
+  gambar: /static/img/hibahcmb/054.png
+  link: /hibahcmb/054
+    
 - nomor: '055'
   judul:  Care. Share.
   deskripsi: |
@@ -561,6 +579,15 @@
   tipe: adil
   gambar: /static/img/hibahcmb/064.png
   link: /hibahcmb/064
+      
+- nomor: '065'
+  judul: E-survey Dinamis & Database Nasional via SMS
+  deskripsi: |
+      Dengan menggunakan SMS, setiap partisipan dapat mengirimkan SMS ke sebuah SMS gateway sehingga data-data tersebut akan diolah menjadi informasi yang dapat diakses oleh pengirim/pengisi e-survey. Selain itu data-data yang tersimpan di database dapat diolah menjadi barometer terkini akan keadaan demografi yang dapat dikaitkan dengan aspek kesehatan, pendidikan, dan potensi bisnis dari lokasi tempat pengirim SMS. Juga dapat dipakai sebagai alat/tool untuk pemantauan keamanan yang swadaya masyarakat
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/065.png
+  link: /hibahcmb/065
     
 - nomor: '066'
   judul:  Media Online Kesehatan Wanita Sehat
@@ -597,6 +624,897 @@
   tipe: retas
   gambar: /static/img/hibahcmb/069.png
   link: /hibahcmb/069
+     
+- nomor: '070'
+  judul: Portal Tugas Sekolah, Kuliah serta Karya Ilmiah
+  deskripsi: |
+      Sebuah portal yang menyajikan proses pembagian tugas di kelas, pengerjaan tugas, pengumpulan tugas, hingga penilaian tugas
+  lokasi: Sleman, Yogyakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/070.png
+  link: /hibahcmb/070 
+   
+- nomor: '071'
+  judul: Memaksimalkan Penggunaan HP dengan Aplikasi SMS Gateway dan Website Portal Berita untuk Petani dan Nelayan Pacitan
+  deskripsi: |
+      Web portal berita dan SMS Gateway untuk menanggulanggi kesenjangan informasi mengenai harga komoditi pertanian dan perikanan di Pacitan
+  lokasi: Pacitan, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/071.png
+  link: /hibahcmb/071   
+    
+- nomor: '072'
+  judul: Posyandu Online
+  deskripsi: |
+      Penggunaan teknologi internet untuk memudahkan orang tua mendapatkan pelayanan posyandu untuk anaknya
+  lokasi: Malang, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/072.png
+  link: /hibahcmb/072
+    
+- nomor: '073'
+  judul: Distribusi Linux BlankOn untuk Tuna Netra
+  deskripsi: |
+      Sebuah aplikasi alat bantu tuna ntera dengan antar muka Bahasa Indonesia dan memuat banyak konten lokal
+  lokasi: Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/073.png
+  link: /hibahcmb/073
+     
+- nomor: '074'
+  judul: Literasi Media Berbasis Teknologi Komunikasi pada Siswa SMA di Bandar Lampung
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk meningkatkan kemampuan literacy individu dalam mengolah, menafsirkan, dan mengontrol akses media teknologi dan informasi
+  lokasi: Lampung Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/074.png
+  link: /hibahcmb/074 
+      
+- nomor: '075'
+  judul: Wayang Online
+  deskripsi: |
+      Sebuah proyek untuk membuat cerita wayang yang dikemas dengan audio dan model terkini dalam bahasa Indonesia sehingga bisa diterima oleh masyarakat
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/075.png
+  link: /hibahcmb/075  
+        
+- nomor: '076'
+  judul: Bali Koneksi - Publikasi Kreatif Produk Kebudayaan Bali
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk melestarikan kebudayaan Bali ditengah-tengah pesatnya perkembangan teknologi, media cetak, dan budaya-budaya asing sehingga pelaku budaya Bali tidak lagi terbelakang
+  lokasi: Bali
+  tipe: retas
+  gambar: /static/img/hibahcmb/076.png
+  link: /hibahcmb/076
+        
+- nomor: '077'
+  judul: Menjadikan Desaku Berwawasan
+  deskripsi: |
+      Sebuah proyek untuk membangun jaringan internet ke berbagai desa tertinggal yang disertai dengan pelatihan di bidang teknologi informasi sehingga dapat menunjang bidang pertanian, peternakan, dan pendidikan
+  lokasi: Desa Gunem 005/002 Kecamatan Gunem, Kabupaten Rembang, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/077.png
+  link: /hibahcmb/077 
+        
+- nomor: '078'
+  judul: FM Radio Watch - Tampil Pertama Menjawab Berita, Tampil Utama Membawa Kabar
+  deskripsi: |
+      Sebuah proyek yang memadukan teknologi telepon seluler dengan aplikasi radio yang berada di dalamnya untuk menyiarkan berita terkini di berbagai daerah di NTT. Berita yang didapat kemudian akan dilansir ke berbagai media cetak setempat. Proyek ini akan merekrut beberapa orang di berbagai daerah di NTT untuk dijadikan wartawan HP Radio Watch
+  lokasi: Kupang, NTT
+  tipe: pantau
+  gambar: /static/img/hibahcmb/078.png
+  link: /hibahcmb/078
+        
+- nomor: '079'
+  judul: Perpustakaan Online
+  deskripsi: |
+      Sebuah proyek pendirian perpustakaan online untuk pelajar, mahasiswa, dan khalayak umum
+  lokasi: Bekasi
+  tipe: adil
+  gambar: /static/img/hibahcmb/079.png
+  link: /hibahcmb/079  
+        
+- nomor: '080'
+  judul: Video Tari
+  deskripsi: |
+      Proyek ini berkeinginan untuk membuat 10 serial pembelajaran tari melalui visual (video tari instruksional). Di dalamnya akan dikemas sejarah dan bagaimana belajar salah satu tarian asli Indonesia (Aceh, Medan, Lampung, Jambi, Banten & Palembang). Ini juga akan menjadi perpustakaan visual budaya Indonesia, khususnya tari-tarian
+  lokasi: Jakarta Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/080.png
+  link: /hibahcmb/080  
+         
+- nomor: '081'
+  judul: Pelatihan Aplikasi Android Untuk Pemula
+  deskripsi: |
+      Pelatihan penggunaan aplikasi android tingkat dasar
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/081.png
+  link: /hibahcmb/081  
+         
+- nomor: '082'
+  judul: Jalurku
+  deskripsi: |
+      Website yang memberikan informasi tentang keadaan lalulintas jalan raya, jalan tol dan kereta KRL. Di dalamnya terdapat tools yang bisa membuat para pengguna terlibat dalam memberikan informasi serta tools untuk menghindarkan pengguna dari jalan macet atau kereta yang mogok dan lainnya
+  lokasi: Depok
+  tipe: retas
+  gambar: /static/img/hibahcmb/082.png
+  link: /hibahcmb/082    
+         
+- nomor: '083'
+  judul: Wayang Republik sebagai Media Informasi
+  deskripsi: |
+      Sebuah proyek yang mengemas pementasan wayang kulit sebagai media alternatif masyarakat dalam memperoleh informasi
+  lokasi: Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/083.png
+  link: /hibahcmb/083  
+           
+- nomor: '084'
+  judul: Portal Berita dan Info Berbasis Web + SMS Gateway
+  deskripsi: |
+      Sebuah portal berita dan pemberdayaan sosial ekonomi berbasis web + sms gateway yang memungkinkan seseorang untuk melakukan pemberitaan melalui internet ataupun sms. Proyek ini didasari oleh masih kurangnya pemberitaan, baik secara online maupun pada media cetak, di Kabupaten Banyuwangi. Selanjutnya, media online ini bisa juga dimanfaatkan untuk pemetaan potensi ekonomi, maupun pendataan penduduk dalam masalah sosial berbasis geografis sehingga jika terjadi sesuatu atau penyaluran bantuan sosial, bisa langsung dilakukan tepat sasaran
+  lokasi: Surabaya
+  tipe: adil
+  gambar: /static/img/hibahcmb/084.png
+  link: /hibahcmb/084    
+            
+- nomor: '085'
+  judul: Hotspot Bebas Roaming / Mesh
+  deskripsi: |
+      Sebuah proyek untuk berinternet secara sehat dan bebas roaming
+  lokasi: Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/085.png
+  link: /hibahcmb/085   
+              
+- nomor: '086'
+  judul: Riset Abuse
+  deskripsi: |
+      Sebuah proyek untuk mendata jumlah abuse internet (security insiden) yang terjadi di Indonesia
+  lokasi: Bandung, Jawa Barat
+  tipe: pantau
+  gambar: /static/img/hibahcmb/086.png
+  link: /hibahcmb/086  
+               
+- nomor: '087'
+  judul: Kantor Berita Komunitas
+  deskripsi: |
+      Menyebarluaskan informasi kepada masyarakat melalui radio komunitas, buletin warga, dan sms guna mengurangi kesenjangan informasi antara kaum yang sudah kenal media online dengan masyarakat desa yg miskin informasi
+  lokasi: Aceh
+  tipe: adil
+  gambar: /static/img/hibahcmb/087.png
+  link: /hibahcmb/087  
+                
+- nomor: '088'
+  judul: Bumi Kita Satu
+  deskripsi: |
+      Sebuah proyek dengan visi utama yang ingin dicapai oleh adalah menjadi media terdepan yang mendorong terciptanya perilaku bertanggung jawab sosial oleh semua individu dan organisasi di Indonesia. Dalam mencapai visi tersebut, maka misi yang ingin dijalankan oleh Bumi Kita Satu adalah (1) menyediakan informasi, referensi dan contoh perilaku bertanggungjawab sosial melalui media online & komunitas Bumi Kita Satu, (2) mempertemukan berbagai pihak untuk saling bertukar informasi dan berdiskusi demi mempercepat terjadinya perilaku bertanggungjawab sosial, dan (3) mendukung berbagai pihak yang memiliki kepedulian yang sama melalui awareness campaign dan social marketing perilaku bertanggung jawab sosial
+  lokasi: Jakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/088.png
+  link: /hibahcmb/088
+                
+- nomor: '089'
+  judul: Perpustakaan Desa dan Pelatihan Entrepreneur
+  deskripsi: |
+      Perpustakaan desa merupakan sebuah proyek untuk meningkatkan minat baca masyarakat, sedangkan pelatihan entrepreneur ditujukan untuk pemanfaatan waktu luang pelajar atau mahasiswa untuk menjadi lebih kreatif
+  lokasi: Kediri
+  tipe: retas
+  gambar: /static/img/hibahcmb/089.png
+  link: /hibahcmb/089
+                
+- nomor: '090'
+  judul: Portal DUAPERSEN
+  deskripsi: |
+      Gerakan DUAPERSEN merupakan sebuah inisiatif untuk menggugah minat masyarakat luas untuk terjun dalam dunia usaha
+  lokasi: Jakarta Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/090.png
+  link: /hibahcmb/090
+                
+- nomor: '091'
+  judul: Tabloid KPII
+  deskripsi: |
+      Tabloid ini berisi konten info-info gratis tentang teknologi informasi, kesehatan, kegiatan sosial, lowongan kerja, dll dengan penerbitan tiap seminggu sekali
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/091.png
+  link: /hibahcmb/091
+                
+- nomor: '092'
+  judul: Paduan Seni Lokal dan Modern
+  deskripsi: |
+      Sebuah proyek yang memadukan perkembangan teknologi dengan nilai-nilai luhur dan kebudayaan asli Indonesia agar kebudayaan tersebut tetap lestari
+  lokasi: Jakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/092.png
+  link: /hibahcmb/092
+                
+- nomor: '093'
+  judul: Penguatan Karakter Kebangsaan melalui Jurnalisme Akar Rumput untuk Pengembangan Media Modern
+  deskripsi: |
+      Sebuah proyek untuk menyetarakan gerakan kebangsaan yang sistemik pada seluruh lapisan dan sistem kemasyarakatan. Proyek ini berdiri atas dasar belum terbentuknya masyarakat yang berdaya, yang terlihat dalam dominasi pemerintah di semua sektor dan rendahnya tingkat kekuasaan kontrol dari masyarakat
+  lokasi: DI Yogyakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/093.png
+  link: /hibahcmb/093
+                
+- nomor: '094'
+  judul: Menumbuhkuatkan Citizen Jurnalism Melalui Video Komunitas Yang Kuat, Dinamis, Demokratis dan Berkelanjutan
+  deskripsi: |
+      Program ini bertujuan untuk meningkatkan keahlian dan kemampuan para pengorganisir rakyat yang tertarik mengembangkan media alternatif yang bermuatan lokal dalam mengangkat issu, pesan, informasi di lingkungan asalnya untuk kepentingan pengorganisasian dan pendidikan rakyat melalui video komunitas di Kabupaten Banggai Kepulauan. Sulawesi Tengah
+  lokasi: Salakan, Kabupaten Banggai Kepulauan, Sulawesi Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/094.png
+  link: /hibahcmb/094
+                
+- nomor: '095'
+  judul: Event Web
+  deskripsi: |
+      Eventweb merupakan portal yang berisi berita dan informasi event indoor (gallery, expo center, hall, mall, auditorium dan venue indoor sejenisnya) serta outdoor area. Juga meliputi informasi event spesifik (panggung musik, pameran, lomba, festival, bazar, launching produk, katalog belanja, program / event khusus, party, dan sejenisnya), direktori supporting event, info artis, band indie, info SPG, info selebriti, info film, program televisi/radio dan project organizer
+  lokasi: Sleman, DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/095.png
+  link: /hibahcmb/095
+                
+- nomor: '096'
+  judul: Penguatan Kapasitas Orang Tua Anak Jalanan
+  deskripsi: |
+      Program ini didirikan dengan tujuan mengurangi jumlah anak jalanan sekaligus meningkatan pendapatan orang tua mereka
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/096.png
+  link: /hibahcmb/096
+                
+- nomor: '097'
+  judul: Internet Sehat Goes to School and Campus
+  deskripsi: |
+      Proyek ini didirikan untuk meningkatkan minat baca dan sebagai antisipasi penyalahgunaan media internet
+  lokasi: Kediri
+  tipe: retas
+  gambar: /static/img/hibahcmb/097.png
+  link: /hibahcmb/097
+                
+- nomor: '098'
+  judul: Pemberdayaan remaja berbasis teknologi komunikasi dan teknologi pengolahan lingkungan
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk mengembangkan soft skill remaja di bidang broadcasting yang berorientasi pada pengoptimalan lembaga penyiaran komunitas sebagai media dakwah dan sebagai fasilitas aktualisasi diri remaja yang sekaligus mampu memberikan penghasilan bagi mereka. Di samping itu, para remaja juga diajarkan untuk mengolah sampah
+  lokasi: Gresik, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/098.png
+  link: /hibahcmb/098
+                  
+- nomor: '099'
+  judul: Peningkatan kapasitas Skill Teknologi Informasi Opensource LPSE seluruh Indonesia
+  deskripsi: |
+      Peningkatan kapasitas skill dan transfer knowledges Teknologi Informasi pada seluruh SDM di K/L/D/I seluruh Indonesia mengenai baik untuk aplikasi SPSE (Sistem Pengadaan Secara Linux)
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/099.png
+  link: /hibahcmb/099
+                  
+- nomor: '100'
+  judul: “Radio Komunikasi untuk Mediasi Konflik Berbasis Multikultural dan Lokalitas di Kepulauan Timur Madura”
+  deskripsi: |
+      Proyek untuk mendirikan sebuah radio komunitas sebagai bentuk mediasi antarsuku dan etnis di Kepulauan Madura Timur agar terpelihara hubungan yang harmonis
+  lokasi: Sumenep, Kepulauan Timur Madura, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/100.png
+  link: /hibahcmb/100  
+                  
+- nomor: '101'
+  judul: Advokasi Kreatif Tragedi 65
+  deskripsi: |
+      Proyek yang mendokumentasikan secara digital audio wawancara korban tragedi '65, merekam lagu-lagu karya korban '65 selama di penjara, serta menerbitkan buletin tentang berbagai pandangan
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/101.png
+  link: /hibahcmb/101    
+                   
+- nomor: '102'
+  judul: Pusat Mbangun Deso (PMD)
+  deskripsi: |
+      Membangun sebuah tempat atau pusat cyber di kampung dimana di dalamnya terdapat beberapa aktivitas, seperti tempat bermain dan belajar untuk anak-anak, tempat belajar para pemuda/pemudi, pusat informasi se-kampung dan kelurahan (bisa berkembang se-kecamatan dan seterusnya), dan aktivitas lainnya. Selain itu juga membangun sebuah usaha dimana teamnya adalah pemuda/pemudi yang sudah belajar di PMD
+  lokasi: Gunung Kidul, DI Yogyakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/102.png
+  link: /hibahcmb/102  
+                   
+- nomor: '103'
+  judul: Taman Bacaan Masyarakat Berbasis Multimedia
+  deskripsi: |
+      Taman Bacaan Masyarakat (TBM) yang berbasis multimedia, computer and internet working dimana akan menjadi TBM pertama di Kabupaten Cilacap yang berbasis multimedia. TBM di pedesaan digunakan sebagai media untuk meretaskan batas, dimana selama ini terjadi kesenjangan dalam memperoleh informasi dan komunikasi antara desa dan kota. Dengan berbasiskan multimedia, TBM ini akan memiliki konten intranet, internet dan e-Library, yang diharmoniskan dengan kebudayaan lokal. Dengan sasaran pengunjung adalah penduduk desa, para pengunjung akan diberikan kenyaman dalam memperoleh informasi, karena tempat yang dirancang di alam terbuka dan arena yang nyaman untuk anak-anak dalam berekspresi setelah mendapatkan informasi yang diinginkan
+  lokasi: Cilacap, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/103.png
+  link: /hibahcmb/103   
+                   
+- nomor: '104'
+  judul: Radio Streaming Pendidikan untuk Menyuarakan Budaya Indonesia Mendunia
+  deskripsi: |
+      Sebuah stasiun radio streaming yang kami khususkan untuk civitas akademi Indonesia maupun dunia untuk mengenal dunia pendidikan indonesia dan budaya lokal yang ada di Indonesia, tentu saja dengan kontribusi dari mahasiswa Indonesia
+  lokasi: Pontianak, Kalimantan Barat
+  tipe: bebas
+  gambar: /static/img/hibahcmb/104.png
+  link: /hibahcmb/104   
+                     
+- nomor: '105'
+  judul: Televisi Desa
+  deskripsi: |
+      Televisi desa akan menjawab lahirnya konten lokal yang menjadi kebutuhan dan kepentingan memperjuangkan hak mereka, membuka akses kontrol terhadap kebijakan pembangunan di desa, terutama melalui program-program yang mereka produksi sendiri. Televisi desa juga akan membangun solidaritas sosial dan pembelajaran kehidupan demokratis, terutama dalam bidang informasi, menumbuhkan penghargaan atas keberagamaan dalam kehidupan keseharian
+  lokasi: Magelang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/105.png
+  link: /hibahcmb/105
+                      
+- nomor: '106'
+  judul: Pemberdayaan Pengrajin Batik melalui Pemerataan Akses Media
+  deskripsi: |
+      Sebuah proyek yang dibangun atas dasar kondisi kehidupan para pengarajin batik pacitan yang walaupun berpotensi, tetapi masih memprihatinkan. Hal ini disebabkan adanya keterbatasan pengetahuan berwirausaha dan akses informasi, terutama internet
+  lokasi: Kabupaten Pacitan, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/106.png
+  link: /hibahcmb/106
+                       
+- nomor: '107'
+  judul: Akses Internet Murah dan Sehat bagi Orang Tidak Mampu
+  deskripsi: |
+      Sebuah proyek pendirian jaringan komputer dan internet untuk menunjang kebutuhan pendidikan di SDIT
+  lokasi: Pangkalan Kerinci
+  tipe: adil
+  gambar: /static/img/hibahcmb/107.png
+  link: /hibahcmb/107 
+                        
+- nomor: '108'
+  judul: Jejaring kesehatan DokterAnda.net
+  deskripsi: |
+      Portal Kesehatan tanyadokteranda.com berusaha membina dan mengumpulkan konten kesehatan lokal yang berkualitas untuk konsumsi awam, lebih dari 3000 konten mulai dari konsultasi, artikel, berita, sampai video talkshow
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/108.png
+  link: /hibahcmb/108  
+                         
+- nomor: '109'
+  judul: Pembuatan mesin tetas dan kandang unggas (ayam buras, puyuh, itik) serta pembudidayaan bagi peternak pemuda “LUMIMPASOT”
+  deskripsi: |
+      Sebuah proyek peningkatan usaha peternakan ayam bukan ras (buras) di Kelurahan Matani I yang dikelola oleh para pemuda
+  lokasi: Tomohon, Sulawesi Utara
+  tipe: retas
+  gambar: /static/img/hibahcmb/109.png
+  link: /hibahcmb/109   
+                         
+- nomor: '110'
+  judul: Implementasi Internet Sekolah
+  deskripsi: |
+      Proyek ini bertujuan untuk mengimplementasikan internet sekolah tetapi dengan biaya yang semurah mungkin, karena saat ini biaya peralatan sudah jauh lebih murah
+  lokasi: Semarang, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/110.png
+  link: /hibahcmb/110    
+                           
+- nomor: '111'
+  judul: Literasi Media Bagi Pelajar (SD-SMA) di Kabupaten Kudus
+  deskripsi: |
+      Kegitan literasi media pelajar ini ditujukan menumbuhkan sikap kritis dalam menghadapi media massa, terutama televisi dan internet
+  lokasi: Kudus, Jawa Tengah
+  tipe: pantau
+  gambar: /static/img/hibahcmb/111.png
+  link: /hibahcmb/111  
+                            
+- nomor: '112'
+  judul: Peningkatan Kapasitas Pengelolaan Keuangan LSM di Indonesia melalui Penguatan Jaringan Keuangan antar para Pihak Pemangku Kepentingan
+  deskripsi: |
+      Penabulu telah mengembangkan komunitas on line berbasis milis dan web selama kurang lebih dua tahun. Milis komunitas keuangan LSM: http://groups.google.com/group/keuanganlsm, sebagai forum tanya jawab antar pengelola keuangan, sampai saat ini tercatat lebih dari 200 anggota, web komunitas keuangan LSM: http://www.keuanganlsm.com/ sampai saat ini tercatat lebih dari 120 anggota yang profilnya teregistrasi detil
+  lokasi: Jakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/112.png
+  link: /hibahcmb/112   
+                            
+- nomor: '113'
+  judul: BentangIlmu - Repositori Online untuk Penguatan Pendidikan Berbasis Keluarga
+  deskripsi: |
+      Sebuah pendirian situs yang menjadi repositori online dan membuat materi untuk pendidikan anak usia dini (PAUD) dan pengasuhan (parenting). Situs ini juga merupakan bagian dari gerakan untuk memberdayakan keluarga Indonesia dalam bidang pendidikan dan teknologi
+  lokasi: Jakarta Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/113.png
+  link: /hibahcmb/113  
+                             
+- nomor: '114'
+  judul: Cyber Ethics sebagai Salah Satu Penanggulangan Cyber Crime
+  deskripsi: |
+      Sebuah proyek yang bergerak dibidang sosialisasi cyber ethics dan monitoring cybercrime
+  lokasi: Yogyakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/114.png
+  link: /hibahcmb/114  
+                              
+- nomor: '115'
+  judul: Net for Tolerance
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk membangun engine web berbasis citizen journalism yang bisa digunakan kelompok-kelompok pro-kebhinekaan, khususnya kalangan Gusdurian untuk menyebarkan ide-ide dan sikapnya
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/115.png
+  link: /hibahcmb/115 
+                                
+- nomor: '116'
+  judul: Jangan Sia-siakan PLIK
+  deskripsi: |
+      Sebuah proyek yang dirancang untuk meningkatkan mutu pengguna, optimalisasi program PLIK, dan pengembangan kualitas wacana dan pendidikan di berbagai kecamatan terbelakang yang telah dibangun fasilitas Pusat Layanan Internet Kecamatan (PLIK)
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/116.png
+  link: /hibahcmb/116
+                                 
+- nomor: '117'
+  judul: Komunitas Guru Pembelajar
+  deskripsi: |
+      Sebuah proyek yang didirikan untuk meningkatkan mutu kinerja para guru dengan menyediakan pelatihan-kursus tentang pemanfaatan teknologi informasi tepat guna, kursus Bahasa Inggris dengan materi yang mendukung pengajaran, serta merevitalisasi fungsi jaringan guru yang ada dengan memanfaatkan buletin online untuk bertukar informasi, berbagi sumber bahan pengajaran, dan pengalaman mengajar
+  lokasi: Bogor
+  tipe: adil
+  gambar: /static/img/hibahcmb/117.png
+  link: /hibahcmb/117 
+                                   
+- nomor: '118'
+  judul: A Better Indonesia
+  deskripsi: |
+      One stop information media which educating, inspiring, motivating, and transforming people
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/118.png
+  link: /hibahcmb/118 
+                                    
+- nomor: '119'
+  judul: Kampung Media
+  deskripsi: |
+      Program ini mendirikan lembaga pusat media di satu kelurahan di Kota Malang yang bernama Kampung Media. Kampung Media membuat berbagai jenis jenis media yang biaya operasionalnya murah sehingga nantinya bisa dilanjutkan oleh masyarakat setelah masa program habis dan bisa diadopsi oleh masyarakat di kelurahan lain
+  lokasi: Malang, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/119.png
+  link: /hibahcmb/119 
+                                    
+- nomor: '120'
+  judul: Ibu Rumah Tangga Melek Media Internet
+  deskripsi: |
+      Sebuah proyek pemberdayaan media internet badi para ibu rumah tangga dalam berpartisipasi aktif sebagai subjek dan pelaku pertukaran informasi
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/120.png
+  link: /hibahcmb/120  
+                                     
+- nomor: '121'
+  judul: Merekam Lebak
+  deskripsi: |
+      Sebuah proyek pemberdayaan masyarakat berbasis media yang melakukan kegiatan menulis, mecetak, merekam, dan memproduksi konten lokal yang didistribusikan melalui media sosial dan jaringan televisi lokal
+  lokasi: Rangkasbitung, Lebak, Banten
+  tipe: retas
+  gambar: /static/img/hibahcmb/121.png
+  link: /hibahcmb/121  
+                                      
+- nomor: '122'
+  judul: Internet Sekolah Gratis
+  deskripsi: |
+      Sebuah proyek pengadaan dan pelatihan internet sehat selama 1 bulan gratis di 5 SMP di Kabupaten Sengkang
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/122.png
+  link: /hibahcmb/122   
+                                      
+- nomor: '123'
+  judul: AKUMASSA.ORG
+  deskripsi: |
+      AKUMASSA adalah media online berbasis komunitas dan telah berjalan selama 3 tahun dengan tingkat partisipasi yang cukup tinggi. Website ini dikelola secara bersama oleh komunitas yang memproduksi teks, video, image dan audio, lalu didistribusikan secara online melalui www.akumassa.org. Jaringan kerja akumassa dilakukan secara swadaya, dengan konsep distribusi pengetahuan secara bebas dan terbuka kepada masyarakat tentang persoalan lokal yang selama ini tidak menjadi perhatian dari media arus besar
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/123.png
+  link: /hibahcmb/123    
+                                       
+- nomor: '124'
+  judul: Portal informasi 500 Radio di 400 kota se-Indonesia
+  deskripsi: |
+      KBR68H melalui situs www.kbr68h.com akan memfasilitasi ratusan radio daerah yang tergabung dalam jaringannya untuk membuat atau mengaktifkan (bagi yang sudah memiliki) situs web mereka. Di situs-situs web itu, masing-masing radio bisa meng-update program-program siaran sekaligus mengisinya dengan konten-konten lokal. Selain itu, situs-situs radio daerah ini bisa memperoleh news-feed dari konten yang tersedia dari www.kbr68h.com secara gratis. Dengan fasilitas ini, pertukaran informasi antardaerah maupun antara pusat-daerah dan sebaliknya tak hanya dilakukan melalui siaran radio, melainkan juga melalui satu portal internet secara dinamis
+  lokasi: Jakarta Pusat, DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/124.png
+  link: /hibahcmb/124  
+                                       
+- nomor: '125'
+  judul: Pelatihan Film Dokumenter
+  deskripsi: |
+      Pelatihan pembuatan film dokumenter bagi masyarakat awam, tujuannya agar masyarakat mampu mengkomunikasikan persoalan di lingkungannya dengan media film dan mempublikasikannya untuk mendapatkan solusi
+  lokasi: DI Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/125.png
+  link: /hibahcmb/125
+                                       
+- nomor: '126'
+  judul: Lomba Blog Desain dan Search Engine Optimation
+  deskripsi: |
+      Sebuah proyek yang bergerak dibidang pemanfaatan internet untuk bermedia. Kegiatannya antara lain mendengungkan pembelajaran pembuatan blog, lomba membuat blog dan search engine optimation, yang dibarengi dengan kampanye ke sekolah-sekolah untuk menggungah siswa dan guru. Hal ini ditujukan untuk memberikan kesetaraan dalam distribusi informasi oleh masyarakat desa dan Kabupaten Grobongan
+  lokasi: Grobongan, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/126.png
+  link: /hibahcmb/126
+                                       
+- nomor: '127'
+  judul: Media911
+  deskripsi: |
+      Membuat media komunikasi (majalah, web, profil lembaga, fasilitas) bagi semua lembaga pelayanan masyarakat termasuk LSM, lembaga pemerintahan, lembaga pendidikan, dan lembaga-lembaga lainnya yang dibutuhkan masyarakat
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/127.png
+  link: /hibahcmb/127
+                                       
+- nomor: '128'
+  judul: Radio Komunitas & Jurnal Cetak Untuk Kampanye “Jangan Sampai Masuk Bui”
+  deskripsi: |
+      Sebuah proyek pendirian radio komunitas untuk membuat kegiatan pendampingan kepada anak-anak Kampung Gedong di daerah Tangerang yang berbasis seni dan kreativitas untuk mengatasi masalah kenakalan remaja. Kegiatan ini diprakarsai oleh komunitas Rumah Tanpa Jendela (RTJ) yang merupakan rumah singgah dan tempat belajar kreatif untuk anak yang baru bebas dari penjara Anak Pria Tangerang
+  lokasi: Jl. Yahya Nuih 34, kampung Gedong, Kemiri muka, Depok, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/128.png
+  link: /hibahcmb/128
+                                       
+- nomor: '129'
+  judul: Kurikulum Terbuka untuk Pendidikan Indonesia
+  deskripsi: |
+      Sebuah gerakan/inisiatif dan kegiatan berskala nasional untuk mendorong inovasi kurikulum pendidikan di Indonesia dengan cara memperkuat jejaring komunitas pendidik, meningkatkan kompetensi pendidik sebagai agen perubahan lewat penyelenggaraan lokakarya dan pendampingan (coaching), meningkatkan partisipasi pendidik dalam media untuk mendukung perluasan informasi praktik-praktik terbaik (best practices) inovasi pembelajaran serta penyediaan repositori digital Open Educational Resources (sumber belajar terbuka) sebagai wahana berbagi dan penyedia inspirasi bagi guru untuk membuat inovasi dan perubahan di kelas-kelas mereka. Tujuan besar dari gerakan/inisiatif ini adalah mendorong percepatan peningkatan mutu pendidikan di Indonesia. Gerakan/inisiatif ini merupakan tindak lanjut dan upaya perluasan dari kegiatan sebelumnya yaitu NAWSET (National Workshop and Seminar on Education Technology) dan NACTI (National Competition of Technology Integration) pada tahun 2011 ini
+  lokasi: Semarang, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/129.png
+  link: /hibahcmb/129
+                                       
+- nomor: '130'
+  judul: KEMIREN, Menulis Sejarahnya Sendiri
+  deskripsi: |
+      Sebuah proyek mengenai penulisan sejarah Desa Kemiren oleh remajanya masing-masing, mulai dari asal-usul desa, tokoh, arsitektur, seni-tradisi, kuliner, dan kosakata khas yang dipakai warga. Komunitas Koseba akan mendampingi proses penulisan dan hasilnya akan dimasukkan ke dalam website Koseba dan dicetak untuk dibagikan ke berbagai perpustakaan
+  lokasi: Banyuwangi, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/130.png
+  link: /hibahcmb/130
+                                       
+- nomor: '131'
+  judul: New Media Training Bagi Pers Mahasiswa
+  deskripsi: |
+      Sebuah proyek road show training kepada Lembaga Pers Mahasiswa (LPM) di Jember, Banyuwangi, Situbondo, dan Bondowoso. Pasca training, AJI Jember memberi subsidi Rp 1 juta pembuatan media online ke LPM yang didahului pengajuan proposal mengenai konsep media online yang akan diterbitkan. Setahun kemudian, ditindaklanjuti dengan melombakan media online yang telah dibuat LPM
+  lokasi: Jember, Jawa Timur
+  tipe: bebas
+  gambar: /static/img/hibahcmb/131.png
+  link: /hibahcmb/131
+                                       
+- nomor: '132'
+  judul: UU & Kebijakan Kehutanan dalam bahasa daerah
+  deskripsi: |
+      Sebuah proyek penerjemahkan UU dan Kebijakan Kehutanan ke dalam beberapa bahasa daerah setempat sehingga nantinya masyarakat yang kurang mampu atau yang tidak mengetahui bahasa Indonesia sama sekali dapat mengerti isi dan makna dari UU dan Kebijakan tersebut
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/132.png
+  link: /hibahcmb/132
+                                       
+- nomor: '133'
+  judul: Portal Informasi Harga Produk Pertanian
+  deskripsi: |
+      Proyek ini merupakan pembuatan Portal (website) yang menyediakan informasi harga harian produk-produk pertanian se-Indonesia. Portal tersebut akan menjadi sumber informasi harian bagi para pertani untuk mempertahankan harga produk-produknya agar tidak dipermainkan oleh para pengijon (spekulan). Portal akan disajikan dalam bentuk yang sederhana serta dapat diakses oleh handphone sederhana. Disamping itu akan dibuatkan pilot project di beberapa desa dengan menyediakan monitor yang terkoneksi dengan internet dan dipasang pada dinding balai desa/sekretarian kelompok tani. Petani akan mengakses update harga produk pertanian dari monitor tersebut secara harian
+  lokasi: Yogyakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/133.png
+  link: /hibahcmb/133
+                                       
+- nomor: '134'
+  judul: Portal dan Game Engine Gratis Berbasis Web Menggunakan HTML 5 untuk Pembuatan Game Edukasi
+  deskripsi: |
+      Game engine berbasis web memungkinkan pengembang dari seluruh wilayah Indonesia untuk berkolaborasi membuat game edukasi gratis yang berkualitas. Disedikan juga portal sebagai media bagi pengguna untuk menggunakan produk game edukasi dari game engine tersebut secara gratis cukup hanya menggunakan media web browser
+  lokasi: Salatiga, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/134.png
+  link: /hibahcmb/134
+                                       
+- nomor: '135'
+  judul: Eksplorasi Indonesia
+  deskripsi: |
+      Melakukan pengembangan mobil-indonesia.com dengan menambahkan konsep berbasis GIS (Geographic Information System) untuk menyajikan konten "Eksplorasi Indonesia" yang berisikan Direktori dan Media Sosial masyarakat Indonesia mulai dari wisata, seni, budaya, kandungan alam, flora, fauna, edukasi & kuliner sehingga seluruh lapisan masyarakat Indonesia dari ujung barat ke ujung timur dapat berinteraksi secara realtime dan dapat menjadi wadah "Bangga Indonesiaku"
+  lokasi: Jl. Pahlawan 6 No. 19 RT. 002 / 05 Sukabumi Selatan Kebon Jeruk Jakarta Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/135.png
+  link: /hibahcmb/135
+                                       
+- nomor: '136'
+  judul: Cerdas Berinternet
+  deskripsi: |
+      Sebuah proyek pendayagunaan internet oleh pelajar untuk keperluan sekolah
+  lokasi: Kudus, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/136.png
+  link: /hibahcmb/136
+                                       
+- nomor: '137'
+  judul: Acara tv Rekrutmen
+  deskripsi: |
+      Sebuah proyek berbasiskan kompetensi, sertifikasi profesi yang melibatkan LSP terkait untuk tim juri
+  lokasi: Bandung, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/137.png
+  link: /hibahcmb/137
+                                       
+- nomor: '138'
+  judul: Sekolah Melek Media
+  deskripsi: |
+      “Sekolah Melek Media” merupakan sebuah program yang dirancang untuk melakukan penguatan dan advokasi pada basis khalayak yang secara spesifik masih anak-anak. Program “Sekolah Melek Media” merupakan sebuah ide gagasan untuk mengkampanyekan pentingnya media literacy dikalangan anak-anak sekolah tingkat dasar (SD) dan SLTP. Bentuk kampanye dari “Sekolah Melek Media” adalah dengan membuat rancangan kurikulum media literacy yang akan dicoba untuk ditawarkan dan diintervensikan pada kurikulum di tingkat SD dan SLTP. Selain menghasilkan kurikulum media literacy bagi anak-anak sekolah, luaran dari program “Sekolah Melek Media” ini diharapkan dapat menghasilkan sebuah pilot project berupa media anak untuk pemenuhan kebutuhan informasi yang sesuai dengan usia mereka
+  lokasi: Kota Bengkulu, Bengkulu
+  tipe: pantau
+  gambar: /static/img/hibahcmb/138.png
+  link: /hibahcmb/138
+                                       
+- nomor: '139'
+  judul: Membangun Sumber Daya Insan Berkualitas
+  deskripsi: |
+      Dalam melaksanakan pembangunan pengembangan SDM sangat diperlukan, sebab kuantitas SDM yang besar tanpa didukung kualitas yang baik akan menjadi beban pembangunan suatu bangsa. Sementara dalam hal menguji kemampuan seperti menulis karya tulis ilmiah yang semakin hari semakin menurun yang dikarenakan terpengaruh dengan berbagai kegiatan yang dinilai tidak dapat memberikan pendidikan yang membangun kualitas ilmu pengetahuan umum secara luas yang melahirkan mahasiwa kritis, dinamis, & berwibawa
+  lokasi: Cilegon, Banten
+  tipe: bebas
+  gambar: /static/img/hibahcmb/139.png
+  link: /hibahcmb/139
+                                       
+- nomor: '140'
+  judul: Menyelenggarakan Pelatihan Jurnalis di Jajaran Pemerintah, Sekolah, dan Masyarakat serta Pembentukan Dewan Pengurus Cabang di 36 Kabupaten / Kota di Provinsi Jawa Tengah
+  deskripsi: |
+      Sebuah proyek yang didirikan untuk mewujudkan kebebasan pers sesuai dengan undang-undang yang berlaku
+  lokasi: Jawa Tengah
+  tipe: pantau
+  gambar: /static/img/hibahcmb/140.png
+  link: /hibahcmb/140
+                                        
+- nomor: '141'
+  judul: Sosialisasi Undang-undang 14 tahun 2008
+  deskripsi: |
+      Sebuah proyek untuk menjalankan sosialisasi undang-undang di 36 Kabupaten dan kota di Provinsi Jawa tengah
+  lokasi: Jawa Tengah
+  tipe: pantau
+  gambar: /static/img/hibahcmb/141.png
+  link: /hibahcmb/141 
+                                         
+- nomor: '142'
+  judul: Indonesian Performing Art Market On Line
+  deskripsi: |
+      Membuat ruang sendiri di tengah terbatasnya ruang media informasi dan presentasi massa sehingga dapat diakses langsung oleh berbagai pihak yang berkepentingan, seperti pemerintah, organisasi seni dalam-luar negeri, agen kesenian dalam negeri-luar negeri, akademik, peneliti dll
+  lokasi: Solo
+  tipe: adil
+  gambar: /static/img/hibahcmb/142.png
+  link: /hibahcmb/142
+                                          
+- nomor: '143'
+  judul: Pemanfaatan Jaringan Internet untuk Media Pembelajaran Siswa-siswi SMP-SMA/SMK
+  deskripsi: |
+      Sebuah proyek pemanfaatan jaringan internet (sekolah) sebagai media pembelajaran yang lebih memadai dan efisien, seperti Coud Computing
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/143.png
+  link: /hibahcmb/143
+                                           
+- nomor: '144'
+  judul: Meningkatkan Mutu dan Jumlah Konten Lokal serta Membangun Sindikasi Siaran TV lokal
+  deskripsi: |
+      Sebuah workshop dan training jurnalisme TV yang ditujukan untuk memeberikan pengetahuan dan ketrampilan yang baik kepada jurnalis TV lokal. Selesai training, masing-masing stasiun TV yang ikut wajib membuat liputan indepth reporting tentang isu paling kuat dan paling menarik di daerahnya. Hasil liputan, selain disiarkan di TV masing-masing, juga dikirimkan ke TV lokal yang lain untuk disiarkan. Selama perencanaan, pembuatan script dan pelaksanaan liputan dikawal oleh TIM supervisi yang anggotanya para tutor dalam pelatihan ini yang dikelola oleh TEMPOTV
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/144.png
+  link: /hibahcmb/144
+                                           
+- nomor: '145'
+  judul: Media Masuk Desa
+  deskripsi: |
+      Sebuah proyek pemanfaatan media untuk memberikan informasi dan meningkatkan kualitas sumber daya manusia melalui pendidikan secara moral dalam kesenjangan
+  lokasi: Malang, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/145.png
+  link: /hibahcmb/145
+                                           
+- nomor: '146'
+  judul: Silent Hope (Harapan Sunyi)
+  deskripsi: |
+      Harapan Sunyi (Silent Hope) adalah suatu film dokumentasi yang terfokus pada suatu kelompok anak yatim piatu tuli-bisu di Bali yang belajar seni tari Bali tanpa terhalangi oleh kekurangan fisik mereka. Film dokumentasi ini adalah kisah mereka, suatu kisah yang ingin saya ceritakan pada orang-orang sedunia dan menunjukkan pada semua orang bahwa masih ada harapan bagi mereka yang dilantarkan oleh orang-orang lain. Anak-anak ini hanya merupakan suatu kelompok amat kecil di antara anak-anak yang menyandang cacat di Indonesia dan di dunia yang terlantarkan karena ketidak-sempurnaan mereka.
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/146.png
+  link: /hibahcmb/146
+                                           
+- nomor: '147'
+  judul: Berita Kita
+  deskripsi: |
+      Sebuah proyek untuk mengajak masyarakat untuk memproduksi berita di wilayah atau lokasi mereka sendiri. Daerah yang dipilih sebagai lokasi pemberitaan adalah masyarakat kota yang terpinggirkan yang selalu mendapat ancaman penggusuran akibat pembangunan kota, pelayanan kesehatan yang kurang baik, lingkungan, kemiskinan dan akses masyarakat miskin kota akan pendidikan. Beberapa berita yang diproduksi oleh masyarakat, akan ditambahkan dengan referensi, undang-undang atau kebijakan yang bisa mendukung dalam mengatasi masalah yang dialami. Yang terpenting adalah laporan hasil pemberitaan tersebut dikembalikan ke masyarakat yang bersangkutan agar diketahui
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/147.png
+  link: /hibahcmb/147
+                                           
+- nomor: '148'
+  judul: Membangun Media Membangun Karakter Bangsa, Media Jadi Tikar
+  deskripsi: |
+      Sebuah proyek untuk membuktikan keberadaan media di tengah-tengah kehidupan bernegara sehingga karakter bangsa dapat terwujud olehnya
+  lokasi: Kabupaten Luwu, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/148.png
+  link: /hibahcmb/148
+                                           
+- nomor: '149'
+  judul: Internet Bagi Petani Garam dan Rumput Laut
+  deskripsi: |
+      Program penyediaan sarana internet bagi petani garam dan rumput laut untuk pemasaran dan pengembangan hasil dari garam dan rumput laut ke arah yang berkualitas
+  lokasi: Pamekasan, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/149.png
+  link: /hibahcmb/149
+                                           
+- nomor: '150'
+  judul: JBDK Android & IOS Project
+  deskripsi: |
+      Proyek pembuatan aplikasi untuk keperluan edukasi sebagai tools presentasi, game, kreatifitas, fun, learning tool & Digital Multimedia Book dengan basis Apple, Android dan Java
+  lokasi: DI Yogyakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/150.png
+  link: /hibahcmb/150
+                                           
+- nomor: '151'
+  judul: Lan Jalan Madura
+  deskripsi: |
+      Sebuah proyek pembuatan buku yang berisi tentang wisata, budaya, serta kuliner Madura. Komposisi buku sebgaian besar merupakan foto-foto yang disertai artikel. Dalam proses pengumpulan data juga akan dilakukan eksplorasi di Pulau Madura
+  lokasi: Bangkalan, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/151.png
+  link: /hibahcmb/151
+                                           
+- nomor: '152'
+  judul: Media Alternatif Anda
+  deskripsi: |
+      Sebuah proyek pemberikan informasi-informasi yang selama ini dianggap tidak penting oleh media mainstream, sepeti komplain konsumen, info orang, mobil, dan motor hilang, DPO, sermoni perusahaan, CSR, komunitas dll. sehingga pemberitaan tidak hanya berpusat pada yang bernuansa politik
+  lokasi: Tangerang
+  tipe: adil
+  gambar: /static/img/hibahcmb/152.png
+  link: /hibahcmb/152
+                                           
+- nomor: '153'
+  judul: Media News Online Berbasis Kemahasiswaan
+  deskripsi: |
+      Media online berbasis kemahasiswaan dimana yang menjadi kontributor berita adalah organisasi jurnalistik yang ada di kampus-kampus seluruh Indonesia
+  lokasi: Jakarta Selatan
+  tipe: bebas
+  gambar: /static/img/hibahcmb/153.png
+  link: /hibahcmb/153
+                                           
+- nomor: '154'
+  judul: Tabloid Mingguan dan Koran Harian
+  deskripsi: |
+      Sebuah proyek yang berorientasi pada masalah sosial dan umum, dengan segementasi masyarakat pedesaan
+  lokasi: Sumedang, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/154.png
+  link: /hibahcmb/154
+                                           
+- nomor: '155'
+  judul: Restiptut
+  deskripsi: |
+      Website dengan konten berbagi (web 2.0) yang menitikberatkan pada berbagi ilmu dalam bentuk yang lebih aplikatif, yaitu resep, tips, dan tutorial dari membernya
+  lokasi: Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/155.png
+  link: /hibahcmb/155
+                                          
+- nomor: '156'
+  judul: Media Lokal berbasis Citizen Jurnalism
+  deskripsi: |
+      Sebuah proyek yang didirikan untuk mendorong publik ditingkatan lokal untuk menulis dengan website sebagai pusat konsentrasi informasi dari segala jaringan. Media ini juga akan dibentuk dalam versi cetak untuk menjangkau komunitas yang belum mampu mengakses internet. Proyek ini juga ditujukan untuk pengembangan manajemen mandiri, pengawalan dan advokasi pengembangan media lokal berbasis citizen jurnalism
+  lokasi: Palu, Sulawesi Tengah
+  tipe: bebas
+  gambar: /static/img/hibahcmb/156.png
+  link: /hibahcmb/156
+                                          
+- nomor: '157'
+  judul: Kid News Plus
+  deskripsi: |
+      Proyek yang melibatkan orang tua dan anak dalam penyampaian berita melalui media online (internet) maupun offline (televisi dan cetak) untuk mengembangkan konsep citizen journalistic
+  lokasi: Surakarta, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/157.png
+  link: /hibahcmb/157
+                                          
+- nomor: '158'
+  judul: Peningkatan Keterampilan Guru untuk Mengoptimalkan Fungsi Media sebagai Salah Satu Sarana Proses Pembelajaran
+  deskripsi: |
+      Sebuah program berkelanjutan yang dapat meningkatkan keterampilan guru untuk memanfaatkan media sebagai salah satu sarana dalam proses pembelajaran
+  lokasi: Kabupaten Blitar, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/158.png
+  link: /hibahcmb/158
+                                           
+- nomor: '159'
+  judul: Gemilang Pendidikan Indonesia
+  deskripsi: |
+      Media presentasi pembelajaran yang dapat dengan mudah dipakai guru dan menyenangkan siswa tetapi tetap efektif, tujuan pembelajaran tetap tercapai. Media dibuat dengan menyertakan kasus-kasus ilmu pengetahuan dalam teks, gambar, dan video yang dapat meningkatkan kreatifitas berpikir tingkat tinggi siswa
+  lokasi: Bontang, Kalimantan Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/159.png
+  link: /hibahcmb/159
+                                           
+- nomor: '160'
+  judul: Komunitas Akar Rumput Indonesia
+  deskripsi: |
+      Sebuah proyek yang bertujuan untuk memperkuat komunitas masyarakat, khususnya pada kecamatan tertinggal, yang telah memiliki Pusat Layanan Internet Kecamatan (PLIK) yang berada di Sulawesi (sebagai Project Percontohan)
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/160.png
+  link: /hibahcmb/160
+                                           
+- nomor: '161'
+  judul: Jurnalis Warga Cerdas Membangun NKRI
+  deskripsi: |
+      Sebuah proyek yang bertujuan untuk mewadahi buah pikiran para anak-anak bangsa yang akan dipublikasikan dalam sebuah media teknologi informasi atau internet yang saat ini terbukti sanggup 'mempersatukan dunia'. Jurnalis Warga berharap bisa membina para akademisi, praktisi dan ahli dibidangnya masing-masing guna menjadi jurnalis warga yang cerdas sehingga mereka bisa menyampaikan buah pikirannya dalam sebuah artikel yang nantinya akan dipublikasikan di www.jurnaliswarga.com. Diharapkan buah pikiran mereka bisa menjadi masukan bagi penyelenggara bangsa dan negara, demi kemajuan NKRI tercinta
+  lokasi: Denpasar, Bali
+  tipe: retas
+  gambar: /static/img/hibahcmb/161.png
+  link: /hibahcmb/161 
+                                            
+- nomor: '162'
+  judul: Belajar Tidak Hanya di Sekolah
+  deskripsi: |
+      Proyek yang memberikan pelayanan kegiatan belajar gratis, pelatihan kependidikan dan parenting, membangun Rumah Baca, dan pelatihan entrepreneurship
+  lokasi: Semarang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/162.png
+  link: /hibahcmb/162  
+                                              
+- nomor: '163'
+  judul: Media Budaya Masyarakat
+  deskripsi: |
+      Sebuah proyek yang memvisualisasikan Gelar Budaya Kampung Manusia dengan materi-materi terkini yang kritis dan beretika dalam bentuk media digital (VCD, DVD, MP3) untuk disebarkan pada masyarakat yang kurang mampu atau tidak bisa mendapat akses media pada umunya
+  lokasi: Ngawi, Jawa Timur
+  tipe: adil
+  gambar: /static/img/hibahcmb/163.png
+  link: /hibahcmb/163  
+                                                
+- nomor: '164'
+  judul: Media Cetak Suara Rakyat
+  deskripsi: |
+      Sebuah media cetak yang bebas meluapkan dan menyampaikan informasi untuk kepentingan bersama
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/164.png
+  link: /hibahcmb/164 
+                                                 
+- nomor: '165'
+  judul: Pelatihan Komputer bagi Masyarakat Sekolah dan Umum yang Belum Melek Teknologi
+  deskripsi: |
+      Sebuah proyek yang bertujuan melatih masyarakat sekolah dan umum hingga mampu mengoperasikan dan memanfaatkan teknologi
+  lokasi: Bondowoso, Jawa Timur
+  tipe: pantau
+  gambar: /static/img/hibahcmb/165.png
+  link: /hibahcmb/165  
+                                                   
+- nomor: '166'
+  judul: Program Bantuan Hukum untuk Terwujudnya Kebebasan Pers
+  deskripsi: |
+      Program ini bekerja dengan latar belakang sosial-ekonomi dan lemahnya penegakan hukum di Indonesia, dimana terdapat kondisi kurangnya bantuan hukum untuk pers dan lemahnya penegakkan hukum di Indonesia, pengabaian terhadap peran pers, dan persepsi buruk dan ketidakpercayaan kelompok pers terhadap lembaga penegak hukum formal
+  lokasi: Jakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/166.png
+  link: /hibahcmb/166  
+                                                    
+- nomor: '167'
+  judul: “Benor FM”, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba
+  deskripsi: |
+      Sebuah proyek yang bertujukan untuk memperjuangkan hak-hak dasar orang Rimba (komunitas adat semi nomaden di daerah Jambi) seperti layanan pendidikan, kesehatan maupun jangkauan pembangunan. Untuk itu didirikan radio komunitas untuk menjadi alat untuk membantu penyampaian materi pendidikan, penyuluhan kesehatan, mengadvokasikan hak-hak dasar, juga menjadi sarana komunikasi dalam memobilisasi, serta media informasi dan hiburan bagi Orang Rimba
+  lokasi: Jambi
+  tipe: retas
+  gambar: /static/img/hibahcmb/167.png
+  link: /hibahcmb/167  
+                                                      
+- nomor: '168'
+  judul: Hijauku.com - Situs Hijau Indonesia
+  deskripsi: |
+      Website yang memberikan akses informasi yang setara kepada masyarakat, memberikan edukasi, ide, dan inspirasi mengenai gaya hidup sehat dan ramah lingkungan dari Indonesia dan seluruh dunia. Berkolaborasi dengan berbagai pihak untuk menciptakan sistem perekonomian yang hijau yang merupakan sistem ekonomi yang ramah lingkungan, yang tidak mengeksplotasi alam, dan meningkatkan kemandirian masyarakat
+  lokasi: Depok, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/168.png
+  link: /hibahcmb/168 
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
@@ -606,7 +1524,80 @@
   tipe: retas
   gambar: /static/img/hibahcmb/169.png
   link: /hibahcmb/169
-    
+                                                         
+- nomor: '170'
+  judul: Tabularasa Media Independent
+  deskripsi: |
+      Tidak dipaparkan
+  lokasi: Jakarta Selatan, DKI Jakarta
+  tipe: pantau
+  gambar: /static/img/hibahcmb/170.png
+  link: /hibahcmb/170 
+                                                         
+- nomor: '171'
+  judul: Batang Media 2.0 - Memediakan Potensi Daerah
+  deskripsi: |
+      Sebuah media yang ditujukan untuk mengangkat dan mengenalkan potensi daerah Kabupaten Batang yang kaya akan potensi pariwisata, pertanian, hasil laut, peternakan, dan seni budaya, namun hal ini belum banyak dikenal masyarkat luas. Bila metode ini berhasil tentunya dapat diadopsi oleh daerah-daerah lain yang memiliki permasalahan yang sama
+  lokasi: Kabupaten Batang, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/171.png
+  link: /hibahcmb/171
+                                                          
+- nomor: '172'
+  judul: Petani Membangun Gerakan Aksi Advokasi Media
+  deskripsi: |
+      Proyek ini memfasilitasi warga desa (petani) agar memiliki kapasitas dan kapabilitas untuk mampu proaktif dalam arus informasi menuju masyarakat yang tidak sekadar sebagai konsumen pasif media yang ada, tetapi juga berlaku sebagai warga yang sadar hak-haknya, serta mampu berperan dalam arus informasi yang sehat. Proyek ini menyiapkan dan mendampingi warga pedesaan atau petani untuk dapat berperan memanfaatkan media yang ada, dapat melakukan analisis isu, memetakan stakeholder (termasuk media), dan mengangkat isu/persoalan riil masalah-masalah sosial/pembangunan di desa mereka itu, dalam sebuah aksi/advokasi media
+  lokasi: Surakarta, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/172.png
+  link: /hibahcmb/172 
+                                                           
+- nomor: '173'
+  judul: Teraka.net
+  deskripsi: |
+      "Program Pantau Media Televisi Teraka.net (Televisi Ramah Keluarga). Dalam arti bermanfaat untuk menambah kualitas hidup yang lebih baik untuk setiap keluarga terutama anak muda setelah menontonnya. Program
+      yang dirancang khusus untuk melakukan advokasi, pencerahan dan pembelaan konsumen televisi di Indonesia dalam bentuk situs internet yang diintegrasikan dengan sosial media (Twiter, facebook dll) serta layanan SMS kepada publik yang memberikan analisis tentang acara televisi, pemantauan konten dan juga berisi panduan bagaimana bisa mengkonsumsi televisi dengan cerdas dan ikut ambil bagian dalam mewujudkan acara-acara televisi yang aman dan ramah terhadap keluarga. Hal ini didasarkan pada tidak adanya (belum ada) lembaga atau situs yang secara khusus melakukan pemantauan terhadap tayangan televisi."
+  lokasi: Jakarta Timur
+  tipe: pantau
+  gambar: /static/img/hibahcmb/173.png
+  link: /hibahcmb/173  
+                                                            
+- nomor: '174'
+  judul: Multimedia Education Server Centre (MESC)
+  deskripsi: |
+      Multimedia Education Server Centre (MESC) merupakan sebuah program yang dibuat untuk memajukan pendidikan serta meningkatkan mutu SDM guru dan masyarakat umum, khususnya orang tua. Dalam proyek MESC dibuat sebuah server yang menyediakan media pembelajaran berbasis multimedia meliputi video, audio, program pembelajaran, dan e-book yang kesemuanya itu berhubungan dengan dunia pendidikan. Materi yang termuat di dalamnya meliputi materi / bahan pembelajaran sekolah yang telah disesuaikan dengan kurikulum yang berlaku, strategi belajar mengajar, psikologi anak dan peserta didik, ilmu pengetahuan umum, keterampilan dan bakat, moral, dan trik pengajaran yang dihimpun dari seluruh penjuru Indonesia yang telah disesuaikan dengan kebutuhan daerah setempat (bersifat umum & kontekstual). Dengan demikian, MESC merupakan server lengkap berbasis web yang menyediakan seluruh kebutuhan dalam dunia pendidikan dari tingkat dasar sampai perguruan tinggi sehingga semua tenaga pengajar tidak mengalami hambatan dalam mencari sumber belajar serta mampu menciptakan proses kegiatan belajar mengajar (KBM) yang inovatif dan efektif serta para orang tua memiliki acuan dan pengetahuan dalam mendidik putra-putrinya menjadi generasi yang lebih baik dan bermanfaat
+  lokasi: Demak, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/174.png
+  link: /hibahcmb/174  
+                                                             
+- nomor: '175'
+  judul: Pembelajaran Online Akademi Virtual bagi Komunitas Berkebutuhan Khusus
+  deskripsi: |
+      Modul-modul pembelajaran ditujukan untuk orangtua, guru, dan terapis serta anak berkebutuhan khusus yang memiliki IQ dibawah rata-rata dan ditas rata-rata; mereka dapat belajar ilmu terapi dan pendampingan serta belajar pembuatan kriya dan multimedia
+  lokasi: Jakarta Selatan, DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/175.png
+  link: /hibahcmb/175   
+                                                              
+- nomor: '176'
+  judul: Mudahnya Akses Informasi untuk Petani
+  deskripsi: |
+      Sebuah proyek yang ditujukan untuk mempermudah akses informasi kapada para petani, khususnya melalui telepon seluler, terutama mengenai pendidikan, pasar hasil pertanian, teknologi pembuatan pupuk organik, sekolah lapangan, akses modal, dan manajemen keuangan
+  lokasi: Pariaman, Sumatera Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/176.png
+  link: /hibahcmb/176 
+                                                               
+- nomor: '177'
+  judul: Visualisasi Informasi Lalulintas Berdasarkan Informasi Berbagi dari Masyarakat dengan menggunakan Semantic Web Teknologi
+  deskripsi: |
+      Sebuah proyek visualisasi informasi dari text ke peta dengan menggunakan semantic web technology untuk mengatasi kelemahan pada penyampaian informasi lalu lintas terkini melalui jaringan sosial, radio atau layanan SMS
+  lokasi: Depok, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/177.png
+  link: /hibahcmb/177  
+
 - nomor: '178'
   judul:  Kantor Berita Difabel
   deskripsi: |
@@ -615,7 +1606,52 @@
   tipe: retas
   gambar: /static/img/hibahcmb/178.png
   link: /hibahcmb/178
-    
+                                                                 
+- nomor: '179'
+  judul: galeritangsel.com
+  deskripsi: |
+      Galeritangsel.com merupakan sebuah media alternatif berbasis komunitas yang berusaha mengangkat potensi Kota Tangerang Selatan melalui pencatatan, penulisan, perekaman, pendokumentasian, produksi konten lokal dan pengarsipan beragam aktifitas gejala sosial dan budaya, serta beragam informasi lainnya, termasuk mengawal kebijakan (policy) pembangunan Kota Tangerang Selatan terutama isu-isu mengenai sosial, politik, budaya dan tata ruang kota di Kota Tangerang Selatan
+  lokasi: Tangerang Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/179.png
+  link: /hibahcmb/179   
+                                                                   
+- nomor: '180'
+  judul: depoklik.com
+  deskripsi: |
+      Sebuah media online yang menyediakan informasi terbaru, akurat, dan menarik seputar Depok
+  lokasi: Jakarta Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/180.png
+  link: /hibahcmb/180 
+                                                                 
+- nomor: '181'
+  judul: Pesantren Online sebagai Media Da’wah Islami
+  deskripsi: |
+      Sebuah proyek pemanfaatan jaringan internet sebagai media pembelajaran online yang berfungsi untuk meningkatkan kualitas intelegensi Santri yang berakidah dan tanggap terhadap perkembangan teknologi komunikasi sehingga dapat meningkatkan keimanan dan pengetahuan para Santri demi memajukan peradaban teknologi umat Islam Indonesia
+  lokasi: Demak, Jawa Tengah
+  tipe: bebas
+  gambar: /static/img/hibahcmb/181.png
+  link: /hibahcmb/181   
+                                                                  
+- nomor: '182'
+  judul: Jaringan Berita Sekolah Online
+  deskripsi: |
+      Sebuah proyek yang didasarkan pada peranan penting suatu media online di masa mendatang, tidak adanya batasan waktu dan tempat untuk mengakses informasi, dan ketepatan waktu (real time) dari suatu informasi
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: retas
+  gambar: /static/img/hibahcmb/182.png
+  link: /hibahcmb/182  
+                                                                    
+- nomor: '183'
+  judul: Menghubungkan Semua Desa se-Kabupaten Blora
+  deskripsi: |
+      Pengembangan SDM di lebih dari 240 desa dengan menghubungkan semua desa se-Kabupaten Blora dengan Wifi (2.4 dan 5.8) untuk komunikasi multimedia dan data kependudukan
+  lokasi: Blora, Jawa Tengah
+  tipe: retas
+  gambar: /static/img/hibahcmb/183.png
+  link: /hibahcmb/183
+  
 - nomor: '184'
   judul:  Bioidea
   deskripsi: |
@@ -2020,6 +3056,15 @@
   tipe: retas
   gambar: /static/img/hibahcmb/333.png
   link: /hibahcmb/333  
+                                                                       
+- nomor: '334'
+  judul: Tombol Lapor Dewan Pers
+  deskripsi: |
+      Dewan Pers akan menyediakan tombol "LaporDewanPers" yang bisa di-embed secara langsung ke situs-situs media di seluruh Indonesia. Mirip dengan tombol Facebook Like.
+  lokasi: Banten
+  tipe: pantau
+  gambar: /static/img/hibahcmb/334.png
+  link: /hibahcmb/334    
        
 - nomor: '335'
   judul:   Batas Kita dan Media
@@ -3834,6 +4879,15 @@
   tipe: adil
   gambar: /static/img/hibahcmb/523.png
   link: /hibahcmb/523
+                                                                         
+- nomor: '524'
+  judul: ReddWatch.ORG - Meliput Hutan Mendorong Transparansi
+  deskripsi: |
+      Pemerintah Indonesia saat ini mengimplementasikan program Reducing Emission from Deforestation and Forest Degration in Developing Country (REDD)+ dan program moratorium penebangan hutan. Sekitar 100 juta hektare hutan akan diselamatkan, sebagai bagian dari program penurunan emisi global. Beberapa proyek percontohan REDD+ di Sumatera dan Kalimantan sedang dikerjakan negara donor, dan komitmen dana hibah miliaran Dolar Amerika sudah disampaikan kepada Indonesia. Di sisi lain, program REDD+ ternyata bermasalah. Penetapan peta moratorium penebangan hutan tanpa tranparansi perizinan, praktik penetapan konsesi hutan yang tertutup, tumpang tindih penggunaan lahan hutan, ketiadaan pengakuan terhadap hak pengelolaan hutan oleh masyarakat adat, dan potensi korupsi dan kolusi yang sangat besar dalam penyaluran dana REDD+ adalah beberapa masalah besar yang dikhawatirkan masyarakat. Tanpa menyelesaikan masalah ini, maka REDD+ berpotensi konflik serta tidak didukung masyarakat. Padahal semua negara donor mensyaratkan REDD+ harus transparan dan didukung oleh masyarakat, terutama yang tinggal di dalam dan sekitar hutan dan tergantung dari kualitas ekosistem hutan. Proyek REDD+ dapat disimpulkan belum menerapkan tata kelola kehutanan yang baik (good forest governance). Jurnalis dapat membantu terwujudnya tata kelola kehutanan yang baik dalam proyek-proyek REDD+, dengan cara meningkatkan mutu pemberitaan melalui training, workshop dan bekerja bersama masyarakat dalam pengelolaan situs berita REDD+ yang independen dan dapat dipercaya.
+  lokasi: Jakarta Utara
+  tipe: retas
+  gambar: /static/img/hibahcmb/524.png
+  link: /hibahcmb/524 
                             
 - nomor: '525'
   judul:    Praktik Churnalism di Media Massa Indonesia
@@ -6443,6 +7497,15 @@
   tipe: adil
   gambar: /static/img/hibahcmb/781.png
   link: /hibahcmb/781
+                                                                      
+- nomor: '782'
+  judul: Guru SD dan SMP mahir membuat animasi pembelajaran
+  deskripsi: |
+      para guru SD dan SMP dilatih mulai dasar hingga mahir tentang pembuatan animasi pembelajaran
+  lokasi: Jawa Barat/Bandung
+  tipe: adil
+  gambar: /static/img/hibahcmb/782.png
+  link: /hibahcmb/782  
              
 - nomor: '783'
   judul:    REVITALISASI 50 RADIO KOMUNITAS ANGGOTA JARINGAN RADIO SUARA PETANI DALAM UPAYA PEMANTAUAN MEDIA PERDESAAN DI JAWA BARAT, MODEL KASUS - KAWASAN PANTURA, JAWA BARAT
@@ -6462,15 +7525,6 @@
   gambar: /static/img/hibahcmb/784.png
   link: /hibahcmb/784
               
-- nomor: '785'
-  judul:    Guru SD dan SMP Mahir Membuat Animasi Pembelajaran
-  deskripsi: |
-      Para guru SD dan SMP dilatih mulai dasar hingga mahir tentang pembuatan animasi pembelajaran.
-  lokasi: Bandung
-  tipe: adil
-  gambar: /static/img/hibahcmb/785.png
-  link: /hibahcmb/785
-                
 - nomor: '786'
   judul:    Kareba Mangkasak - Media Advokasi Kebijakan Berbahasa Makassar
   deskripsi: |
