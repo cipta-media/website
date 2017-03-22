@@ -13,11 +13,14 @@ ICT Watch mengharuskan seluruh penerima hibah melaporkan kegiatan mereka dalam b
 
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
-Penerima hibah	:	**DIMAS PRASETYO MUHARAM (KARTUNET)**
-Periode Laporan	:	**5 Januari 2012 hingga: Desember 2012**
-Proyek	:	**Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
+Penerima hibah	: **DIMAS PRASETYO MUHARAM (KARTUNET)**
 
-1. Pembelajaran
+Periode Laporan	: **5 Januari 2012 hingga: Desember 2012**
+
+Proyek	: **Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
+
+**1. Pembelajaran**
+
 Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
   Satu tahun mendapat dukungan dana hibah dari program Cipta Media Bersama (CMB), memberikan banyak pelajaran bagi kami di Komunitas Kartunet. Perjuangan kami dan rekan-rekan komunitas disabilitas pada tahun 2011 Alhamdulillah membuahkan hasil dengan terpilihnya sebagai 20 penerima hibah CMB.
@@ -216,6 +219,8 @@ Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenan
 Tertanda: Lokasi dan tanggal:
 
 Jakarta, 31 Desember 2012
+
+
 
 
 **Dimas Prasetyo Muharam**
