@@ -47,7 +47,7 @@ Sasaran:
 * D. Memperluas gerakan advokasi HAM berbasis media di tanah Papua dengan berbagai kelompok strategis.
 * E. Melakukan monitoring dan evaluasi (monev) terhadap pelaksanaaan program dan keuangan selama 1 (satu ) tahun.
 
-Latar belakang:
+**Latar belakang:**
 
 **A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media**
 
@@ -69,7 +69,7 @@ Melalui proyek ini juga informasi yang akan disajikan tak hanya berbentuk teks t
 
 5. Belum banyak media online advokasi yang mengintegrasikan ke dalam konsep mobile phone. Mobile phone (HP) sangat penting untuk di integrasikan sebab pada umumnya masyarakat memiliki mobile phone derngan akses jaringan telkomsel yang hampir sebagian besar tersebar di wilayah-wilayah pegunungan (pedalaman) sehingga di harapkan dengan menggunakan konsep ini maka masyarakat dapat dengan mudah mendapatkan informasi terutama informasi advokasi HAM yang terjadi di Tanah Papua. Konsep mobile phone ini akan menggunakan Frontline SMS dan teknologi USHAIDI.
 
-6.Untuk menghadapi masalah-masalah diatas. Kegiatan proyek Aldepe.com akan difokuskan pada produksi berita dalam beragam format yaitu teks, gambar dan video dan fokus dan penyebarannya akan memanfaatkan beragam jenis media mulai dari media online, social media serta mobile phone. Pemanfaatkan berbagai format berita serta pemanfaatan berbagai media ini diharapkan jadi solusi terhadap semua permasalahan di atas. Contohnya masyarakat yang tinggal di daerah terpencil yang tak punya akses internet bisa tetap memdapatkan via mobile phone. Bagi warga yang yang mempunyai tingkat literasi yang rendah bisa mendapatkan informasinya berupa images dan video sementara untuk komunitas internasional bisa mendapatkan informasi dalam bahasa Inggris.
+6. Untuk menghadapi masalah-masalah diatas. Kegiatan proyek Aldepe.com akan difokuskan pada produksi berita dalam beragam format yaitu teks, gambar dan video dan fokus dan penyebarannya akan memanfaatkan beragam jenis media mulai dari media online, social media serta mobile phone. Pemanfaatkan berbagai format berita serta pemanfaatan berbagai media ini diharapkan jadi solusi terhadap semua permasalahan di atas. Contohnya masyarakat yang tinggal di daerah terpencil yang tak punya akses internet bisa tetap memdapatkan via mobile phone. Bagi warga yang yang mempunyai tingkat literasi yang rendah bisa mendapatkan informasinya berupa images dan video sementara untuk komunitas internasional bisa mendapatkan informasi dalam bahasa Inggris.
 
 **C. Keterkaitan pada kategori: Aksi, strategi kreatif**
 
@@ -140,3 +140,17 @@ Proyek aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, M
 **Keadilan sosial**
 
 Sebagai media online altenatif maka setiap orang dapat mengakses dan menggunakan referensi dari media ini untuk kepentingan perimbangan informasi. Selain itu memberikan kesempatan atau peluang seluas-luasnya bagi masyarakat terutama masyarakat kampung untuk memberikan kritik dan saran konstruktif terkait isi dari media online. Hal ini merupakan salah satu cara untuk mengembangkan media yang berbasis komunitas dan menjadi milik semua orang,baik yang ada di perkotaan kota mau pun di perkampungan/pedalaman.
+
+**I. Durasi waktu aktifitas dilaksanakan:**
+
+Januari 2012-Desember 2012
+
+**J. Total kebutuhan dana untuk melakukan aktifitas:**
+
+Rp 943,300,000 ( $110,976,47)
+
+**K. Kontribusi organisasi:**
+
+* Beberapa staf ALDP yang tidak terlibat dalam program ini namun bisa memberikan waktunya untuk membantu program www.aldepe.com misalnya dengan memberikan tulisan/opini atau pun informasi dalam bentuk tulisan terkait dengan advokasi HAM yang telah di lakukan oleh lembaga mau pun koalisi/jaringan HAM.
+* Pemimpin proyek hanya di bayarkan fee (honornya) 50 % dari program ini sedangkan 50 % menjadi kontribusi Lembaga.
+* Kamera dan recorder akan menjadi bagian dari kontribusi lembaga.
