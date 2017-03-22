@@ -14,9 +14,9 @@ date: 2012-08-30 15:00:00 +07:00
 
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
-Penerima hibah	:	Latifah Anum Siregar untuk Aliansi Demokrasi untuk Papua(AlDP)
+Penerima hibah	: **Latifah Anum Siregar** untuk **Aliansi Demokrasi untuk Papua(AlDP)**
 
-Periode Laporan	:	Januari- April 2012
+Periode Laporan	: **Mei - Agustus 2012**
 
 Proyek	        : **Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Telpon Seluler dan Sosial Media**
 
