@@ -3,6 +3,8 @@ title: ALDP - Proposal Lengkap
 date: 2017-03-22 13:23:00 +07:00
 ---
 
+![250px-Aldepe.jpg](/uploads/250px-Aldepe.jpg){: .img-responsive .center-block }
+
 **Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Telpon Seluler dan Sosial Media**
 
 **Organisasi**
@@ -74,9 +76,11 @@ Melalui proyek ini juga informasi yang akan disajikan tak hanya berbentuk teks t
 **C. Keterkaitan pada kategori: Aksi, strategi kreatif**
 
 **Aksi**
+
     Menerobos berbagai halangan informasi soal HAM di Papua. Informasi yang diproduksi aldepe.com tak berhenti hanya sebagai berita an sich. Informasi-informasi ini akan ditindaklanjuti dengan berbagai kegiatan aksi advokasi yang dilakukan oleh AlDP beserta mitra koalisi yang terdiri dari berbagai kelompok civil society di Papua baik itu NGO, kelompok adat, kelompok agama serta masyarakat.
 
 **Strategi kreatif**
+
     Proyek aldepe.com memanfaatkan teknologi informasi untuk memenuhi hak informasi masyarakat Papua sekaligus memanfaatkan teknologi informasi untuk sarana advokasi.
 
 **D. Aktifitas dan keterkaitan pada sasaran**
