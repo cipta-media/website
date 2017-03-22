@@ -238,7 +238,7 @@ Menggunakan media online berupa website dan jejaring sosial sebagai wadah berint
 
 **J. Total kebutuhan dana untuk melakukan aktifitas:**
 
-  USD 27,161.67 ~ Rp. 244.455.000,00
+  **USD 27,161.67 ~ Rp. 244.455.000,00**
 
 **K. Kontribusi organisasi:**
 
