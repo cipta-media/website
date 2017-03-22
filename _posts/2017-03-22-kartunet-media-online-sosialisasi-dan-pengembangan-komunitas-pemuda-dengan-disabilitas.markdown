@@ -3,7 +3,7 @@ title: Kartunet - Proposal Lengkap
 date: 2017-03-22 12:52:00 +07:00
 ---
 
-![Berkas-Kartunet.gif](/uploads/Berkas-Kartunet.gif){: .img-responsive .center-block }
+![250px-Kartunet.gif](/uploads/250px-Kartunet.gif){: .img-responsive .center-block }
 
 **Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
 
@@ -112,75 +112,77 @@ Menggunakan media online berupa website dan jejaring sosial sebagai wadah berint
 * **Kontribusi untuk sasaran A** – Perbaikan kualitas tampilan situs dan frekuensi terbit tulisan.
 
   Aktivitas:
-* Menggunakan jasa web designer profesional untuk memperbaiki tampilan visual dan peningkatan sistem.
+  * Menggunakan jasa web designer profesional untuk memperbaiki tampilan visual dan peningkatan sistem.
 
-* Memberikan insentif untuk tiap naskah kontribusi luar redaksi sebagai stimulus publik, khususnya yang memiliki disabilitas, berpartisipasi dalam penerbitan tulisan. Seperti pada rubrik hidangan cerita yang akan mengangkat seluk-beluk kehidupan penyandang disabilitas melalui karya sastra, opini inklusif yang akan meminta esei opini dari masyarakat dan tokoh-tokoh dunia disabilitas mengenai topik-topik terkait disabilitas, dan gagasan teknologi aksesibel yang unik dan dapat menginspirasi penggiat teknologi untuk partisipasi merealisasikannya.
+  * Memberikan insentif untuk tiap naskah kontribusi luar redaksi sebagai stimulus publik, khususnya yang memiliki disabilitas, berpartisipasi dalam penerbitan tulisan. Seperti pada rubrik hidangan cerita yang akan mengangkat seluk-beluk kehidupan penyandang disabilitas melalui karya sastra, opini inklusif yang akan meminta esei opini dari masyarakat dan tokoh-tokoh dunia disabilitas mengenai topik-topik terkait disabilitas, dan gagasan teknologi aksesibel yang unik dan dapat menginspirasi penggiat teknologi untuk partisipasi merealisasikannya.
 
-* Menggunakan peralatan liputan seperti handycam, kamera foto, dan MP3 recorder. Handycam dan kamera foto akan digunakan oleh redaksi yang berasal dari orang awas atau penyandang disabilitas nonvisual untuk membuat semacam liputan video menyoroti kehidupan penyandang disabilitas lebih dekat. Sedangkan untuk MP3 recorder, akan dijadikan alat bantu reporter, khususnya yang tunanetra, untuk merekam hasil wawancara sebagai pengganti catatan manual. Tentu dalam pembuatan video dan display foto akan dibuat aksesibel bagi penyandang disabilitas. Seperti memberikan caption pada foto, running teks dan suara narator pada saat-saat yang tepat selama video berjalan.
+  * Menggunakan peralatan liputan seperti handycam, kamera foto, dan MP3 recorder. Handycam dan kamera foto akan digunakan oleh redaksi yang berasal dari orang awas atau penyandang disabilitas nonvisual untuk membuat semacam liputan video menyoroti kehidupan penyandang disabilitas lebih dekat. Sedangkan untuk MP3 recorder, akan dijadikan alat bantu reporter, khususnya yang tunanetra, untuk merekam hasil wawancara sebagai pengganti catatan manual. Tentu dalam pembuatan video dan display foto akan dibuat aksesibel bagi penyandang disabilitas. Seperti memberikan caption pada foto, running teks dan suara narator pada saat-saat yang tepat selama video berjalan.
 
 * **Kontribusi untuk sasaran B** – Variasi bentuk konten dengan pembuatan radio online yang disiarkan di situs Kartunet.com.
 
-Aktivitas:
+  Aktivitas:
 
-* Pembuatan radio online di portal Kartunet.com. Siaran diisi dan dikelola oleh komunitas dengan segmen-segmen seperti dialog dengan tokoh inspiratif, sandiwara radio yang diproduksi oleh penyandang disabilitas, dan talkshow bersama komunitas muda dengan disabilitas.
+  * Pembuatan radio online di portal Kartunet.com. Siaran diisi dan dikelola oleh komunitas dengan segmen-segmen seperti dialog dengan tokoh inspiratif, sandiwara radio yang diproduksi oleh penyandang disabilitas, dan talkshow bersama komunitas muda dengan disabilitas.
 
-* Tidak semua anggota komunitas memiliki fasilitas PC atau koneksi internet yang stabil untuk melakukan siaran dari kediaman masing-masing. Oleh karena itu diperlukan tempat khusus di basecamp Kartunet untuk melakukan siaran tersebut. Jadwal penyiar akan diberikan kepada mereka yang punya minat dalam dunia radio. Dengan adanya alat yang mendukung seperti mixer dan jumlah mic yang cukup, mereka dapat kesempatan untuk melatih bakat.
+  * Tidak semua anggota komunitas memiliki fasilitas PC atau koneksi internet yang stabil untuk melakukan siaran dari kediaman masing-masing. Oleh karena itu diperlukan tempat khusus di basecamp Kartunet untuk melakukan siaran tersebut. Jadwal penyiar akan diberikan kepada mereka yang punya minat dalam dunia radio. Dengan adanya alat yang mendukung seperti mixer dan jumlah mic yang cukup, mereka dapat kesempatan untuk melatih bakat.
 
-* Selain itu, tiap bulan diharapkan ada tokoh tamu yang menjadi narasumber dalam program radio. Mereka hadir untuk sharing pengalaman, memberikan motivasi, atau wawancara langsung mengenai topik-topik terkait dunia disabilitas.
+  * Selain itu, tiap bulan diharapkan ada tokoh tamu yang menjadi narasumber dalam program radio. Mereka hadir untuk sharing pengalaman, memberikan motivasi, atau wawancara langsung mengenai topik-topik terkait dunia disabilitas.
 
-* Selanjutnya hasil rekaman tiap program, akan didokumentasikan dalam CD. CD ini akan didistribusikan kepada penyandang disabilitas yang tidak dapat mengakses secara streaming karena fasilitas akses internet yang terbatas. Dapat pula CD ini didistribusikan kepada rekanan jejaring radio komunitas dan konvensional sekiranya mereka tertarik dengan rekaman acara kami dan bersedia untuk memutarnya di radio mereka.
+  * Selanjutnya hasil rekaman tiap program, akan didokumentasikan dalam CD. CD ini akan didistribusikan kepada penyandang disabilitas yang tidak dapat mengakses secara streaming karena fasilitas akses internet yang terbatas. Dapat pula CD ini didistribusikan kepada rekanan jejaring radio komunitas dan konvensional sekiranya mereka tertarik dengan rekaman acara kami dan bersedia untuk memutarnya di radio mereka.
 
 * **Kontribusi untuk sasaran C** - Kampanye program Indonesia Nyaman.
 
-Aktivitas:
+  Aktivitas:
 
-  Kampanye memanfaatkan twitter @kartunet dengan hashtag #IndonesiaNyaman dan sms gateway untuk saling berbagi informasi mengenai tempat-tempat dan fasilitas umum yang dinilai publik sudah atau belum accessible bagi penyandang disabilitas. Sebagai permulaan, lokasi sasaran akan difokuskan di DKI Jakarta
+  * Kampanye memanfaatkan twitter @kartunet dengan hashtag #IndonesiaNyaman dan sms gateway untuk saling berbagi informasi mengenai tempat-tempat dan fasilitas umum yang dinilai publik sudah atau belum accessible bagi penyandang disabilitas. Sebagai permulaan, lokasi sasaran akan difokuskan di DKI Jakarta
 
-* Kategori objek dalam program ini seperti gedung, fasilitas transportasi, web accessibility, pusat perekonomian, dan sarana institusi pendidikan. Laporan data yang didapat akan dipublikasikan di portal Kartunet.com. Sepuluh objek yang memenuhi kriteria dan terpilih oleh publik, akan diberi simbol aksesibilitas (awarding) tiap dua bulan.
+  * Kategori objek dalam program ini seperti gedung, fasilitas transportasi, web accessibility, pusat perekonomian, dan sarana institusi pendidikan. Laporan data yang didapat akan dipublikasikan di portal Kartunet.com. Sepuluh objek yang memenuhi kriteria dan terpilih oleh publik, akan diberi simbol aksesibilitas (awarding) tiap dua bulan.
 
-* Simbol aksesibilitas ini seperti sebuah tanda yang dicetak pada media tahan air seperti plastik keras atau seng yang kemudian dipasang di tempat-tempat terpilih agar masyarakat tahu bahwa tempat yang memiliki simbol tersebut berarti telah lolos uji aksesibilitas oleh tim Indonesia Nyaman. Sedangkan untuk aksesibilitas media digital seperti website, pemasangan simbol hanya berupa penyematan banner image pada website terpilih.
+  * Simbol aksesibilitas ini seperti sebuah tanda yang dicetak pada media tahan air seperti plastik keras atau seng yang kemudian dipasang di tempat-tempat terpilih agar masyarakat tahu bahwa tempat yang memiliki simbol tersebut berarti telah lolos uji aksesibilitas oleh tim Indonesia Nyaman. Sedangkan untuk aksesibilitas media digital seperti website, pemasangan simbol hanya berupa penyematan banner image pada website terpilih.
 
-* Buat objek-objek terpilih juga, tim redaksi Kartunet.com akan meliput secara eksklusif tempat tersebut untuk kemudian artikelnya dipublikasikan di Kartunet.com. Langkah ini dapat lebih memperdalam ulasan objek agar masyarakat lebih paham tentang konsep aksesibilitas dan dapat dijadikan acuan bagi objek-objek lain.
+  * Buat objek-objek terpilih juga, tim redaksi Kartunet.com akan meliput secara eksklusif tempat tersebut untuk kemudian artikelnya dipublikasikan di Kartunet.com. Langkah ini dapat lebih memperdalam ulasan objek agar masyarakat lebih paham tentang konsep aksesibilitas dan dapat dijadikan acuan bagi objek-objek lain.
 
-* Diharapkan program ini mampu meningkatkan pemahaman masyarakat tentang pentingnya aksesibilitas bagi penyandang disabilitas. Selain itu awarding yang diberikan akan jadi kebangaan pihak penerima dan mendorong pihak lain untuk ikut mengakomodasi aksesibilitas.
+  * Diharapkan program ini mampu meningkatkan pemahaman masyarakat tentang pentingnya aksesibilitas bagi penyandang disabilitas. Selain itu awarding yang diberikan akan jadi kebangaan pihak penerima dan mendorong pihak lain untuk ikut mengakomodasi aksesibilitas.
 
 * **Kontribusi untuk sasaran D** - Kompilasi artikel inspiratif dan info seputar disabilitas terpilih dari situs Kartunet.com dalam buku “Kreasi Menginspirasi”.
 
-Aktivitas:
+  Aktivitas:
 
-* Dari artikel-artikel yang sudah diterbitkan oleh redaksi selama satu tahun dipilih beberapa yang terbaik menurut pilihan publik untuk kemudian didokumentasikan dalam bentuk buku. Buku akan diterbitkan bekerja sama dengan nulisbuku.com, sehingga kami tidak perlu mengeluarkan biaya cetak dan calon pembaca yang tertarik dapat order melalui nulisbuku.com.
+  * Dari artikel-artikel yang sudah diterbitkan oleh redaksi selama satu tahun dipilih beberapa yang terbaik menurut pilihan publik untuk kemudian didokumentasikan dalam bentuk buku. Buku akan diterbitkan bekerja sama dengan nulisbuku.com, sehingga kami tidak perlu mengeluarkan biaya cetak dan calon pembaca yang tertarik dapat order melalui nulisbuku.com.
 
-* Di dalam buku ini, secara spesifik akan berisi beberapa profil tokoh inspiratif, artikel mengenai teknologi aksesibel, opini masyarakat mengenai topik-topik disabilitas, diary kaktus yang berisi tata cara dan guideline untuk memperlakukan penyandang disabilitas, serta karya sastra yang mengangkat isu-isu disabilitas. Di samping itu juga akan ada dua penulis tamu dari public figur yang akan memberikan pemikirannya tentang penyandang disabilitas agar lebih mengajak lagi masyarakat untuk peka dan melakukan aksi sosial untuk membantu penyandang disabilitas.
+  * Di dalam buku ini, secara spesifik akan berisi beberapa profil tokoh inspiratif, artikel mengenai teknologi aksesibel, opini masyarakat mengenai topik-topik disabilitas, diary kaktus yang berisi tata cara dan guideline untuk memperlakukan penyandang disabilitas, serta karya sastra yang mengangkat isu-isu disabilitas. Di samping itu juga akan ada dua penulis tamu dari public figur yang akan memberikan pemikirannya tentang penyandang disabilitas agar lebih mengajak lagi masyarakat untuk peka dan melakukan aksi sosial untuk membantu penyandang disabilitas.
 
-* Buku ini diharapkan dapat lebih mendekatkan perihal disabilitas kepada masyarakat. Sehingga demikian, mereka paham bagaimana berinteraksi dengan penyandang disabilitas dan melakukan aksi konkrit untuk berpartisipasi membangun masyarakat inklusif.
+  * Buku ini diharapkan dapat lebih mendekatkan perihal disabilitas kepada masyarakat. Sehingga demikian, mereka paham bagaimana berinteraksi dengan penyandang disabilitas dan melakukan aksi konkrit untuk berpartisipasi membangun masyarakat inklusif.
 
-* Sebagai catatan, program ini baru akan diadakan pada akhir tahun. Jadi semacam book of the year dari Kartunet yang dihimpun dari artikel-artikel yang ditulis oleh redaksi dan pernah diterbitkan sebelumnya di Kartunet.com.
+  * Sebagai catatan, program ini baru akan diadakan pada akhir tahun. Jadi semacam book of the year dari Kartunet yang dihimpun dari artikel-artikel yang ditulis oleh redaksi dan pernah diterbitkan sebelumnya di Kartunet.com.
 
 * **Kontribusi untuk sasaran E** - Kuliah Kartunet via twitter.
 
-Aktivitas:
+  Aktivitas:
 
-* Membuat kuliah tweet interaktif tiap malam di twitter @kartunet dengan hashtag #KulNet. topik-topik yang dibahas sumbernya diambil dari artikel yang dalam pekan itu diterbitkan di Kartunet.com.
+  * Membuat kuliah tweet interaktif tiap malam di twitter @kartunet dengan hashtag #KulNet. topik-topik yang dibahas sumbernya diambil dari artikel yang dalam pekan itu diterbitkan di Kartunet.com.
 
-* Tiap hari topik berbeda. Seperti pada hari Senin ada topik penulisan yang materi dan metode pembelajarannya disesuaikan agar aksesibel . Pada hari senin ada kuliah tweet tentang seni dan olahraga yang aksesibel bagi penyandang disabilitas. Di hari rabu, ada sharing tweet tentang teknologi aksesibel. Di hari Kamis, ada kuliah tweet tentang seluk beluk disabilitas seperti cara yang tepat untuk menuntun tunanetra, etika ketika berbicara dengan tunarungu, atau tentang transportasi yang aksesibel. Pada hari jum’at akan diisi tentang renungan tentang keadaan penyandang disabilitas dengan kisah-kisah yang inspiratif.
+  * Tiap hari topik berbeda. Seperti pada hari Senin ada topik penulisan yang materi dan metode pembelajarannya disesuaikan agar aksesibel . Pada hari senin ada kuliah tweet tentang seni dan olahraga yang aksesibel bagi penyandang disabilitas. Di hari rabu, ada sharing tweet tentang teknologi aksesibel. Di hari Kamis, ada kuliah tweet tentang seluk beluk disabilitas seperti cara yang tepat untuk menuntun tunanetra, etika ketika berbicara dengan tunarungu, atau tentang transportasi yang aksesibel. Pada hari jum’at akan diisi tentang renungan tentang keadaan penyandang disabilitas dengan kisah-kisah yang inspiratif.
 
-* Strategi ini dilakukan untuk lebih memudahkan masyarakat dalam mengkonsumsi info-info seputar disabilitas yang diproduksi oleh situs Kartunet.com. Buat mereka yang tidak sempat untuk membaca full artikel di situs, dapat tetap mengikuti perkembangan isu disabilitas dan belajar bersama dari twitter @Kartunet.
+  * Strategi ini dilakukan untuk lebih memudahkan masyarakat dalam mengkonsumsi info-info seputar disabilitas yang diproduksi oleh situs Kartunet.com. Buat mereka yang tidak sempat untuk membaca full artikel di situs, dapat tetap mengikuti perkembangan isu disabilitas dan belajar bersama dari twitter @Kartunet.
 
 * **Kontribusi untuk sasaran F** - Meningkatnya kemampuan menulis dan akses teknologi para penyandang disabilitas anggota komunitas.
-Aktivitas:
 
-* Membuat kelas-kelas online belajar ilmu penulisan, akses teknologi, atau bahasa asing via forum diskusi Kartunet.com dengan fasilitator-fasilitator berkualitas. Pelatihan yang dilakukan memiliki tujuan utama peningkatan skill pengurus dan anggota komunitas. Materi yang diajarkan seperti pelatihan komputer, social network, penulisan kreatif, jurnalistik, dan blogging.
+  Aktivitas:
 
-* Tiap bulan akan ada sekali pertemuan offline yang mempertemukan langsung komunitas dengan pemateri. Di sini komunitas memerlukan tempat untuk berkumpul yang nyaman dan aksesibel demi menjamin proses belajar. Selain itu, pada saat pelatihan komputer dan menulis kami pun amat memerlukan fasilitas laptop dan internet yang dapat dipakai oleh komunitas secara gratis, terutama mereka yang tidak/belum memiliki laptop. Meski jumlah yang diminta lima unit, fasilitas tersebut sudah cukup untuk dipakai bergantian dalam kelas-kelas kecil pelatihan komputer dan menulis.
+  * Membuat kelas-kelas online belajar ilmu penulisan, akses teknologi, atau bahasa asing via forum diskusi Kartunet.com dengan fasilitator-fasilitator berkualitas. Pelatihan yang dilakukan memiliki tujuan utama peningkatan skill pengurus dan anggota komunitas. Materi yang diajarkan seperti pelatihan komputer, social network, penulisan kreatif, jurnalistik, dan blogging.
+
+  * Tiap bulan akan ada sekali pertemuan offline yang mempertemukan langsung komunitas dengan pemateri. Di sini komunitas memerlukan tempat untuk berkumpul yang nyaman dan aksesibel demi menjamin proses belajar. Selain itu, pada saat pelatihan komputer dan menulis kami pun amat memerlukan fasilitas laptop dan internet yang dapat dipakai oleh komunitas secara gratis, terutama mereka yang tidak/belum memiliki laptop. Meski jumlah yang diminta lima unit, fasilitas tersebut sudah cukup untuk dipakai bergantian dalam kelas-kelas kecil pelatihan komputer dan menulis.
 
 * **Kontribusi untuk sasaran G** -Pelaksanaan proyek Kartunet.com dengan sistem administrasi profesional dan pelaporan keuangan yang transparan.
-Aktivitas:
 
-* Menyewa rumah kantor dengan posisi mudah diakses oleh jalur transportasi untuk mempermudah mobilitas penyandang disabilitas. Rumah ini akan dipakai untuk lokasi kerja redaksi yang nyaman sehingga artikel-artikel yang dihasilkan pun akan optimal. Tak adanya basecamp Kartunet selama ini amat menyulitkan terutama ketika ada rekanan yang ingin berkunjung, atau ada masyarakat yang ingin bertemu langsung untuk mengenal kartunet dan disabilitas lebih jauh. Selain itu, adanya rumah sewaan ini pun akan menjadi tempat bagi komunitas yang ingin belajar penulisan dan internet, baik yang diadakan resmi oleh Kartunet atau sharing sesama anggota komunitas.
+  Aktivitas:
 
-* Menyediakan peralatan berupa laptop yang dilengkapi software pembaca layar dan hotspot internet. Seperti yang sudah dijelaskan pada sasaran F bahwa laptop akan digunakan untuk pelatihan penulisan dan internet bagi komunitas. Untuk tim redaksi, akan digunakan laptop milik pribadi sehingga laptop hibah dapat digunakan sepanjang hari oleh komunitas secara bergantian untuk belajar.
+  * Menyewa rumah kantor dengan posisi mudah diakses oleh jalur transportasi untuk mempermudah mobilitas penyandang disabilitas. Rumah ini akan dipakai untuk lokasi kerja redaksi yang nyaman sehingga artikel-artikel yang dihasilkan pun akan optimal. Tak adanya basecamp Kartunet selama ini amat menyulitkan terutama ketika ada rekanan yang ingin berkunjung, atau ada masyarakat yang ingin bertemu langsung untuk mengenal kartunet dan disabilitas lebih jauh. Selain itu, adanya rumah sewaan ini pun akan menjadi tempat bagi komunitas yang ingin belajar penulisan dan internet, baik yang diadakan resmi oleh Kartunet atau sharing sesama anggota komunitas.
 
-*Mempekerjakan seorang staf awas (tanpa keterbatasan penglihatan) untuk bidang kesekretariatan, administrasi organisasi, dan keuangan.
+  * Menyediakan peralatan berupa laptop yang dilengkapi software pembaca layar dan hotspot internet. Seperti yang sudah dijelaskan pada sasaran F bahwa laptop akan digunakan untuk pelatihan penulisan dan internet bagi komunitas. Untuk tim redaksi, akan digunakan laptop milik pribadi sehingga laptop hibah dapat digunakan sepanjang hari oleh komunitas secara bergantian untuk belajar.
+
+  * Mempekerjakan seorang staf awas (tanpa keterbatasan penglihatan) untuk bidang kesekretariatan, administrasi organisasi, dan keuangan.
 
 **E. Latar belakang dan demografi pelaku proyek**
 

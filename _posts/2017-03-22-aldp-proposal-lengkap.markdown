@@ -77,37 +77,37 @@ Melalui proyek ini juga informasi yang akan disajikan tak hanya berbentuk teks t
 
 **Aksi**
 
-    Menerobos berbagai halangan informasi soal HAM di Papua. Informasi yang diproduksi aldepe.com tak berhenti hanya sebagai berita an sich. Informasi-informasi ini akan ditindaklanjuti dengan berbagai kegiatan aksi advokasi yang dilakukan oleh AlDP beserta mitra koalisi yang terdiri dari berbagai kelompok civil society di Papua baik itu NGO, kelompok adat, kelompok agama serta masyarakat.
+  Menerobos berbagai halangan informasi soal HAM di Papua. Informasi yang diproduksi aldepe.com tak berhenti hanya sebagai berita an sich. Informasi-informasi ini akan ditindaklanjuti dengan berbagai kegiatan aksi advokasi yang dilakukan oleh AlDP beserta mitra koalisi yang terdiri dari berbagai kelompok civil society di Papua baik itu NGO, kelompok adat, kelompok agama serta masyarakat.
 
 **Strategi kreatif**
 
-    Proyek aldepe.com memanfaatkan teknologi informasi untuk memenuhi hak informasi masyarakat Papua sekaligus memanfaatkan teknologi informasi untuk sarana advokasi.
+  Proyek aldepe.com memanfaatkan teknologi informasi untuk memenuhi hak informasi masyarakat Papua sekaligus memanfaatkan teknologi informasi untuk sarana advokasi.
 
 **D. Aktifitas dan keterkaitan pada sasaran**
 
 * **Kontribusi untuk sasaran A** – Memperbaiki penampilan dan meningkatkan kapasitas website www.aldepe.com.
 
-    Aktivitas:
+   Aktivitas:
 Melakukan redesign tampilan visual www.aldepe.com dan penambahan feature-feature untuk informasi berbentuk teks, gambar serta video, mengintegrasikan social media, mobile phone dalam website aldepe.com serta penambahan kapasitas server.
 
 * **Kontribusi untuk sasaran B** – Meningkatkan jumlah liputan dan investigasi yang terdiri dari liputan harian, liputan dan liputan daerah terhadap peristiwa HAM(Ecosob dan Sipol).
 
-    Aktivitas:
+   Aktivitas:
 Melakukan Peliputan yang terdiri dari peliputan harian, peliputan khusus dan liputan investigasi bulanan.
 
 * **Kontribusi untuk sasaran C** - Melipatgandakan jumlah pembaca di dalam dan luar negeri termasuk di wilayah pedalaman Papua melalui media sosial,media online dan mobile phone.
 
-    Aktivitas:
+   Aktivitas:
 Diseminasi informasi melalui tiga media: social media, online serta mobile phone. Diseminasi informasi ini ditujukan bagi masyarakat di dalam dan luar negeri yang melek teknologi dan juga warga Papua yang selama ini tak bisa mengakses informasi. Khusus untuk pembaca luar negeri, sebagian item informasi ini akan diterjemahkan kedalam bahasa Inggris. Sementara itu, untuk pembaca di wilayah pedalaman, penyebaran informasi via mobile phone akan menjadi kunci. Proyek ini akan memproduksi teks berita pendek sebanyak 160 karakter, gambar serta video yang ramah buat teknologi mobile phone.
 
 * **Kontribusi untuk sasaran D** - Memperluas gerakan advokasi HAM berbasis media di tanah Papua dengan berbagai kelompok strategis.
 
-Aktivitas:
+  Aktivitas:
 Melakukan penulisan dan launching buku liputan investigasi proyek aldepe.com. Buku ini akan jadi dokumen HAM yang akan digunakan sebagai alat kampanye kepada berbagai pihak termasuk para pemangku kepentingan lokal maupun nasional.
 
 * **Kontribusi untuk sasaran E** - Adanya monitoring dan evaluasi (monev) terhadap pelaksanaaan program dan keuangan selama 1 (satu ) tahun .
 
-    Aktivitas:
+  Aktivitas:
 Proses monitoring dan evaluasi terhadap proyek ini akan dilakukan setiap bulan. Tujuannya untuk memastikan bahwa sasaran dan tujuan yang telah ditetapkan bisa dicapai. Pertemuan ini membahas atau mereview pelaksanaan program dan pelaporan keuangan. Di akhir program juga akan dilakukan audit keuangan oleh auditor independen.
 
 **E. Latar belakang dan demografi pelaku proyek**
