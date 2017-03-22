@@ -1,10 +1,11 @@
 ---
-title: 'Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan
-  Disabilitas'
+title: Kartunet - Proposal Lengkap
 date: 2017-03-22 12:52:00 +07:00
 ---
 
-![250px-Kartunet.gif](/uploads/250px-Kartunet.gif){: .img-responsive .center-block }
+![Berkas-Kartunet.gif](/uploads/Berkas-Kartunet.gif){: .img-responsive .center-block }
+
+**Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
 
 **Organisasi**
 
@@ -40,6 +41,7 @@ date: 2017-03-22 12:52:00 +07:00
   4. Meningkatnya kepekaan dan pemahaman masyarakat terhadap penyandang disabilitas dan isu-isu tentang disabilitas.
 
 **Sasaran**
+
   A. Perbaikan kualitas tampilan website dan frekuensi terbit tulisan hingga rata-rata 7 tulisan tiap hari di portal Kartunet.com.
 
   B. Variasi bentuk konten dengan pembuatan radio online yang disiarkan di situs Kartunet.com.
