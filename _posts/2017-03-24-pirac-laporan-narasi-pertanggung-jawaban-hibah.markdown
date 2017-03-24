@@ -75,19 +75,19 @@ Studi kasus dilakukan di 6 wilayah anggota JRKI (Jogjakarta, Jawa Barat, NTB, Ja
 
   Beberapa aspek yang dikaji dan didokumentasikan dalam studi kasus:
 
-    1. Penyampaian organisasi dan tools fundraising radio komunitas
+  1. Penyampaian organisasi dan tools fundraising radio komunitas
 
-    2. Identifikasi, pengelolaan dan perawatan mitra dan donatur radio komunitas
+  2. Identifikasi, pengelolaan dan perawatan mitra dan donatur radio komunitas
 
-    3. On air fundraising: Fundraising menggunakan media siaran (ILM, jingle, talkshow, penjualan spece, live event, dll)
+  3. On air fundraising: Fundraising menggunakan media siaran (ILM, jingle, talkshow, penjualan spece, live event, dll)
 
-    4. Penggalangan sumbangan dan iuran dari masyarakat
+  4. Penggalangan sumbangan dan iuran dari masyarakat
 
-    5. Strategi kemitraan dengan perusahaan, pemerintah dan institusi lainnya
+  5. Strategi kemitraan dengan perusahaan, pemerintah dan institusi lainnya
 
-    6. Pengelolaan event untuk fundraising
+  6. Pengelolaan event untuk fundraising
 
-    7. Pengembangan unit usaha untuk fundraising
+  7. Pengembangan unit usaha untuk fundraising
 
 **Dinamika dan hambatan**
 
@@ -203,13 +203,13 @@ Studi kasus dilakukan di 6 wilayah anggota JRKI (Jogjakarta, Jawa Barat, NTB, Ja
 
   Perencanaan FGD Modul pelatihan:
 
-    1. FGD ke 1 : Mapping praktek fundraising rakom (sudah dilaksanakan 4 Januari 2013)
+  1. FGD ke 1 : Mapping praktek fundraising rakom (sudah dilaksanakan 4 Januari 2013)
     
-    2. FGD ke 2 : Merumuskan materi-materi Pelatihan dan narasumber Akan dilaksanakan tgl 17 Januari 2013
+  2. FGD ke 2 : Merumuskan materi-materi Pelatihan dan narasumber Akan dilaksanakan tgl 17 Januari 2013
  
-    3. FGD ke 3 : Merumuskan metode dan alur pelatihan Akan dilaksanakan tgl 7 Februari 2013
+  3. FGD ke 3 : Merumuskan metode dan alur pelatihan Akan dilaksanakan tgl 7 Februari 2013
   
-    4. FGD ke 4 : Finalisasi kurikulum dan kepesertaan Akan dilaksnakanan tgl 15 Februari 2013
+  4. FGD ke 4 : Finalisasi kurikulum dan kepesertaan Akan dilaksnakanan tgl 15 Februari 2013
 
 **Tindak lanjut**
 
@@ -245,4 +245,5 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 
   * Jumlah akses tertinggi tertinggi pada September 2012 dengan jumlah Hits 39.758, atau rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
-![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013.png){: .img-responsive .center-block }
+
+![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-7a9edb.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-7a9edb.png) {: .img-responsive .center-block }
