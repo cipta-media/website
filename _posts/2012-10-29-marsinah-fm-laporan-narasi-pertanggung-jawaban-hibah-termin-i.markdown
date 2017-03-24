@@ -115,19 +115,19 @@ Aktifitas dan isu yang anda atasi
 
 3. Indikator sukses anda dalam permohonan hibah
 
-A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
+ A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
 
-B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
+ B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
 
 Indikator keberhasilan:
 
-A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
+ A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
 
-B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
+ B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
 
-C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
+ C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
 
-D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
+ D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
 
 Hasil aktual hingga laporan ini dibuat
 
@@ -163,15 +163,15 @@ Hasil aktual hingga laporan ini dibuat
 
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai
 
-A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
+  A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
 
-B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
+  B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
 
-C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
+  C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
 
-D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
+  D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
 
-E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
+  E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
 
 Tujuan yang berhasil dicapai hingga saat ini
 
