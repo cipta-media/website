@@ -110,3 +110,14 @@ Tujuan yang berhasil dicapai hingga saat ini:
 * D. Adanya Respon positif pemerintah daerah khususnya Pemkab Sarolangun terhadap masalah kesehatan dan pendidikan Orang Rimba
 * E. Program siaran radio dengan tema Kaboron Esen dipagi hari terkait perkembangan harga komuditi karet dan sembako.
 * F. Bergabungnya beberapa Orang Rimba menjadi anggota Koperasi Kembang Bungo di kelompok Kedundung Muda dan menyediakan sembako yang lebih murah dengan harga yang kompetitif.
+
+**5. Perubahan Lingkup Organisasi/Lingkungan Sekitar**
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+* Terjadi perubahan struktur organisasi di Warsi dengan menjadikan pengelolaan Radio Benor FM menjadi satu unit tersendiri.
+* Telah terjadi perubahan status radio dari Lembaga Penyiaran Komunitas (LPK) menjadi Lembaga Penyiaran Swasta (LPS) untuk mendapatkan wilayah siar yang lebih luas untuk menjangkau kelompok sasaran yang tersebar dengan jarak yang cukup berjauhan.
+Keterlibatan Orang Rimba pada toke untuk mendapatkan sembako berkurang dengan adanya koperasi yang menyediakan sembako dengan harga yang kompetitif.
+* Akses Orang Rimba kepada fasilitas umum (pendidikan, kesehatan dan pelayanan publik lainnya) jauh lebih terbuka dan diterima.
+* Adanya sarana komunikasi yang cukup efektif antara Orang Rimba, warga sekitar, dan pemerintahan.
+* Interaksi antara warga desa dengan Orang Rimba lebih intens dan lebih dekat karena kunjungan warga desa ke studio menjadi sarana interaksi yang cukup efektif. Hal ini juga terlihat saat dilakukannya kegiatan perlombaan dan adu ketangkasan antara warga desa dan Orang Rimba dalam rangka memperingati hari Sumpah Pemuda di sekitar Studio dan kantor lapangan KKI WARSI.
