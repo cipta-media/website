@@ -119,16 +119,20 @@
       </div>
       <div class="col-md-4">
         <h1>Perkembangan Proyek</h1>
-        <!--
-        {% for post in site.categories['Berita'] %}
+
+        {% capture judul %}
+          {{ page.title }}
+        {% endcapture %}
+        
+        {% for post in site.categories['laporan'] %}
+        
             <a href="{{ post.url }}" class="btn-link">
-                <h4>
-                    {{ post.title }}
-                </h4>
+                <h4>{{ post.title }}</h4>
             </a>
+        
         {% endfor %}
-        -->
-      </div>
+    
+    </div>
   </div>
 
 </div>
