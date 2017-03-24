@@ -131,11 +131,11 @@ Penulisan buku ini dimaksudkan untuk memberikan panduan praktis bagi pengelola m
 
   1. Penyusunan Modul Pelatihan Fundraising & Social Entrepreneur bagi Pengelola Media Komunitas
 
-Penyusunan modul ini merupakan tahapan awal dalam pengembangan kapasitas pengelola media komunitas. Modul disusun berdasarkan hasil studi yang dilakukan PIRAC dan diperkaya dengan berbagai referensi mengenai pengalaman organisasi di luar negeri yang berhasil menggalang dana untuk keberlanjutan media komunitas. Penyusunan modul pelatihan dilakukan melalui beberapa tahapan: studi literatur, diskusi terbatas, lokakarya modul, uji coba modul, pencetakan modul.
+  Penyusunan modul ini merupakan tahapan awal dalam pengembangan kapasitas pengelola media komunitas. Modul disusun berdasarkan hasil studi yang dilakukan PIRAC dan diperkaya dengan berbagai referensi mengenai pengalaman organisasi di luar negeri yang berhasil menggalang dana untuk keberlanjutan media komunitas. Penyusunan modul pelatihan dilakukan melalui beberapa tahapan: studi literatur, diskusi terbatas, lokakarya modul, uji coba modul, pencetakan modul.
 
   2. Pelatihan fundraising dan social enterpreuner untuk pengelola media komunitas
 
-Pelatihan dilakukan dalam rangka untuk uji coba modul serta memberikan pemahaman dan keterampilan praktis bagi pengelola media dalam melakukan aktivitas penggalangan dana dan mengembangkan bisnis berorienntasi sosial. Pelatihan ini bertujuan untuk membuka wawasan para pengurus dan staf media komunitas mengenai strategi dan metode penggalangan dana, terutama yang bersumber dari sumber dana lokal. Proses dan hasil pelatihan akan didokumentasikan dan diproduksi dalam bentuk digital untuk disebarkan kepada pegiat media komunitas yang membutuhkan melalui forum belajar bersama daring.
+  Pelatihan dilakukan dalam rangka untuk uji coba modul serta memberikan pemahaman dan keterampilan praktis bagi pengelola media dalam melakukan aktivitas penggalangan dana dan mengembangkan bisnis berorienntasi sosial. Pelatihan ini bertujuan untuk membuka wawasan para pengurus dan staf media komunitas mengenai strategi dan metode penggalangan dana, terutama yang bersumber dari sumber dana lokal. Proses dan hasil pelatihan akan didokumentasikan dan diproduksi dalam bentuk digital untuk disebarkan kepada pegiat media komunitas yang membutuhkan melalui forum belajar bersama daring.
 
 * **Kontribusi untuk sasaran E** – Tersedianya forum belajar bersama untuk berbagi pengalaman, ide/gagasan, mengembangkan jaringan dan praktek bersama dalam mobilisasi sumberdaya untuk keberlanjutan media komunitas.
 
