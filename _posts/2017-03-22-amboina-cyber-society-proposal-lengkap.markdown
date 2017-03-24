@@ -68,3 +68,29 @@ Oleh karena itu, proyek ini akan lebih banyak diarahkan pada upaya memampukan ma
 Proses kreatif yang dibangun melalui pelatihan-pelatihan yang pada akhirnya menghasilkan masyarakat yang mampu menyediakan akses murah dan terjangkau bagi diri dan komunitasnya dengan mengkreasikan infrastruktur sederhana dan murah kiranya dapat menjadi model yang bisa direplikasi oleh berbagai kalangan di berbagai daerah.
 
 Amboina Cyber Society ditujukan untuk mengatasi masalah tersebut di atas akan menjadi satu cerita sukses sekaligus cikal-bakal kampanye “Keadilan dan Kesetaraan Akses terhadap Media”, melalui jalan-jalan kreatif berbasis masyarakat, tentu dengan optimisme yang tinggi bahwa semua komponen masyarakat di berbagai pulau lain akan mampu melakukan hal yang sama untuk memenuhi kebutuhan akses terhadap informasi.
+
+* B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+
+Terbatasnya akses pada media informs yang hanya bisa dijangkau oleh kalangan masyarakat tertentu dan di wilayah tertentu karena kelangkaan infrastruktur teknologi informasi serta terbatasnya kemampuan masyarakat untuk menyediakan sendiri jalan-jalan alternatif yang kreatif terkait pemenuhan kebutuhan berbagi informasi.
+
+* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+
+**Konten Lokal**
+
+Pelatihan untuk meningkatkan kemampuan masyarakat untuk bisa mengkreasi dan memanfaatkan infrastruktur sederhana yang memungkinkan masyarakat untuk terhubung dan berbagi informasi akan berdampak pada lahirnya berbagai konten lokal yang dimediasi dalam portal website yang bisa diakses secara intranet (offline) dan internet (online).
+
+**Kemitraan**
+
+Proyek Amboina Cyber Society sejak awal telah dirancang dengan memperhatikan hubungan kemitraan yang mutual dengan pemerintah (pendidikan dan kepariwisataan), swasta (UKM), komunitas-komunitas basis orang muda (blogger Maluku, Malukupedia, Gunung Mimpi, Kali Hidup, dsb.), komunitas-komunitas basis agamais (Angkatan Muda Gereja Protestan Maluku, Muda-mudi Katolik, Remaja Mesjid di kota Ambon), dan kelompok-kelompok masyarakat yang lain.
+
+**Strategi kreatif**
+
+Keterkaitan pada ketegori ini terletak pada upaya melatih masyarakat untuk secara kreatif menciptakan infrastruktur teknologi informasi yang murah dan sederhana namun bermanfaat untuk memenuhi kebutuhan akses terhadap informasi melalui tindakan berbagi informasi antar individu maupun komunitas.
+
+**Aksi**
+
+Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berkontribusi kepada pelaksanaan proyek Amboina Cyber Society untuk pelatihan kreasi infrastruktur sederhana, pelatihan guna peningkatan kemampuan memanfaatkan teknologi yang tepat guna dan turut berkontribusi bagi penyediaan konten lokal pada portal media informasi.
+
+**Teknologi Tepat Guna**
+
+Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
