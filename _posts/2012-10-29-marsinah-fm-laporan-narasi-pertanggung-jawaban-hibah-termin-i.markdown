@@ -51,6 +51,7 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
       * Program siaran belum bisa sepenuhnya berdasar pada rapat redaksi. Perlu mekanisme yang lebih informal sebagai pendukung rapat. Koordinasi dan komunikasi harian banyak membantu menyiapkan rencana siaran. Pengurus utama perlu siap tiap saat menampung aspirasi spontan, sambil mengarahkan pada mekanisme rapat redaksi.
 
+
   4. Mengenalkan radio dan mendapatkan pendengar
 
      Pembelajaran:
@@ -72,6 +73,7 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
      Pembelajaran:
 
      * Mendapat keberanian perempuan korban bicara tentang masalah yang dihadapi di acara siaran radio, masih sangat sulit. Maka dibuat bentuk lain, bahwa kisah pelanggaran hak yang dialami atau diadukan kepada kru pengelola radio dan FBLP, diangkat dalam acara siaran. Sudah ada pengaduan dan dibuat pembelaan sebisanya untuk kasus KDRT, perkosaan dan pelecehan, selain tentang pelanggaran hak perburuhan.
+
 
   7. Membangun publikasi dan jaringan radio di luar komunitas
 
