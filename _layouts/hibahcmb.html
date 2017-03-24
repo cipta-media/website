@@ -119,19 +119,15 @@
       </div>
       <div class="col-md-4">
         <h1>Perkembangan Proyek</h1>
-
-        {% capture judul %}
-          {{ page.title }}
-        {% endcapture %}
-        
-        {% for post in site.categories['laporan'] %}
-        {% if site.categories == judul %}
+        <!--
+        {% for post in site.categories['Berita'] %}
             <a href="{{ post.url }}" class="btn-link">
-                <h4>{{ post.title }}</h4>
+                <h4>
+                    {{ post.title }}
+                </h4>
             </a>
-        {% endif %}
         {% endfor %}
-       
+        -->
       </div>
   </div>
 
