@@ -245,5 +245,4 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 
   * Jumlah akses tertinggi tertinggi pada September 2012 dengan jumlah Hits 39.758, atau rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
-
-![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-7a9edb.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-7a9edb.png) {: .img-responsive .center-block }
+![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png){: .img-responsive .center-block }
