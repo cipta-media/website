@@ -115,19 +115,19 @@ Aktifitas dan isu yang anda atasi
 
 3. Indikator sukses anda dalam permohonan hibah
 
- A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
+   A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
 
- B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
+   B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
 
 Indikator keberhasilan:
 
- A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
+   A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
 
- B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
+   B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
 
- C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
+   C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
 
- D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
+   D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
 
 Hasil aktual hingga laporan ini dibuat
 
@@ -163,27 +163,27 @@ Hasil aktual hingga laporan ini dibuat
 
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai
 
-  A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
+   A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
 
-  B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
+   B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
 
-  C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
+   C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
 
-  D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
+   D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
 
-  E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
+   E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
 
 Tujuan yang berhasil dicapai hingga saat ini
 
-  * Tempat dan peralatan radio hingga memungkinkan siaran sudah tersedia, dan program siaran mulai berjalan sejak 21 April 2012, sebagai Radio Buruh Perempuan Marsinah 106 FM –dari perempuan buruh untuk kesejahteraan dan kesetaraan- di Jalan Tipar Selatan XII No. 9 Semper Barat Cilincing Jakarta Utara
+   * Tempat dan peralatan radio hingga memungkinkan siaran sudah tersedia, dan program siaran mulai berjalan sejak 21 April 2012, sebagai Radio Buruh Perempuan Marsinah 106 FM –dari perempuan buruh untuk kesejahteraan dan kesetaraan- di Jalan Tipar Selatan XII No. 9 Semper Barat Cilincing Jakarta Utara
 
-  * Berjalan program siaran untuk informasi dan pengetahuan tentang diri dan hak perempuan buruh, berupa: Acara Siaran “HAK & HUKUM” (talkshow dwi mingguan) dan Acara Siaran “CERMIN” (talkshow dwi mingguan); untuk inspirasi dari tokoh perempuan, berupa Acara Siaran “PEREMPUAN PELITA” (pembacaan kisah mingguan); untuk rumah tangga, anak dan lingkungan, berupa Acara Siaran “RUMAH” (siaran interaktif mingguan); untuk informasi kekinian di luar perburuhan, berupa Acara Siaran “Dunia Luas” (info selingan) dan Acara Siaran “PAGIII..” (saling sapa dan informasi umum harian); untuk mendorong dan mewadahi keberanian buruh perempuan bicara, berekspresi, dan mengadukan masalah, berupa: Acara Siaran “ANDAI SAJA” (siaran interaktif mingguan), Acara Siaran “CERITAKU” (siaran interaktif mingguan), Acara Siaran “UNION” (talkshow dwi mingguan), Acara Siaran “LAYAR’ (pembacaan sastra dua kali seminggu), Acara Siaran “OLAH RAGA” dan beberapa acara siaran musik interaktif mingguan (“DANGDUT ASYIK”, “TEMBANG KENANGAN”, “K-POP”, “BOLYWOOD HITS”, “LAGU NUSANTARA”, “KARAOKE DANGDUT”, “NYANYIAN MELAYU”)
+   * Berjalan program siaran untuk informasi dan pengetahuan tentang diri dan hak perempuan buruh, berupa: Acara Siaran “HAK & HUKUM” (talkshow dwi mingguan) dan Acara Siaran “CERMIN” (talkshow dwi mingguan); untuk inspirasi dari tokoh perempuan, berupa Acara Siaran “PEREMPUAN PELITA” (pembacaan kisah mingguan); untuk rumah tangga, anak dan lingkungan, berupa Acara Siaran “RUMAH” (siaran interaktif mingguan); untuk informasi kekinian di luar perburuhan, berupa Acara Siaran “Dunia Luas” (info selingan) dan Acara Siaran “PAGIII..” (saling sapa dan informasi umum harian); untuk mendorong dan mewadahi keberanian buruh perempuan bicara, berekspresi, dan mengadukan masalah, berupa: Acara Siaran “ANDAI SAJA” (siaran interaktif mingguan), Acara Siaran “CERITAKU” (siaran interaktif mingguan), Acara Siaran “UNION” (talkshow dwi mingguan), Acara Siaran “LAYAR’ (pembacaan sastra dua kali seminggu), Acara Siaran “OLAH RAGA” dan beberapa acara siaran musik interaktif mingguan (“DANGDUT ASYIK”, “TEMBANG KENANGAN”, “K-POP”, “BOLYWOOD HITS”, “LAGU NUSANTARA”, “KARAOKE DANGDUT”, “NYANYIAN MELAYU”)
 
-  * Peningkatan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan dijalankan melalui: Pendidikan dan Pelatihan Jurnalistik, Pendidikan Kesetaraan, Fokus Group Discussion dan diskusi-diskusi.
+   * Peningkatan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan dijalankan melalui: Pendidikan dan Pelatihan Jurnalistik, Pendidikan Kesetaraan, Fokus Group Discussion dan diskusi-diskusi.
 
-  * Upaya membangun kerja bersama diantara buruh perempuan untuk keberlanjutan Radio Buruh Perempuan, dijalankan dengan membuat program off-air berupa: Keakraban Kru dan Pendengar, Diskusi Terbuka “CERMIN”, pendaftaran terbuka sebagai pengelola, dan dengan sosialisasi terus menerus tentang Radio Buruh Perempuan MARSINAH 106 FM kepada buruh perempuan dan dan masyarakat luas. Kegiatan tersebut diharapkan bisa memperkuat dan menambah dukungan untuk terus memajukan MARSINAH FM.
+   * Upaya membangun kerja bersama diantara buruh perempuan untuk keberlanjutan Radio Buruh Perempuan, dijalankan dengan membuat program off-air berupa: Keakraban Kru dan Pendengar, Diskusi Terbuka “CERMIN”, pendaftaran terbuka sebagai pengelola, dan dengan sosialisasi terus menerus tentang Radio Buruh Perempuan MARSINAH 106 FM kepada buruh perempuan dan dan masyarakat luas. Kegiatan tersebut diharapkan bisa memperkuat dan menambah dukungan untuk terus memajukan MARSINAH FM.
 
-  * Transparansi berjalannya program dilakukan dengan publikasi di media sosial, juga melalui laporan dan publikasi cipta media
+   * Transparansi berjalannya program dilakukan dengan publikasi di media sosial, juga melalui laporan dan publikasi cipta media
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
