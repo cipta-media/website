@@ -125,23 +125,64 @@
         {% if page.title == 'AKUMASSA.ORG' %}
         
             {% for post in site.categories['AKUMASSA.ORG'] %}
-
                 <a href="{{ post.url }}" class="btn-link">
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
-
             {% endfor %}
         
         {% elsif page.title == 'Amboina Cyber Society' %}
         
             {% for post in site.categories['Amboina Cyber Society'] %}
-
                 <a href="{{ post.url }}" class="btn-link">
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
-
+            {% endfor %}
+        
+        {% elsif page.title == 'Video untuk Perdamaian' %}
+        
+            {% for post in site.categories['Video untuk Perdamaian'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Hpku-Teman Belajarku' %}
+        
+            {% for post in site.categories['Hpku-Teman Belajarku'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh' %}
+        
+            {% for post in site.categories['Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Next Generation – Media Watch & Literacy' %}
+        
+            {% for post in site.categories['Next Generation – Media Watch & Literacy'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
+        
+            {% for post in site.categories['Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
             {% endfor %}
         
         {% endif %}
