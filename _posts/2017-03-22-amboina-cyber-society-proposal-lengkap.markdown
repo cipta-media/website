@@ -80,49 +80,49 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
 
     Pelatihan untuk meningkatkan kemampuan masyarakat untuk bisa mengkreasi dan memanfaatkan infrastruktur sederhana yang memungkinkan masyarakat untuk terhubung dan berbagi informasi akan berdampak pada lahirnya berbagai konten lokal yang dimediasi dalam portal website yang bisa diakses secara intranet (offline) dan internet (online).
 
-**Kemitraan**
+    **Kemitraan**
 
-Proyek Amboina Cyber Society sejak awal telah dirancang dengan memperhatikan hubungan kemitraan yang mutual dengan pemerintah (pendidikan dan kepariwisataan), swasta (UKM), komunitas-komunitas basis orang muda (blogger Maluku, Malukupedia, Gunung Mimpi, Kali Hidup, dsb.), komunitas-komunitas basis agamais (Angkatan Muda Gereja Protestan Maluku, Muda-mudi Katolik, Remaja Mesjid di kota Ambon), dan kelompok-kelompok masyarakat yang lain.
+    Proyek Amboina Cyber Society sejak awal telah dirancang dengan memperhatikan hubungan kemitraan yang mutual dengan pemerintah (pendidikan dan kepariwisataan), swasta (UKM), komunitas-komunitas basis orang muda (blogger Maluku, Malukupedia, Gunung Mimpi, Kali Hidup, dsb.), komunitas-komunitas basis agamais (Angkatan Muda Gereja Protestan Maluku, Muda-mudi Katolik, Remaja Mesjid di kota Ambon), dan kelompok-kelompok masyarakat yang lain.
 
-**Strategi kreatif**
+    **Strategi kreatif**
 
-Keterkaitan pada ketegori ini terletak pada upaya melatih masyarakat untuk secara kreatif menciptakan infrastruktur teknologi informasi yang murah dan sederhana namun bermanfaat untuk memenuhi kebutuhan akses terhadap informasi melalui tindakan berbagi informasi antar individu maupun komunitas.
+    Keterkaitan pada ketegori ini terletak pada upaya melatih masyarakat untuk secara kreatif menciptakan infrastruktur teknologi informasi yang murah dan sederhana namun bermanfaat untuk memenuhi kebutuhan akses terhadap informasi melalui tindakan berbagi informasi antar individu maupun komunitas.
 
-**Aksi**
+    **Aksi**
 
-Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berkontribusi kepada pelaksanaan proyek Amboina Cyber Society untuk pelatihan kreasi infrastruktur sederhana, pelatihan guna peningkatan kemampuan memanfaatkan teknologi yang tepat guna dan turut berkontribusi bagi penyediaan konten lokal pada portal media informasi.
+    Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berkontribusi kepada pelaksanaan proyek Amboina Cyber Society untuk pelatihan kreasi infrastruktur sederhana, pelatihan guna peningkatan kemampuan memanfaatkan teknologi yang tepat guna dan turut berkontribusi bagi penyediaan konten lokal pada portal media informasi.
 
-**Teknologi Tepat Guna**
+    **Teknologi Tepat Guna**
 
-Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
+    Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
 
 * D. Aktifitas dan keterkaitan pada sasaran
 
-* **Kontribusi untuk sasaran A** – Melakukan pelatihan-pelatihan kepada kelompok-kelompok masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless.
+    **Kontribusi untuk sasaran A** – Melakukan pelatihan-pelatihan kepada kelompok-kelompok masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless.
 
   Aktivitas:
 
 1. Melatih 600 orang dari berbagai komunitas masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless yang dibuat secara kreatif dan ekonomis.
 2. Melatih 600 orang dari berbagai komunitas masyarakat untuk menggunakan dan merawat jaringan komputer berbasis wireless.
 
-* **Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
+    **Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
 
-Aktivitas:
+    Aktivitas:
 
 1. Membangun 1 portal website pada server lokal yang dioperasikan secara intranet.
 2. Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
 3. Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
 
-* **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
+    **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
 
-Aktivitas:
+    Aktivitas:
 
 1. Menduplikasi portal website dari server lokal ke hosting server.
 2. Memperbaharui konten website pada hosting server berdasarkan konten yang tersedia pada server lokal.
 
-* **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
+    **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
 
-Aktivitas:
+    Aktivitas:
 
 1. Melakukan monitoring dan evaluasi terhadap pelaksanaan proyek Amboina Cyber Society
 2. Merancangkan rencana tindak lanjut berdasarkan hasil monitoring dan evaluasi.
@@ -130,17 +130,17 @@ Aktivitas:
 
 * E. Latar belakang dan demografi pelaku proyek
 
-**Pemimpin proyek**
+    **Pemimpin proyek**
 
-Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan komunikasi sebagai konsultan dan content developper kurang lebih 4 tahun di Maluku.
+    Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan komunikasi sebagai konsultan dan content developper kurang lebih 4 tahun di Maluku.
 
-**Pelaku Proyek**
+    **Pelaku Proyek**
 
-Orang-orang muda dari berbagai komunitas di kota Ambon dan dari berbagai latar belakang agama dan disiplin ilmu dengan rentang usia dari 22 sampai 47 tahun.
+    Orang-orang muda dari berbagai komunitas di kota Ambon dan dari berbagai latar belakang agama dan disiplin ilmu dengan rentang usia dari 22 sampai 47 tahun.
 
 * F. Demografik kelompok target
 
-Kelompok masyarakat yang sampai hari ini belum bisa mengakses media informasi, khususnya komunitas-komunitas basis orang muda, dan komunitas-komunitas agamais.
+    Kelompok masyarakat yang sampai hari ini belum bisa mengakses media informasi, khususnya komunitas-komunitas basis orang muda, dan komunitas-komunitas agamais.
 
 * G. Hasil yang diharapkan dan indikator keberhasilan
 
@@ -148,8 +148,38 @@ Kelompok masyarakat yang sampai hari ini belum bisa mengakses media informasi, k
 2. Masyarakat dapat memiliki pengetahuan dan keterampilan untuk mengakses internet.
 3. Masyarakat memiliki kemampuan untuk menggunakan dan merawat infrastruktur jaringan komputer berbasis wireless.
 
-Indikator keberhasilan:
+    Indikator keberhasilan:
 1. Terbangunnya infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di Pulau Ambon.
 2. Terdapat 50 % dari 600 peserta pelatihan memiliki kemampuan membuat infrastruktur jaringan komputer berbasis wireless.
 3. Masyarakat berbagi informasi melalui infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di pulau Ambon.
 Orang-orang yang terlatih bersedia secara sukarela untuk berbagi dan melatih orang lain.
+
+* H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
+
+    **Perbaikan media**
+
+    Portal website yang tersedia dan bisa diakses secara intranet maupun internet untuk berbagi informasi dan sebagai media untuk saling memverifikasi kebenaran informasi tertentu. Hal ini tentu berkaitan dengan kondisi kota dan pulau Ambon akhir-akhir ini dan selanjutnya dapat memediasi perjumpaan lintas
+Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengimbangi konten media mainstream yang lebih banyak berbicara tentang hal-hal namun sedikit sekali yang berkaitan langsung dengan kebutuhan masyarakat.
+
+    **Keadilan sosial**
+
+    Proyek ini secara sederhana bertujuan untuk memampukan masyarakat dalam hal membuat dan memanfaatkan teknologi tepat guna untuk berbagi informasi melalui pelatihan-pelatihan bagi masyarakat untuk secara kreatif dapat menciptakan jalan-jalan alternatif untuk pemenuhan kebutuhan akses terhadap informasi.
+
+* I. Durasi waktu aktifitas dilaksanakan:
+
+    20 Januari 2012 – 19 Januari 2013 (1 tahun) dan seterusnya akan membiayai diri sendiri dengan mengupayakan strategi kreatif
+
+* J. Total kebutuhan dana untuk melakukan aktifitas:
+
+    **USD 20.771,76 ~ Rp. 176.560.000,-**
+
+* K. Kontribusi organisasi:
+
+1. Perkumpulan Maluku Satu Media tidak dibayar untuk mendukung pelaksanaan proyek Amboina Cyber Society
+2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
+
+* L. Kontribusi dari kelompok target:
+* Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
+* Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
+Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
+* Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
