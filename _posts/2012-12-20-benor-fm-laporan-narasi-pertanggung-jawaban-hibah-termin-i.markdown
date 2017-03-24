@@ -1,6 +1,6 @@
 ---
 title: Benor FM - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2017-03-24 14:39:00 +07:00
+date: 2012-12-20 14:39:00 +07:00
 ---
 
 **KKI Warsi**
@@ -16,7 +16,7 @@ Penerima hibah	   :	**KKI WARSI /ANDI AGUSTANIS**
 
 Periode Laporan	   :	**3 Januari 2012 hingga 20 Desember 2012**
 
-Proyek	           :	**Benor FM**
+Proyek	            :	**Benor FM**
 
 **1. Pembelajaran**
 
@@ -121,3 +121,40 @@ Keterlibatan Orang Rimba pada toke untuk mendapatkan sembako berkurang dengan ad
 * Akses Orang Rimba kepada fasilitas umum (pendidikan, kesehatan dan pelayanan publik lainnya) jauh lebih terbuka dan diterima.
 * Adanya sarana komunikasi yang cukup efektif antara Orang Rimba, warga sekitar, dan pemerintahan.
 * Interaksi antara warga desa dengan Orang Rimba lebih intens dan lebih dekat karena kunjungan warga desa ke studio menjadi sarana interaksi yang cukup efektif. Hal ini juga terlihat saat dilakukannya kegiatan perlombaan dan adu ketangkasan antara warga desa dan Orang Rimba dalam rangka memperingati hari Sumpah Pemuda di sekitar Studio dan kantor lapangan KKI WARSI.
+
+**Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+  Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
+
+* Telah terjadi perubahan penanggung jawab pengelolaan radio Benor FM dari Program Komunikasi Informasi ke Proyek B-12 yang juga menyebabkan terjadi perubahan staf pengelolaan
+* Kebutuhan yang belum teridentifikasi sebelumnya adalah jangkauan siaran yang masih terbatas. Sedangkan sebaran komunitas sangat luas, terutama yang tinggal di kawasan Utara dan Timur TNBD.
+* Di level kebijakan Keputusan Menteri Komunikasi dan Informasi yang membatasi jangkauan siaran radio klasifikasi C hanya 12 km.
+* Benturan budaya malu yang ada pada Orang Rimba bila berhadapan dengan warga masyarakat umum masih sangat tinggi.
+* Intensitas pendengar pada kelompok Orang Rimba dapat mengalami penurunan sebagai akibat dari budaya Melangun.
+
+**6. Keberagaman**
+
+  Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+Tuliskan tantangan perbedaan budaya antara komunitas Orang Rimba dengan masyarakat umum:
+
+1. Adanya larangan adat pada anak perempuan dan perempuan Orang Rimba untuk berkomunikasi dengan orang luar (warga desa).
+2. Budaya sumbang pada pemahaman Orang Rimba apabila laki-laki dan perempuan berada dalam satu tempat membatasi interaksi mereka dengan warga desa.
+3. Penggunaan bahasa oleh kader penyiar rimba (bahasa rimba) masihkurang dipahami oleh pendengar lainnya (suku Jawa, Medan, Padang dan Palembang).
+
+**7. Laporan keuangan**
+
+  Silahkan masukkan pranala laporan keuangan anda disini:
+
+  http://www.ciptamedia.org/wiki/Benor_FM/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+
+  Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jambi, 20 Desember 2012
+
+
+Andi Agustanis
