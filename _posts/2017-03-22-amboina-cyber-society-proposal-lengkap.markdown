@@ -137,3 +137,19 @@ Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan kom
 **Pelaku Proyek**
 
 Orang-orang muda dari berbagai komunitas di kota Ambon dan dari berbagai latar belakang agama dan disiplin ilmu dengan rentang usia dari 22 sampai 47 tahun.
+
+* F. Demografik kelompok target
+
+Kelompok masyarakat yang sampai hari ini belum bisa mengakses media informasi, khususnya komunitas-komunitas basis orang muda, dan komunitas-komunitas agamais.
+
+* G. Hasil yang diharapkan dan indikator keberhasilan
+
+1. Masyarakat memiliki kemampuan untuk membuat infrastruktur jaringan komputer berbasis wireless secara kreatif dan ekonomis.
+2. Masyarakat dapat memiliki pengetahuan dan keterampilan untuk mengakses internet.
+3. Masyarakat memiliki kemampuan untuk menggunakan dan merawat infrastruktur jaringan komputer berbasis wireless.
+
+Indikator keberhasilan:
+1. Terbangunnya infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di Pulau Ambon.
+2. Terdapat 50 % dari 600 peserta pelatihan memiliki kemampuan membuat infrastruktur jaringan komputer berbasis wireless.
+3. Masyarakat berbagi informasi melalui infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di pulau Ambon.
+Orang-orang yang terlatih bersedia secara sukarela untuk berbagi dan melatih orang lain.
