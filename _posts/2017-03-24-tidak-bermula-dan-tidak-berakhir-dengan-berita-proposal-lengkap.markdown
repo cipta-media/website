@@ -3,7 +3,7 @@ title: Tidak Bermula Dan Tidak Berakhir Dengan Berita - Proposal Lengkap
 date: 2017-03-24 17:55:00 +07:00
 ---
 
-![250px-Tidak_Bermula_(Dan_Tidak_Berakhir)_Dengan_Berita.jpg](/uploads/250px-Tidak_Bermula_(Dan_Tidak_Berakhir)_Dengan_Berita.jpg){: .img-responsive .center-block }
+![250px-TBTBD.jpg](/uploads/250px-TBTBD.jpg){: .img-responsive .center-block }
 
 **Dibalik Frekuensi**
 
@@ -177,6 +177,7 @@ Januari 2012 – Desember 2012 (12 bulan)
 **L. Sumber dana lainnya (bila ada):**
 
 **Gambar Bergerak**
+
   Rp. 20.250.000,-
 
 **M. Kontribusi organisasi:**
