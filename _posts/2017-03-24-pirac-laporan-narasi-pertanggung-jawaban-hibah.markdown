@@ -245,4 +245,59 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 
   * Jumlah akses tertinggi tertinggi pada September 2012 dengan jumlah Hits 39.758, atau rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
-![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png){: .img-responsive .center-block }
+![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-d01cd2.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-d01cd2.png){: .img-responsive .center-block }
+ 
+
+ * Dari laporan statistik ini, terlihat bahwa sejak web ini Online Agustus 2012, melihatkan data kunjungan yang terus meningkat. Dimana hits (jumlah permintaan akses ke server) tertinggi berada pada September 2012 dengan jumlah Hits 39.758. Dengan rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
+
+ * Jumlah halaman yang diakses (pageview) di Bulan September 2012 hanya 279 halaman per hari dan 8393 halaman selama bulan September 2012. Sementara jika dilihat kunjungan berdasarkan negara terlihat 62 persen tidak terdekteksi negara pengunjung, dikarenakan perangkat yang digunakan untuk mengakses web ini tidak terverifikasi. Sementara kunjungan dari Indonesia sebanyak 16 persen, US 12 persen, Itali 2 persen dan Thailand 1 persen, dan lainnya.
+
+![325px-Situs_Web_Fundraising_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_Sept_2012.png){: .img-responsive .center-block }
+
+![325px-Situs_Web_Fundraising_pipa_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_pipa_Sept_2012.png){: .img-responsive .center-block }
+
+Setelah kunjungan terbesar di bulan September 2012, kunjungan di bulan Desember 2012 berada pada jumlah hits kedua terbanyak, yaitu: 31010 Hits, dengan 1000 hits/per hari dan jumlah kunjungan per hari 196 orang atau 6099 orang selama bulan Desember 2012 tersebut. Namun jumlah halaman yang diakses selama Desember 2012 lebih banyak ketimbang di bulan September 2012. Di mana di bulan Desember 2012 sebanyak 398 per hari dan untuk selama Desember 2012 sebanyak 12364 halaman. Sangat berbeda jauh dengan jumlah kunjungan di bulan September 2012, yang hanya 8393 halaman selama bulan September 2012.
+
+![375px-Situs_Web_Fundraising_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_Des_2012.png){: .img-responsive .center-block }
+
+![375px-Situs_Web_Fundraising_pipa_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_pipa_Des_2012.png){: .img-responsive .center-block }
+
+Dari gambaran statistik di atas dapat disimpulkan :
+
+ 1. Jumlah kunjungan Web FundraisingMedia.info terus meningkat.
+ 
+ 2. Jumlah ketertarikkan untuk mengkases halaman semakin meningkat dan tidak tergantung dengan jumlah permintaan akses ke server yang terkadang hanya sekedar klik saja. Artinya semakin menarik artikel semakin berlama-lama pengunjung untuk mengakses halaman demi halaman.
+
+ 3. Pengunjung web FundraisingMedia.info beragam negara, tetapi pengunjung Indonesia tetap yang mayoritas.
+
+**Dinamika dan hambatan**
+
+Kesulitan mencari bahan mengenai fundraising rakom yang sangat spesifik •	Pengisian web masih dilakukan oleh PIRAC dan belum ada kontribusi dari JRKI maupun pengelola rakom •	Pengelola rakom anggota JRKI maupun non anggota JRKI belum berbagi pengetahuan dan pengalaman fundraisingnya via web tersebut •	Informasi web belum menjadi bahan diskusi, masih sebatas bahan bacaan dan referensi
+
+**Tindak lanjut**
+
+  * Koordinasi dengan JRKI untuk mendorong keaktifan pengelola rakom untuk sharing pengetahuan dan pengalamannya
+
+  * Sharing info web ke forum yang lebih luas melalui milist dan media sosial
+
+**Laporan keuangan**
+
+**Capaian**
+
+  1. Dari penerimaan dana hibah termin pertama sejumlah Rp. 473.064.548 ($ 49.646), yang sudah digunakan Rp 371.706.100 ($ 39.048) atau 79%.
+
+  2. Masih ada beberapa kegiatan awal yang belum dipertanggungjawabkan karena masih dalam proses pelaksanaan oleh mitra seperti
+
+   1. Riset pemetaan dan dokumentasi Beragam Sumber Daya & strategi Pendanaan dan Keberlanjutan Media Komunitas
+
+   2. Studi kasus model dan strategi mobilisasi sumber daya untuk media komunitas di Indonesia dan Penerbitan hasil penelitian.
+
+**Dinamika dan hambatan**
+
+* Proses laporan wiki bersifat manual sehingga butuh ketelitian dan waktu lama
+
+* Laporan keuangan dan bukti-bukti dari mitra (JRKI) belum diterima karena perlu pemahaman dan penyuasian system keuangan
+
+**Tindak lanjut**
+
+* Segera melengkapi bukti-bukti keuangan & mengauploade data keuangan ke wiki ciptamedia

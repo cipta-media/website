@@ -13,7 +13,9 @@ Wikimedia Indonesia mengharuskan seluruh penerima hibah melaporkan kegiatan mere
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
 Penerima hibah	    :	**KKI WARSI /ANDI AGUSTANIS**
+
 Periode Laporan	    :	**21 Desember 2012 hingga 9 April 2014**
+
 Proyek	            :	**Banir FM**
 
 **1. Pembelajaran**
