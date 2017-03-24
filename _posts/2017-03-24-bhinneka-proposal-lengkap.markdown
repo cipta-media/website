@@ -120,3 +120,29 @@ d. Aktifitas dan keterkaitan pada sasaran
     2. Ruang untuk membangun toleransi dan pola berpikir kritis dengan menggunakan testimoni pengguna forum yang telah merasakan manfaat langsung dari diskusi online dan harapan timbulnya ide-ide maupun informasi menarik dari forum diskusi. Menggunakan wawancara dengan pengguna forum yang merasakan manfaat diskusi secara langsung. 
     3. Kader untuk mempromosikan keberagaman (promotor) 
     4. Kader untuk merekrut (rekruiter)
+
+  * Kontribusi untuk sasaran C - Memberi pelatihan serta bimbingan belajar gratis kepada remaja serta anak-anak yang tidak mampu.
+
+  Aktivitas:
+
+  Pelatihan menulis akan diberikan kepada remaja dan mahasiswa. Bimbingan belajar akan diberikan kepada anak-anak di Surabaya Selatan, yang telah diidentifikasi sebagai daerah kurang mampu. Bimbingan belajar diberikan selain untuk membantu pelajaran sekolah, juga untuk membuat mereka berpikir lebih kritis dan menerima keberagaman.
+
+    REVISI
+    --DITIADAKAN-- 
+
+  * Kontribusi untuk sasaran D - Melakukan advokasi bersama, serta merekrut koordinator-koordinator di beberapa kota.
+
+  Aktivitas:
+
+  Memperkenalkan proyek lembaga Bhinneka dengan mengadakan safari dari kota ke kota. Safari ini akan menyebarkan brosur tentang pentingnya keberagaman di Indonesia. Mengadakan pertemuan yang mendiskusikan keberagaman di masing-masing kota dan mendorong mereka untuk membentuk organisasi yang mendukung wacana keberagaman, kemudian bisa membangun jaringan dengan organisasi-organisasi lainnya.
+
+    PENAJAMAN: 
+    Kampanye dan pendalaman wacana keberagaman melalui forum-forum Facebook binaan Lembaga Bhinneka
+    Sub Aktivitas dengan penerima manfaat langsung Khalayak umum pengguna internetpembaca situs bhineka & pengikut facebook/ twitter?
+    Tidak langsung asumsi khalayak umum. 
+    Subaktivitas 1: Sekolah Manunggaling Rakyat (Semar) - Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif di Jawa Timur dengan tujuan untuk kaderisasi untuk mempromosikan keberagaman (promotor). Penerima manfaat langsung: pemuda dan  
+masyarakat di kampung yang berkomitmen untuk membangun wilayah tempat tinggal mereka. Dipilih mereka yang aktif di RT, Karang Taruna atau organisasi lokal untuk lebih memberdayakan masyarakat lewat isu pruralisme. Penerima manfaat tidak langsung: masyarakat di wilayah wilayah mereka tinggal (desa-desa Jatim). 
+    Subaktivitas 2: Pelatihan mahasiswa di Surabaya dengan Tema: Keberagaman dan pengaruh fundamentalisme yang menyebar serta strategi untuk menghadapinya. Tujuan mendapatkan kader untuk mempromosikan keberagaman (promotor). 
+    Penerima manfaat langsung dan tidak langsung adalah mahasiswa dari kampus kampus di Surabaya (Unair, Adi Buana dan UBAYA). 
+Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme, serta kegiatan mahasiswa itu di kampus mereka dalam mempromosikan keberagaman. Evaluasi berupa laporan dari peserta pelatihan.
+
