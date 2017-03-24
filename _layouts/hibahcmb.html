@@ -120,18 +120,19 @@
       <div class="col-md-4">
         <h1>Perkembangan Proyek</h1>
 
-        {% capture judul %}
-          {{ page.title }}
-        {% endcapture %}
+        {% if page.title == 'AKUMASSA.ORG' %}
         
-        {% for post in site.categories['laporan'] %}
+        {% for post in site.categories['AKUMASSA.ORG'] %}
         
             <a href="{{ post.url }}" class="btn-link">
-                <h4>{{ post.title }}</h4>
+                <h3>{{ post.title }}</h3>
             </a>
+            <hr>
         
         {% endfor %}
     
+        {% endif %}
+        
     </div>
   </div>
 
