@@ -124,15 +124,26 @@
 
         {% if page.title == 'AKUMASSA.ORG' %}
         
-        {% for post in site.categories['AKUMASSA.ORG'] %}
+            {% for post in site.categories['AKUMASSA.ORG'] %}
+
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+
+            {% endfor %}
         
-            <a href="{{ post.url }}" class="btn-link">
-                <h3>{{ post.title }}</h3>
-            </a>
-            <hr>
+        {% elsif page.title == 'Amboina Cyber Society' %}
         
-        {% endfor %}
-    
+            {% for post in site.categories['Amboina Cyber Society'] %}
+
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+
+            {% endfor %}
+        
         {% endif %}
         
     </div>
