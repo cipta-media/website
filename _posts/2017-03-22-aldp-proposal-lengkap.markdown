@@ -34,7 +34,7 @@ Jayapura
 
 **Deskripsi Proyek**
 
-Tujuan:
+**Tujuan:**
 * a. Meluasnya informasi HAM berbasis media di Papua yang akurat, mendalam dan kontinyu.
 * b. Dilakukannya peliputan dan investigasi peristiwa HAM(Ekosob dan Sipol)
 * c. Di integrasikannya media sosial, media online dan mobile Phone untuk meningkatkan advokasi HAM
@@ -42,7 +42,7 @@ Tujuan:
 * e. Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis demi terciptanya Papua tanah damai.
 * f. Adanya monitoring dan evaluasi program dan manajemen kelembagaan
 
-Sasaran:
+**Sasaran:**
 * A. Memperbaiki penampilan dan kapasitas website www.aldepe.com.
 * B. Meningkatkan jumlah peliputan dan investigasi yang terdiri dari liputan harian,liputan khusus dan liputan daerah terhadap peristiwa HAM(Sipol dan Ecosob).
 * C. Melipatgandakan jumlah pembaca di dalam dan luar negeri termasuk di wilayah pedalaman Papua melalui media sosial,media online dan mobile phone.
