@@ -89,89 +89,88 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
 
-    * Tidak tersedianya media yang langsung berpihak pada buruh perempuan di Semper Jakarta Utara sebagai advokasi untuk seluruh bentuk diskriminasi, pelecehan, serangan dan pelanggaran hak buruh perempuan, baik di jalanan, di rumah maupun tempat kerja.
+* Tidak tersedianya media yang langsung berpihak pada buruh perempuan di Semper Jakarta Utara sebagai advokasi untuk seluruh bentuk diskriminasi, pelecehan, serangan dan pelanggaran hak buruh perempuan, baik di jalanan, di rumah maupun tempat kerja.
 
-    * Medium diperlukan untuk 100 ribu buruh yang masih kesulitan dan ketakutan untuk berani mengadu, apalagi menuntut keadilan.
+* Medium diperlukan untuk 100 ribu buruh yang masih kesulitan dan ketakutan untuk berani mengadu, apalagi menuntut keadilan.
 
-    * Medium yang aktif memberi informasi dan pengetahuan, membangun keberanian dan menjadi pembela di antara buruh perempuan, yang sebenarnya berhak merasa aman bekerja malam hari (lembur)
+* Medium yang aktif memberi informasi dan pengetahuan, membangun keberanian dan menjadi pembela di antara buruh perempuan, yang sebenarnya berhak merasa aman bekerja malam hari (lembur)
 
-    * Tidak tersedianya media untuk buruh perempuan menjadi berdaya membela hak-haknya.
+* Tidak tersedianya media untuk buruh perempuan menjadi berdaya membela hak-haknya.
 
-    * Mendirikan radio komunitas buruh perempuan di kawasan kerja dan hunian buruh, untuk meluaskan kampanye tentang hak dan kesetaraan perempuan, sekaligus memajukan keberanian di kalangan buruh perempuan menghadapi segala bentuk serangan dan diskriminasi.
+* Mendirikan radio komunitas buruh perempuan di kawasan kerja dan hunian buruh, untuk meluaskan kampanye tentang hak dan kesetaraan perempuan, sekaligus memajukan keberanian di kalangan buruh perempuan menghadapi segala bentuk serangan dan diskriminasi.
 
 Aktifitas dan isu yang anda atasi
 
-    * Mendirikan radio komunitas buruh perempuan di Semper Barat Jakarta Utara
+* Mendirikan radio komunitas buruh perempuan di Semper Barat Jakarta Utara
 
-    * Membuat program siaran radio yang memberi informasi dan pengetahuan bagi buruh perempuan; tentang hak, aturan hukum, pengalaman juang perempuan, sekaligus dengan acara hiburan.
+* Membuat program siaran radio yang memberi informasi dan pengetahuan bagi buruh perempuan; tentang hak, aturan hukum, pengalaman juang perempuan, sekaligus dengan acara hiburan.
+* Membuat program non-siaran berupa diskusi, pemutaran film dan pendidikan yang terbuka bagi buruh KBN Cakung, tentang persoalan buruh perempuan.
 
-    * Membuat program non-siaran berupa diskusi, pemutaran film dan pendidikan yang terbuka bagi buruh KBN Cakung, tentang persoalan buruh perempuan.
+* Membuat dan mengikuti pendidikan-pelatihan tentang kesetaraan jender dan pembelaan terhadap perempuan korban.
 
-    * Membuat dan mengikuti pendidikan-pelatihan tentang kesetaraan jender dan pembelaan terhadap perempuan korban.
+* Membuat sekretariat radio yang menjadi tempat berkumpul, berisitirahat, saling bicara, diskusi dan tempat mengadu persoalan bagi buruh perempuan
 
-    * Membuat sekretariat radio yang menjadi tempat berkumpul, berisitirahat, saling bicara, diskusi dan tempat mengadu persoalan bagi buruh perempuan
+* Membuat pembelaan terhadap perempuan korban kekerasan, dengan memberi dukungan kepada korban dan memprotes pelaku atau penangung jawab tindak kekerasan.
 
-    * Membuat pembelaan terhadap perempuan korban kekerasan, dengan memberi dukungan kepada korban dan memprotes pelaku atau penangung jawab tindak kekerasan.
+**3. Indikator sukses anda dalam permohonan hibah**
 
-3. Indikator sukses anda dalam permohonan hibah
+A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
 
-    A. Berjalannya Radio Buruh Perempuan yang mampu memberikan informasi untuk buruh perempuan memahami kesetaraan dan hak-haknya sebagai perempuan.
+B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
 
-    B. Berjalannya radio yang memberikan keberanian bagi buruh perempuan berbicara tentang hak dan kesetaraan.
+Indikator keberhasilan:
 
-    Indikator keberhasilan:
+A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
 
-    A. Banyaknya tanggapan pada acara-acara siaran Radio Buruh Perempuan.
+B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
 
-    B. Pengaduan melalui Kotak SMS diikuti 15 orang setiap minggu pada empat bulan pertama, 30 orang pada empat bulan kedua, dan 50 pada empat bulan ketiga.
+C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
 
-    C. Terbentuknya komunitas Radio Buruh Perempuan yang rutin melakukan pertemuan yang dihadiri minimal 50 orang
+D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
 
-    D. Terdapat minimal 30 buruh perempuan yang menjadi bagian pengelola Radio Buruh Perempuan
+Hasil aktual hingga laporan ini dibuat
 
-  Hasil aktual hingga laporan ini dibuat
+* Sejak Februari 2012 Marsinah FM mulai mengudara, dan resmi dilaunching tanggal 21 April 2012. Sejak awal hingga September 2012, program siaran bertema kesetaraan adalah:
 
-    * Sejak Februari 2012 Marsinah FM mulai mengudara, dan resmi dilaunching tanggal 21 April 2012. Sejak awal hingga September 2012, program siaran bertema kesetaraan adalah:
+* CERMIN, talkshow dua mingguan, setiap hari Jumat pukul 19.00 s/d 20.00 WIB. Berjalan delapan (8) kali. Tanggapan pendengar dalam bentuk SMS, antara dua-tiga SMS.
 
-     * CERMIN, talkshow dua mingguan, setiap hari Jumat pukul 19.00 s/d 20.00 WIB. Berjalan delapan (8) kali. Tanggapan pendengar dalam bentuk SMS, antara dua-tiga SMS.
+* HAK & HUKUM, talkshow dua mingguan, setiap hari Jumat pukul 19.00 s/d 20.00 WIB (selang seling dengan CERMIN). Berjalan lima (5) kali. Tanggapan pendengar dengan SMS, antara tiga-empat SMS.
 
-     * HAK & HUKUM, talkshow dua mingguan, setiap hari Jumat pukul 19.00 s/d 20.00 WIB (selang seling dengan CERMIN). Berjalan lima (5) kali. Tanggapan pendengar dengan SMS, antara tiga-empat SMS.
+* PEREMPUAN PELITA, pembacaan mingguan, setiap hari Kamis pukul 19.00 s/d 20.00 WIB. Berjalan enam belas (16) kali.
 
-     * PEREMPUAN PELITA, pembacaan mingguan, setiap hari Kamis pukul 19.00 s/d 20.00 WIB. Berjalan enam belas (16) kali.
+* CERITAKU, siaran interaktif mingguan, setiap hari Selasa pukul 19.00 s/d 20.00 WIB. Berjalan empat (4) kali. Tanggapan pendengar dengan SMS, antara empat-lima SMS.
 
-     * CERITAKU, siaran interaktif mingguan, setiap hari Selasa pukul 19.00 s/d 20.00 WIB. Berjalan empat (4) kali. Tanggapan pendengar dengan SMS, antara empat-lima SMS.
+* LAYAR, pembacaan sastra, setiap hari Rabu pukul 19.00 s/d 20.00 WIB, sejak Agustus jam tayang ditambah setiap Sabtu pukul 19.00 s/d 20.00 WIB. Berjalan pembacaan puisi dua kali, pembacaan cerpen dua kali, sandiwara radio lima kali, dan pembacaan novel Bumi Manusia (hingga selesai 33 kali). Pembacaan puisi dan cerpen dilakukan langsung (live), sandiwara radio berupa pemutaran CD produksi lembaga lain, sedangkan pembacaan Bumi Manusia dengan rekaman dan produksi sendiri.
 
-     * LAYAR, pembacaan sastra, setiap hari Rabu pukul 19.00 s/d 20.00 WIB, sejak Agustus jam tayang ditambah setiap Sabtu pukul 19.00 s/d 20.00 WIB. Berjalan pembacaan puisi dua kali, pembacaan cerpen dua kali, sandiwara radio lima kali, dan pembacaan novel Bumi Manusia (hingga selesai 33 kali). Pembacaan puisi dan cerpen dilakukan langsung (live), sandiwara radio berupa pemutaran CD produksi lembaga lain, sedangkan pembacaan Bumi Manusia dengan rekaman dan produksi sendiri.
+* Di luar program siaran, tema kesetaraan juga dijalankan dengan program Diskusi Publik ‘CERMIN’. Program Diskusi Publik bulanan ini baru berjalan tiga kali, dengan peserta antara 30 – 50 orang.
 
-    * Di luar program siaran, tema kesetaraan juga dijalankan dengan program Diskusi Publik ‘CERMIN’. Program Diskusi Publik bulanan ini baru berjalan tiga kali, dengan peserta antara 30 – 50 orang.
-
-    * Program siaran berjalan sejak awal adalah: ‘Pagii..!’, ‘Cermin’, ‘Hak & Hukum’, ‘Andai Saja’, ‘Perempuan Pelita’, ‘Rumah’, ‘Layar’, ‘Union’ dan siaran bebas dengan lagu dan info-info.
+* Program siaran berjalan sejak awal adalah: ‘Pagii..!’, ‘Cermin’, ‘Hak & Hukum’, ‘Andai Saja’, ‘Perempuan Pelita’, ‘Rumah’, ‘Layar’, ‘Union’ dan siaran bebas dengan lagu dan info-info.
   
-    * Program siaran bertambah seiring waktu dan penambahan kru radio, hingga sekarang juga berjalan program siaran: ‘Tembang Kenangan’, ‘Dangdut Asyik’, ‘Ceritaku’, KPOP, ‘Bollywood Hits’, ‘Lagu Nusantara’, ‘Anti Galau’, ‘Karaoke Dangdut’ dan acara selingan berupa ‘Pidato Rakyat untuk Rakyat’, serta ‘Asia Calling’ yang bekerja sama dengan Radio 68 H.
+* Program siaran bertambah seiring waktu dan penambahan kru radio, hingga sekarang juga berjalan program siaran: ‘Tembang Kenangan’, ‘Dangdut Asyik’, ‘Ceritaku’, KPOP, ‘Bollywood Hits’, ‘Lagu Nusantara’, ‘Anti Galau’, ‘Karaoke Dangdut’ dan acara selingan berupa ‘Pidato Rakyat untuk Rakyat’, serta ‘Asia Calling’ yang bekerja sama dengan Radio 68 H.
 
-    * Pada acara talkshow (pada program ‘Cermin’, ‘Hak & Hukum’ dan ‘Union’), masih sedikit buruh perempuan KBN Cakung untuk berani sebagai pembicara, sehingga lebih banyak pembicara dari luar. Dari acara talkshow berjumlah 20 kali (hingga September 2012), nara sumber dari buruh KBN Cakung adalah lima (5) perempuan dan tiga (3) laki-laki. Sementara pembicara dari luar KBN Cakung berjumlah 10 perempuan (dari organisasi perempuan, buruh dan kesehatan), dan 8 laki-laki (dari organisasi buruh)
+* Pada acara talkshow (pada program ‘Cermin’, ‘Hak & Hukum’ dan ‘Union’), masih sedikit buruh perempuan KBN Cakung untuk berani sebagai pembicara, sehingga lebih banyak pembicara dari luar. Dari acara talkshow berjumlah 20 kali (hingga September 2012), nara sumber dari buruh KBN Cakung adalah lima (5) perempuan dan tiga (3) laki-laki. Sementara pembicara dari luar KBN Cakung berjumlah 10 perempuan (dari organisasi perempuan, buruh dan kesehatan), dan 8 laki-laki (dari organisasi buruh)
 
-    * Terdapat 23 (dua puluh tiga) pengelola aktif radio
+* Terdapat 23 (dua puluh tiga) pengelola aktif radio
 
-    * Tanggapan pendengar terhadap siaran radio, dalam satu minggu minimal 35 sms dan telpon. Lebih banyak sms untuk program musik/lagu.
+* Tanggapan pendengar terhadap siaran radio, dalam satu minggu minimal 35 sms dan telpon. Lebih banyak sms untuk program musik/lagu.
 
-    * Pertemuan komunitas terjadwal sudah berjalan dua kali, diikuti 50 orang dan 30 orang.
+* Pertemuan komunitas terjadwal sudah berjalan dua kali, diikuti 50 orang dan 30 orang.
 
-    * Program Kotak SMS belum berjalan, baru akan berjalan di November 2012. Pengaduan dari perempuan korban berjalan di luar program siaran, juga dilakukan pembelaan secara langsung. Karena banyak dan berat, kerjasama penanganan kasus sedang dilakukan dengan melibatkan organisasi lain dan pihak kepolisian.
+* Program Kotak SMS belum berjalan, baru akan berjalan di November 2012. Pengaduan dari perempuan korban berjalan di luar program siaran, juga dilakukan pembelaan secara langsung. Karena banyak dan berat, kerjasama penanganan kasus sedang dilakukan dengan melibatkan organisasi lain dan pihak kepolisian.
 
-4. Tujuan dan Sasaran
+**4. Tujuan dan Sasaran**
 
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai
 
-    A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
+A. Menyediakan tempat, peralatan, kelengkapan radio komunitas Buruh Perempuan, dan memperkenalkan keberadaan dan program siaran Radio Buruh Perempuan di daerah Semper Jakarta Utara
 
-    B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
+B. Menyediakan acara siaran radio yang memberikan informasi dan pengetahuan tentang diri dan hak perempuan buruh, inspirasi dari tokoh perempuan, kehidupan rumah tangga, anak dan lingkungan, tentang informasi kekinian di luar perburuhan, serta acara yang mendorong dan mewadahi keberanian buruh perempuan berbicara, berekspresi dan mengadukan masalah
 
-    C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
+C. Meningkatkan kapasitas buruh perempuan sebagai pengelola radio komunitas buruh perempuan
 
-    D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
+D. Membangun kerja bersama di antara buruh perempuan sebagai satu komunitas yang bertanggung jawab terhadap kemajuan dan keberlanjutan Radio Buruh Perempuan
 
-    E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
+E. Pelaksanaan proyek dengan transparansi penggunaan dana secara publik
 
 Tujuan yang berhasil dicapai hingga saat ini
  
