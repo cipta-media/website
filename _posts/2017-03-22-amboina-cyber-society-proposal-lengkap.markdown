@@ -3,6 +3,8 @@ title: Amboina Cyber Society - Proposal Lengkap
 date: 2017-03-22 17:50:00 +07:00
 ---
 
+![Amboina_Cyber_Society.jpg](/uploads/Amboina_Cyber_Society.jpg){: .img-responsive .center-block }
+
 **Organisasi**
 
 Maluku Satu Media adalah perkumpulan orang muda lintas komunitas yang memiliki fokus pada upaya memampukan masyarakat untuk membuat infrastruktur teknologi informasi secara kreatif dan ekonomis untuk memenuhi kebutuhan masyarakat di daerah Maluku. Perkumpulan ini memiliki keprihatinan utama pada peningkatan kualitas dan produktivitas masyarakat melalui langkah-langkah strategis terkait peningkatan kapasitas dan pembentukan karakater masyarakat dalam memanfaatkan teknologi melalui pelatihan-pelatihan yang dilakukan secara sukarela sehingga masyarakat dapat mengakses dan saling berbagi informasi.
@@ -102,31 +104,31 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
 
   Aktivitas:
 
-* Melatih 600 orang dari berbagai komunitas masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless yang dibuat secara kreatif dan ekonomis.
-*  Melatih 600 orang dari berbagai komunitas masyarakat untuk menggunakan dan merawat jaringan komputer berbasis wireless.
+  * Melatih 600 orang dari berbagai komunitas masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless yang dibuat secara kreatif dan ekonomis.
+  *  Melatih 600 orang dari berbagai komunitas masyarakat untuk menggunakan dan merawat jaringan komputer berbasis wireless.
 
     **Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
 
     Aktivitas:
 
-* Membangun 1 portal website pada server lokal yang dioperasikan secara intranet.
-* Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
-* Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
+  * Membangun 1 portal website pada server lokal yang dioperasikan secara intranet.
+  * Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
+  * Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
 
-    **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
-
-    Aktivitas:
-
-* Menduplikasi portal website dari server lokal ke hosting server.
-* Memperbaharui konten website pada hosting server berdasarkan konten yang tersedia pada server lokal.
-
-    **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
+  **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
 
     Aktivitas:
 
-*  Melakukan monitoring dan evaluasi terhadap pelaksanaan proyek Amboina Cyber Society
-*  Merancangkan rencana tindak lanjut berdasarkan hasil monitoring dan evaluasi.
-*  Membuat pertanggungjawaban proyek secara transparan dan berkala yang disediakan secara internet maupun intranet pada portal website terkait penggunaan dana dan pelaksanaan proyek.
+  * Menduplikasi portal website dari server lokal ke hosting server.
+  * Memperbaharui konten website pada hosting server berdasarkan konten yang tersedia pada server lokal.
+
+  **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
+
+    Aktivitas:
+
+  *  Melakukan monitoring dan evaluasi terhadap pelaksanaan proyek Amboina Cyber Society
+  *  Merancangkan rencana tindak lanjut berdasarkan hasil monitoring dan evaluasi.
+  *  Membuat pertanggungjawaban proyek secara transparan dan berkala yang disediakan secara internet maupun intranet pada portal website terkait penggunaan dana dan pelaksanaan proyek.
 
 * E. Latar belakang dan demografi pelaku proyek
 
@@ -145,13 +147,13 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
 * G. Hasil yang diharapkan dan indikator keberhasilan
 
     1. Masyarakat memiliki kemampuan untuk membuat infrastruktur jaringan komputer berbasis wireless secara kreatif dan ekonomis.
-2. Masyarakat dapat memiliki pengetahuan dan keterampilan untuk mengakses internet.
-3. Masyarakat memiliki kemampuan untuk menggunakan dan merawat infrastruktur jaringan komputer berbasis wireless.
+    2. Masyarakat dapat memiliki pengetahuan dan keterampilan untuk mengakses internet.
+    3. Masyarakat memiliki kemampuan untuk menggunakan dan merawat infrastruktur jaringan komputer berbasis wireless.
 
     Indikator keberhasilan:
-1. Terbangunnya infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di Pulau Ambon.
-2. Terdapat 50 % dari 600 peserta pelatihan memiliki kemampuan membuat infrastruktur jaringan komputer berbasis wireless.
-3. Masyarakat berbagi informasi melalui infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di pulau Ambon.
+  1. Terbangunnya infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di Pulau Ambon.
+  2. Terdapat 50 % dari 600 peserta pelatihan memiliki kemampuan membuat infrastruktur jaringan komputer berbasis wireless.
+  3. Masyarakat berbagi informasi melalui infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di pulau Ambon.
 Orang-orang yang terlatih bersedia secara sukarela untuk berbagi dan melatih orang lain.
 
 * H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
@@ -176,11 +178,11 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 * K. Kontribusi organisasi:
 
     1. Perkumpulan Maluku Satu Media tidak dibayar untuk mendukung pelaksanaan proyek Amboina Cyber Society
-2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
+    2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
 
 * L. Kontribusi dari kelompok target:
 
     * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
-* Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
+    * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
 Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
-* Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
+    * Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
