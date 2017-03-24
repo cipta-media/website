@@ -25,63 +25,63 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
   1. Membangun tim pengelola radio
 
-   * Penyiar dan kru sudah bisa bersiaran dan mulai dipikirkan untuk mengatasi rasa bosan yang menghinggap ketika acara siaran sudah mulai rutin dilakukan. Kebosanan ini diatasi dengan mengupayakan kreatifitas siaran secara bersama-sama. Biasanya melalui pembicaraan santai dan informal agar tidak terlalu membebani.
+     * Penyiar dan kru sudah bisa bersiaran dan mulai dipikirkan untuk mengatasi rasa bosan yang menghinggap ketika acara siaran sudah mulai rutin dilakukan. Kebosanan ini diatasi dengan mengupayakan kreatifitas siaran secara bersama-sama. Biasanya melalui pembicaraan santai dan informal agar tidak terlalu membebani.
 
-   * Selain penyiar, operator juga bertambah. Sekarang hampir semua penyiar sekaligus jadi operator. Tapi masih sedikit yang mau dan bisa untuk menjadi humas, administrasi dan laporan. Tercatat penyiar dan kru sudah ada 30 orang, semuanya merangkap sebagai operator. Namun hanya 3 orang yang menjadi tekhnisi. Sementara untuk administrasi dan laporan masih 2 orang.
+     * Selain penyiar, operator juga bertambah. Sekarang hampir semua penyiar sekaligus jadi operator. Tapi masih sedikit yang mau dan bisa untuk menjadi humas, administrasi dan laporan. Tercatat penyiar dan kru sudah ada 30 orang, semuanya merangkap sebagai operator. Namun hanya 3 orang yang menjadi tekhnisi. Sementara untuk administrasi dan laporan masih 2 orang.
 
   2. Menjalankan program siaran
 
-   * Program siaran belum bisa sepenuhnya berdasar pada rapat redaksi. Perlu mekanisme yang lebih informal sebagai pendukung rapat. Koordinasi dan komunikasi harian banyak membantu menyiapkan rencana siaran. Pengurus utama perlu siap tiap saat menampung aspirasi spontan, sambil mengarahkan pada mekanisme rapat redaksi.
+     * Program siaran belum bisa sepenuhnya berdasar pada rapat redaksi. Perlu mekanisme yang lebih informal sebagai pendukung rapat. Koordinasi dan komunikasi harian banyak membantu menyiapkan rencana siaran. Pengurus utama perlu siap tiap saat menampung aspirasi spontan, sambil mengarahkan pada mekanisme rapat redaksi.
 
-   * Program siaran yang masih banyak tantangan yang perlu diatasi adalah Talkshow karena harus menyiapkan tema talkshow. Sampai sekarang, tema, materi talkshow masih banyak peran dari pendiri Radio Komunitas Marsinah FM, selain melalui rapat redaksi adalah melalui diskusi informal. Penyiar belum bisa mandiri penuh dalam menentukan tema dan menyiapkan materi talkshow. Namun program talkshow sudah mampu menghadirkan pembicara dari organisasi serikat buruh lain seperti KASBI, FSPMI, SBTPI, PROGRESIP dll
+     * Program siaran yang masih banyak tantangan yang perlu diatasi adalah Talkshow karena harus menyiapkan tema talkshow. Sampai sekarang, tema, materi talkshow masih banyak peran dari pendiri Radio Komunitas Marsinah FM, selain melalui rapat redaksi adalah melalui diskusi informal. Penyiar belum bisa mandiri penuh dalam menentukan tema dan menyiapkan materi talkshow. Namun program talkshow sudah mampu menghadirkan pembicara dari organisasi serikat buruh lain seperti KASBI, FSPMI, SBTPI, PROGRESIP dll
 
-   * Program siaran lain yang masih belum bisa dijalankan maksimal adalah program siaran yang perlu rekaman karena penyiar berhalangan hadir. Hal ini dikarenakan tidak ada studio rekaman tersendiri sehingga waktu rekaman terpaksa di malam hari setelah jam siar selesai (Jam 23.00 WIB).
+     * Program siaran lain yang masih belum bisa dijalankan maksimal adalah program siaran yang perlu rekaman karena penyiar berhalangan hadir. Hal ini dikarenakan tidak ada studio rekaman tersendiri sehingga waktu rekaman terpaksa di malam hari setelah jam siar selesai (Jam 23.00 WIB).
 
   3. Mengenalkan radio dan mendapatkan pendengar
 
-   * Lagu (terutama dangdut) efektif untuk mengenalkan radio Radio Marsinah FM, sambil diselingi iklan program tematik.
+     * Lagu (terutama dangdut) efektif untuk mengenalkan radio Radio Marsinah FM, sambil diselingi iklan program tematik.
 
-   * Sosialisasi juga berjalan oleh penyiar di lingkungannya, ‘menyapa’ teman saat siaran, juga dengan acara non-siaran yang bersifat terbuka, selain terus lewat terbitan FBLP, sms massal, dan iklan program siaran.
+     * Sosialisasi juga berjalan oleh penyiar di lingkungannya, ‘menyapa’ teman saat siaran, juga dengan acara non-siaran yang bersifat terbuka, selain terus lewat terbitan FBLP, sms massal, dan iklan program siaran.
 
-   * Untuk Talkshow, guna mendapatkan pendengar penyiar dan kru aktif meng sms pendengar supaya mendengarkan talkshow dan mengajukan pertanyaan via sms
+     * Untuk Talkshow, guna mendapatkan pendengar penyiar dan kru aktif meng sms pendengar supaya mendengarkan talkshow dan mengajukan pertanyaan via sms
 
   4. Mengajak aktif para pendengar dalam program siaran
 
-   * Karena keaktifan pendengar lebih banyak pada program musik, maka perlu terus ditambah ketersediaan beragam lagu baru maupun lama (terutama dangdut, pop, korea, india).
+     * Karena keaktifan pendengar lebih banyak pada program musik, maka perlu terus ditambah ketersediaan beragam lagu baru maupun lama (terutama dangdut, pop, korea, india).
 
-   * Program siaran tematik dan talkshow lebih mungkin ada partisipasi pendengar jika tepat tema dan terutama sang penyiar ketemu metode yang asyik.
+     * Program siaran tematik dan talkshow lebih mungkin ada partisipasi pendengar jika tepat tema dan terutama sang penyiar ketemu metode yang asyik.
 
-   * Mengajak aktif para pendengar rencananya dengan membuat informasi dalam bentuk ILM, tapi butuh studio rekam untuk itu.
+     * Mengajak aktif para pendengar rencananya dengan membuat informasi dalam bentuk ILM, tapi butuh studio rekam untuk itu.
 
-   * Supaya pendengar aktif berinteraksi di program siaran disediakan Telpon Hybrid, namun penyiar masih belum bisa menggunakannya sehingga rencana akan diagendakan pelatihan tekhnis Telpon Hybrid.
+     * Supaya pendengar aktif berinteraksi di program siaran disediakan Telpon Hybrid, namun penyiar masih belum bisa menggunakannya sehingga rencana akan diagendakan pelatihan tekhnis Telpon Hybrid.
 
   5. Mendorong perempuan korban pelanggaran hak berani bicara
 
-   * Mendapat keberanian perempuan korban bicara tentang masalah yang dihadapi di acara siaran radio, masih sangat sulit. Maka dibuat bentuk lain, bahwa kisah pelanggaran hak yang dialami atau diadukan kepada kru pengelola radio dan FBLP, diangkat dalam acara siaran. Sudah ada pengaduan dan dibuat pembelaan sebisanya untuk kasus KDRT, perkosaan dan pelecehan, selain tentang pelanggaran hak perburuhan.
+     * Mendapat keberanian perempuan korban bicara tentang masalah yang dihadapi di acara siaran radio, masih sangat sulit. Maka dibuat bentuk lain, bahwa kisah pelanggaran hak yang dialami atau diadukan kepada kru pengelola radio dan FBLP, diangkat dalam acara siaran. Sudah ada pengaduan dan dibuat pembelaan sebisanya untuk kasus KDRT, perkosaan dan pelecehan, selain tentang pelanggaran hak perburuhan.
 
-   * Korban sudah berani berbicara dalam hal mengadukan kasus kepada kru dan penyiar (10 sms pengaduan yang kemudian ditangani secara organisasi). Namun korban belum memiliki keberanian untuk menjadi pembicara di acara talkshow. Sehingga untuk mengatasinya, yang menjadi pembicara adalah saksi dan individu yang mengadvokasi korban.
+     * Korban sudah berani berbicara dalam hal mengadukan kasus kepada kru dan penyiar (10 sms pengaduan yang kemudian ditangani secara organisasi). Namun korban belum memiliki keberanian untuk menjadi pembicara di acara talkshow. Sehingga untuk mengatasinya, yang menjadi pembicara adalah saksi dan individu yang mengadvokasi korban.
 
   6. Membangun publikasi dan jaringan radio di luar komunitas
 
-   * Media sosial yang dijalankan adalah page FB, Twiter dan Blog. Namun yang paling aktif masih FB dan Blog. Ke depan Twiter akan lebih diaktifkan.
+     * Media sosial yang dijalankan adalah page FB, Twiter dan Blog. Namun yang paling aktif masih FB dan Blog. Ke depan Twiter akan lebih diaktifkan.
 
-   * Selain melalui media sosial, Marsinah FM sampai sekarang telah dipublikasikan oleh beberapa media mainstream, sehingga sangat membantu publikasi dan jaringan. Terutama tentang keberadaan radio dari dan oleh buruh perempuan, sekaligus turut mengangkat masalah buruh perempuan yang perlu dibela masyarakat luas.
+     * Selain melalui media sosial, Marsinah FM sampai sekarang telah dipublikasikan oleh beberapa media mainstream, sehingga sangat membantu publikasi dan jaringan. Terutama tentang keberadaan radio dari dan oleh buruh perempuan, sekaligus turut mengangkat masalah buruh perempuan yang perlu dibela masyarakat luas.
 
-   * Marsinah FM juga berjaringan dengan
+     * Marsinah FM juga berjaringan dengan
 
-   * Publikasi Marsinah FM sangat meluas selain karena media sosial milik Marsinah FM, juga karena publikasi yang dilakukan media mainsream. Media mainstream yang sudah meliput tentang marsinah FM adalah TV One, Metro TV, Dai TV, Anteve, SCTV, KBR 68H, Jawa Pos, Tempo TV.
+     * Publikasi Marsinah FM sangat meluas selain karena media sosial milik Marsinah FM, juga karena publikasi yang dilakukan media mainsream. Media mainstream yang sudah meliput tentang marsinah FM adalah TV One, Metro TV, Dai TV, Anteve, SCTV, KBR 68H, Jawa Pos, Tempo TV.
 
-   * Publikasi semakin luas karena salah satu pendiri Marsinah FM, Jumisih, masuk nominasi penerima Liputan 6 Award. Hal ini merupakan capaian dari publikasi yang dijalankan oleh Marsinah FM baik melalui media sosialnya sendiri maupun oleh media mainstream.
+     * Publikasi semakin luas karena salah satu pendiri Marsinah FM, Jumisih, masuk nominasi penerima Liputan 6 Award. Hal ini merupakan capaian dari publikasi yang dijalankan oleh Marsinah FM baik melalui media sosialnya sendiri maupun oleh media mainstream.
 
-   * Jaringan juga semakin luas dan terbantu karena salah satu pendiri Marsinah FM, Dian Septi Trisnanti lolos untuk mengikuti pelatihan liputan investigasi HAM yang diselenggarakan oleh KBR 68H dengan tema “Pelecehan Seksual dalam Pabrik” Salah satu bentuk konkrit jaringan Marsinah FM adalah adanya tawaran untuk magang di KBR 68H yang bisa meningkatkan kapasitas kru dan penyiar. Ini akan menjadi agenda ke depan. Serta adanya tawaran dari jaringan untuk mengikuti pelatihan Video yang akan berjalan di bulan Juli 2013. Jaringan lain yang terbentuk adalah dengan Luviana, Indra (Pembawa Acara B- Channel) dan Jurnalis RRI yang menawarkan mengisi pelatihan jurnalistik secara rutin. Selain itu, ada pula tawaran dari AMAN untuk memasukkan kisah Marsinah FM selama setahun berdiri dalam buku yang akan diterbitkan, tentang radio komunitas.
+     * Jaringan juga semakin luas dan terbantu karena salah satu pendiri Marsinah FM, Dian Septi Trisnanti lolos untuk mengikuti pelatihan liputan investigasi HAM yang diselenggarakan oleh KBR 68H dengan tema “Pelecehan Seksual dalam Pabrik” Salah satu bentuk konkrit jaringan Marsinah FM adalah adanya tawaran untuk magang di KBR 68H yang bisa meningkatkan kapasitas kru dan penyiar. Ini akan menjadi agenda ke depan. Serta adanya tawaran dari jaringan untuk mengikuti pelatihan Video yang akan berjalan di bulan Juli 2013. Jaringan lain yang terbentuk adalah dengan Luviana, Indra (Pembawa Acara B- Channel) dan Jurnalis RRI yang menawarkan mengisi pelatihan jurnalistik secara rutin. Selain itu, ada pula tawaran dari AMAN untuk memasukkan kisah Marsinah FM selama setahun berdiri dalam buku yang akan diterbitkan, tentang radio komunitas.
 
-   * Selain menambah kepercayaan diri bagi segenap keluarga Marsinah FM, juga tantangan untuk Marsinah FM memanfaatkan sebaik mungkin tiap sisi keunggulan yang dilihat pihak lain.
+     * Selain menambah kepercayaan diri bagi segenap keluarga Marsinah FM, juga tantangan untuk Marsinah FM memanfaatkan sebaik mungkin tiap sisi keunggulan yang dilihat pihak lain.
 
-   * Terlihat jauh lebih maju publikasi terhadap Marsinah FM, dibanding tingkat kemampuan ber-radio di Marsinah FM. Maka capaian di luar ini harus bisa kami internalisasikan.
+     * Terlihat jauh lebih maju publikasi terhadap Marsinah FM, dibanding tingkat kemampuan ber-radio di Marsinah FM. Maka capaian di luar ini harus bisa kami internalisasikan.
 
   7. Pengembangan Radio Komunitas
 
-   * Untuk mengembangkan radio komunitas, ada rencana untuk menjadikan radio komunitas Marsinah FM sebagai radio On line, dan beralih ke Open Source.
+     * Untuk mengembangkan radio komunitas, ada rencana untuk menjadikan radio komunitas Marsinah FM sebagai radio On line, dan beralih ke Open Source.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
