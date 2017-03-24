@@ -94,54 +94,56 @@ Tujuan strategis ini dijabarkan menjadi beberapa tujuan spesifik (specific objec
 
 * **Kontribusi untuk sasaran A** – Teridentifikasi dan terpetakannya beragam sumber daya (dana, inkind, volunteer) bagi pendanaan dan keberlanjutan media komunitas
 
-Aktivitas:
+  Aktivitas:
 
-1. Studi dan pemetaan sumber-sumber pendanaan bagi keberlanjutan media komunitas
+  1. Studi dan pemetaan sumber-sumber pendanaan bagi keberlanjutan media komunitas
 Studi dilakukan dengan mengidentifikasi beragam sumber daya (dana, inkind, volunteer, jaringan) yang berasal dari individu, komunitas, perusahaan, yayasan amal, dan pemerintah yang bisa digalang dan dimanfaatkan untuk mendukung keberlanjutan media komunitas. Hasil studi ini diharapkan bisa menjadi referensi bagi pengelola media komunitas dalam menggalang beragam sumber daya lokal, pendanaan dan keberlanjutan medianya.
 
-2. Penerbitan hasil studi dan pemetaan sumber-sumber pendanaan bagi keberlanjutan media komunitas
+  2. Penerbitan hasil studi dan pemetaan sumber-sumber pendanaan bagi keberlanjutan media komunitas
 Penerbitan hasil studi ini dimaksud untuk memberikan referensi atas keberagaman sumber daya (dana, inkind, volunteer, jaringan) sehingga ada rujukan bagi media komunitas ketika akan melakukan kerja-kerja fundraising. Hasil studi akan diterbitkan dalam bentuk digital (e-book, screen cast, dll) agar bisa diakses masyarakat luas.
 
 * **Kontribusi untuk sasaran B** – Tersedianya referensi & Dokumentasi mengenai praktik dan pengalaman penggalangan sumber daya untuk media komunitas yang dikembangkan di Indonesia maupun di negara lain.
 
-Aktivitas
+  Aktivitas
 
-1. Studi kasus dan pendokumentasian model dan strategi mobilisasi sumber daya untuk media komunitas di Indonesia
+  1. Studi kasus dan pendokumentasian model dan strategi mobilisasi sumber daya untuk media komunitas di Indonesia
 Kegiatan studi kasus ini dilakukan dengan mengkaji dan mendokumentasikan praktek dan pengalaman beberapa media komunitas di berbagai daerah di Indonesia yang sukses dalam menggalang sumber daya untuk pendanaan program dan organisasinya. Pemilihan subjek penelitian dilakukan dengan memperhatikan jenis dan lingkup media serta model dan metode fundraising yang dikembangkan. Pengalaman mereka diharapkan bisa memberikan inspirasi dan ide-ide baru yang lebih inovatif bagi kalangan pengelola media komunitas lainnya dalam memobilisasi sumber daya.
 
-2. Diskusi publik dan lokakarya untuk mensosialisasikan hasil hasil penelitian
+  2. Diskusi publik dan lokakarya untuk mensosialisasikan hasil hasil penelitian
 Forum diskusi publik dan lokakarya ini berfungsi sebagai wahana sharing dan sosialisasi mengenai hasil-hasil penelitian di atas. Forum tersebut dilakukan dengan mengundang para pengelola media komunitas, akademisi, pengusaha, pemerintah dan kalangan media massa. Selain di Jakarta, PIRAC juga mendorong agar hasil penelitian ini juga bisa didiskusikan di daerah secara mandiri dengan menyediakan dan mendistribusikan hasil penelitian ke lembaga, jaringan dan perguruan tinggi yang memiliki perhatian terhadap perkembangan media komunitas.
 
-3. Penerbitan hasil studi kasus model dan strtategi fundraising media komunitas di indonesia dan hasil desk riset praktek penggalangan sumber daya untuk media komunitas di manca negara
+  3. Penerbitan hasil studi kasus model dan strtategi fundraising media komunitas di indonesia dan hasil desk riset praktek penggalangan sumber daya untuk media komunitas di manca negara
 Penerbitan hasil studi ini dimaksud untuk memberikan referensi atas berbagai pengalaman beberapa media komunitas di berbagai daerah di Indonesia yang sukses dalam menggalang sumber daya untuk pendanaan program dan organisasinya sehingga dapat diadaptasi oleh media komunitas lain di wilayah kerja program. Hasil studi akan diterbitkan dalam bentuk digital (e-book, screen cast, dll) agar bisa diakses maasyarakat luas
 
 * **Kontribusi untuk sasaran C** – Terumuskannya beragam skema dan strategi mobilisasi sumber daya untuk keberlanjutan media komunitas.
 
-Aktivitas:
+  Aktivitas:
 
-1. FGD perumusan skema dan strategi fundraising untuk media komunitas
+  1. FGD perumusan skema dan strategi fundraising untuk media komunitas
 FGD ini dilakukan dengan melibatkan praktisi fundraising, marketing, teknologi informasi dan pegiat media komunitas untuk membantu merumuskan beragam skema pendanaan bagi media komunitas. Pada FGD ini juga dielaborasi berbagai strategi penggalangan dana yang dimungkinkan untuk dipraktikkan pengelola media komunitas di Indonesia dalam menggalang sumber daya untuk keberlanjutan program dan organisasinya.
 
-2. Penulisan & penerbitan buku panduan/ How to penggalangan sumber daya untuk keberlanjutan media komunitas
+  2. Penulisan & penerbitan buku panduan/ How to penggalangan sumber daya untuk keberlanjutan media komunitas
 Penulisan buku ini dimaksudkan untuk memberikan panduan praktis bagi pengelola media komunitas dalam menggalang dukungan dan sumber daya dari individu, perusahaan, pemerintah, yayasan sosial maupun donatur prospektif lainnya. Buku ini akan berisi langkah-langkah praktis dan kiat-kiat yang bisa dilakukan oleh pengelola media komunitas dalam mempraktekkan beberapa metode fundraising untuk operasional program dan keberlanjutan lembaganya. Hasil studi akan diterbitkan dalam bentuk digital (e-book, screen cast, dll) agar bisa diakses maasyarakat luas
 
 * **Kontribusi untuk sasaran D** – Terselenggaranya pelatihan sebagai sarana uji coba modul dan sarana belajar bagi para pengelola media komunitas dalam memobilisasi dukungan dan sumber daya untuk keberlanjutan media yang dikelolanya.
 
-Aktivitas:
+  Aktivitas:
 
-1. Penyusunan Modul Pelatihan Fundraising & Social Entrepreneur bagi Pengelola Media Komunitas
+  1. Penyusunan Modul Pelatihan Fundraising & Social Entrepreneur bagi Pengelola Media Komunitas
+
 Penyusunan modul ini merupakan tahapan awal dalam pengembangan kapasitas pengelola media komunitas. Modul disusun berdasarkan hasil studi yang dilakukan PIRAC dan diperkaya dengan berbagai referensi mengenai pengalaman organisasi di luar negeri yang berhasil menggalang dana untuk keberlanjutan media komunitas. Penyusunan modul pelatihan dilakukan melalui beberapa tahapan: studi literatur, diskusi terbatas, lokakarya modul, uji coba modul, pencetakan modul.
 
-2. Pelatihan fundraising dan social enterpreuner untuk pengelola media komunitas
+  2. Pelatihan fundraising dan social enterpreuner untuk pengelola media komunitas
+
 Pelatihan dilakukan dalam rangka untuk uji coba modul serta memberikan pemahaman dan keterampilan praktis bagi pengelola media dalam melakukan aktivitas penggalangan dana dan mengembangkan bisnis berorienntasi sosial. Pelatihan ini bertujuan untuk membuka wawasan para pengurus dan staf media komunitas mengenai strategi dan metode penggalangan dana, terutama yang bersumber dari sumber dana lokal. Proses dan hasil pelatihan akan didokumentasikan dan diproduksi dalam bentuk digital untuk disebarkan kepada pegiat media komunitas yang membutuhkan melalui forum belajar bersama daring.
 
 * **Kontribusi untuk sasaran E** – Tersedianya forum belajar bersama untuk berbagi pengalaman, ide/gagasan, mengembangkan jaringan dan praktek bersama dalam mobilisasi sumberdaya untuk keberlanjutan media komunitas.
 
-Aktivitas:
+  Aktivitas:
 
-Penyediaan Forum belajar Bersama Daring
+  1. Penyediaan Forum belajar Bersama Daring
 
-Forum belajar ini akan diwadahi dalam sebuah web podcast, offline media, mailing list, filesharing dan social networking media bersama sebagai ajang diskusi rutin, sharing pengalaman, informasi kegiatan fundraising, pengembangan jaringan, mitra dan potensial donatur. Tujuannya untuk menjangkau khalayak luas secara gratis, tidak terbatas waktu serta bersifat partisipatoris.
+  2. Forum belajar ini akan diwadahi dalam sebuah web podcast, offline media, mailing list, filesharing dan social networking media bersama sebagai ajang diskusi rutin, sharing pengalaman, informasi kegiatan fundraising, pengembangan jaringan, mitra dan potensial donatur. Tujuannya untuk menjangkau khalayak luas secara gratis, tidak terbatas waktu serta bersifat partisipatoris.
 
 **Demografik kelompok target:**
 
