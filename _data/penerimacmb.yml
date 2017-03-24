@@ -27,3 +27,12 @@
   tipe: pantau
   gambar: /static/img/hibahcmb/350.png
   link: /hibahcmb/350
+  
+- nomor: '123'
+  judul: AKUMASSA.ORG
+  deskripsi: |
+      AKUMASSA adalah media online berbasis komunitas dan telah berjalan selama 3 tahun dengan tingkat partisipasi yang cukup tinggi. Website ini dikelola secara bersama oleh komunitas yang memproduksi teks, video, image dan audio, lalu didistribusikan secara online melalui www.akumassa.org. Jaringan kerja akumassa dilakukan secara swadaya, dengan konsep distribusi pengetahuan secara bebas dan terbuka kepada masyarakat tentang persoalan lokal yang selama ini tidak menjadi perhatian dari media arus besar
+  lokasi: DKI Jakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/123.png
+  link: /hibahcmb/123 
