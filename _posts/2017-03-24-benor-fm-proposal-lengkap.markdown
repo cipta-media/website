@@ -124,38 +124,38 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
   **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
 
-  Aktivitas:
-  * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
-  * Mengurus perijinan dan sertifikasi alat.
-  * Menyiapkan sumber daya manusia, dengan melakukan pelatihan dan kunjungan belajar.
-  * Menyusun program siaran secara partisipatif dan melakukan uji coba siaran.
-  * Melakukan seremoni peluncuran siaran perdana.
+    Aktivitas:
+    * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
+    * Mengurus perijinan dan sertifikasi alat.
+    * Menyiapkan sumber daya manusia, dengan melakukan pelatihan dan kunjungan belajar.
+    * Menyusun program siaran secara partisipatif dan melakukan uji coba siaran.
+    * Melakukan seremoni peluncuran siaran perdana.
 
-  Indikator:
-  * Ada ruangan studio, peralatan pemancar, dan stasiun relay di puncak gunung
-  * Ada ijin siaran radio komunitas.
-  * Ada sumber daya manusia yang mampu mengelola radio komunitas.
+    Indikator:
+    * Ada ruangan studio, peralatan pemancar, dan stasiun relay di puncak gunung
+    * Ada ijin siaran radio komunitas.
+    * Ada sumber daya manusia yang mampu mengelola radio komunitas.
 
   **Kontribusi untuk sasaran B** – Program siaran radio yang mendukung kegiatan pendidikan bagi Orang Rimba.
 
-  Aktivitas:
-  * Bersama Orang Rimba menyusun materi siaran pendidikan.
-  * Bersama kader pendidikan akan menyiapkan kelompok-kelompok pendengar.
-  * Melakukan siaran pendidikan dan talk show.
+    Aktivitas:
+    * Bersama Orang Rimba menyusun materi siaran pendidikan.
+    * Bersama kader pendidikan akan menyiapkan kelompok-kelompok pendengar.
+    * Melakukan siaran pendidikan dan talk show.
 
-  Indikator:
-  Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
+    Indikator:
+    Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
 
   **Kontribusi untuk sasaran C** - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
 
-  Aktivitas:
+    Aktivitas:
     * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
     * Melakukan siaran kesehatan dan talk show yang melibatkan instansi terkait untuk memberikan penyuluhan kesehatan.
 
     Indikator:
     * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
 
-  * **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+  **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
 
     Aktivitas:
     * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
@@ -165,15 +165,15 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Indikator:
     * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
 
-  * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
+  **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
 
-  Aktivitas:
-  * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
-  * Melakukan siaran untuk mengkampanyekan berbagai aspek budaya Orang Rimba ke komunitas desa-desa.
-  * Melakukan temu ramah di studio antara kelompok-kelompok pendengar Orang Rimba dengan masyarakat desa.
+    Aktivitas:
+    * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
+    * Melakukan siaran untuk mengkampanyekan berbagai aspek budaya Orang Rimba ke komunitas desa-desa.
+    * Melakukan temu ramah di studio antara kelompok-kelompok pendengar Orang Rimba dengan masyarakat desa.
 
-  Indikator:
-  Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
+    Indikator:
+    Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
 
 * E. Latar belakang dan demografi pelaku proyek
 
@@ -190,3 +190,46 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   Orang Rimba dilingkup Bukit Duabelas yang berada di bawah naungan 10 tumenggung yang tersebar di Sungai Air Hitam, Kejasung Besar, Kejasung Kecil, Serengam dan Makekal. Orang Rimba yang berada di sekitar Areal Transmigrasi Hitam Hulu dan Hak Guna Usaha perusahaan besar swasta nasional PT. SAL, PT. JAW, dan PT. Emal.
 
   Masyarakat desa yang berada di Kecamatan Air Hitam, terdiri dari Desa Bukit Suban, Pematang Kabau, Lubuk Jering, Jernih dan Dusun Baru. Desa-desa yang berada di Kecamatan Tabir Selatan Merangin, yang terdiri dari SP B, SP A, dan SP C dan Rawa Jaya, desa-desa ini paling tinggi intensitasnya dalam berinteraksi dengan Orang Rimba Bukit Duabelas.
+
+* G. Hasil yang diharapkan dan indikator keberhasilan
+
+  * Orang Rimba di Bukit Duabelas meningkat kualitas hidup melalui pendidikan, informasi dan layanan kesehatan dan kegiatan ekonomi melalui media Radio Komunitas. Orang Rimba melalui radio ini, juga diharapkan akan hidup berdampingan dengan masyarakat desa, dengan pola saling menghormati berdasarkan jati diri masing-masing.
+
+  Indikator keberhasilan:
+  * Orang Rimba yang terbebas dari buta aksara berjumlah 600 orang dan yang dapat mengakses sekolah lanjutan tingkat pertama berjumlah 20 orang.
+  * Penderita TBC berkurang 40%, mengentaskan penyakit kulit losong hingga 95%.
+  * Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+  * Pendapatan Orang Rimba meningkat 50% melalui pengembangan pertanian dan perkebunan karet.
+  * Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
+  * Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
+
+* H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
+
+  **Perbaikan media**
+
+  Membuat Orang Rimba terakses oleh media, sehingga secara umum kualitas kehidupan dan kapasitas pengetahuannya terhadap dunia luar akan meningkat. Hal ini akan membantu memberdayakan komunitas Orang Rimba untuk dapat berkompetisi secara positif dengan masyarakat lainnya.
+
+  **Keadilan sosial**
+
+  Proyek ini akan berkontribusi untuk menjadikan komunitas Orang Rimba lebih berdaya saing, sehingga strata kehidupan Orang Rimba meningkat dan dapat sejajar dengan masyarakat pada umumnya. Pada akhirnya stereotip negatif tentang Orang Rimba akan hilang.
+
+* I. Durasi waktu aktifitas dilaksanakan:
+
+  Januari 2012-Desember 2015 (Tiga tahun dan bersinergi dengan program Warsi). Proyek ini berkelanjutan.
+
+* J. Total kebutuhan dana untuk melakukan aktifitas:
+
+  **Rp. 765.340.000**
+  Yang diminta dari Ford Foundation melalui Cipta Media Bersama:
+
+  **Rp. 568.340.000** (rincian terlampir)
+
+*  K. Kontribusi organisasi:
+
+  Ruangan kantor staff dan ruangan studio.
+  Gaji staff proyek dan pengelola radio.
+
+* L. Kontribusi dari kelompok target:
+
+  Partisipasi melalui waktu dan tenaga dalam pembangunan studio, sebagai penyiar radio, serta menghadiri kegiatan-kegiatan radio komunitas.
+
