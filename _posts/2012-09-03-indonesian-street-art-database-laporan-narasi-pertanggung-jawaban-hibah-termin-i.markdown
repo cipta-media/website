@@ -28,7 +28,7 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
  1. Pada saat melakukan kunjungan di 13 kota (sebagai bagian dari upaya memperluas kerja jejaringan street artists di Indonesia) kami membicarakan strategi pendokumentasian dan pengarsipan aktivitas street art yang dilakukan oleh individu dan kelompok di setiap daerah. Di sini kami menyadari adanya beberapa permasalahan umum:
 
-   1. Individu dan kelompok mempunyai permasalahan tentang dasar-dasar pendokumentasian. Misalnya mereka tidak memiliki kebiasaan mendokumentasikan hasil karya yang dilengkapi keterangan lokasi, tahun, dan nama pembuat.
+    1. Individu dan kelompok mempunyai permasalahan tentang dasar-dasar pendokumentasian. Misalnya mereka tidak memiliki kebiasaan mendokumentasikan hasil karya yang dilengkapi keterangan lokasi, tahun, dan nama pembuat.
 
     2. Individu dan kelompok tidak merasa bahwa karya mereka merupakan bagian dari perekaman sejarah street art di kotanya.
 
@@ -44,7 +44,7 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
     4. Kapasitas ruangan yang berukuran 3x7 meter hanya bisa menampung 25 orang. Jika peserta melebihi kapasitas, mereka mengambil tempat di luar ruangan.
 
-  5. Belum semua diskusi ditranskrip dan disertai rangkuman sehingga bisa diakses publik.
+    5. Belum semua diskusi ditranskrip dan disertai rangkuman sehingga bisa diakses publik.
 
  3. Terkait dengan kedatangan kalangan peneliti dari dalam dan luar negeri, ISAD mendapat kesempatan untuk:
 
