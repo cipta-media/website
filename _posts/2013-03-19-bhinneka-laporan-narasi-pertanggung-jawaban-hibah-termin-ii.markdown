@@ -58,4 +58,23 @@ Pada periode ini, selain isu kekerasan dan fundamentalisme agama, kami juga berk
 4. Kualitas komentar dan pertanyaan yang diajukan peserta saat bedah buku. Bedah buku yang akan dilakukan 3 bulan setelah peluncuran buku di beberapa kota di Indonesia
 5. Peningkatan permintaan akan Majalah Bhinneka.
 
-Hasil aktual hingga laporan ini dibuat
+Hasil aktual hingga laporan ini dibuat:
+
+1. Berdasarkan materi yang mereka baca dan dengan mengikuti diskusi yang diselenggarakan oleh Bhinneka baik secara online maupun tatap muka, dan dihadiri oleh mereka, menunjukkan perubahan sikap empat orang berubah menjadi tidak menentang, namun berubah menjadi mendukung isu ini. Dari empat orang ini, tiga di antaranya menjadi admin di grup Bhinneka (2 di grup Diskusi Pluralis, dan 1 di grup Lingkar Puisi & Prosa). Contoh lain adalah beberapa anggota yang telah bersedia menjadi admin grup-grup FB Lembaga Bhinneka. Hal ini bisa dilihat dari penambahan admin di grup-grup Bhinneka, yang menyiratkan simpati mereka terhadap isu yang diangkat oleh lembaga ini. Penambahan jumlah admin bisa dilihat di bawah:
+    1. FB Lingkar Puisi dan Prosa dari 7 admin (pada Januari 2012) menjadi 17 admin (pada Febuari 2013)
+    2. FB Forum Fotografi Lembaga Bhinneka 508 dari 4 admin (pada Januari 2012) menjadi 5 admin (pada Febuari 2013)
+    3. FB Diskusi Romantis Lembaga Bhinneka dari 6 admin (pada Januari 2012) menjadi 9 admin (pada Febuari 2013)
+2. Melalui komentar-komentar yang kami terima dari Kopdar, beberapa anggota menyatakan secara langsung bahwa Lembaga Bhinneka membuat mereka semakin kritis. Dari sekitar 120 orang yang datang pada Kopdar dan diskusi, Lembaga Bhinneka mengidentifikasi paling tidak 3 orang yang sikapnya berubah total dalam durasi akhir Oktober 2012 sampai laporan ini ditulis. Awal mulanya ketiga orang apatis dan tidak mau tahu tentang kondisi di Indonesia. Namun setelah bergabung dengan Lembaga Bhinneka dan mengikuti pertemuannya, mereka menjadi semakin sadar akan gunanya partisipasi aktif mereka. Beberapa komentar yang masuk melalui twitter, facebook dan sms, mengungkap bahwa majalah Bhinneka berhasil mempengaruhi pola berpikir masyarakat. Sejak 25 Oktober sampai laporan ini ditulis, kami menerima 28 sms, ada sekitar 24 yang menyatakan bahwa majalah ini berbeda dari yang lain, kritis, dan kaya manfaat. Begitu juga dengan diskusi Bhinneka di Jakarta, banyak sekali yang menginginkan diadakan lagi karena keberanian Lembaga Bhinneka mengutarakan kritik.
+3. Angket yang disebarluaskan mendapat masukan beragam. Namun, lebih dari 80% positif. Beberapa menyatakan Lembaga Bhinneka terlalu berani atau terlalu keras mengritik agama. Angket telah disebarkan dan dari hasil angket dari 32 orang yang mengisi angket ini, berikut hasilnya:
+    1. Rubrik apa yang paling dinanti oleh Anda: a. Artikel (5 orang) b. Apa Kata Mereka (4 orang) c. Cerpen (6 orang) d. Puisi (6 orang) e. Komik (11 orang)
+    2. Rubrik apa yang perlu ditambah dalam majalah ini: a. Artikel (3 orang) b. Apa Kata Mereka (2 orang) c. Cerpen (9 orang) d. Puisi (9 orang) e. Komik (9 orang)
+    3. Rubrik apa yang perlu dikurangi dalam majalah ini: a. Artikel (4 orang) b. Apa Kata Mereka (4 orang) c. Cerpen (1 orang) d. Puisi (3 orang) e. Komik (2 orang) - (beberapa tidak menjawab/dikosongkan)
+    4. Tentang isi majalah Bhinneka, apa saran Anda? a. Terlalu banyak ulasan politik (4 orang) b. Kurang ulasan politik (3 orang) c. Terlalu banyak ulasan agama (3 orang) d. Kurang ulasan agama (3 orang) f. Terlalu banyak wawancara (2 orang) g. Kurang wawancara (6 orang) e. Mohon dibuat berwarna (4 orang) h. Lebih banyak ulasan gender dan seksualitas (7 orang)
+    5. Apakah setelah membaca, Anda meminjamkan majalah ini ke teman? Bila ya, mengapa? (Bisa menjawab lebih dari 1) a. Karena isinya (21 orang) b. Karena gratis (12 orang)
+    6. Apakah setelah membaca, Anda meminjamkan majalah ini ke teman? Bila tidak, mengapa? a. Malas (2 orang) b. Sukar mendapatkannya (13 orang) c. Ingin mengoleksi (8 orang) (Beberapa tidak menjawab/dikosongkan)
+4. Lembaga Bhinneka berhasil menelorkan 2 buku antologi.
+Pertama, Antologi Cerpen dan Puisi Amarah (mengritik fundamentalisme agama di Indonesia). Antologi Amarah diterbitkan oleh Glitzy Book (Gramedia) pada 15 Januari 2013.
+Kedua, Antologi cerpen Sepasang Ballerina (tentang kisah-kisah LGBT) yang diterbitkan oleh Lembaga Bhinneka pada 10 Febuari 2013. ## Peluncuran dan bedah buku diadakan di Jakarta dan Surabaya. Sambutan dan masukan peserta sangat positif. Mereka mengharapkan Lembaga Bhinneka bisa mengadakan lomba menulis serta menerbitkan buku antologi lagi.
+Di Jakarta, pada tanggal 9 Maret 2013 di TIM.
+Di Surabaya, bedah buku diadakan pada tanggal 27 Febuari 2013 di SUTOS dan pada tanggal 9 Maret di GAYa NUSANTARA.
+5. Dari sms dan facebook, kami mendapat permintaan agar majalah Bhinneka terbit lagi.
