@@ -174,7 +174,7 @@ Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menulis
 
   4. Belum terumuskannya konsep pemrograman website yang sesuai dengan kebutuhan dan harapan ISAD.
 
-  5.Belum adanya staf yang secara spesifik menangani bidang IT (pengelolaan website). Staf bidang ini sangat dibutuhkan oleh ISAD.
+  5. Belum adanya staf yang secara spesifik menangani bidang IT (pengelolaan website). Staf bidang ini sangat dibutuhkan oleh ISAD.
 
 **6. Keberagaman**
 
@@ -184,71 +184,71 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
   
   1. Andi Riyanto (Andi RHARHARHA)
 
-    Jenis kelamin : Pria
+     Jenis kelamin : Pria
   
-    Posisi : Direktur ISAD
+     Posisi : Direktur ISAD
   
-    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+     Pendidikan : Sarjana Seni Institut Kesenian Jakarta
   
-    Profesi : Seniman, street artist, periset, networker
+     Profesi : Seniman, street artist, periset, networker
 
-    Agama : Katolik
+     Agama : Katolik
 
-    Preferensi seksual : Heteroseksual
+     Preferensi seksual : Heteroseksual
 
   2. Maya Santoso
 
-    Jenis kelamin : Wanita
+     Jenis kelamin : Wanita
 
-    Posisi : Manajer keuangan
+     Posisi : Manajer keuangan
 
-    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+     Pendidikan : Sarjana Seni Institut Kesenian Jakarta
 
-    Profesi : Manajer komunikasi
+     Profesi : Manajer komunikasi
 
-    Agama : Katolik
+     Agama : Katolik
  
-    Preferensi seksual : Heteroseksual
+     Preferensi seksual : Heteroseksual
 
   3. Syaiful Ardianto
 
-    Jenis kelamin : Pria
+     Jenis kelamin : Pria
 
-    Posisi : Periset media
+     Posisi : Periset media
 
-    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+     Pendidikan : Sarjana Seni Institut Kesenian Jakarta
 
-    Profesi : Seniman, steet artist
+     Profesi : Seniman, steet artist
 
-    Agama : Islam
+     Agama : Islam
 
-    Preferensi seksual : Heteroseksual
+     Preferensi seksual : Heteroseksual
 
   4. Isrol Triono
 
-    Jenis kelamin : Pria
+     Jenis kelamin : Pria
   
-    Posisi : Pengarsipan
+     Posisi : Pengarsipan
 
-    Pendidikan : SMK Pancasila Sakti, Jakarta
+     Pendidikan : SMK Pancasila Sakti, Jakarta
 
-    Profesi : Seniman, street artist
+     Profesi : Seniman, street artist
 
-    Agama : Islam
+     Agama : Islam
 
-    Preferensi seksual : Heteroseksual
+     Preferensi seksual : Heteroseksual
 
   5. Ira Humairah
 
-    Jenis kelamin: Perempuan
+     Jenis kelamin: Perempuan
 
-    Posisi: Manager Database
+     Posisi: Manager Database
 
-    Pendidikan: Mahasiswa Institut Kesenian Jakarta
+     Pendidikan: Mahasiswa Institut Kesenian Jakarta
 
-    Profesi: Mahasiswa
+     Profesi: Mahasiswa
 
-    Agama: Islam
+     Agama: Islam
 
 **7. Laporan keuangan**
 
