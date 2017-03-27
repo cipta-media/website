@@ -28,33 +28,33 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
  1. Pada saat melakukan kunjungan di 13 kota (sebagai bagian dari upaya memperluas kerja jejaringan street artists di Indonesia) kami membicarakan strategi pendokumentasian dan pengarsipan aktivitas street art yang dilakukan oleh individu dan kelompok di setiap daerah. Di sini kami menyadari adanya beberapa permasalahan umum:
 
-  1. Individu dan kelompok mempunyai permasalahan tentang dasar-dasar pendokumentasian. Misalnya mereka tidak memiliki kebiasaan mendokumentasikan hasil karya yang dilengkapi keterangan lokasi, tahun, dan nama pembuat.
+   1. Individu dan kelompok mempunyai permasalahan tentang dasar-dasar pendokumentasian. Misalnya mereka tidak memiliki kebiasaan mendokumentasikan hasil karya yang dilengkapi keterangan lokasi, tahun, dan nama pembuat.
 
-  2. Individu dan kelompok tidak merasa bahwa karya mereka merupakan bagian dari perekaman sejarah street art di kotanya.
+    2. Individu dan kelompok tidak merasa bahwa karya mereka merupakan bagian dari perekaman sejarah street art di kotanya.
 
-  3. Walaupun ISAD memiliki banyak dokumentasi street art, belum ada sistem yang terintergrasi antar kota. Setelah melakukan kunjungan, kami terus membangun komunikasi lewat jejaring sosial.
+    3. Walaupun ISAD memiliki banyak dokumentasi street art, belum ada sistem yang terintergrasi antar kota. Setelah melakukan kunjungan, kami terus membangun komunikasi lewat jejaring sosial.
 
  2. Dari rangkaian diskusi berkala yang telah diselenggarakan lima kali, ISAD melihat bahwa:
 
-  1. Pengetahuan tentang street art cukup menarik untuk dikaji lebih dalam oleh kalangan akademisi, peneliti, dan juga wartawan. Di sisi lain kami juga menyadari kurangnya tradisi diskusi tentang street art di Indonesia. Hal ini berpengaruh pada sedikitnya pelaku street art yang berpartisipasi. Meskipun demikian, tetap ada street artist yang berminat dan datang ke diskusi (50% peserta adalah street artist).
+    1. Pengetahuan tentang street art cukup menarik untuk dikaji lebih dalam oleh kalangan akademisi, peneliti, dan juga wartawan. Di sisi lain kami juga menyadari kurangnya tradisi diskusi tentang street art di Indonesia. Hal ini berpengaruh pada sedikitnya pelaku street art yang berpartisipasi. Meskipun demikian, tetap ada street artist yang berminat dan datang ke diskusi (50% peserta adalah street artist).
 
-  2. Rekaman diskusi yang dapat diakses publik sementara ini berupa audio, foto, dan teks. Kami menyadari bahwa rekaman video akan lebih baik. Untuk itu akan disediakan rekaman diskusi berupa video yang bisa diakses publik di periode selanjutnya.
+    2. Rekaman diskusi yang dapat diakses publik sementara ini berupa audio, foto, dan teks. Kami menyadari bahwa rekaman video akan lebih baik. Untuk itu akan disediakan rekaman diskusi berupa video yang bisa diakses publik di periode selanjutnya.
 
-  3. Di periode selanjutnya, tema diskusi akan fokus pada presentasi komunitas-komunitas pelaku street art itu sendiri. Karena ISAD melihat adanya kebutuhan bagi komunitas tersebut untuk saling membagi aktivitas yang telah mereka lakukan.
+    3. Di periode selanjutnya, tema diskusi akan fokus pada presentasi komunitas-komunitas pelaku street art itu sendiri. Karena ISAD melihat adanya kebutuhan bagi komunitas tersebut untuk saling membagi aktivitas yang telah mereka lakukan.
 
-  4. Kapasitas ruangan yang berukuran 3x7 meter hanya bisa menampung 25 orang. Jika peserta melebihi kapasitas, mereka mengambil tempat di luar ruangan.
+    4. Kapasitas ruangan yang berukuran 3x7 meter hanya bisa menampung 25 orang. Jika peserta melebihi kapasitas, mereka mengambil tempat di luar ruangan.
 
   5. Belum semua diskusi ditranskrip dan disertai rangkuman sehingga bisa diakses publik.
 
  3. Terkait dengan kedatangan kalangan peneliti dari dalam dan luar negeri, ISAD mendapat kesempatan untuk:
 
-  1. Memperluas jaringan
+    1. Memperluas jaringan
 
-  2. Berbagi informasi (data) ke kalangan yang lebih luas
+    2. Berbagi informasi (data) ke kalangan yang lebih luas
 
-  3. Menciptakan kemungkinan kerjasama di waktu yang akan datang
+    3. Menciptakan kemungkinan kerjasama di waktu yang akan datang
 
-  4. Dengan demikian ISAD perlu mempersiapkan informasi terkini (update) tentang aktivitas street art di Indonesia untuk dibagi kepada peneliti (visitors) yang datang. Selain itu, informasi ini seharusnya dapat diakses juga melalui website.
+    4. Dengan demikian ISAD perlu mempersiapkan informasi terkini (update) tentang aktivitas street art di Indonesia untuk dibagi kepada peneliti (visitors) yang datang. Selain itu, informasi ini seharusnya dapat diakses juga melalui website.
 
  4. Rencana ISAD untuk menggelar festival, pameran arsip, dan penghargaan ISAA (Indonesian Street Art Awards) kemungkinan besar akan diundur ditahun depan 2013. Karena kini kami mempunyai prioritas utama untuk memperkuat pembelajaran dasar tentang sistem database untuk membangun pondasi ISAD. Kini kami sedang mempelajari sistem database bersama Mas Idaman Andarmosoko dan didampingi Mba Gita Hastarika dan yang sejauh ini telah berlangsung sebanyak 3 sesi. Pelatihan ini membahas ER: Entitas dan Relasi untuk diterapkan ke dalam sistem database yang sesuai dengan kebutuhan ISAD. Dari sini kami telah coba membuat pemetaan sistem entitas dan relasi yang kami anggap sesuai. Pemetaan ini kemudian dibicarakan dan dievaluasi bersama-sama Mas Idaman dan Mba Gita Hastarika . Sesi selanjutnya adalah pembekalan tentang sistem online database. Ini sangat penting karena ISAD memiliki permasalahan dalam membangun sistem database online melalui website. ISAD sampai sekarang masih membuat pemetaan ER : Entitas dan Relasi yang sesuai dengan kebutuhan ISAD dan bisa diaplikasikan ke Sistem Pemrograman Website ISAD. Sampai saat ini ISAD juga masih berusaha berkonsultasi dan juga mencari programer untuk membangun website ISAD
 
