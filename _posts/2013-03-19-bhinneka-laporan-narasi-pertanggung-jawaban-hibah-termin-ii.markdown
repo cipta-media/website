@@ -78,3 +78,145 @@ Kedua, Antologi cerpen Sepasang Ballerina (tentang kisah-kisah LGBT) yang diterb
 Di Jakarta, pada tanggal 9 Maret 2013 di TIM.
 Di Surabaya, bedah buku diadakan pada tanggal 27 Febuari 2013 di SUTOS dan pada tanggal 9 Maret di GAYa NUSANTARA.
 5. Dari sms dan facebook, kami mendapat permintaan agar majalah Bhinneka terbit lagi.
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+
+A. Tersedianya materi untuk membangun toleransi dan pola berpikir kritis
+
+B. Tersedianya ruang untuk membangun toleransi dan pola berpikir kritis
+
+C. Ditiadakan
+
+D.1 Adanya kader untuk mempromosikan keberagaman (promotor)
+
+D.2 Adanya kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)
+
+Tujuan yang berhasil dicapai hingga saat ini:
+
+**A. Tersedianya majalah Bhinneka** dan berkembangnya diskusi-diskusi di facebook, seperti diskusi Pluralis dan Lingkar Puisi dan Prosa, yang mengajak para anggotanya memikirkan kemanusiaan dan berpikir lebih kritis. Hingga laporan ini ditulis, telah terbit 2 edisi majalah Bhinneka, dengan tema sebagai berikut:
+
+[Oktober 2012: Interpretasi Agama](http://issuu.com/bhinneka/docs/bhinneka-2012-10-interpretasi-agama)
+
+[Desember 2012: Perempuan Pemimpin](http://issuu.com/bhinneka/docs/bhinneka_edisi_014-perempuan_pemimpin__des_2012-we)
+
+Majalah Bhinneka sebelumnya :
+
+[Februari 2012: Tubuh dan Kekuasaan](http://issuu.com/bhinneka/docs/majalah-bhinneka-008-tubuh-dan-kekuasaan)
+
+[April 2012: Negara Sekuler](http://issuu.com/bhinneka/docs/majalah-bhinneka-009-negara-sekuler)
+
+[Juni 2012: Agama dan Kepercayaan di Indonesia](http://issuu.com/bhinneka/docs/bhinneka_edisi_011_-_agama_dan_kepercayaan__jun_20)
+
+[Agustus 2012: Gender, apakah itu?](http://issuu.com/bhinneka/docs/majalah-bhinneka-12-gender)
+
+**B. Hingga laporan ini ditulis, telah terlaksana** Kopdar di Surabaya dan diskusi di Jakarta. **Diskusi di Jakarta pada 3-5 November berhasil mengundang pembicara yang cukup andal, yaitu Musdah Mulia, Rocky Gerung dan Soe Tjen Marching, dengan jumlah hadirin sekitar 100 orang. Lomba cerpen dan puisi yang diadakan berhasil menelorkan 2 antologi yang mendapat sambutan luar biasa dari pembacanya. Dan Lembaga Bhinneka merencanakan akan membuat film dari Antologi „Sepasang Ballerina“ (bila mendapatkan dana lagi).**
+
+Bedah buku di Jakarta dan Surabaya juga mendapat sambutan yang cukup baik dan Lembaga Bhinneka mendapat masukan positif dari
+
+**Bedah buku di Jakarta dan Surabaya** juga mendapat sambutan yang cukup baik dan Lembaga Bhinneka mendapat masukan positif dari peserta bedah buku.
+
+**C. -**
+
+**D1. Kader untuk mempromosikan keberagaman (promotor)** bertambahnya anggota lembaga Bhinneka membuat kami lebih mudah mendapatkan kader, yang beberapa menjadi admin diskusi grup Facebook Bhinneka dan juga berperan aktif dalam kegiatan-kegiatan Lembaga Bhinneka, serta mempromosikannya lewat berbagai jaringan.
+
+**D2. Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)** bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah penulis puisi dan cerpen Shinta Miranda yang berhasil mengajak 4 orang lainnya untuk ikut aktif dalam Lembaga Bhinneka. Penambahan grup Facebook "[Lembaga Bhinneka Makassar dan sekitarnya](https://www.facebook.com/groups/BhinnekaMakassar/?ref=ts&fref=ts)“ untuk menjaring mereka-mereka yang di Makassar. Penambahan grup Facebook "[Lembaga Bhinneka Bengkulu dan sekitarnya](https://www.facebook.com/groups/BhinnekaBengkulu/?fref=ts)“ untuk menjaring mereka-mereka yang di Bengkulu.
+
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+Adanya perubahan staff, yaitu dengan keluarnya Daris Ilma. Namun ditambah oleh Shinta Miranda (sebagai koordinator Bhinneka Jakarta) dan Henny Herawati (pembantu bendahara), juga Ino sebagai koordinator Bhinneka Makassar.
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+Tidak ada
+
+Bagian berwarna abu abu diminta untuk dihilangkan karena pengulangan dari laporan sebelumnya, apabila ada pembelajaran baru harap dimasukkan dalam kolom hijau diatas, apabila tidak ada pembelajaran baru silahkan nyatakan tidak ada:
+
+    1. Belum ada staf khusus yang menangani bidang IT dan pengelolaan website hingga kini.
+    2. Strategi finansial supaya Lembaga Bhinneka lebih mandiri, telah diusahakan dengan penjualan buku antologi. Namun, masih belum ada strategi jangka panjang, karena keterbatasan dana.
+
+**6. Keberagaman**
+
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual:
+
+*Dari 25 Oktober, kami mendapat tambahan staff berikut (Orientasi seksual tidak disebutkan, karena privasi)*:
+
+* Shinta Miranda (Koordinator Bhinneka Jakarta)
+
+    Jenis kelamin: Perempuan
+
+    Pendidikan: S1
+
+    Umur: 53 tahun
+
+    Agama: Agnostik
+
+* Henny Herawati (Asisten Bendahara)
+
+    Jenis kelamin: Perempuan
+
+    Pendidikan: S1
+
+    Umur: 37 tahun
+
+    Agama: Kristen
+
+*(Karena kami banyak membahas isu gender dan perempuan, kebanyakan yang tertarik atau bersedia bekerja untuk Bhinneka adalah perempuan).*
+
+* Soe Tjen Marching (Direktur)
+
+    Jenis kelamin: Perempuan
+
+    Orientasi: Hetero
+
+    Pendidikan: S3, Asian Studies - Monash University
+
+    Umur: 41 tahun
+
+    Agama: -
+
+* Phebe Anggreani (Manager Program dan Bendahara)
+
+    Jenis Kelamin: Perempuan
+
+    Orientasi: Bisex
+
+    Pendidikan: Grafik Desain, Minneapolis Community & Technical College
+
+    Umur: 34 tahun
+
+    Agama: -
+
+* Vinsensius Kristianto Batuadji (Asisten Manager Program)
+
+    Jenis kelamin: Lelaki
+
+    Orientasi: Hetero
+
+    Pendidikan: S2 Psikologi Universitas Gadjah Mada
+
+    Umur: 29 tahun
+
+    Agama: Katolik
+
+**7. Laporan keuangan**
+
+Silahkan masukkan pranala laporan keuangan anda disini
+
+http://www.ciptamedia.org/wiki/Bhinneka:_Keberagaman_dan_Kesetaraan_Tanpa_Batas/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Surabaya, 19 Maret 2013
+
+
+Soe Tjen Marching

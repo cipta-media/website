@@ -3,6 +3,8 @@ title: Bhinneka - Proposal Lengkap
 date: 2017-03-24 16:36:00 +07:00
 ---
 
+![150px-Bhinneka.jpg](/uploads/150px-Bhinneka.jpg){: .img-responsive .center-block }
+
 **Bhinneka: Keberagaman dan Kesetaraan Tanpa Batas**
 
 *Permohonan proposal Bhinneka mendapatkan penajaman dan satu revisi berdasarkan konsultasi dengan tim penasehat*
