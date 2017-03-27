@@ -72,17 +72,17 @@ Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat s
 
 **Latar belakang:**
 
-a.Keterkaitan pada topik: Meretas batas – kebhinekaan bermedia
+**a.Keterkaitan pada topik: Meretas batas – kebhinekaan bermedia**
 
 Indonesia memegang filosofi keberagaman yang tertuang dalam semboyan “Bhinneka Tunggal Ika”. Tetapi, gerak pendulum keberagaman Indonesia berada di tengah ancaman karena begitu banyak organisasi fundamentalis yang menunjukkan taringnya.
 
-b. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+**b. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
 
 1. Wacana fundamentalisme semakin menyebar dan sekarang telah merambat ke sekolah-sekolah serta universitas. Telah banyak buku-buku dan majalah murah (bahkan gratis) yang didanai organisasi fundamentalis, untuk mempromosikan ideologi keagamaan mereka, dan berhasil menarik simpati massa.
 2. Beberapa Jurnal atau majalah yang memperjuangkan pluralisme di Indonesia, seringkali terlihat eksklusif, jangkauannya terbatas dan terkadang cukup mahal, sehingga media seperti ini tidak membawa perubahan yang mendasar di masyarakat.
 3. Beberapa kelompok masyarakat menghubungkan keberagaman (terutama seksual) dengan budaya Barat sehingga mereka menolak wacana keberagaman.
 
-c. Keterkaitan pada kategori:Aksi, Strategi Kreatif
+**c. Keterkaitan pada kategori:Aksi, Strategi Kreatif**
 
   **Aksi**
 
@@ -94,7 +94,7 @@ c. Keterkaitan pada kategori:Aksi, Strategi Kreatif
 
   Menggunakan pendekatan populer sekaligus kritis sehingga masyarakat lebih tertarik dengan isu keberagaman. Mencoba mendekati masyarakat lewat layanan yang diperlukan oleh mereka, seperti informasi lowongan kerja, informasi bea-siswa, dan biro jodoh sehingga mereka tidak merasa didoktrinasi oleh lembaga Bhinneka. Dengan cara ini, kami berharap bisa mempengaruhi pola berpikir masyarakat secara tidak langsung.
 
-d. Aktifitas dan keterkaitan pada sasaran
+**d. Aktifitas dan keterkaitan pada sasaran**
 
   * Kontribusi untuk sasaran A – Menerbitkan majalah Bhinneka yang dibagikan gratis, mengaktifkan grup-grup diskusi di Facebook.
 
