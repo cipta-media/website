@@ -182,79 +182,79 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
   ISAD memiliki staf yang beragam mulai dari segi usia, latar belakang pendidikan, hingga jenis kelamin. Hal ini memperkaya pemikiran satu sama lain. Berikut adalah komposisinya:
   
-1. Andi Riyanto (Andi RHARHARHA)
+  1. Andi Riyanto (Andi RHARHARHA)
 
-  Jenis kelamin : Pria
+    Jenis kelamin : Pria
   
-  Posisi : Direktur ISAD
+    Posisi : Direktur ISAD
   
-  Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
   
-  Profesi : Seniman, street artist, periset, networker
+    Profesi : Seniman, street artist, periset, networker
 
-  Agama : Katolik
+    Agama : Katolik
 
-  Preferensi seksual : Heteroseksual
+    Preferensi seksual : Heteroseksual
 
-2. Maya Santoso
+  2. Maya Santoso
 
-  Jenis kelamin : Wanita
+    Jenis kelamin : Wanita
 
-  Posisi : Manajer keuangan
+    Posisi : Manajer keuangan
 
-  Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
 
-  Profesi : Manajer komunikasi
+    Profesi : Manajer komunikasi
 
-  Agama : Katolik
+    Agama : Katolik
  
-  Preferensi seksual : Heteroseksual
+    Preferensi seksual : Heteroseksual
 
-3. Syaiful Ardianto
+  3. Syaiful Ardianto
 
-  Jenis kelamin : Pria
+    Jenis kelamin : Pria
 
-  Posisi : Periset media
+    Posisi : Periset media
 
-  Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+    Pendidikan : Sarjana Seni Institut Kesenian Jakarta
 
-  Profesi : Seniman, steet artist
+    Profesi : Seniman, steet artist
 
-  Agama : Islam
+    Agama : Islam
 
-  Preferensi seksual : Heteroseksual
+    Preferensi seksual : Heteroseksual
 
-4. Isrol Triono
+  4. Isrol Triono
 
-  Jenis kelamin : Pria
+    Jenis kelamin : Pria
   
-  Posisi : Pengarsipan
+    Posisi : Pengarsipan
 
-  Pendidikan : SMK Pancasila Sakti, Jakarta
+    Pendidikan : SMK Pancasila Sakti, Jakarta
 
-  Profesi : Seniman, street artist
+    Profesi : Seniman, street artist
 
-  Agama : Islam
+    Agama : Islam
 
-  Preferensi seksual : Heteroseksual
+    Preferensi seksual : Heteroseksual
 
-5. Ira Humairah
+  5. Ira Humairah
 
-  Jenis kelamin: Perempuan
+    Jenis kelamin: Perempuan
 
-  Posisi: Manager Database
+    Posisi: Manager Database
 
-  Pendidikan: Mahasiswa Institut Kesenian Jakarta
+    Pendidikan: Mahasiswa Institut Kesenian Jakarta
 
-  Profesi: Mahasiswa
+    Profesi: Mahasiswa
 
-  Agama: Islam
+    Agama: Islam
 
 **7. Laporan keuangan**
 
 Silahkan masukkan pranala laporan keuangan anda disini
 
-http://www.ciptamedia.org/wiki/Indonesian_Street_Art_Database/Laporan_Penggunaan_Dana
+[http://www.ciptamedia.org/wiki/Indonesian_Street_Art_Database/Laporan_Penggunaan_Dana](http://www.ciptamedia.org/wiki/Indonesian_Street_Art_Database/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 
