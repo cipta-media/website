@@ -182,7 +182,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
   ISAD memiliki staf yang beragam mulai dari segi usia, latar belakang pendidikan, hingga jenis kelamin. Hal ini memperkaya pemikiran satu sama lain. Berikut adalah komposisinya:
   
-  1. Andi Riyanto (Andi RHARHARHA)
+ 1. Andi Riyanto (Andi RHARHARHA)
 
   Jenis kelamin : Pria
   
@@ -196,7 +196,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
   Preferensi seksual : Heteroseksual
 
-  2. Maya Santoso
+ 2. Maya Santoso
 
   Jenis kelamin : Wanita
 
@@ -209,8 +209,8 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
   Agama : Katolik
  
   Preferensi seksual : Heteroseksual
-  
-  3. Syaiful Ardianto
+
+ 3. Syaiful Ardianto
 
   Jenis kelamin : Pria
 
@@ -224,7 +224,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
   Preferensi seksual : Heteroseksual
 
-  4. Isrol Triono
+ 4. Isrol Triono
 
   Jenis kelamin : Pria
   
@@ -238,7 +238,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
   Preferensi seksual : Heteroseksual
 
-  5. Ira Humairah
+ 5. Ira Humairah
 
   Jenis kelamin: Perempuan
 
