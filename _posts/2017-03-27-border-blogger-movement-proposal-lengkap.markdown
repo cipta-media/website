@@ -78,3 +78,51 @@ E. Transparansi proyek dan penggunaan dana hibah.
     Dalam kondisi seperti ini hampir tidak mungkin diharapkan tumbuhnya rasa kebangsaan dan nasionalisme, karena masyarakat perbatasan merasa dianaktirikan dan hanya menjadi penonton dalam penyelenggaraan negara. Ini dibuktikan dengan sejumlah kasus yang terjadi di perbatasan, misalnya indikasi pencaplokan wilayah RI di Dusun Camar Bulan di Kabupaten Sambas oleh Malaysia, Pengibaran Bendera Malaysia oleh warga Mungguk Gelumbang, di Kabupaten Sintang, 60% warga Puring Kencana punya KTP Malaysia, ratusan warga Entikong pindah kewarganegaraan.
 
     Proyek ini juga diharapkan bisa menjadi saluran kepada para warga perbatasan untuk bersuara, dengan cara yang mudah, murah, meriah dan langsung. Sehingga pemerintah, maupun para pengambil keputusan bisa mengetahui lebih dini persoalan-persoalan yang terjadi di perbatasan dari masyarakat secara langsung, bukan cuma berdasarkan laporan para birokrat dan pejabat yang syarat dengan kepentingan politik, kelompok dan golongan.
+
+* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+
+**Aksi**
+
+  Peningkatan kapasitas kepada 45 blogger yang perbatasan yaitu Kabupaten Sambas (Kecamatan Paloh, Kecamatan Sajingan Besar), Kabupaten Bengkayang (Kecamatan Jagoi Babang dan Kecamatan Siding), Kabupaten Sanggau (Kecamatan Entikong dan Kecamatan Sekayam), Kabupaten Sintang (Kecamatan Ketungau Hulu dan Ketungau Tengah), Kabupaten Kapuas Hulu (Kecamatan Puring Kencana, Kecamatan Badau, Kecamatan Batang Lupar, Kecamatan Embaloh Hulu, Kecamatan Putussibau, Kecamatan Kedamin, dan Kecamatan Empanang) yang akan menjadi admin weblog kecamatan dan trainer bagi blogger di kecamatan masing-masing. Mereka juga akan menjadi sumbu informasi bagi para informan di wilayah masing-masing.
+
+**Strategi Kreatif**
+
+  Dalam melaksanakan proyek ini BBC:
+  * Menggunakan tools Jurnalisme Kampung, yaitu gerakan jurnalisme warga yang menekankan pada local content dengan modifikasi rumus 5W+H yang dikirim dengan SMS/MMS melalui handphone, jejaring sosial (FB, TWT, dll) baik berupa gambar, video, audio dan teks.
+  * Penggunakan pendekatan perubahan mindset dan prilaku di mana diciptakan lingkungan yang kompetitif serta belajar bersama antara para blogger perbatasan agar mereka memahami manfaat weblog, multimedia melalui internet, sehingga mereka bisa menjadi wartawan kampung perbatasan yang berwawasan global dan sekaligus menjadi trainer bagi blogger-blogger perbatasan.
+
+* D. Aktivitas dan keterkaitan pada sasaran
+
+  * Kontribusi untuk sasaran A – propaganda program kepada publik, termasuk kepada para pemangku jabatan public di perbatasan Kalimantan Barat (Indonesia) dengan Sarawak (Malaysia).
+
+Aktivitas:
+
+Langsung turun ke lapangan (15 Kecamatan), bertemu oudiens yang terdiri dari para pemangku kebijakan di tingkat desa (Aparatur Desa), Badan Pengelolaan Perbatasan dan Kerjasama (BPPK) Kalimantan Barat, anggota DPRD, Forum Peduli perbatasan, NGO yang bekerja untuk isu perbatasan, blogger dan blogger potensial, facebooker. Tujuannya dari aktivitas ini adalah untuk mendapatkan dukungan public dan meningkatkan jumlah blogger yang peduli terhadap isu-isu perbatasan.
+
+Kontribusi untuk sasaran B – Meningkatkan kemampuan 45 blogger perbatasan Kalimantan Barat di bidang jurnalisme kampung.
+
+Aktivitas:
+
+Training Jurnalisme Kampung kepada 45 blogger perbatasan.
+Training kepenulisan (termasuk tutorial bagaimana menggunakan format 5W+H via SMS melalui handphone)
+Training fotografi dan videomaker
+Training weblog, media social (FB, Twitter, dll) tutorial.
+Mengingat jumlah peserta cukup banyak, maka untuk evektititas pelatihan dibagi menjadi 2 gelombang, yaitu kelas untuk peserta dari daerah perbatasan tengah dan Utara Kalimantan Barat. Gelombang kedua untuk peserta dari perbatasan wilayah Timur Kalimantan Barat.
+
+Kontribusi untuk sasaran C - Membuat satu situs aggregate web blogger perbatasan dan 45 weblog warga perbatasan Kalimantan Barat.
+
+Aktivitas:
+
+Developing (design, domain dan hosting, setting serta maintenance) web aggregate perbatasan. Konten web aggregate berasal dari konten minimal 45 weblog perbatasan yang terintegrasi secara otomatis. (Sedangkan 45 weblog perbatasan tidak dibeli, karena menggunakan platform blogspot dengan kreativitas design masing-masing).
+
+Kontribusi untuk sasaran D - Mengidentifikasi karya, praktik terbaik dan potensi-potensi baru para blogger peduli perbatasan.
+
+Aktivitas:
+
+Mengadakan lomba menulis, foto, dan video bagi blogger perbatasan sebagai praktik terbaik (best practice) selama program berjalan untuk dijadikan buku karya jurnalisme kampung warga perbatasan. Karya-karya ini akan dijadikan video, buku (print) dan juga e-book yang bisa diunduh diinternet.
+
+Kontribusi untuk sasaran E - Transparansi proyek dan penggunaan dana hibah.
+
+Aktivitas:
+
+monitoring dan evaluasi serta pelaporan narasi, keuangan dana hibah proyek.
