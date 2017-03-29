@@ -194,6 +194,42 @@
                 <hr>
             {% endfor %}
         
+        {% elsif page.title == 'MK-160 - Media Komunitas 160 Karakter' %}
+        
+            {% for post in site.categories['MK-160 - Media Komunitas 160 Karakter'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Tidak Bermula [Dan Tidak Berakhir] Dengan Berita' %}
+        
+            {% for post in site.categories['Tidak Bermula [Dan Tidak Berakhir] Dengan Berita'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan' %}
+        
+            {% for post in site.categories['Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+        {% elsif page.title == 'Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas' %}
+        
+            {% for post in site.categories['Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
         {% endif %}
         
     </div>
