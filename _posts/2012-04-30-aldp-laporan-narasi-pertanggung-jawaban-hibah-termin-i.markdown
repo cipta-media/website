@@ -1,6 +1,9 @@
 ---
 title: ALDP - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-04-30 14:18:00 +07:00
+categories:
+- laporan
+- 'Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
 ---
 
 **Laporan Narasi Pertanggung Jawaban Hibah**
