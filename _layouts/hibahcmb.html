@@ -185,6 +185,15 @@
                 <hr>
             {% endfor %}
         
+        {% elsif page.title == 'Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi' %}
+        
+            {% for post in site.categories['Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi'] %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
         {% endif %}
         
     </div>
