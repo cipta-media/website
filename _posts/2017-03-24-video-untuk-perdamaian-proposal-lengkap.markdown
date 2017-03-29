@@ -1,6 +1,9 @@
 ---
 title: Video untuk Perdamaian - Proposal Lengkap
 date: 2017-03-24 20:33:00 +07:00
+categories:
+- laporan
+- Video untuk Perdamaian
 ---
 
 ![Video_untuk_perdamaian.jpg](/uploads/Video_untuk_perdamaian.jpg){: .img-responsive .center-block }
