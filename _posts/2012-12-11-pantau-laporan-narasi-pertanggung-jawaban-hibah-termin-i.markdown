@@ -45,7 +45,7 @@ Selain itu, pada pelaksanaan survey, Pantau menemukan dua interviewer yang melak
 
   Dalam penggarapan laporan ini, Pantau melakukan dua cara, yaitu: melaporkan laporan keseluruhan survey dan mencuplik bagian-bagian penting dari laporan untuk ditulis di media untuk mengetahui reaksi publik.
 
-  Untuk hal ini Pantau menulis untuk Jurnal Indoprogres dan Jurnal Ma’arif Institute untuk audien berbahasa Indonesia dan The Jakarta Globe untuk audien berbahasa Inggris.
+  Untuk hal ini Pantau menulis untuk Jurnal [Indoprogres](http://indoprogress.com/2012/05/02/syariat-islam-mimpi-buruk-kaum-minoritas/) dan Jurnal Ma’arif Institute untuk audien berbahasa Indonesia dan [The Jakarta Globe](http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471) untuk audien berbahasa Inggris.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
