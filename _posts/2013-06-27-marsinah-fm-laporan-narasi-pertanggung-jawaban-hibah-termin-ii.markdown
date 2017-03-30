@@ -209,7 +209,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
 Silahkan masukkan pranala laporan keuangan anda disini
 
-http://ciptamedia.org/wiki/Templat:MarsinahFM-Termin2
+[http://ciptamedia.org/wiki/Templat:MarsinahFM-Termin2](http://ciptamedia.org/wiki/Templat:MarsinahFM-Termin2)
 
 **8. Pengesahan**
 
