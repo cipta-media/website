@@ -3,8 +3,8 @@ title: Kartunet - Laporan Narasi Pertanggung Jawaban Hibah
 date: 2012-12-31 14:38:00 +07:00
 categories:
 - laporan
-- 'Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan
-  Disabilitas'
+- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan
+  Disabilitas
 ---
 
 **Kartunet**
