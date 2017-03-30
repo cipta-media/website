@@ -146,7 +146,7 @@ Tuliskan tantangan perbedaan budaya antara komunitas Orang Rimba dengan masyarak
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-  http://www.ciptamedia.org/wiki/Benor_FM/Laporan_Penggunaan_Dana
+[http://www.ciptamedia.org/wiki/Benor_FM/Laporan_Penggunaan_Dana](http://www.ciptamedia.org/wiki/Benor_FM/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 

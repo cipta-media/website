@@ -116,7 +116,7 @@ Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yan
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-http://ciptamedia.org/wiki/Border_Blogger_Movement/Laporan_Penggunaan_Dana
+[http://ciptamedia.org/wiki/Border_Blogger_Movement/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Border_Blogger_Movement/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 

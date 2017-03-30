@@ -245,7 +245,7 @@ Agama: Islam
 
 Silahkan masukkan pranala laporan keuangan anda disini:
 
-http://www.ciptamedia.org/wiki/Bhinneka:_Keberagaman_dan_Kesetaraan_Tanpa_Batas/Laporan_Penggunaan_Dana
+[http://www.ciptamedia.org/wiki/Bhinneka:_Keberagaman_dan_Kesetaraan_Tanpa_Batas/Laporan_Penggunaan_Dana](http://www.ciptamedia.org/wiki/Bhinneka:_Keberagaman_dan_Kesetaraan_Tanpa_Batas/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 
