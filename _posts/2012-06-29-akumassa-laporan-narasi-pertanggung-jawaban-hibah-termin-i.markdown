@@ -125,8 +125,10 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 * Tidak ada perubahan. Komposisi gender adalah 60 % pria dan 40% wanita.
 
 **7. Laporan keuangan**
-Silahkan masukkan pranala laporan keuangan anda disini:
-http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana
+
+  Silahkan masukkan pranala laporan keuangan anda disini:
+
+[http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
