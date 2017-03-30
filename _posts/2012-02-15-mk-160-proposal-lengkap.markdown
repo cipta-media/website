@@ -3,7 +3,7 @@ title: MK-160 - Proposal Lengkap
 date: 2012-02-15 15:45:00 +07:00
 categories:
 - laporan
-- 'MK-160 : Media Komunitas 160 Karakter'
+- MK-160 - Media Komunitas 160 Karakter
 ---
 
 ![MK-160_Media_Komunitas_160_Karakter.jpg](/uploads/MK-160_Media_Komunitas_160_Karakter.jpg){: .img-responsive .center-block }

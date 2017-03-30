@@ -3,7 +3,7 @@ title: MK-160 - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-10-15 16:22:00 +07:00
 categories:
 - laporan
-- 'MK-160 : Media Komunitas 160 Karakter'
+- MK-160 - Media Komunitas 160 Karakter
 ---
 
 **Media Komunitas 160 Karakter**
