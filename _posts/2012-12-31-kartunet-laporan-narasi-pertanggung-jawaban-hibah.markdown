@@ -214,7 +214,9 @@ Dalam tim pelaksana proyek, mulai berkembang dari yang tadinya hamper semua tuna
 
 **7. Laporan keuangan**
 
-Silahkan masukkan pranala laporan keuangan anda disini
+Silahkan masukkan pranala laporan keuangan anda disini:
+
+[http://ciptamedia.org/wiki/Kartunet.com/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Kartunet.com/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 
