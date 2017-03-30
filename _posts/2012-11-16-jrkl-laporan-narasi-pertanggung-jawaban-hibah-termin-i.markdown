@@ -159,7 +159,7 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 **7. Laporan keuangan**
 
   Silahkan masukkan pranala laporan keuangan anda disini:
- http://ciptamedia.org/wiki/Ibu_Rumah_Tangga_Perdesaan_“Melek”_Media_untuk_Peningkatan_Partisipasi_Perempuan_dan_Pemenuhan_Kebutuhan_Informasi/Laporan_Penggunaan_Dana
+ [http://ciptamedia.org/wiki/Ibu_Rumah_Tangga_Perdesaan_“Melek”_Media_untuk_Peningkatan_Partisipasi_Perempuan_dan_Pemenuhan_Kebutuhan_Informasi/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Ibu_Rumah_Tangga_Perdesaan_“Melek”_Media_untuk_Peningkatan_Partisipasi_Perempuan_dan_Pemenuhan_Kebutuhan_Informasi/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 

@@ -106,7 +106,7 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
 
   Silahkan masukkan pranala laporan keuangan anda disini
 
-  http://www.ciptamedia.org/wiki/Hpku-Teman_Belajarku/Laporan_Penggunaan_Dana
+  [http://www.ciptamedia.org/wiki/Hpku-Teman_Belajarku/Laporan_Penggunaan_Dana](http://www.ciptamedia.org/wiki/Hpku-Teman_Belajarku/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 

@@ -120,7 +120,7 @@ F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijak
 
   Silahkan masukkan pranala laporan keuangan anda disini
 
-  http://ciptamedia.org/wiki/Templat:JRKL-Termin2
+  [http://ciptamedia.org/wiki/Templat:JRKL-Termin2](http://ciptamedia.org/wiki/Templat:JRKL-Termin2)
 
 **8. Pengesahan**
 
