@@ -140,7 +140,7 @@ lengkap Survey Persepsi Wartawan Indonesia Terhadap Islam 2012.
 **7. Laporan keuangan**
 
   Silahkan masukkan pranala laporan keuangan anda disini:
- http://ciptamedia.org/wiki/Follow_up_Survey_Persepsi_Wartawan_Indonesia_Terhadap_Islam/Laporan_Penggunaan_Dana
+ [http://ciptamedia.org/wiki/Follow_up_Survey_Persepsi_Wartawan_Indonesia_Terhadap_Islam/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Follow_up_Survey_Persepsi_Wartawan_Indonesia_Terhadap_Islam/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 
