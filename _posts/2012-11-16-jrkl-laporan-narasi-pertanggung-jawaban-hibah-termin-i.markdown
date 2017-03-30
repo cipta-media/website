@@ -5,6 +5,7 @@ categories:
 - laporan
 - Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan
   dan Pemenuhan Kebutuhan Informasi
+permalink: /laporan-termin-1/jrkl/
 ---
 
 **Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi**
