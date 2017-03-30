@@ -1,5 +1,5 @@
 ---
-title: LenteraTimur - Proposal Lengkap
+title: LenteraTimur.com - Proposal Lengkap
 date: 2012-01-16 07:02:00 +07:00
 categories:
 - laporan

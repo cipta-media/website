@@ -1,5 +1,5 @@
 ---
-title: LenteraTimur - Laporan Narasi Pertanggung Jawaban Hibah Termin I
+title: LenteraTimur.com - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-12-10 07:34:00 +07:00
 categories:
 - laporan
