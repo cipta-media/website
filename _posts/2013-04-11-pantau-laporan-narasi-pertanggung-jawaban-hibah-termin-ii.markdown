@@ -129,11 +129,11 @@ melakukan aktivitas jurnalistik,”
   3. [http://www.thejakartapost.com/news/2013/02/10/journalists-tested-knowledge-islam.html](http://www.thejakartapost.com/news/2013/02/10/journalists-tested-knowledge-islam.html)
   4. [http://indoprogress.com/syariat-islam-mimpi-buruk-kaum-minoritas/](http://indoprogress.com/syariat-islam-mimpi-buruk-kaum-minoritas/)
   5. [http://tv.riaupos.co/video.php?act=play&id=3601#.UWVNuSspadM](http://tv.riaupos.co/video.php?act=play&id=3601#.UWVNuSspadM)
-  6. http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471
-  7. Halaman 10? http://pekanbaru.tribunnews.com/epaper/
-  8. http://suarausu.co/index.php?option=com_content&view=article&id=1477%3Amenulis-jurnalisme-narasi-ibarat-membuat-film&catid=35%3Aberita-kota&Itemid=18
-  9. http://www.balairungpress.com/2013/03/jurnalis-agama-dan-bias-pemberitaan/
-  10. http://lpmhimmahuii.org/konservatisme-menyentuh-kalangan-wartawan/
+  6. [http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471](http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471)
+  7. Halaman 10? [http://pekanbaru.tribunnews.com/epaper/](http://pekanbaru.tribunnews.com/epaper/)
+  8. [http://suarausu.co/index.php?option=com_content&view=article&id=1477%3Amenulis-jurnalisme-narasi-ibarat-membuat-film&catid=35%3Aberita-kota&Itemid=18](http://suarausu.co/index.php?option=com_content&view=article&id=1477%3Amenulis-jurnalisme-narasi-ibarat-membuat-film&catid=35%3Aberita-kota&Itemid=18)
+  9. [http://www.balairungpress.com/2013/03/jurnalis-agama-dan-bias-pemberitaan/](http://www.balairungpress.com/2013/03/jurnalis-agama-dan-bias-pemberitaan/)
+  10. [http://lpmhimmahuii.org/konservatisme-menyentuh-kalangan-wartawan/](http://lpmhimmahuii.org/konservatisme-menyentuh-kalangan-wartawan/)
   11. http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html
   12. http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/
   13. http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan
