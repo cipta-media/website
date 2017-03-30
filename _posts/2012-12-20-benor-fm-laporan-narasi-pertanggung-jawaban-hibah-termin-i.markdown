@@ -1,6 +1,10 @@
 ---
 title: Benor FM - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-12-20 14:39:00 +07:00
+categories:
+- laporan
+- "“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar
+  Orang Rimba"
 ---
 
 **KKI Warsi**
