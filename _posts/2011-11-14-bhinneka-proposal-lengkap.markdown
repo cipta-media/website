@@ -1,6 +1,9 @@
 ---
 title: Bhinneka - Proposal Lengkap
-date: 2017-03-24 16:36:00 +07:00
+date: 2011-11-14 16:36:00 +07:00
+categories:
+- laporan
+- 'Bhinneka: Keberagaman dan Kesetaraan Tanpa Batas'
 ---
 
 ![150px-Bhinneka.jpg](/uploads/150px-Bhinneka.jpg){: .img-responsive .center-block }

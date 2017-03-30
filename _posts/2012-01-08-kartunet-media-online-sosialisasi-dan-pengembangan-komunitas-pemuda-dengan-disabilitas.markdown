@@ -1,6 +1,10 @@
 ---
 title: Kartunet - Proposal Lengkap
-date: 2017-03-22 12:52:00 +07:00
+date: 2012-01-08 12:52:00 +07:00
+categories:
+- laporan
+- 'Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan
+  Disabilitas'
 ---
 
 ![250px-Kartunet.gif](/uploads/250px-Kartunet.gif){: .img-responsive .center-block }

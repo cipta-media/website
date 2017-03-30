@@ -1,6 +1,9 @@
 ---
 title: LenteraTimur - Laporan Narasi Pertanggung Jawaban Hibah Termin II
-date: 2017-03-23 09:00:00 +07:00
+date: 2013-03-11 09:00:00 +07:00
+categories:
+- laporan
+- LenteraTimur.com – Menyigi Identitas Indonesia
 ---
 
 **Laporan Narasi Pertanggung Jawaban Hibah**

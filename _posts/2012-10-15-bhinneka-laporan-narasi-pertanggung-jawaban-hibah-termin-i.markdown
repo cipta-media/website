@@ -1,6 +1,9 @@
 ---
 title: Bhinneka - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-10-15 12:57:00 +07:00
+categories:
+- laporan
+- 'Bhinneka: Keberagaman dan Kesetaraan Tanpa Batas'
 ---
 
 **Lembaga Bhinneka**

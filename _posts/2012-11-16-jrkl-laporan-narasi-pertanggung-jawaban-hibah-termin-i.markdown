@@ -1,9 +1,6 @@
 ---
 title: JRKL - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-11-16 11:40:00 +07:00
-categories:
-- laporan
-- Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi
 ---
 
 **Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi**
@@ -103,20 +100,70 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 
 **4. Tujuan dan Sasaran**
 
-Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai
+  Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai
 
-Sasaran-sasaran yang diharapkan dapat dicapai
+  Sasaran-sasaran yang diharapkan dapat dicapai:
 
-A. Terlibatnya ibu rumah tangga dalam kelompok pemantau tayangan TV berbasis “dasa wisma” dalam pemantauan dan pengkritisan tayangan TV.
+  A. Terlibatnya ibu rumah tangga dalam kelompok pemantau tayangan TV berbasis “dasa wisma” dalam pemantauan dan pengkritisan tayangan TV.
 
-B. Terwadahinya keterlibatan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV dalam Forum Pemantau Media dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media yang bersinergi dengan kelompok pemantau tayangan TV di tempat lain (nasional).
+  B. Terwadahinya keterlibatan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV dalam Forum Pemantau Media dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media yang bersinergi dengan kelompok pemantau tayangan TV di tempat lain (nasional).
 
-C. Tersedianya ruang bagi ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV, kampanye hak masyarakat terhadap tayangan TV yang berkualitas di Pedesaan.
+  C. Tersedianya ruang bagi ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV, kampanye hak masyarakat terhadap tayangan TV yang berkualitas di Pedesaan.
 
-D. Tersampaikannya hasil pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media kepada KPID dan KPI dalam melakukan pengawasan lembaga penyiaran serta kepada Lembaga Penyiaran TV sebagai referensi perbaikan kualitas tayangan TV.
+  D. Tersampaikannya hasil pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media kepada KPID dan KPI dalam melakukan pengawasan lembaga penyiaran serta kepada Lembaga Penyiaran TV sebagai referensi perbaikan kualitas tayangan TV.
 
-E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu rumah tangga perdesaan dan Forum Pemantau Media sebagai bahan refresensi pengaplikasian kerja pemantauan tayangan TV di lokasi lain.
+  E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu rumah tangga perdesaan dan Forum Pemantau Media sebagai bahan refresensi pengaplikasian kerja pemantauan tayangan TV di lokasi lain.
 
-F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
+  F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
 
-Tujuan yang berhasil dicapai hingga saat ini
+  Tujuan yang berhasil dicapai hingga saat ini:
+
+  1. Terlibatnya ibu rumah tangga dalam kelompok pemantau tayangan TV berbasis “dasa wisma” dalam pemantauan dan pengkritisan tayangan TV. Berbasis dasa wisma yang dimaksud adalah di setiap desa terdapat kelompok ibu-ibu PKK yang beranggotakan 10 orang dari 10 rumahtangga. Dalam prakteknya, JRKL telah memfasilitasi 50 orang ibu rumahtangga perdesaan untuk memahami dan memiliki kemampuan literasi TV, sehingga jika dikaitkan dengan dasa wisma maka dapat dilakukan persebaran pengetahuan ke 25 dasa wisma (setiap dasa wisma dilibatkan 2 orang) atau 500 orang ibu rumahtangga perdesaan. Pendekatan menggunakan dasa wisma dirasa efektif karena secara rutin kelompok ini berkumpul dan berbagi pengetahuan. Jika masing-masing wilayah melibatkan 25 dasa wisma maka untuk 2 wilayah proyek telah melibatkan 500 orang ibu rumahtangga perdesaan. Selain itu, diskusi terarah yang rutin dilakukan JRKL melibatkan tidak hanya 2 orang anggota dasa wisma yang telah didik, tetapi juga melibatkan anggota dasa wisma lainnya dan beberapa kelompok dasa wisma digabungkan.
+  2. Terwadahinya keterlibatan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV dalam Forum Pemantau Media dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media yang bersinergi dengan kelompok pemantau tayangan TV di tempat lain (nasional). Hasil pemantauan dan pelaporan tayangan TV ibu-ibu rumahtangga secara rutin disiarkan di rakom, bahkan bagi ibu-ibu yang ingin melaporkan tetapi terkendala HP, rakom menyediakan formulir pelaporan yang dapat diisi oleh ibu-ibu. Selain itu, kelompok ibu-ibu rumahtangga yang difasilitasi oleh JRKL intens berkomunikasi dengan KPID Lampung, baik secara formal maupun non formal. Pada pendidikan instrumen pemantauan media untuk ibu-ibu rumahtangga perdesaan, 1 orang komisioner KPID Lampung memfasilitasi 3 pendidikan di 2 wilayah proyek. Puncaknya adalah audiensi dengan KPID Lampung saat peringatan hari tanpa TV, dimana ibu-ibu rumahtangga perdesaan berbagai pengalaman dengan KPID Lampung. ibu-ibu rumahtangga perdesaan juga dilibatkan oleh KPID Lampung untuk berbagi pengalaman pada saat KPID Lampung memberikan sosialisasi tayangan TV sehatr di daerah lain di Lampung.Kampanye masyarakat dilakukan dalam bentuk sosialisasi tayangan TV sehat ke sekolah dan kelompok masyarakat lainnya. Dalam setiap sosialisasi, JRKL melibatkan minimal 2 orang ibu-ibu rumahtangga perdesaan, 2 orang pegiat radio komunitas sebagai fasilitator sosialisasi.Untuk mensinergikan dengan kelompok pemantauan lain, saat ini JRKL dan kelompok pemantauan tayangan TV baru terhubung dengan FPM, Yogyakarta dan Koalisi Gugat TV. Bentuk sinergi baru pada pertukaran informasi kegiatan, pengetahuan, buku-buku, majalah dan materi kampanye lainnya.
+  3. Tersedianya ruang bagi ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV, kampanye hak masyarakat terhadap tayangan TV yang berkualitas di Pedesaan. JRKL dan radio komunitas (rakom) menyediakan 1 jam siar untuk siaran kelompok ibu-ibu rumahtangga perdesaan untuk membahas dampak dan bentuk-bentuk tayangan TV yang sehat untuk keluarga mereka. Setiap siaran sepenuhnya menggunakan ibu-ibu rumahtangga perdesaan sebagai narasumber. Selain itu, SMS center yang disediakan oleh CMB dimanfaatkan oleh ibu-ibu rumahtangga perdesaan sebagai sarana pengaduan tayangan TV yang menurut mereka tidak layak. Untuk ibu-ibu rumahtangga perdesaan yang tidak memeiliki HP, rakom menyediakan formulir yang dapat diisi dengan pengaduan.
+  4. Penyampaian hasil pemantauan tayangan TV yang dilakukan baru pada tahap pengumpulan SMS dan formulir. Pelaporan ke KPID Lampung terkendala kewenangan dari KPID Lampung. Pelaporan tayangan TV dari stasiun Nasional mesti langsung ditujukan kepada KPI pusat. Saat ini materi pengaduan sedang disusun.
+  5. Pelaporan pemantauan tayangan TV yang dilakukan ibu-ibu rumahtangga perdesaan yang terkumpul dan dilaporkan ke http://lapor.ciptamedia.org/reports/ sebanyak 280 laporan yang terdiri dari laporan 200 SMS dan 80 laporan formulir.
+  6. Realisasi 1 jam mematikan TV dilakukan dengan melakukan aksi 1 hari tanpa TV yang diisi dengan kegiatan lomba masak, lomba mewarnai, dan menonton film pengetahuan. Untuk kebijakan desa dalam bentuk Jam Belajar Masyarakat (JBM) akan dilakukan pada Februari 2013.
+
+**5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
+
+  Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+  1. JRKL menjadi terbiasa untuk melakukan pelaporan secara on line menggunakan wiki. Hal ini mendorong pegiat JRKL untuk melakukan peningkatan kapasitas dan pengetahuan internetnya. Hal ini akan diterapkan juga oleh JRKL untukpelaporan program lain pada 2013.
+  2. Kesibukan lain pegiat di luar proyek menyebabkan beberapa kegiatan terganggu, terutama pelaporan. Oleh karena itu, penyegaran personil dilakukan agar proses kegiatan dan pelaporan menjadi normal kembali.
+  3. JRKL menjadi terbiasa untuk melakukanpendokumentasian kegiatan. Baik tulisan, foto maupun video.
+  4. Proses pelaporan yang dilakukan melalui SMS mendorong JRKL untuk membuat situs serupa dengan nama suarawarga pada 2013.
+
+  **Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+  Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+  Tantangan yang dihadapi terdiri dari :
+
+  1. Kerusakan pemancar menghambat terselenggaranya siaran literasi sehingga ibu-ibu anggota Pantau TV tidak dapat bersiaran secara berkelanjutan.
+  2. Penganggaran proyek tidak memasukan komponen transportasi staf lapangan menuju tempat kegiatan, sehingga menyebabkan pembengkakan biaya.
+  3. Pergantian staf JRKL menyebabkan proses laporan proyek sedikit terhambat. Untuk mengatasinya, JRKL merekrut staf yang berasal dari jaringan JRKL
+
+**6. Keberagaman**
+
+  Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+  Proyek ini dipengaruhi :
+  1. Ibu rumahtangga perdesaan yang terlibat dalam proyek ini umumnya berasal dari kelompok ekonomi menengah ke bawah perdesaan. Keberagaman justru pada suku, dimana suku yang terlibat terdiri dari Lampung, Jawa dan Sunda. Namun ini tidak menjadi kendala karena mereka umumnya terlibat dalam kegiatan pengajian dan PKK.
+  2. Keberagaman yang lain adalah keberagaman tingkat pendidikan. Umunya ibu rumahtangga berpendidikan SD. Ibu-ibu yang berpendidikan SMP dan SMA secara sabar membantu ibu-ibu lain untuk memahami materi diskusi dan memimpin kegiatan.
+
+**7. Laporan keuangan**
+
+  Silahkan masukkan pranala laporan keuangan anda disini:
+ http://ciptamedia.org/wiki/Ibu_Rumah_Tangga_Perdesaan_“Melek”_Media_untuk_Peningkatan_Partisipasi_Perempuan_dan_Pemenuhan_Kebutuhan_Informasi/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+
+  Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jakarta, 16 November 2012
+
+
+Rifky Indrawan

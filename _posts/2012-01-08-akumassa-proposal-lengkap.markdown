@@ -1,6 +1,6 @@
 ---
 title: Akumassa - Proposal Lengkap
-date: 2017-03-21 15:16:00 +07:00
+date: 2012-01-08 15:16:00 +07:00
 categories:
 - laporan
 - AKUMASSA.ORG

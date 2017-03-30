@@ -1,6 +1,9 @@
 ---
 title: IMDLN - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2017-03-23 19:59:00 +07:00
+date: 2012-11-01 19:59:00 +07:00
+categories:
+- laporan
+- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
 ---
 
 **Indonesian Media Defence Network**

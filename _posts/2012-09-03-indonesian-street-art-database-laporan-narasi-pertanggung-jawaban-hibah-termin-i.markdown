@@ -2,6 +2,9 @@
 title: Indonesian Street Art Database - Laporan Narasi Pertanggung Jawaban Hibah Termin
   I
 date: 2012-09-03 14:06:00 +07:00
+categories:
+- laporan
+- Indonesian Street Art Database
 ---
 
 **Indonesian Street Art Database (ISAD)**

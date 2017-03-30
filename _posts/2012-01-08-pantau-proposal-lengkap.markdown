@@ -1,6 +1,9 @@
 ---
 title: Pantau - Proposal Lengkap
-date: 2017-03-27 15:50:00 +07:00
+date: 2012-01-08 15:50:00 +07:00
+categories:
+- laporan
+- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam dan Media Watch Lapindo
 ---
 
 ![250px-Logo_Follow_up_Survey_Persepsi_Wartawan_Indonesia_Terhadap_Islam_dan_Media_Watch_Lapindo.jpg](/uploads/250px-Logo_Follow_up_Survey_Persepsi_Wartawan_Indonesia_Terhadap_Islam_dan_Media_Watch_Lapindo.jpg){: .img-responsive .center-block }

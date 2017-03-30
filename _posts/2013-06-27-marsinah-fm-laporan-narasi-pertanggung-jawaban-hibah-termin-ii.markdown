@@ -1,6 +1,9 @@
 ---
 title: Marsinah FM - Laporan Narasi Pertanggung Jawaban Hibah Termin II
 date: 2013-06-27 10:33:00 +07:00
+categories:
+- laporan
+- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
 ---
 
 **Forum Buruh Lintas Pabrik**

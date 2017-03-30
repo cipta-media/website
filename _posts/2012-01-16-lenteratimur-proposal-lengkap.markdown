@@ -1,6 +1,9 @@
 ---
 title: LenteraTimur - Proposal Lengkap
-date: 2017-03-23 07:02:00 +07:00
+date: 2012-01-16 07:02:00 +07:00
+categories:
+- laporan
+- LenteraTimur.com – Menyigi Identitas Indonesia
 ---
 
 ![Lentera_Timur.jpg](/uploads/Lentera_Timur.jpg){: .img-responsive .center-block }

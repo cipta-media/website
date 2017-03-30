@@ -1,6 +1,9 @@
 ---
 title: Border Blogger Movement - Proposal Lengkap
-date: 2017-03-27 14:08:00 +07:00
+date: 2012-02-15 14:08:00 +07:00
+categories:
+- laporan
+- Border Blogger Movement
 ---
 
 ![250px-Border_Blogger_Movement.jpg](/uploads/250px-Border_Blogger_Movement.jpg){: .img-responsive .center-block }

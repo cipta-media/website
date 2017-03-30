@@ -1,6 +1,8 @@
 ---
 title: Benor FM - Proposal Lengkap
-date: 2017-03-24 13:30:00 +07:00
+date: 2012-01-08 13:30:00 +07:00
+categories:
+- laporan
 ---
 
 ![250px-Benor_FM.jpg](/uploads/250px-Benor_FM.jpg){: .img-responsive .center-block }

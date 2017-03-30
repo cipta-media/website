@@ -1,6 +1,9 @@
 ---
 title: Indonesian Street Art Database - Proposal Lengkap
-date: 2017-03-27 13:42:00 +07:00
+date: 2011-12-24 13:42:00 +07:00
+categories:
+- laporan
+- Indonesian Street Art Database
 ---
 
 ![250px-ISAD.jpg](/uploads/250px-ISAD.jpg){: .img-responsive .center-block }

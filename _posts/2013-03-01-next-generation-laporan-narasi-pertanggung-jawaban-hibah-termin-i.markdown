@@ -1,6 +1,9 @@
 ---
 title: Next Generation - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2013-03-01 17:49:00 +07:00
+categories:
+- laporan
+- Next Generation – Media Watch & Literacy
 ---
 
 

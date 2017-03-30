@@ -1,6 +1,9 @@
 ---
 title: Marsinah FM - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2012-10-29 09:38:00 +07:00
+categories:
+- laporan
+- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
 ---
 
 

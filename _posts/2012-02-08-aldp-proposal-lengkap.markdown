@@ -1,6 +1,9 @@
 ---
 title: ALDP - Proposal Lengkap
-date: 2017-03-22 13:23:00 +07:00
+date: 2012-02-08 13:23:00 +07:00
+categories:
+- laporan
+- 'Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online'
 ---
 
 ![250px-Aldepe.jpg](/uploads/250px-Aldepe.jpg){: .img-responsive .center-block }
