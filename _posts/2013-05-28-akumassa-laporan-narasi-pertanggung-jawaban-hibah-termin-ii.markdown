@@ -107,7 +107,8 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 **7. Laporan keuangan**
 
 Silahkan masukkan pranala laporan keuangan anda disini:
-http://ciptamedia.org/wiki/Templat:Akumassa-Termin2%7CLaporan
+
+[http://ciptamedia.org/wiki/Templat:Akumassa-Termin2%7CLaporan](http://ciptamedia.org/wiki/Templat:Akumassa-Termin2%7CLaporan)
 
 **8. Pengesahan**
 
