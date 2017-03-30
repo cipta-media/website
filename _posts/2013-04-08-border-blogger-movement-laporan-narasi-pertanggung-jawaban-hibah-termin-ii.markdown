@@ -141,7 +141,7 @@ Para blogger menulis, memotret dan merekam peristiwa serta masalah-masalah perba
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-  [Laporan keuangan termin II](http://wiki.ciptamedia.org/wiki/Templat:BBM-Termin2)
+  [Laporan keuangan termin II]([http://wiki.ciptamedia.org/wiki/Templat:BBM-Termin2](http://wiki.ciptamedia.org/wiki/Templat:BBM-Termin2))
 
 **8. Pengesahan**
 
