@@ -132,7 +132,7 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 
 Silahkan masukkan pranala laporan keuangan anda disini
 
-http://ciptamedia.org/wiki/Next_Generation_%E2%80%93_Media_Watch_%26_Literacy/Laporan_Penggunaan_Dana
+[http://ciptamedia.org/wiki/Next_Generation_%E2%80%93_Media_Watch_%26_Literacy/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Next_Generation_–_Media_Watch_%26_Literacy/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 
