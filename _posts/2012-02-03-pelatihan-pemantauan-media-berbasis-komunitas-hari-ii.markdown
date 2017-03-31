@@ -4,7 +4,6 @@ date: 2012-02-03
 categories:
 - laporan
 - AKUMASSA.ORG
-permalink: /testpage/
 ---
 
 ![200px-Februari_03_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_1.jpg](/uploads/200px-Februari_03_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_1.jpg){: .img-responsive .center-block }
