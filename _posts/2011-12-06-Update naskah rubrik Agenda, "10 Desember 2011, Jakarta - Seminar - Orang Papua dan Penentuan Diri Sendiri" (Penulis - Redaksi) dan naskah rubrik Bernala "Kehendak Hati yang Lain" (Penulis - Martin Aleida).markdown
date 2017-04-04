@@ -17,4 +17,4 @@ categories:
 **Hadir** : 
 
 **Ringkasan** : 
-* Naskah dapat dibaca (di sini)[http://www.lenteratimur.com/10-desember-2011-jakarta-seminar-orang-papua-dan-penentuan-diri-sendiri/] dan (di sini)[http://www.lenteratimur.com/2011/12/kehendak-hati-yang-lain/]
+* Naskah dapat dibaca [di sini](http://www.lenteratimur.com/10-desember-2011-jakarta-seminar-orang-papua-dan-penentuan-diri-sendiri/) dan [di sini](http://www.lenteratimur.com/2011/12/kehendak-hati-yang-lain/)
