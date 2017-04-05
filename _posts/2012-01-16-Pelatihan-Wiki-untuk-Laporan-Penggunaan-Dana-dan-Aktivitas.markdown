@@ -29,6 +29,6 @@ categories:
 dana dan aktivitas di situs Wiki Cipta Media Bersama.
 * Ken memasukkan data-data berupa bukti transaksi setiap kegiatan LenteraTimur.com
 sejak Desember 2011 hingga pertengahan Januari 2012.
-* Mengisi[jadwal kegiatan Pelatihan Jurnalistik "Menulis untuk Kesederajatan" di
+* Mengisi [jadwal kegiatan Pelatihan Jurnalistik "Menulis untuk Kesederajatan" di
 lima kota.](http://wiki.ciptamedia.org/wiki/LenteraTimur.com/Jadwal_acara)
 
