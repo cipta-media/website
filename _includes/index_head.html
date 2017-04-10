@@ -21,6 +21,7 @@
   <!-- Custom styles for this template -->
   <!-- <link href="{{"static/css/pygments.css"| prepend: site.baseurl }}" rel="stylesheet"> -->
   <link href= "/static/css/style.min.css" rel="stylesheet">
+  <link href= "/static/css/bootstrap-year-calendar.min.css" rel="stylesheet">
 
   <!-- Third-party scripts -->
   <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
@@ -29,27 +30,10 @@
   <script src= "/bower_components/i18next/i18next.min.js"></script>
   <script src= "/bower_components/PACE/pace.min.js"></script>
   <script src= "/bower_components/wow/dist/wow.min.js"></script>
+  <script src= "/static/js/bootstrap-datepicker.min.js"></script>
+  <script src= "/static/js/bootstrap-year-calendar.min.js"></script>
   
   <!-- Custom and plugin javascript -->
   <!-- <script src="{{"static/js/inspinia.js"| prepend: site.baseurl }}"></script> -->
-
-<!-- GrowingIO -->
-{% if site.gio %}
-  <script>
-    var _vds = _vds || [];
-    window._vds = _vds;
-    (function(){
-      _vds.push(['setAccountId', '{{ site.gio.id }}']);
-      (function() {
-        var vds = document.createElement('script');
-        vds.type='text/javascript';
-        vds.async = true;
-        vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(vds, s);
-      })();
-    })();
-  </script>
-{% endif %}
 
 </head>
