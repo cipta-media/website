@@ -83,51 +83,61 @@ layout: blog
     <div id="calendar" class="calendar"></div>
     
 	<script>
-        $(function() {
-            var currentYear = new Date().getFullYear();
-        
-            $('#calendar').calendar({ 
-                mouseOnDay: function(e) {
-                    if(e.events.length > 0) {
-                        var content = '';
-                        
-                        for(var i in e.events) {
-                            content += '<div class="event-tooltip-content">'
-                                            + '<div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div>'
-                                            + '<div class="event-location">' + e.events[i].location + '</div>'
-                                        + '</div>';
-                        }
-                    
-                        $(e.element).popover({ 
-                            trigger: 'manual',
-                            container: 'body',
-                            html:true,
-                            content: content
-                        });
-                        
-                        $(e.element).popover('show');
-                    }
-                },
-                mouseOutDay: function(e) {
-                    if(e.events.length > 0) {
-                        $(e.element).popover('hide');
-                    }
-                },
-                dayContextMenu: function(e) {
-                    $(e.element).popover('hide');
-                },
-                dataSource: [
-                {% for post in site.categories['laporan'] %}
-                    {
-                        name: '{{ post.title }}',
-                        location: '{{ post.categories | last }}',
-                        startDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
-                        endDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
-                    },
-                {% endfor %}
-                ]
-            });
-        });
+	$(function() {
+		var currentYear = new Date().getFullYear();
+
+		$('#calendar').calendar({ 
+			enableContextMenu: true,
+			clickDay: function(e) {
+				if(e.events.length > 0) {
+					var show = 1;
+					var content = '';
+
+					for(var i in e.events) {
+						content += '<div class="event-tooltip-content">'
+										+ '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div>'
+										+ '<div class="event-location">' + e.events[i].location + '</div></a>'
+										+ '<hr>'
+									+ '</div>';
+					}
+
+					$(e.element).popover({ 
+						trigger: 'manual',
+						container: 'body',
+						html:true,
+						content: content
+					});
+
+					$(e.element).popover('show');
+				}
+			},
+			dayContextMenu: function(e) {
+				$(e.element).popover('hide');
+			},
+			dataSource: [
+			{% for post in site.categories['laporan'] %}
+				{
+					name: '{{ post.title }}',
+					location: '{{ post.categories | last }}',
+					url: '{{ post.url }}',
+					startDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
+					endDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
+				},
+			{% endfor %}
+			]
+		});
+
+		$('[data-toggle="popover"],[data-original-title]').popover();
+
+		$(document).on('click', function(e) {
+			$('[data-toggle="popover"],[data-original-title]').each(function() {
+			if (!$(this).is(e.element) && $(this).has(e.element).length === 0 && $('.popover').has(e.events).length === 0) {
+			  $(this).popover('hide').data('bs.popover').inState.click = false
+			}
+
+			});
+		});
+	});
         </script>
 
 	</div>
