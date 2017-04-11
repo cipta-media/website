@@ -90,55 +90,27 @@ layout: blog
     </div>
 </section>
 
-<section class="features" style="margin-top: 0px;">
-    <div class="container">
-        <div class="row m-b-lg">
+<section id="header" style="margin-top: 0px;">
+    <div class="container" style="padding-bottom:50px;">
+	<div class="row m-b-lg">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
                 <h1><span data-i18n="proyek.proyek">Proyek Terdahulu</span></h1>
             </div>
         </div>
-        
-        <div class="row m-b-lg">
-            <div class="col-md-4 text-center">
-                <a href="/ciptamediaseluler/tentangcms.html"><img src="/static/img/landing/cms-placeholder.jpg" class="img-responsive center-block" alt="" style="max-height: 350px;"></a>
-            </div>
-            <div class="col-md-8">
-                <a href="/ciptamediaseluler/tentangcms.html"><h1>Cipta Media Seluler</h1></a>
+        <div class="row">	
+            <div class="col-md-6">
+                <div class="col-md-12 well well-lg" style="background-image: linear-gradient(to right, black 100%, white 100%), url(static/img/landing/cms-bg.jpg);background-size: cover; background-position:bottom left;background-repeat: no-repeat; height: 400px; background-blend-mode: overlay; color:#232323;">
+                <h1 class="title">Cipta Media Seluler</h1>
                 <h2>Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial</h2>
-                <p>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain. <a href="/ciptamediaseluler/tentangcms.html">Selengkapnya...</a></p>
-                <div class="row m-b-lg">
-                    <div class="col-xs-12">
-                        <button class="btn btn-danger" data-toggle="collapse" data-target="#cms">Penerima Hibah</button>
-                        <a href="/ciptamediaseluler/hibahcms-semua.html" class="btn btn-danger">Pendaftar Hibah</a> 
-                        <div class="row">
-                            <div id="cms" class="collapse">
-                                <br/>
-                                {% for project in site.data.projects %}
-                                <div class="col-sm-3 col-xs-6">
-                                    <a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><button class="btn btn-white btn-xs" type="button" style="margin-top: 5px;"><b>{{ project.name }}</b></button></a>
-                                </div>
-                                {% endfor %}
-                            </div>
-                        </div>
-                    </div>
+                <h4>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain.<br/><a href="/ciptamediaseluler/tentangcms.html">Selengkapnya...</a></h4>
                 </div>
             </div>
-        </div>
-        <hr>
-        <div class="row m-b-lg">
-            <div class="col-sm-4 col-sm-push-8 text-center">
-                <img src="/static/img/landing/Logo_Cipta_Media_Bersama.jpg" class="img-responsive center-block" alt="" style="max-height: 350px;">
-            </div>
-            <div class="col-sm-8 col-sm-pull-4">
-                <h1>Cipta Media Bersama</h1>
+            <div class="col-md-6">
+                <div class="col-md-12 well well-lg" style="background-image: linear-gradient(to right, black 100%, white 100%), url(static/img/landing/cmb-bg.jpg);background-size: cover; background-position:bottom left;background-repeat: no-repeat; height: 400px; background-blend-mode: overlay; color:#232323;">
+                <h1 class="title">Cipta Media Bersama</h1>
                 <h2>Meretas batas – kebhinekaan bermedia</h2>
-                <p>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia.</p>
-                <div class="row">
-                    <div class="col-xs-12">
-                        <a href="#" class="btn btn-danger">Penerima Hibah</a> 
-                        <a href="#" class="btn btn-danger">Pendaftar Hibah</a> 
-                    </div>
+                <h4>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia</h4>
                 </div>
             </div>
         </div>
@@ -156,7 +128,7 @@ layout: blog
         </div>
         
         <div class="row">
-        {% for post in site.posts limit:6 %}
+        {% for post in site.posts limit:8 %}
         {% assign loopindex = forloop.index | modulo: 2 %}
             <div class="col-md-6">
                 <div class="row">
@@ -184,3 +156,74 @@ layout: blog
     </div>
 </section>
 
+<section class="features" style="margin-top: 0px;">
+    <div class="container">
+        <div class="row m-b-lg text-center">
+            <div class="col-lg-12">
+                <div class="navy-line"></div>
+                <h1>Kalender Aktifitas</h1>
+            </div>
+        </div>
+
+    <div id="calendar" class="calendar"></div>
+    
+	<script>
+	$(function() {
+		var currentYear = new Date().getFullYear();
+
+		$('#calendar').calendar({ 
+			enableContextMenu: true,
+			clickDay: function(e) {
+				if(e.events.length > 0) {
+					var show = 1;
+					var content = '';
+
+					for(var i in e.events) {
+						content += '<div class="event-tooltip-content">'
+										+ '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div>'
+										+ '<div class="event-location">' + e.events[i].location + '</div></a>'
+										+ '<hr>'
+									+ '</div>';
+					}
+
+					$(e.element).popover({ 
+						trigger: 'manual',
+						container: 'body',
+						html:true,
+						content: content
+					});
+
+					$(e.element).popover('show');
+				}
+			},
+			dayContextMenu: function(e) {
+				$(e.element).popover('hide');
+			},
+			dataSource: [
+			{% for post in site.categories['laporan'] %}
+				{
+					name: '{{ post.title }}',
+					location: '{{ post.categories | last }}',
+					url: '{{ post.url }}',
+					startDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
+					endDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
+				},
+			{% endfor %}
+			]
+		});
+
+		$('[data-toggle="popover"],[data-original-title]').popover();
+
+		$(document).on('click', function(e) {
+			$('[data-toggle="popover"],[data-original-title]').each(function() {
+			if (!$(this).is(e.element) && $(this).has(e.element).length === 0 && $('.popover').has(e.events).length === 0) {
+			  $(this).popover('hide').data('bs.popover').inState.click = false
+			}
+
+			});
+		});
+	});
+        </script>
+
+	</div>
+</section>

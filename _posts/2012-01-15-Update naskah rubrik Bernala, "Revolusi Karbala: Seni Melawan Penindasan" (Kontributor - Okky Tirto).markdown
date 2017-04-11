@@ -1,5 +1,5 @@
 ---
-title: Update naskah rubrik Bernala, "Revolusi Karbala: Seni Melawan Penindasan" (Kontributor - Okky Tirto)
+title: Update naskah rubrik Bernala, "Revolusi Karbala - Seni Melawan Penindasan" (Kontributor - Okky Tirto)
 date: 2012-01-15
 categories:
 - laporan
