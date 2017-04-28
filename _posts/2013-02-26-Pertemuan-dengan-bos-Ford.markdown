@@ -1,5 +1,5 @@
 ---
-title: Pertemuan dengan bos Ford yang dari New York. Pertemuan ini dalam rangka FF New York berkeingin mengetahui sejauh mana program MK160 berjalan. Tim MK160 melakukan presentasi dan tanya jawab terkait dengan berjalannya program kegiatan MK160 di Media Komunitas Angkringan. Bos FF New York senang dengan program kegiatan MK160. Apresiasi cukup baik mereka lontarkan terkait dengan proses dan berjalannya MK160. 
+title: Pertemuan dengan bos Ford 
 date: 2013-02-26
 categories:
 - laporan

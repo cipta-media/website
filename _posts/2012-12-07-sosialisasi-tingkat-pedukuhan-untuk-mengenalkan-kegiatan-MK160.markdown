@@ -1,5 +1,5 @@
 ---
-title: sosialisasi tingkat pedukuhan yang diadakan di Pedukuhan Kepek, Desa Timbulharjo, Sewon, Bantul. Sosialisasi ini untuk mengenalkan kegiatan MK160
+title: sosialisasi tingkat pedukuhan untuk mengenalkan kegiatan MK160
 date: 2012-12-07
 categories:
 - laporan

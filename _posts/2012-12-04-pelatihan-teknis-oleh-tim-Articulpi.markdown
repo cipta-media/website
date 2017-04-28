@@ -1,5 +1,5 @@
 ---
-title: pelatihan teknis oleh tim Articulpi kepada pengelola yang mengurusi teknis mk160. Pelatihan terkait dengan sistem sederhana dalam aplikasi mk160. Adanya pelatihan ini agar pengelola yang mengurusi teknis dapat memperbaiki apabila terjadi trobel dalam sistem aplikasi mk160. Tim teknis juga dapat memasukan nomor admin untuk dapat mengontrol SMS masuk ke dalam sistem.
+title: pelatihan teknis oleh tim Articulpi
 date: 2012-12-04
 categories:
 - laporan
