@@ -19,6 +19,10 @@ layout: info
 			midRange: 3,
 			endRange: 1
 		});
+		$("button").click(function(){
+			var page = parseInt( $("input").val() );
+			$("#holder").jPages( page );
+		});
 	});
   </script>
   <!-- jPages -->
@@ -31,14 +35,22 @@ layout: info
             <h1>Pendaftar Hibah</h1>
         </div>
     </div>
-	<a href="#" class="btn btn-danger active btn-block" role="button">Semua</a>
-	<br/>
-	<div class="btn-group btn-group-justified">
-		<a href="hibahcms-hardware.html" class="btn btn-danger" role="button">Perangkat<br/>Keras</a>
-		<a href="hibahcms-software.html" class="btn btn-danger" role="button">Perangkat<br/>Lunak</a>
-		<a href="hibahcms-konten.html" class="btn btn-danger" role="button">Produksi dan<br/>Penyampaian Konten</a>
+	
+	<div class="row">
+		<div class="col-md-12">
+		    <nav class="navbar" role="navigation">
+			<div class="container">
+				<ul class="nav navbar-nav">
+					<li><a href="#">Semua</a></li>
+					<li><a href="hibahcms-hardware.html">Perangkat Keras</a></li>
+					<li><a href="hibahcms-software.html">Perangkat Lunak</a></li>
+					<li><a href="hibahcms-konten.html">Produksi dan Penyampaian Konten</a></li>
+				</ul>
+			</div>
+		    </nav>
+		</div>
 	</div>
-	<br/>
+	
     <div class="row">	
         <div id="itemContainer">
         {% for hibahcms in site.data.hibahcms %}
@@ -60,5 +72,9 @@ layout: info
         <div class="col-md-12">
             <div class="pag-holder" id="holder"></div>
         </div>
+	<div class="col-md-12">
+		<input type="number" value="5" style="width: 40px; text-align: center;">
+		<button>Lompat ke bagian ini</button>
+	</div>
     </div>
 </div>

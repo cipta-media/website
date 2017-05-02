@@ -1,0 +1,107 @@
+- nomor: '042'
+  judul: Ringtone & Wallpaper Seni Budaya Sulawesi
+  deskripsi: |
+    proyek pembuatan nada dering dan nada sambung pribadi untuk lagu-lagu tradisional Sulawesi Selatan dan Sulawesi Barat. Hal ini dimaksudkan untuk mengenalkan nilai-nilai kearifan lokal kepada generasi muda melalui nada dering dan nada sambung pribadi. Selain itu, proyek ini juga membuat wallpaper yang berisi petuah, kearifan lokal, gambar atraksi budaya, tempat wisata dan upacara adat dari etnis yang berada di Sulawesi Selatan dan Sulawesi Barat.
+  lokasi: Sulawesi Selatan
+  tipe: konten
+  gambar: /static/img/hibahcms/042.jpg
+  link: /hibahcms/042
+  
+- nomor: '061'
+  judul: Mitra Kerja Penyandang Disabilitas
+  deskripsi: |
+    Sistem informasi berbasis piranti lunak seluler yang menjadi penghubung antara penyandang disabilitas pencari kerja dan pemberi kerja. Dengan sistem informasi ini penyandang disabilitas bisa menempatkan profil mereka sebagai pencari kerja dan mengakses informasi tentang kesempatan kerja yang tersedia untuk mereka.
+  lokasi: Surabaya, Jawa Timur
+  tipe: software
+  gambar: /static/img/hibahcms/061.jpg
+  link: /hibahcms/061
+  
+- nomor: '096'
+  judul: Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android
+  deskripsi: |
+    Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android adalah salah satu sarana dalam mengembangkan pramuka dibidang teknologi dan informasi yang mempunyai manfaat untuk mengembangkan keterampilan, publikasi dan branding kegiatan serta integrasi antara anggota pramuka. Tujuan dari pembuatan aplikasi ini adalah menciptakan pramuka yang informatif, edukatif, komunikatif, menyenangkan dan trendi. Selain itu, aplikasi ini akan membuat orang tertarik untuk ikut pramuka dan bangga menjadi anggota pramuka. Hal ini dikarenakan saat ini pramuka masik bersifat konvensional, keterampilan pramuka belum meningkat dan interaksi antara sesama anggota pramuka masih kurang.
+  lokasi: Sukabumi, Jawa Barat
+  tipe: software
+  gambar: /static/img/hibahcms/096.jpg
+  link: /hibahcms/096
+  
+- nomor: '121'
+  judul: Pengadaan Pusat Training Wireless Cellular Network berbasis OpenBTS
+  deskripsi: |
+    Pusat Training Wireless Cellular Network OpenBTS adalah kegiatan untuk membuat pusat pelatihan jaringan seluler (wireless cellular network) yang berbasis opensource sehingga masyarakat dapat membuat dan mengembangkan sendiri jaringan selular yang sesuai karateristik dan kondisi di Indonesia berdasarkan pengetahuan yang dipelajari. Kegiatan ini meliputi pengembangan konten materi training, sertifikasi, pelatihan dan pengembangan perangkat lunak dan perangkat keras wireless celullar network. Melalui kegiatan ini diharapkan penetrasi jaringan seluler ke daerah-daerah dan pedalaman dapat lebih cepat karena adanya sumber daya manusia yang bisa mengoperasikan, mengembangkan dan membuat sendiri jaringan seluler yang sesuai dengan kondisi geografis di Indonesia.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
+  gambar: /static/img/hibahcms/121.jpg
+  link: /hibahcms/121
+  
+- nomor: '124'
+  judul: Solidaritas.net Media Center
+  deskripsi: |
+    Solidaritas.net Media Center adalah pusat kegiatan produksi dan penyebarluasan konten, konsultasi, pendidikan serta advokasi perburuhan dengan memanfaatkan media seluler yang saat ini menjadi alat komunikasi yang digunakan oleh buruh. Proyek ini bertujuan meningkatkan pengetahuan dan kapasitas buruh dalam mengadvokasi dirinya sendiri sehingga mereka dapat menjadi aktor utama untuk memperjuangkan kepentingan kelompoknya sendiri. Konten yang terdapat dalam situs ini berupa teks, gambar dan video. Selain itu, ada juga saluran video daring (online) mengenai informasi perburuhan dalam bentuk berita, talk show (bincang-bincang), diskusi, film dokumenter dan feature yang bisa diakses di situs solidaritas.net serta Youtube.
+  lokasi: Cikarang, Jawa Barat
+  tipe: konten
+  gambar: /static/img/hibahcms/124.jpg
+  link: /hibahcms/124
+  
+- nomor: '136'
+  judul: Mobile Pantau Kebebasan Beragama dan Berkeyakinan (m-Pantau KBB)
+  deskripsi: |
+    m-Pantau Kebebasan Beragama dan Berkeyakinan (m-Pantau KBB) adalah program pemantauan kasus-kasus kebebasan beragama dan berkeyakinan (KBB) di Indonesia dengan media telepon seluler. Jaringan pemantau yang berada di 34 provinsi akan melaporkan kasus-kasus KBB yang terjadi di daerah secara aktual melalui telepon seluler, baik melalui SMS gateway maupun internet. Selain pemantau, masyarakat umum juga dapat melaporkan kasus-kasus atau kemajuan dalam isu KBB yang terjadi. Hasil pemantauan dari masyarakat umum akan diverifikasi kesahihannya oleh pemantau m-Pantau KBB di daerah. Hasil pemantauan yang dikirim melalui SMS gateway kemudian diunggah ke situs m-Pantau KBB. Hasil pemantauan, pelaporan bulanan dan tahunan akan disebarkan melalui SMS gateway, situs web dan akun media sosial Wahid Institute.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
+  gambar: /static/img/hibahcms/136.jpg
+  link: /hibahcms/136
+
+- nomor: '138'
+  judul: Kampanye "Frekuensi Milik Publik"
+  deskripsi: |
+    Remotivi (sebelumnya Lapor KPI) adalah proyek yang ingin menciptakan sebuah aplikasi di ponsel untuk mengadukan tayangan TV ke Komisi Penyiaran Indonesia (KPI). Aplikasi yang akan melibatkan KPI dalam pembuatannya ini diharapkan mampu mendorong publik untuk membuat aduan dan mempermudah mekanisme pengaduan. Dalam memasukkan aduannya, pengguna akan disodorkan sebuah formulir yang mudah dikerjakan tapi sekaligus dirancang untuk mengasah kepekaan atau kesadaran (rasionalisasi) protes atau kritiknya. Untuk merangsang minat dan partisipasi publik untuk mengadukan tayangan TV maka aplikasi ini akan mengirimkan informasi dan fakta secara rutin yang berupa trivia, karya visual, artikel dan laporan perkembangan pengaduan.
+  lokasi: Petojo Utara, Jakarta Pusat
+  tipe: konten
+  gambar: /static/img/hibahcms/138.jpg
+  link: /hibahcms/138
+  
+- nomor: '168'
+  judul: Situs Laporan Warga Tanah Papua Berbasis SMS
+  deskripsi: |
+    Situs Laporan Warga Papua Berbasis SMS adalah proyek jurnalisme warga yang dikelola secara mandiri dan sukarela sejak tahun 2010 dengan tujuan mengatasi faktor demografis dan geografis Papua yang mengakibatkan kesenjangan informasi dan pengetahuan. Hingga tahun 2013, proyek ini fokus pada peristiwa kekerasan aktor negara terhadap warga sipil di Papua. Melalui proyek ini, warga dapat melaporkan peristiwa yang terjadi disekitar mereka melalui SMS, e-mail atau formulir online untuk dipublikasikan secara otomatis dalam sebuah situs. Publikasi dilakukan melalui prosedur approval, verified/unverified. Publikasi di situs proyek juga dihubungkan dengan Facebook, Twitter dan SMS App kepada warga yang datanya sudah tersimpan dalam database.
+  lokasi: Jayapura Utara, Papua
+  tipe: konten
+  gambar: /static/img/hibahcms/168.jpg
+  link: /hibahcms/168
+  
+- nomor: '261'
+  judul: Lingkar Suara Buruh Perempuan
+  deskripsi: |
+    Lingkar Suara Buruh Perempuan adalah program yang dikembangkan dari Radio Buruh Perempuan Marsinah FM. Radio tersebut ingin mengembangkan daya jangkau, isi atau materi dan tingkat partisipasi buruh dengan menggunakan teknologi ponsel. Melalui ponsel buruh tidak hanya mendapatkan kemudahan untuk mengakses informasi, tetapi juga akan mendapatkan akses untuk pendampingan langsung ketika mereka menghadapi situasi sulit. Pendampingan melalui ponsel ini akan memberi bantuan bagi buruh perempuan tanpa menghilangkan atau menggantikan peran langsungnya. Hal ini akan memberi pengalaman juang dan keberanian bagi buruh tersebut. Pengembangan di kalangan buruh perempuan ini juga dijalin melalui grup komunikasi Whatsapp dan Facebook.
+  lokasi: Cilincing, Jakarta Utara
+  tipe: konten
+  gambar: /static/img/hibahcms/261.jpg
+  link: /hibahcms/261
+  
+- nomor: '306'
+  judul: Monitoring Wilayah dan Hutan Suku Tobelo Dalam Dodaga dengan Teknologi Seluler
+  deskripsi: |
+    Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Teknologi Seluler adalah sebuah proyek untuk membantu masyarakat dalam melakukan pengawasan hutan adat, meningkatkan kesadaran dan mendorong adanya pengakuan dari negara terhadap hak-hak masyarakat adat atas tanah, wilayah dan sumber daya alam. Pemantauan terhadap hutan adat mereka sendiri menjadi penting sebagai strategi pengawasan untuk menjaga kelestarian hutan adat.
+  lokasi: Maluku Utara
+  tipe: konten
+  gambar: /static/img/hibahcms/306.jpg
+  link: /hibahcms/306
+  
+- nomor: '324'
+  judul: Desa 2.0 Sistem Tata Kelola Sumber Daya Desa
+  deskripsi: |
+    Desa 2.0: Sistem Tata Kelola Sumber Daya Desa adalah program untuk mendukung kemampuan pemerintah desa dan masyarakat desa dalam pemanfaatan Teknologi Informasi dan Komunikasi (TIK), khususnya komputer dan internet. Program ini sudah berjalan sejak tahun 2011. Selama ini, program dijalankan dengan dukungan dana dari sejumlah pihak, seperti Pemerintah Kabupaten, Kementerian Komunikasi dan Informatika (Kemkominfo), PNPM Mandiri Pedesaan dan lembaga pendukung.
+  lokasi: Cilacap
+  tipe: konten
+  gambar: /static/img/hibahcms/324.jpg
+  link: /hibahcms/324
+  
+- nomor: '350'
+  judul: Peta Persampahan Kota Bandung
+  deskripsi: |
+    proyek untuk membangun piranti lunak dalam peningkatan partisipasi warga maupun akuntabilitas sosial terkait sektor persampahan di kota Bandung. Piranti lunak berbentuk website, aplikasi mobile serta SMS gateway yang bertajuk tentang peta persampahan akan mengoptimalkan kontribusi masyarakat dalam sistem persampahan, mendorong akuntabilitas pelayanan pemerintah sekaligus mendorong sistem persampahan berbasis masyarakat.
+  lokasi: Cimahi, Jawa Barat
+  tipe: software
+  gambar: /static/img/hibahcms/350.png
+  link: /hibahcms/350

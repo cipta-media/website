@@ -4,7 +4,9 @@ date: 2013-01-27
 categories:
 - laporan
 - Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+layout: laporancmb
 ---
+
 ![200px-Januari_27-30_2012_Liputan_Khusus_Pilgub_Wamena.jpg](/uploads/200px-Januari_27-30_2012_Liputan_Khusus_Pilgub_Wamena.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Pemantauan Pilgub Papua di Wamena
