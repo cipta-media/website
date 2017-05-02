@@ -8,6 +8,8 @@ categories:
 
 ![200px-Maret_3_2012_NextGeneration_Diskusi_Konten_Video_Game_dan_Klasifikasi.JPG](/uploads/200px-Maret_3_2012_NextGeneration_Diskusi_Konten_Video_Game_dan_Klasifikasi.JPG){: .img-responsive .center-block }
 
+![200px-Maret_3_2012_NextGeneration_Simbol_Rating_NXG_2012.jpg](/uploads/200px-Maret_3_2012_NextGeneration_Simbol_Rating_NXG_2012.jpg){: .img-responsive .center-block }
+
 **Tujuan** : Diskusi Klasifikasi Video Game 
 
 **Lokasi** : Sekretariat Next Generation 

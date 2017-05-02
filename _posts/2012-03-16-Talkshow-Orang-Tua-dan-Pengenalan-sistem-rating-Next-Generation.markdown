@@ -6,10 +6,15 @@ categories:
 - Next Generation – Media Watch & Literacy
 ---
 
+
 ![200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_1.JPG](/uploads/200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_1.JPG){: .img-responsive .center-block }
+
 ![200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_2.JPG](/uploads/200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_2.JPG){: .img-responsive .center-block }
+
 ![200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_3.JPG](/uploads/200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_3.JPG){: .img-responsive .center-block }
+
 ![200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_4.JPG](/uploads/200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_4.JPG){: .img-responsive .center-block }
+
 
 **Tujuan** : Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 
