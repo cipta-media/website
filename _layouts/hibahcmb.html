@@ -184,7 +184,7 @@
         
         {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
         
-            {% for post in site.categories['Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] %}
+            {% for post in site.categories['Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] limit:10 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
