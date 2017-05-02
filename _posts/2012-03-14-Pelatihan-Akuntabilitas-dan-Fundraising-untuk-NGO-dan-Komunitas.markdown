@@ -6,8 +6,7 @@ categories:
 - Next Generation – Media Watch & Literacy
 ---
 
-![200px-Maret_14_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_1.JPG](/uploads/200px-Maret_14_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_1.JPG){: .img-responsive .center-block }
-![200px-Maret_15_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_2.JPG](/uploads/200px-Maret_15_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_2.JPG){: .img-responsive .center-block }
+![200px-Maret_14_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_1.JPG](/uploads/200px-Maret_14_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_1.JPG){: .img-responsive } ![200px-Maret_15_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_2.JPG](/uploads/200px-Maret_15_2012_NextGeneration_Pelatihan_Fundraising_bersama_PIRAC_hari_2.JPG){: .img-responsive }
 
 **Tujuan** : Pelatihan Akuntabilitas dan Fundraising untuk NGO dan Komunitas
 
