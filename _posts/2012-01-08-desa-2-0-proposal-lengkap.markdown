@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Proposal Lengkap
+title: Desa 2.0- Sistem Tata Kelola Sumber Daya Desa - Proposal Lengkap
 date: 2012-01-08 15:16:00 +07:00
 categories:
 - laporan
@@ -70,32 +70,33 @@ Selama ini pelayanan publik di desa masih dilakukan secara manual sehingga membu
 Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan serta promosi potensi dan produk unggulan desa. Program ini juga mendukung pengembangan CMS (content management system) web yang semakin ramah/responsif pada bandwidth rendah sehingga dapat diakses melalui desktop maupun mobile. Pengadaan server yang memiliki bandwidth unggah (upload) yang besar diperlukan agar mampu melayani hosting desa dan mempercepat proses posting konten. Melalui pemanfaatan aplikasi [Sistem Informasi Desa], desa mampu meningkatkan mutu penyelenggaraan pelayanan publik dan jumlah kebijakan (Perdes dan SK Kepala Desa) di desa.
     
 **Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+
  **Masalah 1**
 
-    Informasi tentang desa kurang terpublikasi secara luas sehingga isu perdesaaan masih terpinggirkan di ranah publik.
+ Informasi tentang desa kurang terpublikasi secara luas sehingga isu perdesaaan masih terpinggirkan di ranah publik.
     
  **Aktivitas 1**
 
-    Untuk mendukung pengarusutamaan isu perdesaan maka dilakukan hal-hal sebagai berikut:
-    * Pembuatan website di 100 desa dengan domain DESA.ID untuk mempertegas identitas desa di internet sesuai dengan kebijakan Pengelola Nama Domain Internet Indonesia.
-    * Pelatihan produksi konten website (teks, foto, video) yang bermaterikan dunia perdesaan yang melibatkan masyarakat dan pemerintah desa.
-    * Pelatihan mengunggah konten (posting) di website desa.
-    * Pelatihan strategi menyebarluaskan konten desa melalui media sosial (khususnya Facebook, Twitter, dan Google+).
-    * Pembuatan modul dan video tutorial pengelolaan website desa dan media sosial.
-    * Pembuatan web sindikasi dan agregasi untuk konten antardesa.
-    * Membangun komunikasi antara desa dan media arus utama sehingga materi website desa dapat menjadi rujukan pemberitaan media massa, akibatnya isu-isu desa makin tersebarluas (amplified).
+  Untuk mendukung pengarusutamaan isu perdesaan maka dilakukan hal-hal sebagai berikut:
+  * Pembuatan website di 100 desa dengan domain DESA.ID untuk mempertegas identitas desa di internet sesuai dengan kebijakan Pengelola Nama Domain Internet Indonesia.
+  * Pelatihan produksi konten website (teks, foto, video) yang bermaterikan dunia perdesaan yang melibatkan masyarakat dan pemerintah desa.
+  * Pelatihan mengunggah konten (posting) di website desa.
+  * Pelatihan strategi menyebarluaskan konten desa melalui media sosial (khususnya Facebook, Twitter, dan Google+).
+  * Pembuatan modul dan video tutorial pengelolaan website desa dan media sosial.
+  * Pembuatan web sindikasi dan agregasi untuk konten antardesa.
+  * Membangun komunikasi antara desa dan media arus utama sehingga materi website desa dapat menjadi rujukan pemberitaan media massa, akibatnya isu-isu desa makin tersebarluas (amplified).
 
  **Masalah 2**
  
-    Potensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
+  Potensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
 
  **Aktivitas 2**
  
-    Untuk mendorong promosi potensi dan produk unggulan desa maka dilakukan beberapa aktivitas berikut ini:
-    * Pelatihan untuk mengidentifikasi, mengumpulkan, dan menginventarisasi potensi maupun produk unggulan di desa.
-    * Pelatihan untuk mengemas informasi (advertorial) dan pencitraan visual atas setiap potensi maupun produk unggulan desa.
-    * Pelatihan video singkat yang menceritakan potensi desa maupun testimoni pihak ketiga.
-    * Pelatihan strategi promosi potensi dan produk unggulan melalui internet.
+  Untuk mendorong promosi potensi dan produk unggulan desa maka dilakukan beberapa aktivitas berikut ini:
+  * Pelatihan untuk mengidentifikasi, mengumpulkan, dan menginventarisasi potensi maupun produk unggulan di desa.
+  * Pelatihan untuk mengemas informasi (advertorial) dan pencitraan visual atas setiap potensi maupun produk unggulan desa.
+  * Pelatihan video singkat yang menceritakan potensi desa maupun testimoni pihak ketiga.
+  * Pelatihan strategi promosi potensi dan produk unggulan melalui internet.
 
  **Masalah 3**
 
@@ -213,6 +214,190 @@ Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan 
  **Hasil yang diharapkan dan indikator keberhasilan**
 
   Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai berikut:
+  
+  <table>
+  <tbody>
+    <tr>
+      <th align="center"><strong>Hasil yang Diharapkan</strong></th>
+      <th align="center"><strong>Indikasi</strong></th>
+      <th align="center"><strong>Indikator</strong></th>
+    </tr>
+    <tr>
+      <td rowspan="7" align="left">Publik dapat mengakses isu-isu perdesaan melalui internet</td>
+      <td align="left">Konten desa dapat terpublikasi dalam 48 website desa</td>
+      <td align="left"><ul>
+        <li>Laporan registrar PANDI</li>
+        <li>Laporan pengguna hosting</li>
+        <li>Statistik konten web</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Pembaruan konten secara rutin konten desa, baik berupa teks, foto, video</td>
+      <td align="left">Statistik konten web</td>
+    </tr>
+    <tr>
+      <td align="left">Angka kunjungan website desa minimal 150 pengunjung per hari</td>
+      <td align="left">Statistik Google Analytic</td>
+    </tr>
+    <tr>
+      <td align="left">Ada interaksi dari pengunjung web dan pengelola website desa atas materi yang diunggah</td>
+      <td align="left">Statistik komentar</td>
+    </tr>
+    <tr>
+      <td align="left">Penyebarluasan konten desa di media sosial meningkat</td>
+      <td align="left"><ul>
+        <li>Statistik Sharing</li>
+        <li>Social Media Analytic</li>
+        <li>Statistik follower akun media sosial desa</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat dan pemerintah desa terlibat dalam produksi dan penyebaran konten desa</td>
+      <td align="left"><ul>
+        <li>Data pengguna website</li>
+        <li>Statistik konten tiap pengguna</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Setiap dua minggu ada pemberitaan desa di media massa arus utama</td>
+      <td align="left">Kliping media massa</td>
+    </tr>
+    <tr>
+      <td rowspan="4" align="left">Potensi dan produk desa dikenal masyarakat luas</td>
+      <td align="left">Publik dapat mengakses advertorial potensi dan produk unggulan desa secara rutin</td>
+      <td align="left"><ul>
+        <li>Statistik kunjungan konten web</li>
+        <li>Statistik interaksi media sosial</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Ada komunikasi antara pengelola web dengan pengunjung yang membahas produk desa</td>
+      <td align="left"><ul>
+        <li>Data komentar pada halaman web</li>
+        <li>Testimoni</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Jangkauan pemasaran potensi dan produk desa semakin luas</td>
+      <td align="left"><ul>
+        <li>Testimoni pengelola potensi dan produk desa</li>
+        <li>Testimoni pembeli/mitra pemasaran potensi dan produk desa</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat dan pemerintah desa terlibat aktif dalam kegiatan promosi potensi dan produk unggulan desa</td>
+      <td align="left"><ul>
+        <li>Data pengguna</li>
+        <li>Statistik konten tiap pengguna</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="left">Kebijakan pemerintah desa tentang pengelolaan data desa semakin akurat</td>
+      <td align="left">Pemerintah desa mengetahui tata cara penyusunan Perdes atau SK Kepala Desa</td>
+      <td align="left">Pre-test dan Post-test</td>
+    </tr>
+    <tr>
+      <td align="left">Pemerintah desa mengetahui cara membaca basis data yang tersaji dalam Sistem Informasi Desa</td>
+      <td align="left"><ul>
+        <li>Testimoni Kepala Desa dan Badan Permusyawaratan Desa (BPD)</li>
+        <li>Dokumen analisis data</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Ada rancangan peraturan desa atau SK Kades yang merujuk pada sistem pengelolaan basis data</td>
+      <td align="left"><ul>
+        <li>Program legislasi desa</li>
+        <li>Lembaran desa</li>
+        <li>Testimoni Kepala Desa dan BPD</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td rowspan="4" align="left">Penyelenggaraan pelayanan publik yang semakin cepat</td>
+      <td align="left">Ada SOP penyelenggaraan pelayanan publik di desa</td>
+      <td align="left"><ul>
+        <li>Lembar SOP</li>
+        <li>Papan informasi SOP</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Ada pemanfaatan Sistem Informasi Desa untuk pendukung pelayanan administrasi di kantor desa</td>
+      <td align="left"><ul>
+        <li>Testimoni</li>
+        <li>Video dokumentasi proses pelayanan publik</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Durasi pelayanan administrasi semakin cepat</td>
+      <td align="left">Video dokumentasi proses pelayanan publik sebelum dan setelah penggunaan sistem</td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat semakin puas dengan pelayanan administrasi di desa</td>
+      <td align="left">Dokumen survei tingkat kepuasan masyarakat</td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="left">Keterbukaan informasi publik di desa</td>
+      <td align="left">Ada SOP penyediaan dan pelayanan permintaan informasi di desa</td>
+      <td align="left"><ul>
+        <li>Lembar SOP</li>
+        <li>Papan informasi</li>
+        <li>Halaman petunjuk cara pelayanan informasi di website desa</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Produk informasi sebagaimana diatur dalam UU No 14 tahun 2008 dan UU No 6 tahun 2014 dapat diakses oleh publik</td>
+      <td align="left"><ul>
+        <li>Statistik konten web</li>
+        <li>Testimoni dari peminta informasi</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat terlibat dalam pemantauan rencana dan pelaksanaan pembangunan desa</td>
+      <td align="left"><ul>
+        <li>Data permintaan informasi</li>
+        <li>Daftar usulan masyarakat</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td rowspan="4" align="left">Ketersediaan koneksi internet yang cukup baik di desa</td>
+      <td align="left">Masyarakat dan pemerintah desa dapat mengakses internet melalui perangkat desktop ataupun mobile</td>
+      <td align="left">Testimoni pengguna internet</td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat dan pemerintah desa dapat mengunggah konten dalam website desa</td>
+      <td align="left">Video dokumentasi proses unggah konten di website desa</td>
+    </tr>
+    <tr>
+      <td align="left">Masyarakat dan pemerintah desa dapat berinteraksi melalui media sosial</td>
+      <td align="left"><ul>
+        <li>Testimoni</li>
+        <li>Survei</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Ada perbaikan infrastruktur penunjang akses internet</td>
+      <td align="left"><ul>
+        <li>Video Dokumentasi</li>
+        <li>Data Tes Kecepatan Koneksi</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="left">Tersedianya bahan dan materi ajar tentang pemanfaatan internet di dunia perdesaan</td>
+      <td align="left">Masyarakat dan pemerintah desa dapat memanfaatkan modul berbentuk cetak dan e-book untuk pengarusutamaan isu perdesaan</td>
+      <td align="left"><ul>
+        <li>Modul cetak</li>
+        <li>E-book</li>
+        <li>Wiki Desa</li>
+      </ul></td>
+    </tr>
+    <tr>
+      <td align="left">Ada layanan helpdesk untuk pemanfaatan TIK di dunia perdesaan</td>
+      <td align="left"><ul>
+        <li>Daftar kontak helpdesk</li>
+        <li>Testimoni</li>
+      </ul></td>
+    </tr>
+  </tbody>
+</table>
   
  **Durasi waktu aktifitas dilaksanakan:**
 
