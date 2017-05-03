@@ -4,6 +4,7 @@ date: 2012-01-08
 categories:
 - laporan
 - MK-160 - Media Komunitas 160 Karakter
+layout: laporancmb
 ---
 
 ![250px-Januari_08_2012_Sosialisasi_Program_MK_160_di_Pedukuhan_Ngentak,_Timbulharjo,_Sewon_Bantul_-1.JPG](/uploads/250px-Januari_08_2012_Sosialisasi_Program_MK_160_di_Pedukuhan_Ngentak,_Timbulharjo,_Sewon_Bantul_-1.JPG){: .img-responsive .center-block }

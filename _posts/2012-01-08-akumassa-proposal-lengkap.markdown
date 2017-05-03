@@ -4,6 +4,7 @@ date: 2012-01-08 15:16:00 +07:00
 categories:
 - laporan
 - AKUMASSA.ORG
+layout: laporancmb
 ---
 
 ![250px-Akumassa.jpg](/uploads/250px-Akumassa.jpg){: .img-responsive .center-block }

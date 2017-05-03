@@ -124,7 +124,7 @@
 
         {% if page.title == 'AKUMASSA.ORG' %}
         
-            {% for post in site.categories['AKUMASSA.ORG'] %}
+            {% for post in site.categories['AKUMASSA.ORG'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -132,7 +132,13 @@
                 <hr>
             {% endfor %}
         
-        {% elsif page.title == 'Amboina Cyber Society' %}
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/akumassa.org/">Laporan Lainnya</a>
+            </div>
+          </div>
+        
+        {% elsif page.title == 'Amboina Cyber Society' limit: 5 %}
         
             {% for post in site.categories['Amboina Cyber Society'] %}
                 <a href="{{ post.url }}" class="btn-link">
@@ -141,6 +147,44 @@
                 </a>
                 <hr>
             {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/amboinacybersociety/">Laporan Lainnya</a>
+            </div>
+          </div>
+        
+         {% elsif page.title == '“Benor FM”, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba' %}
+        
+            {% for post in site.categories['“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/“benorfm”radiokomunitassebagaimediabelajardanalatperjuanganhakdasarorangrimba/">Laporan Lainnya</a>
+            </div>
+          </div>
+        
+         {% elsif page.title == 'LenteraTimur.com – Menyigi Identitas Indonesia' %}
+        
+            {% for post in site.categories['LenteraTimur.com – Menyigi Identitas Indonesia'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/lenteratimur.com–menyigiidentitasindonesia/">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Video untuk Perdamaian' %}
         
@@ -151,6 +195,22 @@
                 </a>
                 <hr>
             {% endfor %}
+        
+        {% elsif page.title == 'Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas' %}
+        
+            {% for post in site.categories['Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/kartunet.com-mediaonlinesosialisasidanpengembangankomunitaspemudadengandisabilitas/">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Hpku-Teman Belajarku' %}
         
@@ -164,27 +224,7 @@
         
         {% elsif page.title == 'Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh' %}
         
-            {% for post in site.categories['Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh'] %}
-                <a href="{{ post.url }}" class="btn-link">
-                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
-                    <h3>{{ post.title }}</h3>
-                </a>
-                <hr>
-            {% endfor %}
-        
-        {% elsif page.title == 'Next Generation – Media Watch & Literacy' %}
-        
-            {% for post in site.categories['Next Generation – Media Watch & Literacy'] %}
-                <a href="{{ post.url }}" class="btn-link">
-                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
-                    <h3>{{ post.title }}</h3>
-                </a>
-                <hr>
-            {% endfor %}
-        
-        {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
-        
-            {% for post in site.categories['Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] limit:10 %}
+            {% for post in site.categories['Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -194,7 +234,39 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="#">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/mendorongmediasehatdalampemberitaansyariatislamdiaceh/">Laporan Lainnya</a>
+            </div>
+          </div>
+        
+        {% elsif page.title == 'Next Generation – Media Watch & Literacy' %}
+        
+            {% for post in site.categories['Next Generation – Media Watch & Literacy'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/nextgeneration–mediawatch&literacy/">Laporan Lainnya</a>
+            </div>
+          </div>
+        
+        {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
+        
+            {% for post in site.categories['Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] limit:5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/aldepe.com-advokasihakasasimanusia(ham)dipapuaviamediaonline,mobilephonedansocialmedia/">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -210,13 +282,19 @@
         
         {% elsif page.title == 'MK-160 - Media Komunitas 160 Karakter' %}
         
-            {% for post in site.categories['MK-160 - Media Komunitas 160 Karakter'] %}
+            {% for post in site.categories['MK-160 - Media Komunitas 160 Karakter'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
             {% endfor %}
+        
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/mk-160-mediakomunitas160karakter/">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Tidak Bermula [Dan Tidak Berakhir] Dengan Berita' %}
         

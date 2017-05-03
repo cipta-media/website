@@ -1,0 +1,29 @@
+---
+title: Laporan Kegiatan Kartunet.com
+permalink: /kartunet.com-mediaonlinesosialisasidanpengembangankomunitaspemudadengandisabilitas/
+layout: blog
+---
+
+<div class="container" style="margin-top: 10px;">
+
+	<div class="row">
+	    <div class="col-lg-12 text-center">
+		<div class="navy-line"></div>
+		<h1>Laporan Kegiatan Kartunet.com</h1>
+	    </div>
+	</div>
+
+	<div class="row m-b-lg">
+
+		{% for post in site.categories['Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas'] %}
+		<div class="col-md-12">
+					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+					<p>{{ post.content | strip_html | truncatewords:30 }}</p>
+			<hr>
+		</div>
+		{% endfor %}
+
+	</div>
+
+</div>

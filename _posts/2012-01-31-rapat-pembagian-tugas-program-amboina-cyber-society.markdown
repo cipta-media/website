@@ -4,6 +4,7 @@ date: 2012-01-31
 categories:
 - laporan
 - Amboina Cyber Society
+layout: laporancmb
 ---
 ![200px-Januari_31_2012_Amboina_Cyber_Society_Rapat_Internal.jpg](/uploads/200px-Januari_31_2012_Amboina_Cyber_Society_Rapat_Internal.jpg){: .img-responsive .center-block }
 

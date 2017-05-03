@@ -4,6 +4,7 @@ date: 2012-02-11
 categories:
 - laporan
 - Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+layout: laporancmb
 ---
 
 ![200px-Februari_11_2012_AJI_Banda_Aceh_Pelatihan_Coding.JPG](/uploads/200px-Februari_11_2012_AJI_Banda_Aceh_Pelatihan_Coding.JPG){: .img-responsive .center-block }

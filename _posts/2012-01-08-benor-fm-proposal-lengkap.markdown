@@ -5,6 +5,7 @@ categories:
 - laporan
 - "“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar
   Orang Rimba"
+layout: laporancmb
 ---
 
 ![250px-Benor_FM.jpg](/uploads/250px-Benor_FM.jpg){: .img-responsive .center-block }
