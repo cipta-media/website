@@ -1,12 +1,13 @@
 ---
 title: Desa 2.0- Sistem Tata Kelola Sumber Daya Desa - Proposal Lengkap
 date: 2012-01-08 15:16:00 +07:00
-permalink: tes
+permalink: tes/
 categories:
 - laporan
 - Desa 2.0
 ---
 
+{% include table-fix.html %}
 PEMBAHARUAN AKHIR 12 AGUSTUS 2014
 
 **Organisasi**
@@ -213,7 +214,7 @@ Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan 
 
   Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai berikut:
   
-  <table>
+  <table border="1" cellpadding="10">
   <tbody>
     <tr>
       <th align="center"><strong>Hasil yang Diharapkan</strong></th>

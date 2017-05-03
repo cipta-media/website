@@ -2151,7 +2151,7 @@ div.dt-button-info {
   border: 1px solid #ddd;
 }
 .ui-jqgrid .ui-jqgrid-titlebar {
-  padding: 0;
+  padding: 5px;
 }
 .ui-jqgrid .ui-jqgrid-titlebar {
   border-bottom: 1px solid #ddd;
