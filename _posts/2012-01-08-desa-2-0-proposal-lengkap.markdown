@@ -7,8 +7,6 @@ categories:
 - Desa 2.0
 ---
 
-![250px-Akumassa.jpg](/uploads/250px-Akumassa.jpg){: .img-responsive .center-block }
-
 PEMBAHARUAN AKHIR 12 AGUSTUS 2014
 
 **Organisasi**
