@@ -112,3 +112,12 @@ Tidak responsif
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxJ9coOc7XY" frameborder="0" allowfullscreen></iframe>
 ```
+
+---
+
+Membuat Tabel
+
+|Hasil yang Diharapkan|Indikasi|Indikator|
+|---|---|---|
+|Publik dapat mengakses isu-isu perdesaan melalui internet|Konten desa dapat terpublikasi dalam 48 website desa|* Laporan registrar PANDI * Laporan pengguna hosting * Statistik konten web|
+|   |Pembaruan konten secara rutin konten desa, baik berupa teks, foto, video|Statistik konten web|
