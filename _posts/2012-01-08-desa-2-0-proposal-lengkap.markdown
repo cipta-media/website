@@ -166,6 +166,67 @@ Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan 
 
    Untuk mendukung penyebaran konten desa maka setiap desa yang menjadi penerima manfaat akan mengelola Sistem Informasi Desa yang berisi:
 
+<table border="1">
+  <tbody>
+    <tr>
+      <th align="left"><strong>Topik</strong></th>
+      <th align="left"><strong>Jenis Konten</strong></th>
+      <th align="left"><strong>Pembuat</strong></th>
+      <th align="left"><strong>Sasaran</strong></th>
+      <th align="left"><strong>Lisensi</strong></th>
+      <th align="left"><strong>Periode Update</strong></th>
+    </tr>
+    <tr>
+      <td align="left">Berita Desa</td>
+      <td align="left">Teks, Foto, Audio, Video</td>
+      <td align="left">Pemerintah Desa dan Masyarakat Desa</td>
+      <td align="left">Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">1 kali seminggu</td>
+    </tr>
+    <tr>
+      <td align="left">Laporan Desa</td>
+      <td align="left">Teks</td>
+      <td align="left">Pemerintah Desa</td>
+      <td align="left">Pemerintah Supradesa dan Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">Per kegiatan (fisik dan nonfisik)</td>
+    </tr>
+    <tr>
+      <td align="left">Kelembagaan Desa</td>
+      <td align="left">Teks, Foto</td>
+      <td align="left">Pemerintah Desa dan Lembaga Desa</td>
+      <td align="left">Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">per periode</td>
+    </tr>
+    <tr>
+      <td align="left">Potensi dan Produk Unggulan Desa</td>
+      <td align="left">Teks, Foto, Audio, Video</td>
+      <td align="left">Pemerintah Desa dan Masyarakat Desa</td>
+      <td align="left">Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">1 kali per bulan</td>
+    </tr>
+    <tr>
+      <td align="left">Peraturan Desa</td>
+      <td align="left">Teks</td>
+      <td align="left">Pemerintah Desa</td>
+      <td align="left">Pemerintah Desa dan Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">1 kali seminggu</td>
+    </tr>
+    <tr>
+      <td align="left">Berita Desa</td>
+      <td align="left">Teks, Foto, Audio, Video</td>
+      <td align="left">Pemerintah Desa dan Masyarakat Desa</td>
+      <td align="left">Umum</td>
+      <td align="left">Creative Commons</td>
+      <td align="left">1 kali seminggu</td>
+    </tr>
+  </tbody>
+</table>
+
    Untuk menyebarluaskan konten-konten desa di atas, maka dilakukan strategi sebagai berikut:
    * Semua konten desa akan diunggah melalui web desa dengan alamat http://namadesa.desa.id | contoh Desa Melung: http://melung.desa.id
    * Konten akan disebarkan melalui media sosial (minimal: twitter, Facebook, Google+).
