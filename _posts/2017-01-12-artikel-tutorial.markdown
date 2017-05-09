@@ -117,7 +117,18 @@ Tidak responsif
 
 Membuat Tabel
 
-|Hasil yang Diharapkan|Indikasi|Indikator|
+|Video|Youtube (Jumlah View)|Facebook (Jumlah View)|
 |---|---|---|
-|Publik dapat mengakses isu-isu perdesaan melalui internet|Konten desa dapat terpublikasi dalam 48 website desa|* Laporan registrar PANDI * Laporan pengguna hosting * Statistik konten web|
-|   |Pembaruan konten secara rutin konten desa, baik berupa teks, foto, video|Statistik konten web|
+|Apa dan Bagaimana Rapotivi|426|1,475|
+|Tayangan Berita|497|4,054|
+|Tayangan Anak|619|13,297|
+|Total penonton video|20,368||
+
+```
+|Video|Youtube (Jumlah View)|Facebook (Jumlah View)|
+|---|---|---|
+|Apa dan Bagaimana Rapotivi|426|1,475|
+|Tayangan Berita|497|4,054|
+|Tayangan Anak|619|13,297|
+|Total penonton video|20,368||
+```
