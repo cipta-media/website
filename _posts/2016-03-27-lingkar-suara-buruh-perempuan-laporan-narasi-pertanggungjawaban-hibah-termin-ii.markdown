@@ -77,15 +77,15 @@ Seluruh aktivitas yang dijanjikan pada proposal sebelumnya tidak dilaksanakan da
 
 Aktivitas dan isu yang anda atasi:
 
-**Untuk mengatasi persoalan tersebut, berbagai aktivitas yang dilakukan adalah
-1. Konferensi Perempuan Pekerja II
-2. Panggung Buruh untuk Ibu di Tempat Kerja
-3. Diskusi Hunian
-4. Pelatihan Marsinah FM
-5. Produksi Berita Video
-6. Produksi Tulisan
-7. Lomba Foto
-8. Survei SMS Centre**
+**Untuk mengatasi persoalan tersebut, berbagai aktivitas yang dilakukan adalah**
+**1. Konferensi Perempuan Pekerja II**
+**2. Panggung Buruh untuk Ibu di Tempat Kerja**
+**3. Diskusi Hunian**
+**4. Pelatihan Marsinah FM**
+**5. Produksi Berita Video**
+**6. Produksi Tulisan**
+**7. Lomba Foto**
+**8. Survei SMS Centre**
 
 1. Konferensi Perempuan Pekerja II (KPP II)
 
@@ -205,7 +205,7 @@ Indikator keberhasilan:
 
 1. Tulisan informasi tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 lima (5) tulisan dalam dua bulan 
 
@@ -214,15 +214,15 @@ lima (5) tulisan dalam dua bulan
 Situs web 
 
 Tulisan
- 1. ["Kaum Buruh Menuntut Kesejahteraan Di Negara Demokrasi"](http://www.marsinahfm.com/kaum-buruh-menuntut-kesejahteraan-di-negara-demokrasi/) , Like & share 135 kali
- 2. Tulisan ["Parahnya Pelanggaran Kesehatan Reproduksi Buruh Perempuan di tempat kerja"](http://www.marsinahfm.com/parahnya-pelanggaran-kesehatan-reproduksi-buruh-perempuan-di-tempat-kerja/), di like & share 80 kali
- 3. Tulisan ["STOP KEKERASAN DALAM RUMAH TANGGA"](http://www.marsinahfm.com/stop-kekerasan-dalam-rumah-tangga/) di like & share 72 kali
- 4. Tulisan ["NASIB BURUH KONTRAK HAMIL"](http://www.marsinahfm.com/nasib-buruh-kontrak-hamil/) di like & share 123 kali
- 5. Tulisan ["Kami Mau Bekerja, Tapi Kami Tidak Mau Ditindas"](http://www.marsinahfm.com/kami-mau-bekerja-tapi-kami-tidak-mau-ditindas/) di like & share 186 kali
+ * 1. ["Kaum Buruh Menuntut Kesejahteraan Di Negara Demokrasi"](http://www.marsinahfm.com/kaum-buruh-menuntut-kesejahteraan-di-negara-demokrasi/) , Like & share 135 kali
+ * 2. Tulisan ["Parahnya Pelanggaran Kesehatan Reproduksi Buruh Perempuan di tempat kerja"](http://www.marsinahfm.com/parahnya-pelanggaran-kesehatan-reproduksi-buruh-perempuan-di-tempat-kerja/), di like & share 80 kali
+ * 3. Tulisan ["STOP KEKERASAN DALAM RUMAH TANGGA"](http://www.marsinahfm.com/stop-kekerasan-dalam-rumah-tangga/) di like & share 72 kali
+ * 4. Tulisan ["NASIB BURUH KONTRAK HAMIL"](http://www.marsinahfm.com/nasib-buruh-kontrak-hamil/) di like & share 123 kali
+ * 5. Tulisan ["Kami Mau Bekerja, Tapi Kami Tidak Mau Ditindas"](http://www.marsinahfm.com/kami-mau-bekerja-tapi-kami-tidak-mau-ditindas/) di like & share 186 kali
 
 2. Siaran tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 sepuluh (10) acara siaran
 
@@ -243,11 +243,11 @@ rekaman
 
 3. Audio tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 empat (4) file audio 
 
-**Sumber **
+**Sumber**
 
 siaran & [soundcloud](https://soundcloud.com/radio-marsinah) (21 follower, 63 track, terakhir diperbaharui Desember 2015)
 
@@ -257,7 +257,7 @@ siaran & [soundcloud](https://soundcloud.com/radio-marsinah) (21 follower, 63 tr
 
 dua (2) video 
 
-**Sumber **
+**Sumber**
 
 Youtube
 [Lensa buruh Marsinah FM](https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw) (48 video terakhir di perbaharui 8 Mei 2015]
@@ -283,7 +283,7 @@ Facebook
 
 Dua (2) sms per siaran 
 
-**Sumber **
+**Sumber**
 
 Data SMS
 
