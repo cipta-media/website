@@ -15,7 +15,7 @@ layout: info
 
     <div class="row m-b-lg">
         <br/>
-        {% for timcms in site.data.timcms %}
+        {% for timcmb in site.data.timcmb %}
         {% assign counter = counter | plus: 1 %}
         <div class="col-md-3 m-b-lg">
 
@@ -24,19 +24,19 @@ layout: info
                 <div class="col-sm-12">
                     <div class="card">
                         <div class="card-image">
-                            <img class="img-responsive center-block" src="{{ timcms.foto }}">
+                            <img class="img-responsive center-block" src="{{ timcmb.foto }}">
                         </div>
                         
                         <div class="card-content">
-                            <h2>{{ timcms.name }}</h2>
+                            <h2>{{ timcmb.name }}</h2>
                             <br/>
-                            {% for timcms in timcms.posisi %}
-                                <h4>{{ timcms }}</h4>
+                            {% for timcmb in timcmb.posisi %}
+                                <h4>{{ timcmb }}</h4>
                             {% endfor %}
                             <hr>
-                            {{ timcms.bio | truncatewords:20 }}
+                            {{ timcmb.bio | truncatewords:20 }}
                             <hr>
-                            <a data-toggle="modal" data-target="#{{ timcms.name | remove: " " }}">selengkapnya</a>
+                            <a data-toggle="modal" data-target="#{{ timcmb.name | remove: " " }}">selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -44,22 +44,22 @@ layout: info
 
         </div>
         
-        <div id="{{ timcms.name | remove: " " }}" class="modal fade" role="dialog">
+        <div id="{{ timcmb.name | remove: " " }}" class="modal fade" role="dialog">
             <div class="modal-dialog">
 
             <!-- Modal content-->
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title">{{ timcms.name }}</h4>
+                        <h4 class="modal-title">{{ timcmb.name }}</h4>
                     </div>
                     <div class="modal-body">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img class="img-responsive center-block" src="{{ timcms.foto }}">
+                                <img class="img-responsive center-block" src="{{ timcmb.foto }}">
                             </div>
                             <div class="col-sm-8">
-                                <p>{{ timcms.bio }}</p>
+                                <p>{{ timcmb.bio }}</p>
                             </div>
                         </div>
                     </div>
@@ -78,4 +78,3 @@ layout: info
     </div>
 
 </div>
-

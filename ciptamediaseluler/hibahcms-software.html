@@ -19,6 +19,10 @@ layout: info
 			midRange: 3,
 			endRange: 1
 		});
+		$("button").click(function(){
+			var page = parseInt( $("input").val() );
+			$("#holder").jPages( page );
+		});
 	});
   </script>
   <!-- jPages -->
@@ -32,42 +36,46 @@ layout: info
         </div>
     </div>
     
-    <div class="btn-group btn-group-justified">
-        <a href="hibahcms-semua.html" class="btn btn-danger" role="button">Semua</a>
-        <a href="hibahcms-hardware.html" class="btn btn-danger" role="button">Perangkat Keras</a>
-        <a href="#" class="btn btn-danger active" role="button">Perangkat Lunak</a>
-        <a href="hibahcms-konten.html" class="btn btn-danger" role="button">Produksi dan Penyampaian Konten</a>
-    </div>
-    <br/>
-    
-    <div class="row">	
-        <ul id="itemContainer" style="list-style:none;">
-        {% for hibahcms in site.data.hibahcms %}
-        {% if hibahcms.tipe == 'software' %}
-        {% assign counter-soft = counter-soft | plus: 1 %}
-            <li>
-                <div class="col-md-4">
-                     <div class="col-md-12 well well-lg">
-                <a href="{{ hibahcms.link }}"><img class="img-responsive text-center" src="{{ hibahcms.gambar }}"></a>
-                        <hr>
-                <a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
-                        {{ hibahcms.deskripsi | truncatewords: 20 }}
-                <hr>
-                <i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
-                      </div>
-                </div>
-        {% assign ifindex = counter-soft | modulo: 3 %}
-          {% if ifindex == 0 %}
-            <div class="clearfix visible-md visible-lg"></div>
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-            </li>
-        </ul>
+	<div class="row">
+		<div class="col-md-12">
+		    <nav class="navbar" role="navigation">
+			<div class="container">
+				<ul class="nav navbar-nav">
+					<li><a href="hibahcms-semua.html">Semua</a></li>
+					<li><a href="hibahcms-hardware.html">Perangkat Keras</a></li>
+					<li><a href="#">Perangkat Lunak</a></li>
+					<li><a href="hibahcms-konten.html">Produksi dan Penyampaian Konten</a></li>
+				</ul>
+			</div>
+		    </nav>
+		</div>
 	</div>
+
+    <div class="row">	
+        <div id="itemContainer">
+        {% for hibahcms in site.data.hibahcms %}
+	{% if hibahcms.tipe == 'software' %}
+		<div class="col-md-4">
+			<div class="col-md-12 well well-lg" style="height: 600px;">
+				<a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
+				<hr>
+				<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+				<p>{{ hibahcms.deskripsi | truncatewords: 20 }}</p>
+				<hr>
+				<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
+			</div>
+		</div>
+	{% endif %}
+	{% endfor %}
+	</div>
+    </div>	    
     <div class="row m-b-lg text-center">
         <div class="col-md-12">
             <div class="pag-holder" id="holder"></div>
         </div>
-    </div>
+	<div class="col-md-12">
+		<input type="number" value="5" style="width: 40px; text-align: center;">
+		<button>Lompat ke bagian ini</button>
+	</div>
+    </div>	
 </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  
+{% include head.html %}
+{% include megamenu.html %}
 <body id="page-top" class="landing-page">
 <div class="navbar-wrapper">
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -13,41 +13,56 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="/index.html" id="i18_title"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
+                <a href="/index.html"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                	<li><a href="#">Menu 1</a></li>
+                    <li><a href="#">Menu 1</a></li>
                     <li><a href="#">Menu 2</a></li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Proyek Terdahulu<span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                        	<li>
-                            	<div class="row" style="width: 600px; padding-bottom: 10px;">
-                                	<div class="col-sm-6">
-                                    	<center><h3>Cipta Media Seluler</h3></center>
-                                        <ul style="list-style:none;">
-                                            <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
-                                            <li><a href="#">Penerima Hibah</a></li>
-                                            <li><a href="/ciptamediaseluler/hibahcms-semua.html">Pendaftar Hibah</a></li>
-                                            <li><a href="#">Tim</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-sm-6">
-                                    	<center><h3>Cipta Media Bersama</h3></center>
-                                        <ul style="list-style:none;">
-                                            <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
-                                            <li><a href="#">Penerima Hibah</a></li>
-                                            <li><a href="/ciptamediabersama/hibahcmb-semua.html">Pendaftar Hibah</a></li>
-                                            <li><a href="#">Tim</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                    <li class="dropdown mega-dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Terdahulu <span class="caret"></span></a>
+                        <ul class="dropdown-menu mega-dropdown-menu row">
+                            <li class="col-sm-6">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Seluler</li>
+                                    <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
+                                    <li><a href="/ciptamediaseluler/penerimahibah.html">Penerima Hibah</a></li>
+                                    <li><a href="/ciptamediaseluler/hibahcms-semua.html">Pendaftar Hibah</a></li>
+                                    <li><a href="#">Tim</a></li>
+                                </ul>
                             </li>
-                            
+                            <li class="col-sm-6">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Bersama</li>
+                                    <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
+                                    <li><a href="/ciptamediabersama/penerimahibah.html">Penerima Hibah</a></li>
+                                    <li><a href="/ciptamediabersama/hibahcmb-semua.html">Pendaftar Hibah</a></li>
+                                    <li><a href="#">Tim</a></li>
+                                </ul>
+                            </li>
                         </ul>
-                    </li>
-                    <li><a href="/blog/blog.html">Blog</a></li>    
+                    <li class="dropdown mega-dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
+                        <ul class="dropdown-menu mega-dropdown-menu row">
+                            <li class="col-sm-6">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Seluler</li>
+                                    <li><a href="/berita/">Berita</a></li>
+                                    <li><a href="/inspirasi/">Inspirasi</a></li>
+                                    <li><a href="/kajian/">Kajian</a></li>
+                                    <li><a href="/gagasan/">Gagasan</a></li>
+                                    <li><a href="/inovasi/">Inovasi</a></li>
+                                    <li><a href="/tutorial/">Tutorial</a></li>
+                                </ul>
+                            </li>
+                            <li class="col-sm-6">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Bersama</li>
+                                    <li><a href="/acara/">Acara</a></li>
+                                    <li><a href="/teladan/">Teladan</a></li>
+                                </ul>
+                            </li>
+                        </ul>
                 </ul>
             </div>
         </div>

@@ -19,6 +19,10 @@ layout: info
 			midRange: 3,
 			endRange: 1
 		});
+		$("button").click(function(){
+			var page = parseInt( $("input").val() );
+			$("#holder").jPages( page );
+		});
 	});
   </script>
   <!-- jPages -->
@@ -31,38 +35,46 @@ layout: info
             <h1>Pendaftar Hibah</h1>
         </div>
     </div>
-	    <div class="btn-group btn-group-justified">
-	    <a href="#" class="btn btn-danger active" role="button">Semua</a>
-	    <a href="#" class="btn btn-danger" role="button">Retas</a>
-	    <a href="#" class="btn btn-danger" role="button">Pantau</a>
-	    <a href="#" class="btn btn-danger" role="button">Konten</a>
-    </div>
-	<br/>
-    <div class="row">	
-        <ul id="itemContainer" style="list-style:none;">
-        {% for hibahcmb in site.data.hibahcmb %}
-        {% assign loopindex = forloop.index | modulo: 3 %}
-            <li>
-                <div class="col-md-4">
-				<div class="col-md-12 well well-lg">
-                <a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}"></a>
-                    <hr>
-                <a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
-                    {{ hibahcmb.deskripsi | truncatewords: 20 }}
-                <hr>
-                <i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
-                  </div>
-                </div>
-                {% if loopindex == 0 %}
-                <div class="clearfix visible-md visible-lg"></div>
-                {% endif %}
-                {% endfor %}
-            </li>
-        </ul>
+	
+	<div class="row">
+		<div class="col-md-12">
+		    <nav class="navbar" role="navigation">
+			<div class="container">
+				<ul class="nav navbar-nav">
+					<li><a href="#">Semua</a></li>
+					<li><a href="hibahcms-retas.html">Meretas batas – kebhinekaan bermedia</a></li>
+					<li><a href="hibahcms-adil.html">Keadilan dan kesetaraan akses terhadap media</a></li>
+					<li><a href="hibahcms-bebas.html">Kebebasan dan etika bermedia</a></li>
+					<li><a href="hibahcms-pantau.html">Pemantauan media</a></li>
+				</ul>
+			</div>
+		    </nav>
+		</div>
 	</div>
+	
+    <div class="row">	
+        <div id="itemContainer">
+        {% for hibahcmb in site.data.hibahcmb %}
+		<div class="col-md-4">
+			<div class="col-md-12 well well-lg" style="height: 600px;">
+				<a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
+				<hr>
+				<a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
+				<p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
+				<hr>
+				<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
+			</div>
+		</div>
+	{% endfor %}
+	</div>
+    </div>	    
     <div class="row m-b-lg text-center">
         <div class="col-md-12">
             <div class="pag-holder" id="holder"></div>
         </div>
+	<div class="col-md-12">
+		<input type="number" value="5" style="width: 40px; text-align: center;">
+		<button>Lompat ke bagian ini</button>
+	</div>
     </div>
 </div>

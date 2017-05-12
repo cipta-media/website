@@ -41,10 +41,11 @@ layout: info
 		    <nav class="navbar" role="navigation">
 			<div class="container">
 				<ul class="nav navbar-nav">
-					<li><a href="hibahcms-semua.html">Semua</a></li>
-					<li><a href="#">Perangkat Keras</a></li>
-					<li><a href="hibahcms-software.html">Perangkat Lunak</a></li>
-					<li><a href="hibahcms-konten.html">Produksi dan Penyampaian Konten</a></li>
+					<li><a href="hibahcmb-semua.html">Semua</a></li>
+					<li><a href="hibahcms-retas.html">Meretas batas – kebhinekaan bermedia</a></li>
+					<li><a href="#">Keadilan dan kesetaraan akses terhadap media</a></li>
+					<li><a href="hibahcms-bebas.html">Kebebasan dan etika bermedia</a></li>
+					<li><a href="hibahcms-pantau.html">Pemantauan media</a></li>
 				</ul>
 			</div>
 		    </nav>
@@ -53,16 +54,16 @@ layout: info
 
     <div class="row">	
         <div id="itemContainer">
-        {% for hibahcms in site.data.hibahcms %}
-	{% if hibahcms.tipe == 'hardware' %}
+  {% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'adil' %}
 		<div class="col-md-4">
 			<div class="col-md-12 well well-lg" style="height: 600px;">
-				<a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
+				<a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
 				<hr>
-				<a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
-				<p>{{ hibahcms.deskripsi | truncatewords: 20 }}</p>
+				<a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
+				<p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
 				<hr>
-				<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
+				<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
 			</div>
 		</div>
 	{% endif %}
@@ -74,7 +75,7 @@ layout: info
             <div class="pag-holder" id="holder"></div>
         </div>
 	<div class="col-md-12">
-		<input type="number" value="2" style="width: 40px; text-align: center;">
+		<input type="number" value="5" style="width: 40px; text-align: center;">
 		<button>Lompat ke bagian ini</button>
 	</div>
     </div>	
