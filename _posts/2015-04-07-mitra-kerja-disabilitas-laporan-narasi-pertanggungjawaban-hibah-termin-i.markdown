@@ -190,7 +190,7 @@ Sejak awal proyek, Saujana berkomitmen menjadi model organisasi inklusi, sehingg
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-[Pranala Laporan Penggunaan Dana](http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas/Laporan_Penggunaan_Danaa)
+[Pranala Laporan Penggunaan Dana](http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.

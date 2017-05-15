@@ -28,49 +28,42 @@ Berbasis Komunitas AKUMASSA.ORG dan Pengembangan Kerja Komunitas Pemantauan Medi
 
 Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
-**1. Hasil Diskusi Kelompok Terarah**
+1. Layanan karir daring (online) untuk disabilitas perlu upaya lebih besar untuk menjangkau penggunanya. 
 
-Diskusi kelompok terararah memberikan kami pengetahuan penting tentang kebutuhan orang dengan disabilitas dalam kaitannya dengan akses kepada pekerjaan, termasuk informasi pekerjaan. Poin-poin penting yang kami anggap merupakan pembelajaran adalah:
+Setelah 6 bulan online, Kerjabilitas.com menampung sekitar 500 pengguna terdaftar. Capaian ini bisa dibilang cukup baik jika dibandingkan dengan jumlah pengguna layanan sejenis yang saya dapatkan informasinya dari admin mereka, yang jumlah penggunanya baru mencapai 200-an setelah online selama setahun (2013-2014). Perlu diingat bahwa standar baik atau cukup memang masih subyektif di sini, karena layanan jenis ini belum ada benchmark-nya di Indonesia. 
 
-* Konten khusus yang diminati oleh penyandang disabilitas seperti jenis media (buku suara, video, artikel) maupun genrenya.
+Namun capaian ini bukan tanpa tantangan dalam prosesnya. Sejak tampil daring (online), kanal penjangkauan utama yang digunakan adalah media sosial dan grup-grup penyandang disabilitas yang aktif menggunakan media sosial. Namun jangkauan kanal yang terakhir disebutkan amat terbatas kepada pengguna yang ada pada lingkaran mereka, sedangkan calon pengguna lain yang sama sekali tidak terafiliasi masih belum tersentuh. Jadi bisa dibayangkan, menjangkau 15% populasi Indonesia (jumlah disabilitas Indonesia berdasarkan laporan WHO, 2011) yang kebanyakan masih “bersembunyi” atau “disembunyikan” karena diskriminasi sosial memang tidaklah mudah. 
 
-* Antar muka dari website dan aplikasi Android yang akan dikembangkan
+Tantangan di atas baru tentang pengguna satu (pencari kerja), sedangkan pengguna dua (penyedia kerja) membutuhkan pendekatan yang berbeda dan tak kalah menantangnya. Karena membuka kesempatan kerja belum menjadi wacana arus utama, apalagi kesadaran bagi kebanyakan penyedia kerja di Indonesia, strategi kami masih terbatas menggunakan pendekatan (komunikasi) langsung dalam mencari informasi lowongan kerja inklusi. Kami menyasar perusahaan-perusahaan multinasional (Carrefour, Loreal) yang sebelumnya pernah membuka lowongan inklusi dan sektor perbankan (Mandiri, BNI, CIMB Niaga, Lippo Group) yang memang punya kesadaran lebih tinggi dalam penerapan kebijakan kepegawaian inklusif dan setara, dibandingkan sektor lainnya di Indonesia. Meningkatnya jumlah pengguna satu berbanding lurus dengan jumlah lowongan dan pengguna dua, sehingga tantangan terbesar tetap pada meningkatkan jumlah pengguna dua dan jumlah lowongan yang diiklankan.
+Selain penjangkauan online, kami juga cukup aktif mengadakan penjangkauan offline lewat partisipasi dalam beberapa acara bursa kerja di Jogja dan Surabaya. Selain itu, kami juga mengadakan acara Hari Karir di SLB Yogyakarta untuk memperkenalkan layanan Kerjabilitas. Penjangkauan dengan model ini cukup berhasil dalam meningkatkan kesadaran publik, namun belum mampu meningkatkan jumlah pengguna secara signifikan bila dibandingkan dengan penjangkauan online. 
 
-* Informasi penting yang perlu dibagikan terkait dengan pengguna dari sisi pencari kerja, penyedia kerja dan lowongannya.
+2. Model operasional harus menyesuaikan dengan platform layanan
 
-**2. Karakteristik yang berbeda dari masing-masing jenis disabilitas.**
+Pada saat tim MKPD pertama dibentuk, model operasional yang diterapkan mengacu pada prinsip pengelolaan proyek. Namun ketika layanan Kerjabilitas mulai aktif, model ini tidak terlalu relevan lagi karena pada hakikatnya kami harus lebih berorientasi pada memberikan layanan kepada pengguna dan bagaimana menjangkau mereka. Sehingga fungsi staf proyek/program akhirnya menyesuaikan pada kebutuhan saat itu, demikian pula aktifitas-aktifitas yang dikerjakan. Beberapa fungsi baru yang muncul sebagai bentuk adaptasi dari operasional layanan Kerjabilitas adalah Penjangkauan dan Administrasi Layanan.
 
-Dari interaksi Saujana dengan penyandang disabilitas, kami mendapatkan pengetahuan yang relatif baru bahwa tiap penyandang disabilitas dari jenis yang berbeda memiliki karakteristik yang berbeda pula. Hal ini relevan diketahui agar kami menerapkan pendekatan yang sesuai dengan kekhasan mereka.
+Sifat dari platform Kerjabilitas yang menyediakan informasi lowongan inklusi kepada pengguna satu dan menyediakan laman bagi pengguna dua untuk memasang informasi tersebut, menuntut kami untuk selalu memelihara hubungan yang baik dengan pengguna. Hubungan baik yang dimaksud adalah dalam hal dukungan yang terkait dengan layanan karir maupun teknis sistem Kerjabilitas itu sendiri. Kanal utama yang justru sangat efektif untuk menjalin komunikasi dengan pengguna justru lewat Facebook, alih-alih menggunakan media kirim pesan yang justru ditanam di dalam sistem.
 
-* Orang dengan disabilitas secara umum memiliki masalah dengan kepercayaan diri mereka. Hal ini sebagai dampak dari stigma dan diskriminasi dari masyarakat atau lingkungan tinggal mereka.
+Selain menjalin hubungan lewat komunikasi, selayaknya layanan online lain, semestinya menerapkan sistem yang terpadu untuk dukungan pengguna. Hal inilah yang tidak terpikirkan pada saat proyek ini dirancang. Kami telah memiliki sistem basis data pengguna, tetapi untuk menganalisa data tersebut dan memberikan dukungan, kami masih menggunakan sistem lain yang masih terpisah. Misalnya untuk menganalisa pengguna, kami masih belum mampu melakukannya dengan sistem sekarang tetapi menggunakan aplikasi Excel. Termasuk dalam hal mengembangkan program pemasaran ke dalam (inbound marketing) yang semestinya bisa diselesaikan dengan efektif dengan aplikasi CRM (Customer Relationship Management). Penggunaan sistem yang terpisah juga rentan terhadap salah komunikasi antar tim pendukung. Dari pembelajaran ini, kami akan mulai menggunakan CRM untuk fase berikutnya. 
 
-* Orang dengan disabilitas yang pernah tergabung dalam komunitas atau organisasi disabilitas biasanya lebih memiliki motivasi dan kepercayaan diri dibandingkan yang tidak.
+3. Masalah kurangnya lowongan inklusif disabilitas adalah masalah sistemik, sehingga layanan online saja tidak cukup. 
 
-**3. Tidak mudah merekrut Programmer yang cakap untuk proyek nirlaba.**
+Undang-undang yang mewajibkan penyedia kerja (dengan jumlah karyawan minimal 100 orang) untuk merekrut penyandang disabilitas telah diterbitkan sejak 1997, namun kenyataannya peluang kerja bagi disabilitas masih sempit. Dari sini, jelas ada masalah sistemik. Baik itu masalah sistemik yang terkait dengan penerapan dan penegakan Undang-Undang tadi, maupun masalah sistemik yang terkait dengan pendidikan yang menjadi tulang punggung kualitas dan kompetensi penyandang disabilitas. Mandat MKPD memang tidak secara langsung berkaitan dengan masalah ini, namun kami tidak bisa menutup mata bahwa tanpa penyelesaian masalah tersebut, layanan Kerjabilitas menjadi tidak berarti.
 
-* Pengalaman termin pertama MKPD mengajarkan Saujana bahwa merekrut programmer yang cakap untuk proyek nirlaba adalah pekerjaan yang tidak mudah. Setelah mendapatkan programmer 1, kami kesulitan mendapatkan 1 programmer lain untuk membentuk tim programmer yang solid. Kami telah mencoba beberapa cara seperti memasang iklan ke JobsDB dan memanfaatkan jaringan (termasuk jaringan mentor) tapi belum ada hasil sampai 3 bulan. Walaupun sudah ada beberapa kandidat yang diwawancarai, tapi semua mundur ketika kami panggil untuk bergabung. Sampai akhirnya kami memanfaatkan jasa rekrutmen online lokal untuk mendapatkan staf yang kami butuhkan dan kandidat bagus yang kami wawancara juga punya ketertarikan tinggi terhadap isu sosial.
+Tanpa menceburkan diri ke ranah advokasi yang bukan areanya Saujana, kami menerapkan pendekatan yang lebih persuasif dengan bekerjasama dengan pemerintah daerah untuk mendorong isu inkusif disabilitas dalam dunia kerja. Sejauh ini, pemerintah Kota Malang, Provinsi Jawa Timur, dan Provinsi DI Yogyakarta sangat mendukung layanan Kerjabilitas dengan mengikutsertakan kami dalam bursa kerja inklusif di daerah masing-masing. Khusus Kota Malang, dukungan pemerintahnya ditandai dengan hadirnya Walikota dalam peresmian website dan aplikasi Kerjabilitas pada Juni lalu. 
 
-* Dari sini kami berasumsi bahwa sistem pendidikan tinggi informatika Jogja mendidik pesertanya untuk berorientasi pada karir di perusahaan pemrograman, yang notabene berorientasi laba. Sehingga bekerja dalam organisasi nirlaba tidak termasuk dalam rencana karir mereka, walaupun dengan spesifikasi pekerjaan yang sama dan gaji yang cukup bersaing.
+Selain bekerjasama dengan pemerintah, kami juga menjalin kerjasama dengan SLB 4 Yogyakarta dalam kegiatan penjangkauan dan diseminasi layanan Kerjabilitas ke calon lulusan sekolah khusus. Kerjasama ini akan ditingkatkan dalam hal menghubungkan para calon lulusan tersebut ke tempat-tempat kerja untuk program magang atau praktek kerja. 
 
-**4. Proyek dengan isu disabilitas dan melibatkan IT pertama Saujana**
+Kami juga menjalin kerjasama aktif dengan beberapa LSM/Ornop seperti ILO, dan Yakkum Yogyakarta yang memiliki misi yang sama dalam isu ketenagakerjaan disabilitas. 
 
-Isu disabilitas dan membuat aplikasi Android adalah proyek yang belum pernah ditangani oleh Saujana sebelumnya. Hal ini (disamping kesulitan merekrut programmer 2) menuntut proses belajar dan pengerjaan yang lebih panjang dari kondisi ideal. Ini pula yang membuat implementasi beberapa kegiatan (salah satu yang terpenting yaitu peluncuran website) mundur 2 bulan dari jadwal.
+Kegiatan-kegiatan offline di atas diharapkan mampu melengkapi apa yang tidak bisa dilakukan platform Kerjabilitas. Dan harapannya kegiatan ini bisa lebih diintensifkan dan diperluas pada fase mendatang.
 
-**5. Perubahan dari situs direktori lowongan disabilitas menjadi jejaring sosial karir disabilitas**
+4. Jalan panjang menuju keberlanjutan proyek berdampak sosial bisa dimulai dengan merancang model bisnis sosial yang berkesinambungan, daripada pendekatan sedekah (charity)
 
-Salah satu pembelajaran terpenting bagi Saujana selama termin pertama proyek ini adalah keputusan untuk merubah keluaran yang akan dihasilkan. Sebagaimana yang tertulis dalam proposal, keluaran proyek ini adalah situs direktori lowongan kerja bagi disabilitas. Setelah kami menganalisa kelebihan dan kelemahan sistem itu dan menimbang cara yang lebih baik untuk keberlanjutan proyek ini, maka kami memutuskan untuk membuat situs jejaring sosial karir. Alasan utama perubahan ini supaya kedepannya sistem ini bisa mengembangkan penggunanya tanpa intervensi yang terlalu intensif dari admin. Dalam situs jejaring sosial yang dikembangkan, pengguna bisa mengundang pengguna lain, terhubung, mengikuti akun penyedia kerja dan mendapatkan surel pemberitahuan apabila ada lowongan yang sesuai dengan minatnya. Hal ini tidak akan bisa dilakukan apabila situs (dan aplikasinya) statis atau tidak berbasis jejaring sosial.
-Keputusan itu juga otomatis menjadi “perbaikan” dari sistem yang sudah ada yang dikembangkan dan dikelola oleh DNetwork Bali. Dan ini menguntungkan sistem yang dikembangkan MKPD sendiri karena bisa mengklaim diri sebagai “jejaring sosial karir pertama di Indonesia” yang biasanya cukup strategis apabila digunakan sebagai jargon dalam pemasaran.
-Perubahan ini bukannya tanpa konsekuensi, diantaranya meliputi perubahan besar pada rancangan dan eksekusi pemrograman serta kebutuhan server basis data.
+Sejak akhir semester pertama proyek MKPD, kami sudah cukup gencar mencari sumber dana untuk keberlanjutan Kerjabilitas. Alasannya sangat jelas, layanan Kerjabilitas baru disediakan selama 6 bulan, sehingga sulit untuk mengukur dampak sosialnya. Selain itu, kami juga harus cukup stamina agar layanan ini tidak mati sebelum manfaatnya benar-benar dirasakan oleh pengguna. 
 
-**6. Buku suara masih jadi tantangan terbesar dalam produksi dan pengumpulan konten ramah difabel.**
+Dua proposal yang kami masukkan ke DFAT Australia lewat program Direct Aid Program dan DBS Foundation lewat program DBS Grant gagal. Proposal pertama tidak ada tanggapan (walaupun respon awal mereka cukup baik) karena hubungan diplomatik yang tidak menentu antara Indonesia-Australia. Proposal yang kedua gagal karena model bisnisnya tidak jelas. Khusus untuk DBS, mereka memang mensyaratkan bahwa proyek yang diajukan proposalnya harus bisa menunjukkan model bisnis (sebagai wirausaha sosial) yang realistis sehingga proyek bisa berlanjut secara mandiri setelah dana habis. Kami cukup beruntung karena gagal di tingkat DBS Asia tidak diikuti oleh kegagalan di tingkat nasional. Saujana terpilih diantara 350 pendaftar DBS Foundation Social Enterprise Boot Camp, untuk mengikuti serangkaian workshop mulai Agustus sampai Desember bersama 13 peserta lainnya. Dalam kegiatan ini peserta mendapatkan materi-materi tentang wirasusaha sosial dan bagaimana mengembangkan program yang berdampak secara sosial dan mandiri secara ekonomi. Di akhir seri workshop nanti, akan ada sesi pitching di depan investor-investor seperti Aavishkaar dan LGT Philantrophy
 
-* Awalnya agak sulit dipercaya, namun pengalaman dalam pengumpulan dan produksi konten yang ramah difabel mengajarkan Saujana bahwa menemukan buku suara berbahasa Indonesia dan berlisensi bebas ternyata sangat sulit. Pertama, kami dihadapkan pada isu lisensi, karena buku digital bermutu yang beredar di internet adalah bajakan sehingga mengubahnya menjadi bentuk buku suara sangat beresiko bagi Saujana.
-
-* Isu kedua adalah minimnya produsen konten jenis ini. Mitra Netra sempat menjadi produsen tunggal sejak 1996 lewat program Daisy Indonesia, namun berhenti pada 2007. Kami sempat menghubungi mereka untuk bekerja sama dalam distribusi konten, namun ternyata buku suara mereka hanya dicetak dalam jumlah terbatas dalam bentuk CD dan disebarkan secara terbatas. Kemungkinan besar masih karena isu lisensi.
-
-* Isu ketiga adalah bahasa karena banyak buku digital bermutu berlisensi bebas berbahasa Inggris dan ini kurang sesuai dengan pengguna kami.
-
-Tantangan ini coba kami jawab dengan memproduksi buku suara sendiri. Ketika laporan ini dibuat, kami telah selesai membuat studio rekaman mini dan sedang dalam tahap pelatihan produksi. Tujuannya supaya Saujana memiliki sumber daya untuk memproduksi buku suara, baik dari buku digital lisensi bebas yang sudah dikumpulkan, maupun bekerja sama dengan penerbit. Nantinya, buku suara akan diunggah di Soundcloud dan dibagikan lewat Pustaka Kerjabilitas.
+Terlepas dari seberapa besar peluang kami untuk mendapatkan dana dari boot camp ini, kami belajar bahwa Kerjabilitas harus sesegera mungkin menerapkan model wirausaha sosial, kalau mau terus berlanjut. Kami tentunya akan tetap mencoba mendapatkan dana hibah lain untuk mendukung proyek ini, namun pengelolaan berbasis wirausaha sosial harus tetap menjadi pondasi. Kami harus sesegera mungkin mencari cara untuk memonetisasi layanan, tanpa membebani pengguna utamanya (pencari kerja). Salah satu cara monetisasi yang akan diterapkan adalah pengguna free-mium. Model ini akan diterapkan kepada pengguna 2 (penyedia kerja) yang akan dibebankan biaya apabila memasang iklan lowongan dan mengakses fitur tambahan lainnya seperti melihat profil pengguna satu yang saat ini masih dibebaskan dari biaya. Namun untuk menerapkan model ini, kami minimal harus mendapatkan jumlah pengguna 1 setidaknya 2 kali lipat dari yang terdaftar sekarang untuk meyakinkan pengguna 2 bahwa platform Kerjabilitas memiliki basis data pengguna yang signifikan jumlahnya.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
@@ -87,17 +80,17 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 Aktifitas dan isu yang anda atasi:
 
-**1. Isu dan aktivitas tentang belum ada sarana penghubung antara pencari kerja disabilitas dan penyedia kerja**
+1. Isu dan aktivitas tentang belum ada sarana penghubung antara pencari kerja disabilitas dan penyedia kerja
 
-Isu dan aktivitas ini telah mulai dicoba untuk diselesaikan per 25 Maret 2015 ketika kami meluncurkan situs www.kerjabilitas.com. Situs ini mengakomodir kebutuhan untuk menghubungkan pencari kerja dan penyedia kerja dengan cara yang interaktif. Situs telah dilengkapi dengan tampilan ramah ponsel, sehingga bisa diakses oleh pengguna ponsel pintar. Tahap berikutnya adalah mengembangkan aplikasi berbasis Android.
+Isu ini telah diselesaikan dengan peluncuran website Kerjabilitas pada 23 Maret 2015 dan aplikasi Android Kerjabilitas pada 27 Juni 2015.
 
-**2. Isu tentang belum adanya direktori pencari kerja yang bisa diakses penyedia kerja.**
+2. Isu tentang belum adanya direktori pencari kerja yang bisa diakses penyedia kerja.
 
-Situs tersebut diatas juga telah mengakomodir isu ini dimana halaman untuk menampilkan pencari kerja telah disediakan untuk diisi oleh mereka. Informasi yang ditampilkan terkait dengan keterampilan dan qualifikasi mereka.
+Isu ini telah diselesaikan dengan peluncuran website Kerjabilitas pada 23 Maret 2015 dan aplikasi Android Kerjabilitas pada 27 Juni 2015.
 
-**3. Isu tentang belum tersedianya pustaka pengetahuan tentang kecakapan hidup yang terintegrasi dan interaktif, khusus bagi penyandang disabilitas.**
+3. Isu tentang belum tersedianya pustaka pengetahuan tentang kecakapan hidup yang terintegrasi dan interaktif, khusus bagi penyandang disabilitas.
 
-Dalam situs yang dikembangkan diatas, terdapat tautan yang mengarah pada situs mikro www.pustaka.kerjabilitas.com dimana para pengunjung bisa mengakses konten tulisan, buku elektronik, buku suara dan video yang temanya adalah peningkatan kapasitas dan motivasional.
+Bersamaan dengan peluncuran website Kerjabilitas, diluncurkan pula Pustaka Kerjabilitas yang menjawab isu di atas.
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
@@ -113,13 +106,9 @@ Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai 
 
 Hasil aktual hingga laporan ini dibuat:
 
-1. Situs kerjabilitas.com diluncurkan secara online pada 25 Maret 2015, sehingga pada saat batas pelaporan ini belum ada pengguna yang terdaftar masuk. Namun bisa dilaporkan pada saat penulisan laporan ini (6 April 2015) jumlah pengguna yang terdaftar berjumlah total 106 pengguna, terdiri dari 83 pencari kerja dan 23 penyedia kerja. Jumlah pengunduh dari Google Play belum bisa dilaporkan karena aplikasi Android belum selesai.
-
-2. Seperti disebutkan diatas, jumlah penyedia kerja yang menggunakan Kerjabilitas.com mencapai 23. Namun perlu diperhatikan bahwa dari jumlah ini, hanya separuhnya yang sudah mengelola laman mereka sendiri, sedangkan sisanya masih pasif (dikelola oleh admin Saujana).
-
-3. Secara kuantitatif dapat dilaporkan bahwa jumlah konten yang telah diproduksi berjumlah 16 artikel dan 3 video dokumenter motivasional. Jumlah konten berlisensi bebas yang dikumpulkan dari sumber lain berupa 3 buku elektronik. Jumlah buku suara masih nol karena pada saat laporan ini dibuat, Saujana masih dalam tahap persiapan produksi (pembuatan studio rekaman dan pelatihan produksi)
-
-4. Strategi keberlanjutan proyek ini belum dirumuskan. Akan tetapi perubahan menjadi situs jejaring sosial karir adalah salah satu keputusan mendasar yang dalam pengambilannya turut mempertimbangkan aspek keberlanjutan. Dengan perubahan ini, apabila nanti proyek berakhir, Saujana berharap bahwa pengelolaan dan pengembangan sistemnya menjadi minimal. Tentunya akan sangat ideal apabila ada sebuah strategi sehingga proyek ini bisa dilanjutkan supaya tujuan besarnya bisa dicapai dan dampaknya bisa diukur, karena realitanya, sangat sulit untuk mengukur capaian dan dampak dari sebuah proyek yang masih pada fase star up (permulaan). Dan itu menjadi pekerjaan rumah bagi Saujana untuk merumuskan strategi keberlanjutan yang realistis dan bisa dicapai.
+1. Pada saat laporan ini ditulis, pengguna terdaftar Kerjabilitas.com mencapai 400 pengguna 1, 100 pengguna 2 dan total lowongan yang pernah ditayangkan sejumlah 101. Sedangkan jumlah pengguna Kerjabilitas App sejak diluncurkan Juni lalu berjumlah 54. Merujuk pada target capaian yang ditetapkan di proposal, kami yakin kami dapat mencapainya setelah layanan berjalan selama satu tahun, karena pada saat ini saja (6 bulan layanan berjalan) target kuantitatif pengguna layanan telah tercapai sekitar 50%. Tantangan yang lebih besar adalah bagaimana meningkatkan kualitas layanan dan kepuasan pengguna, termasuk meningkatkan tingkat kesuksesan pelamar (dari pelamar menjadi karyawan).
+2. Secara kuantitatif dapat dilaporkan bahwa jumlah konten yang telah diproduksi berjumlah 23 artikel dan 5 video dokumenter motivasional. Jumlah konten berlisensi bebas yang dikumpulkan dari sumber lain berupa 3 buku elektronik. Jumlah buku suara yang telah diproduksi berjumlah 3 buah. Selain itu, ada 2 podcast yang diproduksi, sebagai hasil yang tidak direncanakan sebelumnya.
+3. Strategi keberlanjutan proyek ini telah dirumuskan dengan menerapkan beberapa model bisnis yang diantaranya merancang beberapa skema perolehan pendapatan lewat akun free-mium pengguna 2. Model ini akan diterapkan segera setelah jumlah pengguna 1 mencapai 2 kali lipat jumlah sekarang, yang diproyeksikan bisa terjadi 3- 4 bulan dari sekarang.p (permulaan). Dan itu menjadi pekerjaan rumah bagi Saujana untuk merumuskan strategi keberlanjutan yang realistis dan bisa dicapai.
 
 **4. Tujuan dan Sasaran**
 
@@ -137,67 +126,53 @@ Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yan
 2. Tersedianya sebuah website bagi pemberi kerja untuk menampilkan profil perusahaan dan lowongan pekerjaan yang bisa diakses oleh penyandang disabilitas lewat piranti lunak seluler;
 3. Tersedianya konten berformat visual (e-book), audio (e-book) dan audiovisual (video) berisi life skill untuk penyandang disabilitas.
 
-Merujuk pada tujuan yang dirumuskan dalam proposal, tentunya masih terlalu dini untuk mengukur capaian pada fase ini. Sehingga yang bisa kami laporkan adalah capaian berbasis prediktif, bahkan asumtif (diukur tanpa alat atau instrumen yang memadai), yang dirumuskan dari interaksi kami dengan pengguna.
+Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
-1. Pada tahap ini, proyek ini belum bisa dibilang meningkatkan kesempatan orang dengan disabilitas dalam mengakses pekerjaan karena sistem yang membantu mereka mengakses informasi pekerjaannya baru selesai diluncurkan. Namun dari interaksi Saujana dengan pengguna 1 (pencari kerja), mereka mayoritas sangat positif dengan situs ini dan beberapa memberikan umpan balik terkait fitur dan error yang masih ditemui dalam versi beta ini. Ini mengindikasikan tingkat partisipasi pengguna yang relatif cukup dan rasa memiliki yang tinggi terhadap situs ini. Tercatat 10% dari 83 pencari kerja, aktif memberikan umpan balik terkait perbaikan dan error yang ditemui saat menggunakan situs ini.
+Secara kuantitatif, sekitar 75%-80% target proyek telah selesai dilaksanakan. Namun capaian dari segi kualitatif baru bisa dipaparkan berdasarkan observasi kami terhadap implementasi proyek ini sebagai berikut;
+1. Jumlah pengguna sekarang mencapai 400 atau naik sekitar 300% sejak laporan termin pertama. Berdasarkan umpan balik pengguna, rata-rata mereka merasa puas dengan Kerjabilitas, sebagian besar bersyukur bahwa ada sarana yang bisa menghubungkan mereka dengan pekerjaan. Umpan balik ini kami dapatkan baik lewat interaksi dengan pengguna, maupun dengan para undangan peluncuran Kerjabilitas di Malang dan Yogyakarta, maupun di acara-acara Bursa Kerja yang kami hadiri.
+2. Dari sisi penyedia kerja, ada peningkatan sebesar 300% sejak laporan termin pertama. Capaian yang cukup baik adalah beberapa penyedia lowongan yang awalnya menyerahkan proses rekrutmen mereka lewat agen perekrutan, kini mengalihkan proses perekrutannya lewat Kerjabilitas. Diantara pengguna tersebut adalah Bank Mandiri dan Carrefour.
+3. Dalam hal produksi konten yang juga merupakan mandat dari proyek MKPD, Saujana telah menyelesaikan 75%-80%. Produksi konten yang telah diselesaikan meliputi produksi video sejumlah 5 buah dari 5 yang ditargetkan (2 diantaranya sedang dalam masa paska produksi). Untuk buku suara, kami telah memproduksi sebanyak 3 buah, ditambah 2 buah podcast, dari total 10 yang ditargetkan. Untuk buku elektronik, kami telah memproduksi 3 buah dari 10 yang ditargetkan. Disamping konten tersebut, kami juga memproduksi artikel tips karir dan motivasional sejumlah 23. Sedangkan tingkat kunjungan ke konten Pustaka Kerjabilitas rata-rata mencapai 228 atau meningkat 100% sejak laporan termin pertama.
 
-2. Dari sisi penyedia kerja, khususnya yang telah kami hubungi dan kunjungi langsung, mereka sangat antusias dengan situs ini dan menyatakan kesediaannya untuk menggunakan dan mengelola laman mereka sendiri. Sebagai catatan, kami dari 23 penyedia kerja yang telah kami masukkan informasi lowongannya, separuhnya bersedia mengelola laman mereka secara mandiri.
-
-3. Konten pengetahuan dan kecakapan hidup awalnya dimuat di blog Saujana yang kemudian dilanjutkan di Pustaka Kerjabilitas.com setelah situs tersebut diluncurkan. Tingkat kunjungan ke masing-masing konten (total 18 konten) mencapai rata-rata 114 kali sejak konten pertama diunggah Oktober 2014.
-
-Tujuan yang berhasil dicapai hingga saat ini:
-
-* Perubahan Lingkup Organisasi/ Lingkungan Sekitar
+***5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
-**1. Perubahan konsep keluaran (output) dari situs direktori lowongan pekerjaan menjadi jejaring karir sosial.**
+1. Telah disebutkan di atas bahwa perubahan model operasional ini merupakan perubahan paling fundamental yang kami lakukan. Berangkat dari dunia LSM yang terbiasa dengan pengelolaan proyek (project management), kami tidak memikirkan bahwa Kerjabilitas adalah sebuah jasa layanan yang semestinya berorientasi pada bagaimana memberikan pengalaman yang baik kepada penggunanya, sehingga hal ini tidak muncul dalam perancangan program maupun sistem kerja kami. Setelah beroperasi 6 bulan kami baru menyadari bahwa seharusnya model operasional kami menyesuaikan dengan hal tersebut, misalnya dengan merubah fungsi kerja beberapa posisi menjadi lebih melayani, termasuk menggunakan sistem CRM yang sesuai untuk mengelola hubungan pengguna kami.
 
-Ini merupakan perubahan paling signifikan yang kami ambil. Seperti telah diterangkan diatas, beberapa konsekuensi dari perubahan ini meliputi perubahan besar pada rancangan dan eksekusi pemrograman serta kebutuhan server basis data. Cara kami menangani perubahan ini adalah dengan mengkonsultasikannya pada mentor dan merancang ulang sistem dasar pemrogramannya. Perubahan ini (beserta isu rekrutmen) membuat peluncuran situs mundur selama 2 bulan.
+2. Kelesuan ekonomi nasional turut mempengaruhi jumlah kesempatan kerja 
+Pertumbuhan ekonomi berbanding lurus dengan jumlah kesempatan kerja sehingga menurunnya perekonomian Indonesia sedikit banyak berpengaruh terhadap jumlah lowongan kerja yang disediakan oleh penyedia kerja, yang akhirnya cukup berdampak terhadap pertumbuhan jumlah lowongan kerja inklusi yang bisa kami tayangkan lewat Kerjabilitas. Ini bisa menjadi ancaman apabila trennya berlangsung terus. Solusi awal kami adalah dengan memperlebar jangkauan penyedia kerja untuk menambah penyedia kerja baru yang terdaftar.
 
-**2. Perubahan konsep produksi konten video tutorial menjadi motivasional.**
-
-Ini merupakan langkah yang diambil berdasarkan rekomendasi dari diskusi kelompok terarah yang dilakukan terdahulu. Perubahan ini relatif mudah diantisipasi karena Saujana memiliki beberapa jaringan yang membantu kami menemukan subyek-subyek yang sesuai dengan tema video. Hasilnya, 3 video dengan tema Aku Seberdaya Kamu telah diproduksi sampai hari ini.
-
-**3. Perubahan strategi pengumpulan dan produksi konten buku suara.**
-
-Tadinya kami merencanakan bekerjasama dengan pihak ketiga untuk aktifitas ini, namun pada akhirnya diputuskan untuk memproduksi sendiri dengan membangun studio rekaman mini dan melatih tim Saujana dan beberapa kawan dari jaringan DPO (Disabled Persons Organisation) Jogja. Hal ini kami lakukan setelah menemui kesulitan dalam mengumpulkan buku suara berlisensi bebas dan berbahasa Indonesia, baik secara mandiri maupun meminta dari organisasi lain yang sudah melakukan hal ini lebih dulu. Pada saat laporan ini ditulis, tim Saujana sedang menjalani pelatihan produksi buku suara. Produksi direncanakan akan dimulai minggu kedua April.
-
-**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
 
 Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
 
-**1. Organisasi baru dengan tim yang baru terbentuk**
+**1. Rekrutmen**
 
-Saujana sebagai organisasi formal baru dibentuk setelah mendapat dana dari proyek CMS,diikuti dengan rekrutmen tim yang bekerja sampai sekarang. Hal ini merupakan tantangan tersendiri, karena proses kami harus melalui tahap penyesuaian yang relatif panjang. Kecuali 2 orang dari seluruh anggota tim, isu disabilitas dan teknologi ponsel pintar juga masih baru bagi kami, dan ini menambah tajam kurva belajar yang harus kami jalani. Tantangan ini pada akhirnya bisa diatasi dengan memberikan pendampingan dan contoh (dengan melakukan) kepada tim. Pada saat diskusi kelompok terarah, Manajer Proyek memimpin beberapa diskusi utama di Surabaya dan Malang sambil memberikan contoh kepada tim, sehingga pada sesi lanjutan di Yogya mereka yang memimpin beberapa sesi diskusi. Cara ini juga diterapkan untuk kegiatan lainnya.
+Sejak peluncuran Kerjabilitas, ada kebutuhan untuk menjangkau pengguna lebih luas lagi. Konsekuensi dari kebutuhan ini adalah fungsi pekerjaan yang bertambah. Saujana telah berusaha melakukan perekrutan staf Penjangkauan/pemasaran namun belum berhasil. Salah seorang kandidat yang lolos seleksi bahkan mundur sebelum menyelesaikan masa orientasinya. Kami mengasumsikan bahwa pekerjaan penjangkauan masih belum terlalu dipahami, apalagi oleh mereka yang berlatar belakang sektor swasta. Selain itu, isu disabilitas juga menimbulkan kekhawatiran bagi kandidat karena isu ini merupakan hal yang sama sekali baru bagi seluruh pelamar.
 
-**2. Menjadi organisasi inklusi**
+**2. Penerapan sistem pengelolaan hubungan pengguna yang terpadu**
 
-Sebagai organisasi yang mengerjakan proyek MKPD untuk isu disabilitas, Saujana berusaha menjadi model organisasi inklusi dimana timnya merupakan perpaduan antara orang dengan disabilitas dan bukan disabilitas. Hal ini ternyata tidak mudah. Akses fisik relatif lebih mudah dipenuhi daripada bukan fisik. Isu seperti komunikasi dan cara kerja yang efektif masih muncul sampai akhir paruh pertama periode proyek ini. Seperti yang dijelaskan sebelumnya tentang karakteristik orang dengan disabilitas amat mempengaruhi cara komunikasi dan kerja mereka. Pada akhirnya, mendorong dan menciptakan lingkungan kerja yang enabling adalah solusi yang kami terapkan. Komunikasi antar tim dibiasakan terbuka dan positif, tanpa mengurangi maksud yang perlu disampaikan.
-
-**3. Sistem kerja yang berubah sesuai dengan fase proyek**
-
-Aktifitas proyek berubah seiring dengan fasenya. Mulai diskusi kelompok terarah, pengolahan hasil, perancangan sistem, pemrograman, dan seterusnya sampai hari ini kami memasuki fase paska peluncuran yang menuntut perubahan sistem kerja khususnya para staf yang mengurusi pengelolaan Kerjabilitas.com. Saat ini mereka dituntut untuk menggenjot penjangkauan pengguna baik dari pencari kerja dan penyedia kerja, dan ini membutuhkan penyesuaian karena sistem kerja yang diterapkan sedikit berbeda dengan kegiatan sebelumnya. Bukan masalah besar, namun tetap butuh perhatian supaya tim bisa bekerja secara mangkus dan sangkil.
+Seperti yang telah diungkapkan pada bagian Pembelajaran nomor 2, layanan online yang interaktif seperti Kerjabilitas memerlukan sistem pengelolaan hubungan pengguna (CMS) yang terpadu untuk menghindari tumpang tindih dan salah komunikasi, juga untuk mengefektifkan inbound marketing. Hal ini baru terpikirkan setelah beroperasi selama 6 bulan. Solusinya, kami akan mencari dan mengevaluasi CMS yang sesuai dengan platform Kerjabilitas untuk kemudian menggunakannya untuk keperluan tersebut. Hal ini cukup mendesak dilakukan untuk mengantisipasi jumlah pengguna yang lebih besar lagi, yang akan sangat sulit dikelola dengan sistem tradisional.
 
 
 **6. Keberagaman**
 
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
-Sejak awal proyek, Saujana berkomitmen menjadi model organisasi inklusi, sehingga keseimbangan gender, keberagaman latar belakang, suku, budaya, agama dan usia menjadi pertimbangan dalam pembentukan tim. Saat ini tim Saujana terdiri dari 3 orang dalam management (1 laki dan 2 perempuan), 6 staf (1 laki dan 5 perempuan, 2 diantaranya tuna daksa), 1 staf non proyek MKPD (laki-laki tuna daksa). Kami juga merupakan kumpulan dari orang lokal (Jogja), Batak, Jawa Timur dan Lombok, dan kami bisa bekerja dengan baik dengan keberagaman tersebut.
+Hingga akhir termin kedua ini, tidak ada perubahan terkait dengan isu keberagaman yang kami terapkan. Komitmen kami sebagai model bagi organisasi inklusi telah dijalankan dengan cukup baik.
 
 **7. Laporan keuangan**
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-[Pranala Laporan Penggunaan Dana](http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas/Laporan_Penggunaan_Danaa)
+[Pranala Laporan Penggunaan Dana]http://wiki.ciptamedia.org/wiki/Mitra_Kerja_Penyandang_Disabilitas/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
 
 Tertanda: Lokasi dan tanggal:
 
-Yogyakarta, 7 April 2015
+Yogyakarta, 21 September 2015
 
 
 
