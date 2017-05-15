@@ -35,7 +35,7 @@
 			}
 		
 			this.options = {
-				startYear: !isNaN(parseInt(opt.startYear)) ? parseInt(opt.startYear) : new Date().getFullYear(),
+				startYear: !isNaN(parseInt(opt.startYear)) ? parseInt(opt.startYear) : 2012,
 				minDate: opt.minDate instanceof Date ? opt.minDate : null,
 				maxDate: opt.maxDate instanceof Date ? opt.maxDate : null,
 				language: (opt.language != null && dates[opt.language] != null) ? opt.language : 'en',
