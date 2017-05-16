@@ -64,22 +64,46 @@ Hasil aktual hingga laporan ini dibuat:
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
 
 
-Tujuan yang berhasil dicapai hingga saat ini:
+Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
-* Perubahan Lingkup Organisasi/ Lingkungan Sekitar
+**Sasaran**
+
+Semua pihak (Masyarakat Adat, LSM, Kampus, Media, Pemerintah Halmahera Timur dan Taman Nasional) yang merupakan sasaran program ini kecuali perusahan tambang PT Indo Bumi Nikel yang tidak terlibat dalam kegiatan ini. Semua ikut berkontribusi, baik pikiran, waktu dan kesempatan untuk mendiskusikan persoalan masyarakat adat Tobelo Dalam Dodaga.
+
+**5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
+* AMAN sebagai organisasi kemasyarakatan (Ormas) yang fokus bekerja pada isu-isu masyarakat adat lebih mudah memperoleh informasi yang dilaporkan secara langsung oleh masyarakat adat lewat SMS Gateway yang dapat digunakan untuk memperkuat kampanye dan tekanan kepada pemerintah agar segera merumuskan kebijakan yang berpihak pada masyarakat adat.
+* Informasi-informasi yang dilaporkan tersebut juga dikembangkan menjadi berita-berita aktual yang selama ini luput dari liputan media mainstrem. Sehingga para pihak yang berkepentingan dapat memperoleh informasi dari masyarakat secara langsung melalui sistem yang dibangun di AMAN.
+* Selain itu juga AMAN lebih mudah melakukan advokasi kasus dengan basisnya informasi warga. Website yang dikembangkan AMAN juga menjadi pusat informasi masyarakat adat di Maluku Utara dengan situasi yang mereka alami dengan total pengunjung 3792 orang.
+* Hal berikut, program ini membantu AMAN untuk membangun kemitraan secara luas dengan pihak-pihak yang kebijakannya berhubungan dengan masyarakat adat, misalnya Taman Nasional yang dulunya tidak punya kesamaan pikiran, namun dengan intervensi program ini kesamaan pikiran dan pandangan dalam konservasi hutan yang tidak mengabaikan hak-hak masyarakat adat itu bisa dibangun.
 
-**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+**Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
 
 Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
 
+**1. Kondisi Teknis**
+
+1. Sofware ushahidi/sms gateway baru dipasang pada bulan November 2014, setelah tanda tangan MoU Hibah dengan Cipta Media Seluler (CMS) dilakukan pada tanggal 1 Agustus 2014. Artinya ada kelambatan warga dalam hal sistem ini
+2. Sering terjadi gangguan pada sambungan internet dan server yang memakan waktu sampai 1 minggu. Sehingga diantisipasi dengan mengambil SMS warga secara manual dengan memindahkan kartu frontline ke HP lain
+3. Staf yang bekerja sebagai operator sering harus berganti, sehingga pada periode Februari 2015, urusan ini ditangani langsung oleh penanggungjawab proyek
+4. Dilakukan satu kali perubahan proposal (tujuan, kegiatan, output). Perubahan kedua ini dianggap final untuk mencapai hasil yang sesuai target
+5. Orang keuangan hanya 1 orang, sehingga mempengaruhi proses persiapan pelaporan keuangan kepada pihak pemberi hibah. Sementara orang keuangan yang sama juga mengerjakan laporan keuangan untuk hibah-hibah yang lain
+
+**2. Kondisi Lapangan**
+
+1. Masyarakat adat Tobelo Dalam Dodaga adalah suku asli Halmahera yang hidup nomaden. Mereka baru dimukimkan secara tetap pada tahun 2001. Rata-rata mereka tidak ada yang menempuh pendidikan formal, kecuali generasi baru mereka saat ini. Mereka juga buta akan teknologi berupa HP. Hampir sebagian besar masyarakatnya tidak memiliki HP. Sebagian yang memiliki HP pun masih kaku menggunakannya untuk kepentingan SMS
+2. Kemampuan masyarakat adat Tobelo Dalam Dodaga dalam hal menulis masih sangat rendah.
+3. Masyarakat yang memiliki HP pun masih kurang percaya diri untuk menulis pesan SMS yang dikirim ke server dalam bentuk berita. Sehingga AMAN mensiasati menunjuk beberapa orang tim lapangan yang bisa membantu warga ketika warga memperoleh informasi namun memiliki kendala dalam pengirim pesan ke server
+4. Salah satu dusun seperti Titipa, tidak terkoneksi oleh jaringan telkomensel. Warga yang berada disini, biasanya mengirim pesan paling lambat.
+5. Sebagian besar warga hidup berburu, mengambil hasil hutan non kayu dan kayu, maupun bertani sehingga dalam setiap kegiatan harus dilakukan penyesuaian dengan waktu mereka. Kadang kegiatan bisa molor dan bisa juga dilakukan pada malam hari, bahkan kegiatan dilakukan di kebun mereka.
 
 **6. Keberagaman**
 
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
+Secara internal, tim yang mengerjakan proyek ini berasal dari beberapa suku di Maluku Utara, misalnya penanggungjawab program berasal dari suku Sawai (Islam), keuangan dari suku Tobelo (Islam), Staf dari suku Sawai dan Pagu (Islam dan Kristen). Sementara proyek ini dikerjakan di komunitas masyarakat adat yang berbeda diatas. Rata-rata terdiri dari perempuan dan laki-laki dengan klasifikasi umur diatas 25-32 tahun. Selain itu kegiatan dilapangan juga melibatkan masyarakat adat dari suku lain, baik dari Islam dan kristen. Stake holder yang terlibat pun beragam, dari masyarakat adat sendiri, LSM, Pemerintah dan pihak terkait.
 
 **7. Laporan keuangan**
 
