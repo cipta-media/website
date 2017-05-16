@@ -6,6 +6,8 @@ categories:
 - Monitoring Hutan Tobelo
 ---
 
+![250px-Tobelo-dalam.jpg](/uploads/250px-Tobelo-dalam.jpg){: .img-responsive .center-block }
+
 **Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler**
 
 **Wikimedia Indonesia**
