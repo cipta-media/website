@@ -147,6 +147,137 @@ Masyarakat Tobelo memiliki cara tersendiri memperlakukan alam, khususnya hutan. 
 
  **Hasil yang diharapkan dan indikator keberhasilan**
 
+  {% include table-fix.html %}
+<table border="1">
+  <tbody>
+    <tr>
+      <th align="center">No</th>
+      <th align="center">Masalah</th>
+      <th align="center">Tujuan</th>
+      <th align="center">Kegiatan</th>
+      <th align="center">Keluaran</th>
+      <th align="center">Hasil</th>
+      <th align="center">Indikator</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Masih minim pengetahuan masyarakat adat Dodaga terhadap hak – hak mereka atas tanah, wilayah dan sumberdaya alam</td>
+      <td>Pengetahuan masyarakat adat Tobelo Dalam Dodaga terhadap hak-hak mereka baik atas tanah, wilayah dan sumberdaya alam terus meningkat</td>
+      <td><ol>
+        <li>FGD masalah-masalah yang berhubungan dengan Tobelo Dalam Dodaga</li>
+        <li>Workshop Hak-Hak Masyarakat Adat Tobelo Dalam Dodaga</li>
+        <li>Pemutaran Film Dokumenter</li>
+        <li>Workshop penguatan kelembagaan adat</li>
+        <li>Dialog umum hak-hak masyarakat adat</li>
+        <li>Distribusi bahan-bahan bacaan tentang hak-hak masyarakat adat</li>
+      </ol></td>
+      <td>Masyarakat adat memahami hak-hak mereka atas tanah, wilayah dan sumberdaya alam</td>
+      <td><ol>
+        <li>Masyarakat adat melapor kasus yang berhubungan dengan hak mereka</li>
+        <li>Berkurang kegiatan yang merusak hutan</li>
+        <li>Masyarakat adat melindungi wilayah adatnya</li>
+        <li>Hukum adat yang mengatur pemanfaatan wilayah adat mereka berlaku</li>
+        <li>Lembaga adat memiliki peran dan fungsi dalam menjaga wilayah adat</li>
+        <li>Ada peta wilayah adat</li>
+      </ol></td>
+      <td><ol>
+        <li>Masyarakat adat melapor kasus yang berhubungan dengan hak mereka</li>
+        <li>Berkurang kegiatan yang merusak hutan</li>
+        <li>Masyarakat adat melindungi wilayah adatnya</li>
+        <li>Hukum adat yang mengatur pemanfaatan wilayah adat mereka berlaku</li>
+        <li>Lembaga adat memiliki peran dan fungsi dalam menjaga wilayah adat</li>
+        <li>Ada peta wilayah adat</li>
+      </ol></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Belum terbangun pertukaran informasi antara masyarakat adat Dodaga dan public terkait dengan pemanfaatan hutan, konflik SDA, kerusakan hutan, kearifan lokal, gejala-gejala alam, hukum dan politik</td>
+      <td>Terbangun pertukaran informasi secara intens antara masyarakat adat Tobelo Dalam dengan public dan sebaliknya yang berhubungan dengan pemanfaatan hutan, konflik SDA, kerusakan hutan, kearifan lokal, gejala-gejala alam, hukum dan politik</td>
+      <td><ol>
+        <li>Menyediakan server</li>
+        <li>Membuat system SMS Gateway</li>
+        <li>Mengumpulkan nomor HP masyarakat Tobelo Dalam dan Publik</li>
+        <li>Sosialisasi nomor SMS Gateway</li>
+        <li>Membentuk tim partoli hutan adat</li>
+        <li>Distribusi Koran/tabloid</li>
+      </ol></td>
+      <td><ol>
+        <li>Masyarakat Tobelo Dalam Dodaga dan public saling berbagi informasi secara intens terkait dengan pemanfaatan hutan, konflik SDA, kerusakan hutan, kearifan lokal, gejala-gejala perubahan alam, hukum dan politik</li>
+        <li>Terdapat database yang berhubungan dengan kebutuhan publikasi informasi</li>
+      </ol></td>
+      <td><ol>
+        <li>Kerusakan hutan dan konflik SDA diketahui public</li>
+        <li>Publik mengetahui kearifan local yang ada di masyarakat adat Tobelo Dalam</li>
+        <li>Publik memberi dukungan dalam bentuk petisi</li>
+        <li>Pemerintah melindungi hutan adat</li>
+        <li>Pemerintah menindak pelaku yang merusak hutan</li>
+        <li>Ilegal loging berkurang</li>
+        <li>Kesadaran masyarakat adat Tobelo Dalam Dodaga meningkat</li>
+      </ol></td>
+      <td><ol>
+        <li>Setiap bulan terdapat 100 SMS terkait masalah yang terjadi di wilayah adat Dodaga dari 20 orang pelapor</li>
+        <li>Setiap bulan terdapat 50 SMS dar publik</li>
+      </ol></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Belum lengkap informasi yang terdapat dalam peta wilayah adat Tobelo Dalam Dodaga</td>
+      <td>Peta wilayah adat Tobelo Dalam Dodaga memiliki informasi baik berhubungan dengan potensi SDA maupun kerusakan hutan</td>
+      <td><ol>
+        <li>FGD terkait wilayah adat Tobelo Dalam Dodaga</li>
+        <li>Patroli hutan adat Tobelo Dalam Dodaga</li>
+        <li>Membuat peta wilayah adat hasil kompilasi</li>
+      </ol></td>
+      <td>Semakin banyak informasi dalam peta wilayah adat Tobelo Dalam Dodaga</td>
+      <td><ol>
+        <li>Warga mengetahui informasi dalam peta wilayah adat mereka</li>
+        <li>Hutan adat akan terlindungi dan terkontrol</li>
+        <li>Warga memiliki perhitungan dalam pemanfaatan wilayah adat</li>
+      </ol></td>
+      <td>Setiap 6 bulan ada 1 peta wilayah adat Tobelo Dalam Dodaga dibuat dari hasil kompilasi dari laporan warga</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Minimnya keterlibatan publik untuk mendukung percepatan pengakuan dan perlindungan hak-hak masyarakat adat Tobelo Dalam Dodaga</td>
+      <td>Publik (kampus, media dan LSM) mendukung percepatan pengakuan dan perlindungan hak-hak masyarakat adat Tobelo Dalam Dodaga</td>
+      <td><ol>
+        <li>Membuat petisi</li>
+        <li>Penggalangan petisi di kampus, media dan LSM</li>
+        <li>Pameran foto hutan adat</li>
+      </ol></td>
+      <td>Publik (kampus, media, LSM) menandatangi petisi percepatan pengakuan dan perlindungan hak-hak masyarakat adat</td>
+      <td><ol>
+        <li>Pemerintah mengeluarkan Perda Hak-Hak Adat</li>
+        <li>Tidak ada lagi larangan masyarakat adat mengelola hutan</li>
+      </ol></td>
+      <td>Ada 1 petisi yang ditandatangi publik (kampus, media dan LSM)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Belum ada Perda dari Pemda Haltim atau SK Taman Nasional Aketajawe-Lolobata untuk mengakui wilayah adat Tobelo Dalam yang telah dipetakan</td>
+      <td>Pemerintah Halmahera Timur dan atau Taman Nasional Aketajawe-Lolobata dapat mengakui dan melindungi hak – hak masyarakat adat Dodaga atas tanah, wilayah dan sumberdaya alam baik dalam bentuk perda atau SK</td>
+      <td><ol>
+        <li>Lokakarya hutan adat Tobelo Dalam Dodaga</li>
+        <li>Audance dengan pemerintah daerah dan taman nasional</li>
+        <li>Membuat draf Perda PPHMA</li>
+      </ol></td>
+      <td>Ada pengakuan dan perlindungan hak-hak masyarakat adat Tobelo Dalam Dodaga</td>
+      <td><ol>
+        <li>Pemerintah tidak lagi melarang masyarakat adat memungut hasil hutan</li>
+        <li>Kriminalisasi masyarakat adat berkurang</li>
+        <li>Wilayah adat lebih terjaga</li>
+        <li>Berkurang pemanfaatan wilayah adat oleh pihak luar</li>
+        <li>Masyarakat adat bisa menikmati haknya</li>
+        <li>Masyarakat adat lebih sejahtera</li>
+      </ol></td>
+      <td><ol>
+        <li>Keterlibatan para pihak dalam lokakarya hutan adat</li>
+        <li>Pemerintah mengerti hak-hak masyarakat adat</li>
+        <li>Ada Perda dan atau SK Pengakuan dan Perlindungan Hak-Hak Masyarakat Adat Tobelo Dalam Dodaga</li>
+      </ol></td>
+    </tr>
+  </tbody>
+</table>
   
  **Durasi waktu aktifitas dilaksanakan:**
 
