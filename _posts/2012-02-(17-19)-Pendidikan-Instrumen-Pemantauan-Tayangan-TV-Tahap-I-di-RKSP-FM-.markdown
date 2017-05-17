@@ -6,9 +6,9 @@ categories:
 - JRKL	
 layout: laporancmb	
 ---	
-	
-!200px-Februari_21_2012_FGD_RGL_FM.JPG](/uploads/200px-Februari_21_2012_FGD_RGL_FM.JPG){: .img-responsive .center-block }	
-	
+
+![!200px-Februari_21_2012_FGD_RGL_FM.JPG](/uploads/!200px-Februari_21_2012_FGD_RGL_FM.JPG){: .img-responsive .center-block }
+
 **Tujuan** :	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
 	
 **Lokasi** :	RKSP FM
