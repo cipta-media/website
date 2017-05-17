@@ -3,7 +3,7 @@ title:  Cetak Sticker untuk Kampanye Publik Pemantauan Tayangan Televisi
 date: 	2012-01-22
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- JRKL	
 layout: laporancmb	
 ---	
 	
