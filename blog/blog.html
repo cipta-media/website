@@ -14,7 +14,8 @@ layout: blog
 
 	<div class="row m-b-lg">
 
-		{% for post in site.posts limit:10 %}
+		{% for post in site.posts%}
+		{% unless post.categories contains 'laporan' %}
 		<div class="col-md-12">
 			<div class="row">
 				<div class="col-sm-4">
@@ -35,6 +36,7 @@ layout: blog
 			</div>
 			<hr>
 		</div>
+		{% endunless %}
 		{% endfor %}
 
 	</div>
