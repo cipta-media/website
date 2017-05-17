@@ -61,7 +61,7 @@ layout: info
     </div>
 	
     <div class="row m-b-lg">
-        <div class="col-md-12">
+    	<div class="col-md-12">
 		
 		<ul class="nav nav-tabs">
 			<li class="active"><a data-toggle="tab" href="#evaluasi">Evaluasi</a></li>
@@ -69,125 +69,125 @@ layout: info
 			<li><a data-toggle="tab" href="#publik">Pilihan Publik</a></li>
 		</ul>
 
-	<div class="tab-content">
-            <div id="evaluasi" class="tab-pane fade in active">		
-
-        	<h2>Hibah Terbuka Untuk Perbaikan Media “Cipta Media Bersama” Menerima Total 820 Permohonan Hibah dari Seluruh Indonesia</h2>
-        	<p>Dua bulan setelah diumumkan "<strong>Cipta Media Bersama</strong>", hibah terbuka untuk perbaikan media yang didanai oleh The Ford Foundation dan didukung oleh tiga organisasi nirlaba; Wikimedia Indonesia, ICT Watch dan Aliansi Jurnalis Independen (AJI) Indonesia menerima <a rel="nofollow" href="http://wikimedia.or.id/w/images/f/f3/Laju_permintaan_hibah.png">820 permohonan hibah dari seluruh Indonesia</a> (Indonesia Barat: 602, Indonesia Tengah: 190 permohonan, Indonesia Timur: 28 permohonan). Heidi Arbuckle, Media Program Officer dari Ford Foundation menyatakan pada konferensi pers yang berlangsung di The Axmani Hotel Jakarta pada 23 September 2011 bahwa jumlah permohonan hibah yang demikian besar diluar dugaan, dan penyelenggara merasa senang dengan antusiasme masyarakat dalam berkontribusi untuk perbaikan media.</p>
-        	<p>Ide yang masuk cukup beragam, baik dari sisi permasalahan yang ingin diatasi, strategi mengatasinya, pilihan media, dan lokasi asal permintaan - dengan catatan bahwa Jawa masih dominan, namun permintaan dari berbagai daerah datang dengan sebaran yang cukup merata.</p>
-        	<p>Hibah media terbuka untuk publik pada awalnya diharapkan mampu untuk dapat memunculkan inisiatif-inisiatif baru sebagai contoh terbaik yang dapat memperbaiki kondisi media di Indonesia. Berdasarkan data dari seluruh permohonan hibah yang masuk, menyimpulkan hal-hal sebagai berikut:</p>
-        	<ol>
-        	  <li><p>Topik kebhinekaan bermedia dan kesetaraan akses adalah masalah yang paling banyak mendapatkan permohonan hibah dari masyarakat, dengan catatan keprihatinan terbanyak ditujukan untuk kaum difabel, kalangan anak-anak, petani, kelompok kebudayaan dan korban pelanggaran HAM (total 644 permohonan). Tim Seleksi Awal menyimpulkan bahwa media-media utama tidak mencukupi kebutuhan informasi dari pihak-pihak ini dimana isu dan suara mereka tidak terwakili dalam pemberitaan di media utama. Sementara media komunitas berusaha untuk memenuhi kebutuhan ini ditinjau dari banyaknya permohonan hibah untuk mengatasi hal khusus ini.</p></li>
-        	  <li><p>Sikap kritis juga ditunjukkan masyarakat untuk topik etika bermedia dan topik pemantauan media (total 176 permohonan) dengan inisyatif-inisyatif untuk memantau keberagaman isi, praktek verifikasi dan akurasi pemberitaan, serta kualitas berita dari media utama, yang menunjukkan bahwa masyarakat resah akan isi dari media yang mereka konsumsi.</p></li>
-      	  	</ol>
-        	<p>Ke- 35 calon penerima hibah yang akan mendapatkan total satu juta dolar AS (setara dengan 8,5 milyar rupiah) merupakan hasil pemilihan Tim Seleksi Awal (30 permohonan) sementara lima lainnya berasal dari pilihan publik via internet. Pilihan publik terbanyak jatuh pada proyek "Menulis untuk Membangun Peradaban Bangsa Indonesia" dari Writing Revolution di Pekanbaru Riau dengan jumlah total 4415 pilihan, sementara panitia memilih berdasarkan lima kriteria dan sebaran lokasi proyek.</p>
-        	<p>Dalam proses penilaian Tim Seleksi Awal memutuskan bahwa program hibah saja tidak cukup dalam merespon kebutuhan masyarakat untuk perbaikan media. Pembelajaran ini akan ditindak lanjuti dengan melakukan peningkatan kemampuan melalui lokakarya pelatihan media dan teknologi untuk pemohon hibah yang tertarik, serta penawaran kerjasama antar komunitas pemohon hibah lintas lokasi sehingga dapat berbagi sumberdaya dan infrastruktur.</p>
-        </div>
-    </div>
-	
-        <div id="publik" class="tab-pane fade">		
-
-  	    <h2>Pilihan Publik</h2>
-	    <div class="row">	
-		{% for hibahcmb in site.data.hibahcmb %}
-		{% if hibahcmb.publik %}
-			<div class="col-md-4">
-				<div class="col-md-12 well well-lg" style="height: 600px;">
-					<a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
-					<hr>
-					<a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
-					<p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
-					<hr>
-					<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
-				</div>
-			</div>
-		{% endif %}
-		{% endfor %}
-	    </div>
-
-        </div>
-
-            <div id="calon" class="tab-pane fade">
-            <h2>Permintaan Hibah</h2>
-		<div class="row m-b-lg">
-		    <h3>Meretas batas kebhinekaan bermedia</h3>
-		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-retas.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ retas }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-		    <div class="col-md-3 text-center">
-		       <a href="seleksi-retas.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-retas }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-	            <div class="col-md-3 text-center">
-			<a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
-		     </div>
-	         </div>
-		<br>
-		<br>
-		<div class="row m-b-lg">
-		    <h3>Keadilan dan kesetaraan akses terhadap media</h3>
-		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-adil.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ adil }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-		    <div class="col-md-3 text-center">
-		       <a href="seleksi-adil.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-adil }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-	            <div class="col-md-3 text-center">
-			<a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
-		     </div>
-	         </div>
-		<br>
-		<br>
-		<div class="row m-b-lg">
-		    <h3>Kebebasan dan etika bermedia</h3>
-		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-bebas.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ bebas }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-		    <div class="col-md-3 text-center">
-		       <a href="seleksi-bebas.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-bebas }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-	            <div class="col-md-3 text-center">
-			<a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
-		     </div>
-	         </div>
-		<br>
-		<br>
-		<div class="row m-b-lg">
-		    <h3>Pemantauan media</h3>
-		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-pantau.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ pantau }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-		    <div class="col-md-3 text-center">
-		       <a href="seleksi-pantau.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-pantau }}</span></a>
-		    </div>
-			<div class="col-md-1 text-center">
-				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
-			</div>
-	            <div class="col-md-3 text-center">
-			<a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
-		     </div>
+            <div class="tab-content">
+                <div id="evaluasi" class="tab-pane fade in active">		
+            
+                <h2>Hibah Terbuka Untuk Perbaikan Media “Cipta Media Bersama” Menerima Total 820 Permohonan Hibah dari Seluruh Indonesia</h2>
+                <p>Dua bulan setelah diumumkan "<strong>Cipta Media Bersama</strong>", hibah terbuka untuk perbaikan media yang didanai oleh The Ford Foundation dan didukung oleh tiga organisasi nirlaba; Wikimedia Indonesia, ICT Watch dan Aliansi Jurnalis Independen (AJI) Indonesia menerima <a rel="nofollow" href="http://wikimedia.or.id/w/images/f/f3/Laju_permintaan_hibah.png">820 permohonan hibah dari seluruh Indonesia</a> (Indonesia Barat: 602, Indonesia Tengah: 190 permohonan, Indonesia Timur: 28 permohonan). Heidi Arbuckle, Media Program Officer dari Ford Foundation menyatakan pada konferensi pers yang berlangsung di The Axmani Hotel Jakarta pada 23 September 2011 bahwa jumlah permohonan hibah yang demikian besar diluar dugaan, dan penyelenggara merasa senang dengan antusiasme masyarakat dalam berkontribusi untuk perbaikan media.</p>
+                <p>Ide yang masuk cukup beragam, baik dari sisi permasalahan yang ingin diatasi, strategi mengatasinya, pilihan media, dan lokasi asal permintaan - dengan catatan bahwa Jawa masih dominan, namun permintaan dari berbagai daerah datang dengan sebaran yang cukup merata.</p>
+                <p>Hibah media terbuka untuk publik pada awalnya diharapkan mampu untuk dapat memunculkan inisiatif-inisiatif baru sebagai contoh terbaik yang dapat memperbaiki kondisi media di Indonesia. Berdasarkan data dari seluruh permohonan hibah yang masuk, menyimpulkan hal-hal sebagai berikut:</p>
+                <ol>
+                  <li><p>Topik kebhinekaan bermedia dan kesetaraan akses adalah masalah yang paling banyak mendapatkan permohonan hibah dari masyarakat, dengan catatan keprihatinan terbanyak ditujukan untuk kaum difabel, kalangan anak-anak, petani, kelompok kebudayaan dan korban pelanggaran HAM (total 644 permohonan). Tim Seleksi Awal menyimpulkan bahwa media-media utama tidak mencukupi kebutuhan informasi dari pihak-pihak ini dimana isu dan suara mereka tidak terwakili dalam pemberitaan di media utama. Sementara media komunitas berusaha untuk memenuhi kebutuhan ini ditinjau dari banyaknya permohonan hibah untuk mengatasi hal khusus ini.</p></li>
+                  <li><p>Sikap kritis juga ditunjukkan masyarakat untuk topik etika bermedia dan topik pemantauan media (total 176 permohonan) dengan inisyatif-inisyatif untuk memantau keberagaman isi, praktek verifikasi dan akurasi pemberitaan, serta kualitas berita dari media utama, yang menunjukkan bahwa masyarakat resah akan isi dari media yang mereka konsumsi.</p></li>
+                </ol>
+                <p>Ke- 35 calon penerima hibah yang akan mendapatkan total satu juta dolar AS (setara dengan 8,5 milyar rupiah) merupakan hasil pemilihan Tim Seleksi Awal (30 permohonan) sementara lima lainnya berasal dari pilihan publik via internet. Pilihan publik terbanyak jatuh pada proyek "Menulis untuk Membangun Peradaban Bangsa Indonesia" dari Writing Revolution di Pekanbaru Riau dengan jumlah total 4415 pilihan, sementara panitia memilih berdasarkan lima kriteria dan sebaran lokasi proyek.</p>
+                <p>Dalam proses penilaian Tim Seleksi Awal memutuskan bahwa program hibah saja tidak cukup dalam merespon kebutuhan masyarakat untuk perbaikan media. Pembelajaran ini akan ditindak lanjuti dengan melakukan peningkatan kemampuan melalui lokakarya pelatihan media dan teknologi untuk pemohon hibah yang tertarik, serta penawaran kerjasama antar komunitas pemohon hibah lintas lokasi sehingga dapat berbagi sumberdaya dan infrastruktur.</p>
+                </div>
+        
+                <div id="publik" class="tab-pane fade">		
+                    <h2>Pilihan Publik</h2>
+                    <div class="row">	
+                    {% for hibahcmb in site.data.hibahcmb %}
+                    {% if hibahcmb.publik %}
+                        <div class="col-md-4">
+                            <div class="col-md-12 well well-lg" style="height: 600px;">
+                                <a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
+                                <hr>
+                                <a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
+                                <p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
+                                <hr>
+                                <i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
+                            </div>
+                        </div>
+                    {% endif %}
+                    {% endfor %}
+                    </div>
+                </div>
+    
+                <div id="calon" class="tab-pane fade">
+                    <h2>Permintaan Hibah</h2>
+                    <div class="row m-b-lg">
+                        <h3>Meretas batas kebhinekaan bermedia</h3>
+                        <div class="col-md-3 text-center">
+                            <a href="hibahcms-retas.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ retas }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="seleksi-retas.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-retas }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row m-b-lg">
+                        <h3>Keadilan dan kesetaraan akses terhadap media</h3>
+                        <div class="col-md-3 text-center">
+                            <a href="hibahcms-adil.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ adil }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="seleksi-adil.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-adil }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row m-b-lg">
+                        <h3>Kebebasan dan etika bermedia</h3>
+                        <div class="col-md-3 text-center">
+                            <a href="hibahcms-bebas.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ bebas }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="seleksi-bebas.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-bebas }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row m-b-lg">
+                    <h3>Pemantauan media</h3>
+                        <div class="col-md-3 text-center">
+                            <a href="hibahcms-pantau.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ pantau }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="seleksi-pantau.html" class="btn btn-danger btn-lg btn-block">Seleksi Awal <span class="badge">{{ counter-pantau }}</span></a>
+                        </div>
+                        <div class="col-md-1 text-center">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <a href="#" class="btn btn-danger btn-lg btn-block">Penerima Hibah</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
+
+		</div>
+	</div>
+
 </div>
