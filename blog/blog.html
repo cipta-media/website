@@ -3,6 +3,26 @@ title: Blog
 layout: blog
 ---
 
+<script>
+/* when document is ready */
+$(function() {
+	/* initiate plugin */
+	$("#holder").jPages({
+		containerID : "itemContainer",
+		perPage : 9,
+		startPage: 1,
+		startRange: 1,
+		midRange: 3,
+		endRange: 1
+	});
+	$("button").click(function(){
+		var page = parseInt( $("input").val() );
+		$("#holder").jPages( page );
+	});
+});
+</script>
+
+
 <div class="container" style="margin-top: 10px;">
 
 	<div class="row">
@@ -13,7 +33,7 @@ layout: blog
 	</div>
 
 	<div class="row m-b-lg">
-
+		<div id="itemContainer">
 		{% for post in site.posts%}
 		{% unless post.categories contains 'laporan' %}
 		<div class="col-md-12">
@@ -38,7 +58,15 @@ layout: blog
 		</div>
 		{% endunless %}
 		{% endfor %}
-
+		</div>
 	</div>
-
+	<div class="row m-b-lg text-center">
+		<div class="col-md-12">
+			<div class="pag-holder" id="holder"></div>
+		</div>
+		<div class="col-md-12">
+			<input type="number" value="5" style="width: 40px; text-align: center;">
+			<button>Lompat ke bagian ini</button>
+		</div>
+	</div>
 </div>
