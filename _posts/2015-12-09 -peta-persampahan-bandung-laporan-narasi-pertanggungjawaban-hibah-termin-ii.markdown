@@ -28,6 +28,14 @@ Proyek	        :	**Peta Persampahan Bandung**
 
 Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
+Setidaknya sudah ada 66 kegiatan yang sudah dilakukan di termin ke-2 ini (Maret – November 2015/ 9 bulan). 
+Berbeda pada termin ke-1 sebelumnya yang banyak di internalisasi dan perencanaan, 9 bulan ini diselenggarakan banyak kegiatan eksternal paralel dengan pertemuan-pertemuan untuk menyosialisasikan sekaligus menvalidasi proyek ini yang sampai saat ini terus dikembangkan.
+
+Kami telah mendapatkan 655 data berupa tempat pengelolaan sampah di Kota Bandung yang kemudian dipetakan dalam situs web bebassampah.id. Data tersebut didapatkan dari data sekunder yang diperoleh dari berbagai pemangku kepentingan di isu persampahan, seperti Dinas Pemerintah Kota, Lembaga Swadaya Masyarakat, dan jejaring Lapak Pengolah Sampah eksisting. <font color="red">Maaf bagian ini kalimatnya agak membingungkan, ini nama jejaringnya adalah "Lapak Pengelola Sampah Eksisting" atau maksudnya mau nambah bahasa Inggris, yang bermakna Jejaring Lapak Pengelola Sampah yang telah ada? Karena dialinea berikutnya, "sembari mempelajari skema pengelolaan sampah eksisting" <-- maksudnya yang dipelajari skema Jejaring Lapak Pengelola Sampah yang disebutkan disini atau maksudnya skema pengelolaan sampah yang terjadi sekarang?</font>
+
+Dari pengalaman tersebut kami mengkompilasi data dan membuat sembari mempelajari skema pengelolaan sampah eksisting <font color="red"><-- lihat masukan diatas.</font> Hal tersebut dilakukan paralel dengan menyosialisasikan data dan tujuan proyek ke masyarakat umum termasuk melalui simpul-simpul massa target seperti komunitas maupun Lembaga Swadaya Masyarakat yang kami petakan.
+
+Sampai saat ini kami masih mempelajari dan berusaha mengumpulkan pengalaman bagaimana skema dan program terbaik untuk mencapai tujuan proyek ini, khususnya di isu penyampaian data dalam bentuk sistem informasi teknologi. Di isu ini kami bertemu dengan banyak pakar dan praktisi dalam berbagai pertemuan untuk menvalidasi keberjalanan proyek beserta metode- metodenya. Harapannya dalam setahun pembelajaran dalam proyek hibah Cipta Media Seluler ini kami dapat membuat rekomendasi terbaik untuk dilanjutkan kemudian dan direplikasi tidak hanya wilayah Kota Bandung.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
@@ -60,17 +68,117 @@ Output dari kegiatan ini adalah:
 
 Aktifitas dan isu yang anda atasi:
 
-**Rendahnya partisipasi masyarakat dalam pengelolaan sampah.**
-Kami sudah membuat portal daring situs www.bebassampah.id yang diluncurkan secara terbatas (soft-launch) terlebih dahulu sejak 20 Februari 2015. Pada tanggal 5 Juni 2015 kami akan luncurkan secara final. Saat ini kami sudah membuat SMS Center dengan nomor 0822-1000-7474 yang akan menjadi wadah masyarakat yang aktif memberikan informasi secara periodik terkait persampahan di kawasannya. Sistem piranti lunak SMS tersebut masih dikembangkan juga dan akan bersamaan diluncurkan bersama situs, konsepnya registrasi terlebih dahulu sehingga tidak akan membuat pesan liar.
+1. **Isu: Rendahnya partisipasi masyarakat dalam pengelolaan sampah.**
 
-**Rendahnya akuntabilitas pemerintah dalam layanan sampah.**
-Situs www.bebassampah.id masih dalam tahap pengembangan dalam konten yang akan memuat kinerja persampahan oleh pemerintah dalam layanan sampah Audiensi dengan perwakilan-perwakilan Pemerintah Kota Bandung sudah 5 kali pertemuan.
+ **Aktivitas a - Menyediakan sistem piranti lunak SMS gateway**
+ 
+ **Hasil**
+ 
+ Saat ini kami sudah membuat SMS Center dengan nomor 0822-1000-7474 yang menjadi wadah informasi sistem piranti lunak SMS bagi masyarakat Kota Bandung.
 
-**Output dalam periode ini yang telah kami buat**
-1. Terbangun dan berjalannya sistem piranti lunak SMS gateway;
-2. Terbangun dan berjalannya portal informasi website Peta Persampahan;
-3. Bahan promosi melalu media: brosur dan poster digital dan video sebagai media interaktif penggunaan perangkat lunak; dan
-4. Kegiatan promosi untuk meningkatkan jumlah pengguna piranti lunak.
+ **Aktivitas b - Menyediakan aplikasi mobile Peta Persampahan**
+ 
+ **Hasil**
+
+ Aplikasi sudah revisi ke-2, rencana akan diluncurkan di akhir proyek (Desember 2015) sehingga menjadi rangkaian wadah sistem informasi portal persampahan dengan status percobaan.
+
+ **Aktivitas c - Membuat Portal website Peta Persampahan** untuk memuat informasi publik yang berguna dari SMS gateway dan aplikasi mobile yang telah didapatkan dan diverifikasi, termasuk letak lokasi-lokasi fasilitas yang bisa menunjang, seperti: lokasi pembelian takakura, lokasi wilayah bebas sampah untuk percontohan komunitas, dll.
+
+ **Hasil**
+
+  Portal daring situs www.bebassampah.id diluncurkan secara terbatas (soft-launch) terlebih dahulu sejak 20 Februari 2015. Lalu pada tanggal 5 Juni 2015 diluncurkan ke publik di Taman Film Bandung.
+
+ **Aktivitas d - Melatih masyarakat untuk memanfaatkan informasi dalam sistem piranti lunak** dalam melakukan berbagai aksi riil secara mandiri untuk membantu meningkatkan kinerja persampahan.
+ 
+ **Hasil**
+ 
+ Tidak dijawab.
+
+2. **Isu 2: Rendahnya akuntabilitas pemerintah dalam layanan sampah.**
+
+ 1. **Aktivitas a - Mekanisme umpan balik dari masyarakat menjadi mudah dan diperhatikan oleh pemerintah** untuk mengkoordinasikan umpan balik masyarakat, dalam bentuk adanya satuan-satuan informasi akurat dalam piranti lunak.
+  * Situs www.bebassampah.id masih dalam tahap pengembangan untuk meningkatkan akuntabilitas pemerintah dalam layanan sampah.
+
+ 2. **Aktivitas b - Terdesiminasikannya informasi mengenai sampah Bandung secara meluas.**
+   1. Promosi melalui berbagai media (media massa, media sosial dan media cetak), termasuk sebuah kegiatan seminar kick off sosialisasi. Workshop penggunaan perangkat lunak sekagus eksplorasi kolaborasi pemanfaatannya dengan berbagai aktor di dunia persampahan (LSM, pemerintahan, swasta dll). 
+  
+  **Hasil**
+  
+  Tidak dijawab. Sebaiknya dijawab menggunakan angka kuantitatif, karena tidak jelas hasilnya dengan naratif diatas. Contoh: Sudah berapa kali kegiatan dilakukan total? Berapa orang yang datang? Berapa radio yang menayangkan? Berapa pesan via medsos dilayangkan pada periode hibah, berapa Retweet terjadi, berapa berita naik di media cetak/ daring untuk seluruh kegiatan? <-- Pranalanya/ hasil pindaian. Statistik halaman bebassampah.id? 
+
+  Saya lihat ada enam video dibuat dengan view 600+ atau 20+, mungkin bisa dianalisa kenapa satu mendapat 600 views dan yang lain 20. berapa biaya pembuatannya, mengapa yang satu lebih penting dan yang lain tidak, teknik perluasannya bagaimana? Apakah ditunjukkan video video ini pada saat aksi nonton film bareng, atau tidak? Bahkan bisa dimasukkan dukungan untuk Making All Voices Count lewat facebook kalau perlu indikator dukungan untuk upaya selanjutnya.
+
+   2. Workshop penggunaan perangkat lunak sekagus eksplorasi kolaborasi pemanfaatannya dengan berbagai aktor di dunia persampahan (LSM, pemerintahan, swasta dll) 
+
+   **Hasil**
+   
+   Tidak dijawab.
+
+  3. Pelatihan bagi para agen perubahan masyarakat terntang pengembangan pengelolaan sampah secara mandiri dengan memanfaatkan perangkat lunak ini.
+
+  **Hasil**
+  
+   Tidak dijawab.
+
+   4. Pembuatan e-book dan media interaktif tentang penggunaan perangkat lunak ini.
+
+   Tidak dijawab. Apakah sudah/ belum/ tidak jadi dilakukan? Mengapa?
+   
+3. **Aktivitas c - Terdatanya komplain dan input dari masyarakat.**
+
+ **Hasil**
+ 
+ Tidak dijawab. Apakah sudah/ belum/ tidak jadi dilakukan? Mengapa?
+
+4. **Aktivitas d - Secara rutin melakukan pengecekan kinerja persampahan melalui semacam survey terbatas kepada target group representasif dari masyarakat.**
+
+ **Hasil**
+ 
+ Tidak dijawab. Apakah sudah/ belum/ tidak jadi dilakukan? Mengapa?
+
+5. **Aktivitas e - Dewan Sampah terbentuk untuk merespon masukan dan umpan balik dari masyarakat untuk perbaikan sistem persampahan.**
+
+ Tidak dijawab. Apakah sudah/ belum/ tidak jadi dilakukan? Mengapa? Pada Laporan I jawaban nomor 5 Perubahan Organisasi butir 9 menyatakan Perubahan Istilah ‘Dewan Persampahan’ Kami mengubah istilah ‘Dewan Persampahan’ dan bahkan cenderung ingin menghilangkan karena setelah proses proyek yang kami jalankan ini, Pemerintah Kota sangat dinamis dan kemungkinan bisa tersandung di isu regulasi dan kebijakan terkait pemakaian istilah-istilah tertentu. Sehingga kami akan fokus di agenda dan targetnya memastikan proyek ini berlanjut dan didukung oleh Pemerintah Kota melalui kerjasama tertulis nantinya dan pembuatan dokumen final proyek yang akan diserahkan ke mereka. Apabila hal ini masih benar yang terjadi, saran saya adalah mencantumkan narasi ini dan tindak lanjutnya, contoh, terjadikah kerjasama tertulis dan serah terima dokumen final proyek yang pada laporan I masih ditulis sebagai "nanti"? Apabila tidak ada kerjasama tertulis dan serah terima dengan pemkot, jelaskan kenapa, dan masukkan pada pertanyaan 1 pembelajaran atau pertanyaan nomor 5 mengenai perubahan lingkup lingkungan sekitar.
+
+**Output**
+
+1. Terbangun dan berjalannya sistem piranti lunak SMS gateway. 
+
+ **Hasil**
+ 
+ * Terbangung SMS Center dengan nomor 0822-1000-7474, Mungkin perlu dijelaskan disini Pusat SMS seperti apa yang berhasil dibangun. Center atau Pusat biasanya berarti "masuk" dan "keluar", mungkin apabila digunakan untuk SMS keluar saja (broadcasting) maka perlu di jabarkan lagi sebelum masuk ke jawaban.
+
+2. Terbangun dan berjalannya sistem piranti lunak aplikasi mobile.
+
+ **Hasil**
+ 
+ * Lihat permintaan revisi pada jawaban nomor 5 butir 3. Pranala aplikasi tidak ada dilaporan, saya harus cari sendiri di halaman facebook Bebas Sampah untuk pranalanya. Pranala aplikasi
+
+3. Terbangun dan berjalannya portal informasi website Peta Persampahan.
+
+ **Hasil**
+ 
+ ![250px-Statistik_1_Aktivitas_12_-_Data_Pengunjung_Situs_Laporan_Warga.png](/uploads/250px-Statistik_1_Aktivitas_12_-_Data_Pengunjung_Situs_Laporan_Warga.png){: .img-responsive .center-block }
+ 
+ * Walaupun angka ada pada jawaban nomor tiga, tapi angka ini statis dan tidak jelas, disarankan menggunakan visualisasi data pengunjung situs seperti diatas (diambil dari laporan naratif SMS Papua), atau menggunakan laporan facebook insight untuk statistik halaman media sosialnya dalam kurun waktu laporan. Karena tampaknya pada situsnya - petanya jalan, tapi artikelnya tidak (cuman 4), padahal di halaman facebooknya rame sekali dengan kegiatan.
+ 
+4. Tersedianya bahan promosi melalu media (artikel koran, leaflet, e-book, media interaktif penggunaan perangkat lunak, dll)
+
+ **Hasil**
+ 
+  * Contoh? Pranala artikel koran, leaflet, e-book?
+
+5. Kegiatan promosi untuk meningkatkan jumlah pengguna piranti lunak.
+
+ **Hasil**
+
+  Hasilnya apa?
+
+6. Terbangunnya Resource Centre isu persampahan bervisi desentralisasi, berbasis masyarakat dan zero waste
+
+  **Hasil**
+  
+  Belum selesai dalam periode ini, kami menargetkan di periode akhir ke-3.
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
