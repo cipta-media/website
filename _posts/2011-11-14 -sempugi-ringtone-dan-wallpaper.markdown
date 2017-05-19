@@ -51,86 +51,103 @@ Aktifitas dan isu yang anda atasi:
 
 **1. Lagu tradisional (NN) yang terancam punah**
 
-Lagu direkam
+**Lagu direkam**
 Telah merekam 12 lagu tradisional daerah Sulawesi Selatan yang terdiri dari 6 lagu aransemen modern dan 6 lagu aransemen full etnis. Lagu ini berasal dari Lomba yang telah dilaksanakan kemudian Pemenang lomba yang difasilitasi untuk rekaman. Adapun judul lagu yang direkam antara lain
-Aransemen Modern
-Tindoki Band – Pitu Buttu Annang Lombo (aransemen modern)
-Vertikal – Indo Logo (aransemen modern)
-Iwank & Friends – Lembata tana luwu (aransemen modern)
-Iwank & Friends – Penangmu Penangku (aransemen modern)
-Moexin – Ana’ Kukang
-Moexin – Dongang dongang
-Aransemen Full Etnik
-Sanggar Bunda – Ammacciang
-Sanggar Bunda – Marencong rencong
-Sanggar Lontara – Lembang Sura
-Sanggar Lontara – Yabe Lale
-SSBTK (Sanggar Seni Budaya Toriolo Kajang) – Pabbitte Passapu
-UKM 9 – Ininnawa
-Dijadikan ringtone
-Proses perekaman dilakukan di Studio Musik Fantazhi Home Recording. Dilakukan selama 15 hari antara 25 Oktober 2014 hingga 09 November 2014. Hasil rekaman dalam format Mp3 kemudian diupload di soundcloud resmi SEMPUGI dengan lisensi CC Semua lagu tersebut telah dijadikan ringtone. Telah ada penyampaian pada band/sanggar bersangkutan yaitu Vertikal Band dan UKM 9 bahwa lagu yang mereka buat telah dijadikan ringtone. Berpartisipasi dalam penyebaran melalui Facebook.
-Disebarkan secara gratis
+
+* Aransemen Modern
+1. Tindoki Band – [Pitu Buttu Annang Lombo](http://sempugi.org/pitu-buttu-annang-lombo) (aransemen modern)
+2. Vertikal – [Indo Logo](http://sempugi.org/indo-logo) (aransemen modern)
+3. Iwank & Friends – [Lembata tana luwu](http://sempugi.org/lembata-tana-luwu) (aransemen modern)
+4. Iwank & Friends – [Penangmu Penangku](http://sempugi.org/penammu-penangku) (aransemen modern)
+5. Moexin – [Ana’ Kukang](http://sempugi.org/ana-kukang)
+6. Moexin – [Dongang dongang](http://sempugi.org/dongangku)
+
+* Aransemen Full Etnik
+1. Sanggar Bunda – [Ammacciang](http://sempugi.org/ammac-ciang)
+2. Sanggar Bunda – [Marencong rencong](http://sempugi.org/marencong-rencong)
+3. Sanggar Lontara – [Lembang Sura](http://sempugi.org/lembang-sura)
+4. Sanggar Lontara – [Yabe Lale](http://sempugi.org/ya-be-la-le)
+5. SSBTK (Sanggar Seni Budaya Toriolo Kajang) – [Pabbitte Passapu](http://sempugi.org/lagu-kajang-2/)
+6. UKM 9 – [Ininnawa](http://sempugi.org/ininnawa-sabbarae)
+
+**Dijadikan ringtone**
+
+Proses perekaman dilakukan di Studio Musik Fantazhi Home Recording. Dilakukan selama 15 hari antara 25 Oktober 2014 hingga 09 November 2014. Hasil rekaman dalam format Mp3 kemudian diupload di [soundcloud resmi SEMPUGI](https://soundcloud.com/sempugi) dengan lisensi CC Semua lagu tersebut telah dijadikan [ringtone](http://sempugi.org/category/lagu-nada-dering/). Telah ada penyampaian pada band/sanggar bersangkutan yaitu Vertikal Band dan UKM 9 bahwa lagu yang mereka buat telah dijadikan ringtone. Berpartisipasi dalam penyebaran melalui Facebook.
+
+**Disebarkan secara gratis**
+
 Sementara ini kami telah menyimpan lagu tradisional dalam bentuk MP3 di soundcloud dan ringtone di server sempugi. Kemudian memanfaatkan sosial media seperti facebook, google + dan twitter dalam penyebarannya.
 
 2. Beberapa atraksi budaya mulai langka
-6 atraksi budaya langka sudah dijadikan wallpaper
-ma’nene (upacara kematian)- toraja
-tingoro’ tedong (potong kerbau) - toraja
-pepe ri makka (pertunjukan permainan api sebagai penghormatan terhadap kisah nabi ibrahim) – Makassar
-tari pano’ berre (tari suka cita menyambut musim tanam) - bone
-ma’raga (permainan ketangkasan bola raga) - makassar
-sandeq (lomba perahu layar) - mandar
-Foto tersebut merupakan hasil lomba dan disimpan di server sempugi. Dapat diunduh secara gratis http://sempugi.org/wallpaper-atraksi-budaya/
+
+**6 atraksi budaya langka sudah dijadikan wallpaper**
+
+1. [ma’nene (upacara kematian](http://sempugi.org/manene)- toraja
+2. [tingoro’ tedong (potong kerbau)](http://sempugi.org/matingoro-tedong) - toraja
+3. [pepe ri makka (pertunjukan permainan api sebagai penghormatan terhadap kisah nabi ibrahim](http://sempugi.org/pepe-pepeka-ri-makka)) – Makassar
+4. [tari pano’ berre (tari suka cita menyambut musim tanam)](http://sempugi.org/pano-berre) - bone
+5. [ma’raga (permainan ketangkasan bola raga)](http://sempugi.org/paraga) - makassar
+6. [sandeq (lomba perahu layar)](http://sempugi.org/sandeq) - mandar
+
+Foto tersebut merupakan hasil lomba dan disimpan di server sempugi. Dapat diunduh secara gratis [http://sempugi.org/wallpaper-atraksi-budaya/](http://sempugi.org/wallpaper-atraksi-budaya/)
 
 **3. Potensi obyek wisata yang kurang dikenal diabadikan dan dijadikan wallpaper kemudian disebar secara gratis**
-16 potensi obyek wisata telah dijadikan wallpaper
-Air terjun barambang → Sinjai (2 Wallpaper)
-Air terjun bissapu → Bantaeng
-Air terjun ketemu jodoh → Parigi – Gowa
-Air terjun Latuppa → Palopo
-Air terjun Parangloe → bili-bili Gowa
-Air terjun Tombolo Pao → pao pao, gowa
-Danau Sidenreng → Sidrap
-Gunung Lapattoa → Pinrang
-Pantai Punaga → Takalar
-Pulau Badi → Pangkep
-Pulau Kodingareng → Makassar
-Pulau Liukang Loe → Bulukumba
-Rammang–Rammang → Maros
-Pantai Semboang → Bulukumba
+
+**16 potensi obyek wisata telah dijadikan [wallpaper](http://sempugi.org/wallpaper-objek-wisata-alam)**
+1. [Air terjun barambang](http://sempugi.org/air-terjun-barambang) → Sinjai (2 Wallpaper)
+2. [Air terjun bissapu](http://sempugi.org/air-terjun-bissapu) → Bantaeng
+3. [Air terjun ketemu jodoh](http://sempugi.org/air-terjun-ketemu-jodoh) → Parigi – Gowa
+4. [Air terjun Latuppa](http://sempugi.org/air-terjun-latuppa) → Palopo
+5. [Air terjun Parangloe](http://sempugi.org/air-terjun-parangloe) → bili-bili Gowa
+6. [Air terjun Tombolo Pao](http://sempugi.org/air-terjun-tombolo-pao) → pao pao, gowa
+7. [Danau Sidenreng](http://sempugi.org/senja-di-danau-sidenreng) → Sidrap
+8. [Gunung Lapattoa](http://sempugi.org/lappatoa) → Pinrang
+9. [Pantai Punaga](http://sempugi.org/pantai-punaga) → Takalar
+10. [Pulau Badi](http://sempugi.org/pulau-badi-eksotisme-dari-spermonde) → Pangkep
+11. [Pulau Kodingareng](http://sempugi.org/pulau-kodingareng-keke) → Makassar
+12. [Pulau Liukang Loe](http://sempugi.org/pulau-liukang-loe) → Bulukumba
+13. [Rammang–Rammang](http://sempugi.org/juara-1-lomba-photo-potensi-objek-wisata) → Maros
+14. [Pantai Semboang](http://sempugi.org/pantai-semboang) → Bulukumba
+
 Wallpaper potensi obyek wisata ini disimpan di server sempugi kemudian disebar, media sosial twitter, google+ dan facebook. Target sebaran adalah anggota grup diskusi
 
 **4. Semboyan, slogan, dan petuah bijak yang kurang dikenal didesain menjadi wallpaper. Kemudian dibagikan secara gratis. Dengan demikian semboyan, slogan dan petuah bijak tersebut kembali dikenal**
 
-Wallpaper ini dibuat oleh desainer yaitu Kudrianto (Kudesign) ada 20 semboyan dan petuah bijak telah dijadikan wallpaper. Keduapuluh wallpaper ini masing masing terdiri 2 ukuran, untuk desktop dan smartphone dengan rincian; 10 untuk seluler dan 10 untuk desktop.
-Makassar 4
-http://sempugi.org/ku-soronna-biseangku/
-http://sempugi.org/kadde-rua-lino/
-http://sempugi.org/kanangi-bonena-suruga/
-http://sempugi.org/tau-mangkasaraka-abbulo-sibatang-accera-sitongka-tongka/
-Bugis 11
-http://sempugi.org/sadda-mappabatti-ada/
-http://sempugi.org/tempedingi-sialao/
-http://sempugi.org/lalo-bekka-temmaka-sape/
-http://sempugi.org/siatting-lima/
-http://sempugi.org/aja-muelo-ribetta-makkella/
-http://sempugi.org/rebba-sipatokkong/
-http://sempugi.org/aja-mupoloi-olona-taue/
-http://sempugi.org/taroi-tellang-linoe/
-http://sempugi.org/emakkunrai/
-http://sempugi.org/pasiceppai-lilamu/
-http://sempugi.org/sallukka-ri-ale-kabo/
-Luwu 2
-http://sempugi.org/wanua-mappatuo/
-http://sempugi.org/toddopuli-temmalara/
-Selayar 1
-http://sempugi.org/to-silajara/
-Kajang 1
-http://sempugi.org/petuah-kajang/
-Toraja 1
-http://sempugi.org/mesa-kada-dipatuo/
+Wallpaper ini dibuat oleh desainer yaitu Kudrianto (Kudesign) ada 20 semboyan dan petuah bijak telah dijadikan wallpaper. Keduapuluh wallpaper ini masing masing terdiri 2 ukuran, untuk desktop dan smartphone dengan rincian; [10 untuk seluler](http://sempugi.org/wallpaper-petuah-bijak-untuk-hp-smartphone) dan [10 untuk desktop](http://sempugi.org/wallpaper-petuah-bijak-untuk-desktop).
 
-**wallpaper petuah bijak ini disimpan di server Sempugi dan disebar di media sosial Twitter dan Facebook serta Google+. Target sebaran adalah anggota diskusi grup.**
+1. Makassar 4
+* [http://sempugi.org/ku-soronna-biseangku/](http://sempugi.org/ku-soronna-biseangku/)
+* [http://sempugi.org/kadde-rua-lino/](http://sempugi.org/kadde-rua-lino/)
+* [http://sempugi.org/kanangi-bonena-suruga/](http://sempugi.org/kanangi-bonena-suruga/)
+* [http://sempugi.org/tau-mangkasaraka-abbulo-sibatang-accera-sitongka-tongka/](http://sempugi.org/tau-mangkasaraka-abbulo-sibatang-accera-sitongka-tongka/)
+
+2. Bugis 11
+* [http://sempugi.org/sadda-mappabatti-ada/](http://sempugi.org/sadda-mappabatti-ada/)
+* [http://sempugi.org/tempedingi-sialao/](http://sempugi.org/tempedingi-sialao/)
+* [http://sempugi.org/lalo-bekka-temmaka-sape/](http://sempugi.org/lalo-bekka-temmaka-sape/)
+* [http://sempugi.org/siatting-lima/](http://sempugi.org/siatting-lima/)
+* [http://sempugi.org/aja-muelo-ribetta-makkella/](http://sempugi.org/aja-muelo-ribetta-makkella/)
+* [http://sempugi.org/rebba-sipatokkong/](http://sempugi.org/rebba-sipatokkong/)
+* [http://sempugi.org/aja-mupoloi-olona-taue/](http://sempugi.org/aja-mupoloi-olona-taue/)
+* [http://sempugi.org/taroi-tellang-linoe/](http://sempugi.org/taroi-tellang-linoe/)
+* [http://sempugi.org/emakkunrai/](ttp://sempugi.org/emakkunrai/)
+* [http://sempugi.org/pasiceppai-lilamu/](http://sempugi.org/pasiceppai-lilamu/)
+* [http://sempugi.org/sallukka-ri-ale-kabo/](http://sempugi.org/sallukka-ri-ale-kabo/)
+
+3. Luwu 2
+* [http://sempugi.org/wanua-mappatuo/](http://sempugi.org/wanua-mappatuo/)
+* [http://sempugi.org/toddopuli-temmalara/](http://sempugi.org/toddopuli-temmalara/)
+
+4. Selayar 1
+* [http://sempugi.org/to-silajara/](http://sempugi.org/to-silajara/)
+
+5. Kajang 1
+* [http://sempugi.org/petuah-kajang/](http://sempugi.org/petuah-kajang/)
+
+6. Toraja 1
+* [http://sempugi.org/mesa-kada-dipatuo/](http://sempugi.org/mesa-kada-dipatuo/)
+
+**wallpaper petuah bijak ini disimpan di server Sempugi dan disebar di media sosial [Twitter](https://twitter.com/barugasempugi) dan [Facebook](https://www.facebook.com/groups/sempugi/?ref=ts&fref=ts) serta [Google+](https://plus.google.com/communities/105828492803714273316). Target sebaran adalah anggota diskusi grup.**
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
