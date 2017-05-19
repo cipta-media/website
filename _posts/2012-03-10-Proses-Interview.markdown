@@ -1,6 +1,6 @@
 ---	
 title: 	Proses Interview
-date: 	2012-03-(30-10)
+date: 	2012-03-10
 categories:	
 - laporan	
 - Pantau	
@@ -15,7 +15,7 @@ layout: laporancmb
 
 **Alamat** : 	
 	
-**Jam** :	09.00 - 17:00 WIB/ perhari
+**Jam** :	09.00 - 17:00 WIB/ perhari (10-30 Maret 2012)
 	
 **Hadir** :	
 *	interviewer di 16 provinsi

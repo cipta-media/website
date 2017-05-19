@@ -1,6 +1,6 @@
 ---	
 title: 	Guru bisa merekam pembelajaran didalam kelas dalam bentuk Video 3gp
-date: 	2012-01-25,18,14
+date: 	2012-01-14
 categories:	
 - laporan	
 - Hpku-Teman Belajarku	
@@ -16,7 +16,7 @@ layout: laporancmb
 	
 **Alamat** : 	Jl. Sunan Ngampel Kota Kediri
 	
-**Jam** :	10.00 - 13.00
+**Jam** :	10.00 - 13.00 (14,18,25 Januari 2012)
 	
 **Hadir** :	
 *	Ali Sahbana Pemateri

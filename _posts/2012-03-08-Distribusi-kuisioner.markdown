@@ -1,6 +1,6 @@
 ---	
 title: 	Distribusi kuisioner
-date: 	2012-03-10-8
+date: 	2012-03-08
 categories:	
 - laporan	
 - Pantau	
@@ -13,7 +13,7 @@ layout: laporancmb
 	
 **Alamat** : 	Jl Kebayoran Lama Raya 18 CD
 	
-**Jam** :	09.00 - 17:00 WIB/ perhari
+**Jam** :	09.00 - 17:00 WIB/ perhari (8-10 Maret 2012)
 	
 **Hadir** :	
 *	Imam Shofwan

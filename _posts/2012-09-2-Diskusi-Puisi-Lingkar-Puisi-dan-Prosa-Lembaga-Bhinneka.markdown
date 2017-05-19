@@ -1,6 +1,6 @@
 ---	
 title: 	Diskusi Puisi Lingkar Puisi dan Prosa Lembaga Bhinneka
-date: 	2012-09-(4-2)
+date: 	2012-09-2
 categories:	
 - laporan	
 - Bhinneka	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Lingkar Puisi dan Prosa - Lembaga Bhinneka
 	
-**Jam** :	Online
+**Jam** :	Online (2-4 September 2012)
 	
 **Hadir** :	
 *	Shinta Miranda (pembicara)

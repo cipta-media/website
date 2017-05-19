@@ -1,6 +1,6 @@
 ---	
 title: 	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
-date: 	2012-02-(17-19)
+date: 	2012-02-17
 categories:	
 - laporan	
 - JRKL	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Pekon Pahmungan, Kecamatan Pesisir Tengah, Kabupaten Lampung Barat, Lampung
 	
-**Jam** :	09.00 - 16.00 WIB
+**Jam** :	09.00 - 16.00 WIB (17-19 Februari 2012)
 	
 **Hadir** :	
 *	Alfianto (JRKL)

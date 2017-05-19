@@ -1,6 +1,6 @@
 ---	
 title: 	Lomba Prosa liris bertema "korban kekerasan agama" 
-date: 	2012-(05-04)-(28-20)
+date: 	2012-04-28
 categories:	
 - laporan	
 - Bhinneka	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Lingkar puisi dan prosa - Lembaga Bhinneka
 	
-**Jam** :	online
+**Jam** :	online (28 April - 20 Mei 2012)
 	
 **Hadir** :
 *	Soe Tjen Marching (admin forum)

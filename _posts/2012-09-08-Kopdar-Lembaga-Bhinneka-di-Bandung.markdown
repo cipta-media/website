@@ -1,6 +1,6 @@
 ---	
 title: 	Kopdar Lembaga Bhinneka di Bandung
-date: 	2012-09-(9-8)
+date: 	2012-09-08
 categories:	
 - laporan	
 - Bhinneka	
@@ -18,7 +18,7 @@ layout: laporancmb
 	
 **Alamat** : 	Bandung
 	
-**Jam** :	online
+**Jam** :	online (8-9 September 2012)
 	
 **Hadir** :	
 *	Soe Tjen Marching (pembicara)

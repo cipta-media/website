@@ -1,6 +1,6 @@
 ---	
 title: 	Perencanaan Siaran Literasi untuk Pemantauan Tayangan Televisi di RKSP FM
-date: 	2012-01-(28-29)
+date: 	2012-01-28
 categories:	
 - laporan	
 - JRKL	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Pekon Pahmungan, Kecamatan Pesisir Tengah, Kabupaten Lampung Barat, Lampung
 	
-**Jam** :	09.00 - 20.00 WIB
+**Jam** :	09.00 - 20.00 WIB (28-29 Januari 2012)
 	
 **Hadir** :	
 *	Alfianto (JRKL)

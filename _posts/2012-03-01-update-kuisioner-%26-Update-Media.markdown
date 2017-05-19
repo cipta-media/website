@@ -1,6 +1,6 @@
 ---	
 title: 	Update kuisioner & Update Media
-date: 	2012-03-8-1
+date: 	2012-03-01
 categories:	
 - laporan	
 - Pantau	
@@ -13,7 +13,7 @@ layout: laporancmb
 	
 **Alamat** : 	Jl Kebayoran Lama Raya 18 CD
 	
-**Jam** :	09.00 - 17:00 WIB/ perhari
+**Jam** :	09.00 - 17:00 WIB/ perhari (01-8 Maret 2012)
 	
 **Hadir** :	
 *	Imam Shofwan

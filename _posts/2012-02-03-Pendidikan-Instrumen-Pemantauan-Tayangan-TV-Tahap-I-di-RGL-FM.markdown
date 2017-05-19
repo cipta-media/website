@@ -1,6 +1,6 @@
 ---	
 title: 	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RGL FM
-date: 	2012-02-(3-5)
+date: 	2012-02-03
 categories:	
 - laporan	
 - JRKL	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Kampung Siliwangi, Desa Hurun, Kecamatan Padang Cermin, Kabupaten Pesawaran, Lampung
 	
-**Jam** :	09.00 - 16.00 WIB
+**Jam** :	09.00 - 16.00 WIB (3-5 Februari 2012)
 	
 **Hadir** :	
 *	Alfianto (JRKL)
