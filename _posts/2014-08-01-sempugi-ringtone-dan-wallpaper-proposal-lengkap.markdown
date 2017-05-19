@@ -1,5 +1,5 @@
 ---
-title: Sempugi: Ringtone dan Wallpaper - Proposal Lengkap
+title: Sempugi - Ringtone dan Wallpaper - Proposal Lengkap
 date: 2014-08-01 
 categories:
 - laporan
