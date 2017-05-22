@@ -1072,6 +1072,7 @@
   lat: -6.388877
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/088.jpg
   link: /hibahcms/088
 
@@ -1168,6 +1169,7 @@
   lat: -6.92405
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/096.jpg
   link: /hibahcms/096
 
@@ -1702,7 +1704,7 @@
   lokasi: Samarinda, Kalimantan Timur
   long: 117.153801
   lat: -0.502183
-  tipe: software
+  tipe: hardware
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/140
@@ -2079,7 +2081,6 @@
   gambar: /static/img/hibahcms/170.jpg
   link: /hibahcms/170
 
-
 - nomor: '171'
   judul: Cipta Selular Cepat Tanggap Kesehatan berbasis SMS Gateway
   deskripsi: |
@@ -2160,7 +2161,7 @@
   lokasi: Lumajang, Jawa Timur
   long: 113.226601
   lat: -8.137022
-  tipe: sofware
+  tipe: software
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/177
@@ -2213,7 +2214,7 @@
     - Dapat menampilkan informasi lokasi dari gps handset
     - Overlay tampilan peta dari google map sehingga selalu uptodate
   lokasi: Sumedang Utara, Jawa Barat
-  tipe: sotfware
+  tipe: software
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/181
@@ -3655,7 +3656,7 @@
   lokasi: Manado, Sulawesi Utara
   long: 124.842843
   lat: 1.491701
-  tipe: software
+  tipe: hardware
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/298
@@ -3911,6 +3912,7 @@
   lat: -8.65
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/318.png
   link: /hibahcms/318
 

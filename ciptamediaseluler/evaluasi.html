@@ -39,7 +39,13 @@ layout: info
 	{% endif %}
 {% endfor %}
 
-<div class="container article">
+<div class="container">
+	
+    <div class="row">
+        <div class="col-lg-12">
+            <p><small><a href="/index.html">Beranda</a> > <a href="proses.html">Proses Cipta Media Seluler</a> > Evaluasi</small></p>
+        </div>
+    </div>
     
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
@@ -58,7 +64,7 @@ layout: info
 		</ul>
 
             <div class="tab-content">
-                <div id="evaluasi" class="tab-pane fade in active">		
+                <div id="evaluasi" class="tab-pane fade in active article">		
             
                 <h2>Ini Dia Pemohon Hibah yang Lolos Seleksi Awal!</h2>
                 <p>Sejak 23 April 2014, tim seleksi awal Cipta Media Seluler memberikan penilaian kepada 368 ide yang diajukan pemohon hibah. Proses penilaian ini dilakukan dalam beberapa tahap. Pertama, secara terpisah, semua anggota tim seleksi awal memberikan skor pada setiap ide yang masuk. Aspek penilaian mengacu pada 6 kriteria; pemecahan masalah, inovasi, replikasi, target, kelayakan, dan keberlanjutan. Lalu skor yang dibuat oleh tim seleksi awal digabung menjadi satu. Kedua, hasil penilaian dipilah berdasarkan kategori, tema atau isu, lokasi, jenis institusi, dan teknologi yang akan digunakan. Ketiga, memilih 30 Calon Penerima Hibah untuk bertemu dengan developer dan melakukan penajaman proposal lengkap dan anggaran. Hasil dari wawancara dan pelatihan ini akan diserahkan kepada Tim Seleksi Akhir.</p>
@@ -67,16 +73,16 @@ layout: info
                 <div id="publik" class="tab-pane fade">		
                     <h2>Pilihan Publik</h2>
                     <div class="row">	
-                    {% for hibahcmb in site.data.hibahcmb %}
-                    {% if hibahcmb.publik %}
+                    {% for hibahcms in site.data.hibahcms %}
+                    {% if hibahcms.publik %}
                         <div class="col-md-4">
                             <div class="col-md-12 well well-lg" style="height: 600px;">
-                                <a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
+                                <a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
                                 <hr>
-                                <a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
-                                <p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
+                                <a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
+                                <p>{{ hibahcms.deskripsi | truncatewords: 20 }}</p>
                                 <hr>
-                                <i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
+                                <i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcms.lokasi }}
                             </div>
                         </div>
                     {% endif %}
@@ -85,9 +91,9 @@ layout: info
                 </div>
     
                 <div id="calon" class="tab-pane fade">
-                    <h2>Permintaan Hibah</h2>
+                    <h2>Calon Penerima Hibah</h2>
                     <div class="row m-b-lg">
-                        <h3>Meretas batas kebhinekaan bermedia</h3>
+                        <h3>Produksi & Penyampaian Konten</h3>
                         <div class="col-md-3 text-center">
                             <a href="hibahcms-konten.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ konten }}</span></a>
                         </div>
@@ -107,7 +113,7 @@ layout: info
                     <br>
                     <br>
                     <div class="row m-b-lg">
-                        <h3>Keadilan dan kesetaraan akses terhadap media</h3>
+                        <h3>Piranti Lunak</h3>
                         <div class="col-md-3 text-center">
                             <a href="hibahcms-software.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ software }}</span></a>
                         </div>
@@ -127,7 +133,7 @@ layout: info
                     <br>
                     <br>
                     <div class="row m-b-lg">
-                        <h3>Kebebasan dan etika bermedia</h3>
+                        <h3>Perangkat Keras</h3>
                         <div class="col-md-3 text-center">
                             <a href="hibahcms-hardware.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ hardware }}</span></a>
                         </div>

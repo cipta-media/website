@@ -10,9 +10,7 @@ tags:
 - operator
 - jaringan seluler
 - telekomunikasi
-author: 'reza
-
-'
+author: 'reza'
 comments: true
 img: "/uploads/Operator-dan-Jaringan-Tetap-Kabel-Indonesia.png"
 ---

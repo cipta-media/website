@@ -1,5 +1,5 @@
 ---
-title: Sempugi: Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hibah Termin II
+title: Sempugi - Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hibah Termin II
 date: 2015-02-16 
 categories:
 - laporan

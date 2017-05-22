@@ -14,18 +14,18 @@ Wikimedia Indonesia mengharuskan seluruh penerima hibah melaporkan kegiatan mere
 
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
-Penerima hibah	     :	**YAYASAN PANTAU (IMAM SHOFWAN)**
+Penerima hibah: **YAYASAN PANTAU (IMAM SHOFWAN)**
 
-Periode Laporan	     :	**12 Desember 2012 hingga 30 Maret 2013**
+Periode Laporan: **12 Desember 2012 hingga 30 Maret 2013**
 
-Proyek	             :	**Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
+Proyek: **Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
 
 **1. Pembelajaran**
 
   Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
   Di bawah hibah Cipta Media Bersama termin kedua ini Yayasan Pantau menyelenggarakan peluncuran hasil Survey Persepsi Wartawan Indonesia Terhadap Islam di lima kota. Surveynya sendiri dilakukan dengan hibah Cipta Media Bersama termin I. Untuk pembelajaran dan perubahan dalam satu tahun ke depan akan kami perinci perkota:
-
+  
   1. Di **Riau**: Pesertanya sangat beragam mulai dari, Persma USU di Medan, Ganto di Padang dan Bahana Mahasiswa di Riau, juga dari kalangan wartawan di Pekanbaru.
     1. Peluncuran hasil survey ini diiringi dengan pelatihan penulisan naratif untuk mahasiswa dan diskusi buku Blur. Pembelajaran yang di dapat dari acara di Pekanbaru adalah peserta dari persma-persma di Sumatra belajar bersama soal jurnalisme narrative yang berisi bagaimana meliput, bagaimana menulis, bagaimana mengedit, bagaimana ruang redaksi dan bagaimana etika jurnalistik. Ditambah dengan diskusi hasil Survey Persepsi Wartawan Indonesia terhadap Islam, para peserta mendapat diskusi bagaimana meliput isu agama dengan baik.
     2. Belajar dari pengalaman para wartawan dalam meliput agama di tidak hati-hati dengan menyebut “sesat” “harus ditobatkan” dan kata-kata diskriminatif lainnya dan dari mana kata-kata itu berasal. Hasilnya bisa dilihat dari hasil-hasil tulisan, video, dan berita-berita yang ditulis para peserta.
@@ -193,9 +193,10 @@ melakukan aktivitas jurnalistik,”
 
   Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
 
-Tertanda: Lokasi dan tanggal:
+Tertanda: 
+
+Lokasi dan tanggal:
 
 Jakarta, 11 April 2013
-
 
 Imam Shofwan
