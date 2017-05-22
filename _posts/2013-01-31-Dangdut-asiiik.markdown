@@ -1,6 +1,6 @@
 ---
 title: Dangdut asiiik 
-date: 2013-01-30
+date: 2013-01-31
 categories:
 - laporan
 - Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
