@@ -21,7 +21,7 @@ permalink: search/
                     <input type="text" id="search-box" placeholder="Cari" name="query" class="form-control">
                     <!-- <input type="submit" value="Cari"> -->
                   </form>
-
+            <hr>
             <ul id="search-results"></ul>
 
             <script>
@@ -31,7 +31,6 @@ permalink: search/
                     "title": "{{ post.title | xml_escape }}",
                     "author": "{{ post.author | xml_escape }}",
                     "category": "{{ post.category | xml_escape }}",
-                    "content": {{ post.content | strip_html | strip_newlines | jsonify }},
                     "url": "{{ post.url | xml_escape }}"
                   }
                   {% unless forloop.last %},{% endunless %}

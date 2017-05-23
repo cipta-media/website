@@ -25,16 +25,16 @@ Proyek: **Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
   Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
   Di bawah hibah Cipta Media Bersama termin kedua ini Yayasan Pantau menyelenggarakan peluncuran hasil Survey Persepsi Wartawan Indonesia Terhadap Islam di lima kota. Surveynya sendiri dilakukan dengan hibah Cipta Media Bersama termin I. Untuk pembelajaran dan perubahan dalam satu tahun ke depan akan kami perinci perkota:
-  
+
   1. Di **Riau**: Pesertanya sangat beragam mulai dari, Persma USU di Medan, Ganto di Padang dan Bahana Mahasiswa di Riau, juga dari kalangan wartawan di Pekanbaru.
     1. Peluncuran hasil survey ini diiringi dengan pelatihan penulisan naratif untuk mahasiswa dan diskusi buku Blur. Pembelajaran yang di dapat dari acara di Pekanbaru adalah peserta dari persma-persma di Sumatra belajar bersama soal jurnalisme narrative yang berisi bagaimana meliput, bagaimana menulis, bagaimana mengedit, bagaimana ruang redaksi dan bagaimana etika jurnalistik. Ditambah dengan diskusi hasil Survey Persepsi Wartawan Indonesia terhadap Islam, para peserta mendapat diskusi bagaimana meliput isu agama dengan baik.
     2. Belajar dari pengalaman para wartawan dalam meliput agama di tidak hati-hati dengan menyebut “sesat” “harus ditobatkan” dan kata-kata diskriminatif lainnya dan dari mana kata-kata itu berasal. Hasilnya bisa dilihat dari hasil-hasil tulisan, video, dan berita-berita yang ditulis para peserta.
     3. Diskusi buku BLUR memilah fakta di era banjir informasi. Para peserta juga belajar bagaimana memilah fakta dan bagaimana berdiet informasi serta bagaimana fungsi-fungsi baru wartawan di era internet di mana media tidak lagi menjadi penjaga gerbang informasi satu-satunya. Mereka berbagi dengan media sosial dalam menyebarkan informasi. Jurnalisme yang baik yang akan bertahan dengan menyeimbangkan antara kecepatan dan kedalaman berita di era digital. Melihat karya-karya jurnalistik yang dibuat para peserta. Dalam setahun atau lima tahun ke depan, ketika para peserta yang kebanyakan wartawan kampus nanti jadi wartawan, Pantau yakin mereka akan wartawan-wartawan yang baik dan punya sensibilitas tinggi terhadap isu minoritas dan mereka juga tidak gagap dalam menghadapi era banjir informasi.
-
+    
   2. Di **Pontianak**: Diskusi Peluncuran hasil Survey Persepsi Wartawan Indonesia Terhadap Islam di Pontianak di ikuti oleh wartawan dan sastrawan dari Pontianak dan Malaysia. Pantau bekerjasama dengan Borneo Blogger Movement dalam menyelenggarakan diskusi ini. Diskusi ini juga dibarengi dengan peluncuran dan diskusi buku Blur. Dari diskusi ini para peserta lebih banyak belajar soal temuan survey tentang tantangan jurnalisme Indonesia yaitu: Kurangnya profesionalitas dan rendahnya etika. Pertikaian antar etnis di Pontianak adalah isu yang bisa meledak kapan saja dan diharapkan dengan diskusi ini diharapkan wartawan bekerja dengan profesional dan menjunjung tinggi etika.
-
+  
   3. Di **Minahasa** peluncuran Survey Persepsi Wartawan Indonesia Terhadap Islam ini diselenggarakan Pantau dan Mawale Movement. Di sana para pesertanya wartawan, peneliti media, pengacara, dan mahasiswa. Selain diskusi soal hasil survey panitia juga menyelenggarakan diskusi buku BLUR. Para peserta belajar soal bagaimana wartawan meliput isu agama dan pentingnya menanggalkan identitas ketika meliput isu agama. Merujuk pengalaman di konflik agama Ambon, saat agama tidak dilepaskan ketika wartawan meliput, akibatnya banyak berita yang justru membakar konflik. Selain itu para peserta juga para peserta juga belajar dari konflik-konflik atas nama agama di berbagai tempat, di Cikeusik, di Sampang, GKI Yasmin, HKPB Filadelphia dan sebagainya. Selama setahun ke depan diharapkan para peserta punya pemahaman pentingnya isu agama diliput dengan baik.
-
+  
   4. Di **Jakarta** Pantau bekerjasama dengan Aliansi Jurnalis Independen Jakarta dalam mendiskusikan hasil Survey Persepsi Wartawan Indonesia dan buku BLUR. Panitia menghadirkan Endy Bayuni, senior editor The Jakarta Post, Stanley Adi Prasetyo, anggota Dewan Pers dan Imam Shofwan, koordinator survey.
     1. Para peserta, yang rata-rata mahasiswa dan wartawan, belajar bagaimana latar belakang survey ini, yaitu: adanya fenomena partai Islam, penerapan syari’at Islam di beberapa daerah, adanya kekerasan terhadap minoritas dan organisasi-organisasi seperti Front Pembela Islam yang menggunakan kekerasan untuk memaksakan ide-ide mereka. Fenomena-fenomena itu muncul pasca reformasi.
     2. Fenomena diskriminasi terhadap minoritas ini juga terjadi di luar Indonesia. Di Indonesia Ahmadiyah, Syi’ah, Kristen didiskriminasi, sementara di Thailand dan di Burma dan India dan Filipina minoritas Islam didiskriminasi.
@@ -46,74 +46,78 @@ Proyek: **Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
 
  **Perubahan-perubahan yang kami percaya dapat membantu organisasi/Kamunitas Anda mencapai tujuan-tujuannya:**
 
-  Diskusi-diskusi yang dilakukan Pantau di Riau, Pontianak, Minahasa, Jakarta dan Yogyakarta, dilakukan dengan melibatkan partner lokal, organisasi wartawan, persma dan organisasi pemuda. Kami percaya para wartawan dan calon wartawan yang mengikuti diskusi ini akan tahu peta bagaimana wartawan Indonesia mempersepsikan isu-isu keislaman terbaru dan dengan tahu peta ini mereka akan bisa menentukan arah bagaimana meliput dan menulis isu agama dengan baik.  
+  Diskusi-diskusi yang dilakukan Pantau di Riau, Pontianak, Minahasa, Jakarta dan Yogyakarta, dilakukan dengan melibatkan partner lokal, organisasi wartawan, persma dan organisasi pemuda. Kami percaya para wartawan dan calon wartawan yang mengikuti diskusi ini akan tahu peta bagaimana wartawan Indonesia mempersepsikan isu-isu keislaman terbaru dan dengan tahu peta ini mereka akan bisa menentukan arah bagaimana meliput dan menulis isu agama dengan baik.
 
 **Kesulitan dan tantangan yang tidak kami perkirakan yang ditemukan dalam periode pelaporan ini:**
 
   Keseluruhan diskusi di lima kota ini berjalan lancar dan diikuti oleh banyak peminat dari orang-orang yang menggemari jurnalistik dan media. Namun ada kesulitan dan tantangan yang tidak kami perkirakan, antara lain:
-* Di Riau, kegiatan diskusi dan bedah buku BLUR diselenggarakan pada satu hari. Setelah peserta registrasi mereka dibagi buku BLUR dan setelah usai sesi pertama mereka pulang.
-* Di Manado, kami mengadakan kegiatan ini pada hari Minggu, di mana itu adalah hari ibadah bagi penduduk di sana dan selain itu juga kami tidak memperkirakan akan ada banjir pada hari itu di Minahasa. Karena hal ini kegiatan harus di tunda 2 jam.
-* Di Pontianak, kami tidak memperkirakan kalau di sana ada kelompok-kelompok wartawan, jadi kami tidak bisa menjangkau seluruh kelompok.
-* Di Jakarta, diskusi survey ini dibikin satu sesi dengan diskusi buku Blur dan mengakibatkan diskusinya kurang fokus.
-* Di Jogjakarta, kegiatan ini berbarengan dengan isu pembunuhan di penjara Cebongan, karenanya banyak wartawan yang meliput isu itu dan menyebabkan sedikit wartawan yang ikut.
+  * Di Riau, kegiatan diskusi dan bedah buku BLUR diselenggarakan pada satu hari. Setelah peserta registrasi mereka dibagi buku BLUR dan setelah usai sesi pertama mereka pulang.
+  * Di Manado, kami mengadakan kegiatan ini pada hari Minggu, di mana itu adalah hari ibadah bagi penduduk di sana dan selain itu juga kami tidak memperkirakan akan ada banjir pada hari itu di Minahasa. Karena hal ini kegiatan harus di tunda 2 jam.
+  * Di Pontianak, kami tidak memperkirakan kalau di sana ada kelompok-kelompok wartawan, jadi kami tidak bisa menjangkau seluruh kelompok.
+  * Di Jakarta, diskusi survey ini dibikin satu sesi dengan diskusi buku Blur dan mengakibatkan diskusinya kurang fokus.
+  * Di Jogjakarta, kegiatan ini berbarengan dengan isu pembunuhan di penjara Cebongan, karenanya banyak wartawan yang meliput isu itu dan menyebabkan sedikit wartawan yang ikut.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
   Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
-Pada tahun 2009 Yayasan Pantau melakukan penelitan mengenai persepsi wartawan Indonesia dan ingin menyebarluaskan hasilnya. Sekaligus ingin mengetahui persepsi wartawan tentang Islam (terkini - 2012)
+  Pada tahun 2009 Yayasan Pantau melakukan penelitan mengenai persepsi wartawan Indonesia dan ingin menyebarluaskan hasilnya. Sekaligus ingin mengetahui persepsi wartawan tentang Islam (terkini - 2012)
 
-Data mengenai persepsi wartawan mengenai Islam ini penting terkait masalah:
+  Data mengenai persepsi wartawan mengenai Islam ini penting terkait masalah:
 
-2.1. Pemberitaan di media yang bias soal Islam dan penggunaan kata-kata yang cenderung mengaburkan persoalan
-sebenarnya (Cikeusik 2012)
+    2.1. Pemberitaan di media yang bias soal Islam dan penggunaan kata-kata yang cenderung mengaburkan persoalan sebenarnya (Cikeusik 2012)
 
-2.2. Pemberitaan Ambon 1999-2002 di mana media Muslim dan media Kristen ikut memperburuk suasana, pelajaran
-utama yang didapat Wartawan musti menanggalkan identitas mereka saat meliput.
+    2.2. Pemberitaan Ambon 1999-2002 di mana media Muslim dan media Kristen ikut memperburuk suasana, pelajaran utama yang didapat Wartawan musti menanggalkan identitas mereka saat meliput.
 
-2.3. Survey Yayasan Pantau ini sebelumnya dilakukan pada tahun 2009 dan digelar di 16 provinsi di Indonesia
-dan mewawancarai 600 wartawan dan 500 wawancara pertama dilakukan dengan tatap muka langsung dengan
-responden.
+    2.3. Survey Yayasan Pantau ini sebelumnya dilakukan pada tahun 2009 dan digelar di 16 provinsi di Indonesia dan mewawancarai 600 wartawan dan 500 wawancara pertama dilakukan dengan tatap muka langsung dengan responden.
 
-2.4. Temuan lain survey sebelumnya untuk disebarluaskan adalah sebanyak 99 persen wartawan menjawab tujuan
-pemberitaan adalah untuk mendidik, 98 persen setuju tujuan pemberitaan adalah untuk memperbaiki keadaan,
-serta 96 persen untuk memberitakan kaum lemah.
+    2.4. Temuan lain survey sebelumnya untuk disebarluaskan adalah sebanyak 99 persen wartawan menjawab tujuan pemberitaan adalah untuk mendidik, 98 persen setuju tujuan pemberitaan adalah untuk memperbaiki keadaan, serta 96 persen untuk memberitakan kaum lemah.
 
-2.5. Temuan-temuan menarik ini perlu disebarluaskan kepada pekerja pers khususnya, dan masyarakat umumnya
-supaya mereka tahu kecenderungan wartawan saat ini.
+    2.5. Temuan-temuan menarik ini perlu disebarluaskan kepada pekerja pers khususnya, dan masyarakat umumnya supaya mereka tahu kecenderungan wartawan saat ini.
 
-2.6. Menurut wartawan, tantangan sebagai wartawan Indonesia saat ini, adalah: soal etika dan kurang
-profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam
-melakukan aktivitas jurnalistik,”
+    2.6. Menurut wartawan, tantangan sebagai wartawan Indonesia saat ini, adalah: soal etika dan kurang profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam melakukan aktivitas jurnalistik,”
 
-2.7. Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam untuk tahun 2012.
+    2.7. Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam untuk tahun 2012.
 
   Aktifitas dan isu yang anda atasi:
 
   Pada tahun 2009 Yayasan Pantau melakukan penelitan mengenai persepsi wartawan Indonesia Terhadap Islam dan ingin menyebarluaskan hasilnya. Sekaligus ingin mengetahui persepsi wartawan tentang Islam terkini - 2012.
 
   Pada update survey tersebut, temuan-temuannya antara lain:
-  1. Pemberitaan media soal minoritas Ahmadiyah dan peristiwa pembunuhan warga Ahmadiyah Cikeusik, 6 Febuari 2011, antara lain: Pada 2009, 34,5 persen dari 600 responden setuju pelarangan Ahmadiyah dan 29,7% cukup setuju. Pada 2012, angkanya menjadi 25,8 persen setuju dan 30,2 persen cukup setuju. Terhadap fatwa MUI tentang pelarangan Ahmadiyah, pada survey 2012, sebanyak 30,8 persen sangat setuju dan 28,2 persen cukup setuju.
-  2. Tentang peristiwa Cikeusik, kami menanyakan tiga pertanyaan:
-    1. Tentang vonis 3-6 bulan terhadap pelaku pembunuhan Cikeusik, sebanyak 34,4 persen sangat setuju hal itu melukai rasa keadilan dan 26,5 persen cukup setuju.
-    2. Aparat keaman tak mampu melindungi Ahmadiyah, sebanyak 28,2 persen sangat setuju dan 42,2 persen cukup setuju.
-    3. Terkait media penggunaan kata “bentrok” untuk menyebut peristiwa Cikeusik, 6,8 persen wartawan sangat setuju dan 37,2 persen wartawan cukup setuju.
-  3. Pemberitaan Ambon 1999-2002 di mana media Muslim dan media Kristen ikut memperburuk suasana, pelajaran utama yang didapat Wartawan musti menanggalkan identitas mereka saat meliput. Data ini kita gunakan untuk latar belakang pentingnya berhati-hati dalam meliput konflik agama.
-  4. Survey Yayasan Pantau ini sebelumnya dilakukan pada tahun 2009 dan digelar di 16 provinsi di Indonesia dan mewawancarai 600 wartawan dan 500 wawancara pertama dilakukan dengan tatap muka langsung dengan responden. Update survey pada 2012 juga mewawancarai 600 wartawan di 16 provinsi dengan mengacak ulang respondennya.
-  5. Temuan lain survey sebelumnya untuk disebarluaskan adalah sebanyak 99 persen wartawan menjawab tujuan pemberitaan adalah untuk mendidik, 98 persen setuju tujuan pemberitaan adalah untuk memperbaiki keadaan, serta 96 persen untuk memberitakan kaum lemah. Sementara pada 2012, mendidik masyarakat 98,7 persen dan Memberi suara kepada kaum lemah, 97,5 persen dan membangun pembangunan nasional dan regional, 92,8 persen.
-  6. Temuan-temuan menarik ini perlu disebarluaskan kepada pekerja pers khususnya, dan masyarakat umumnya supaya mereka tahu kecenderungan wartawan saat ini.
-  7. Hasil survey 2012, kami mendiskusikan hasil survey ini di lima kota: Pekanbaru, Pontianak, Manado, Jakarta dan Yogyakarta.
-  8. Menurut wartawan, tantangan sebagai wartawan Indonesia saat ini, adalah: soal etika dan kurang profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam melakukan aktivitas jurnalistik,”
-  9. Pada survey 2012, dua hal yang menjadi hambatan jurnalisme Indonesia yaitu kurangnya profesionalisme (50 % menjawab sangat penting dan 29,2% menjawab cukup penting) dan rendahnya etika (49,2% menjawab sangat penting dan 30,2% menjawab cukup penting).
-  10. Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam untuk tahun 2012. (Untuk laporan lengkapnya baca Laporan Survey Persepsi Wartawan Indonesia Terhadap Islam 2012).
+
+    1. Pemberitaan media soal minoritas Ahmadiyah dan peristiwa pembunuhan warga Ahmadiyah Cikeusik, 6 Febuari 2011, antara lain: Pada 2009, 34,5 persen dari 600 responden setuju pelarangan Ahmadiyah dan 29,7% cukup setuju. Pada 2012, angkanya menjadi 25,8 persen setuju dan 30,2 persen cukup setuju. Terhadap fatwa MUI tentang pelarangan Ahmadiyah, pada survey 2012, sebanyak 30,8 persen sangat setuju dan 28,2 persen cukup setuju.
+
+    2. Tentang peristiwa Cikeusik, kami menanyakan tiga pertanyaan:
+
+      1. Tentang vonis 3-6 bulan terhadap pelaku pembunuhan Cikeusik, sebanyak 34,4 persen sangat setuju hal itu melukai rasa keadilan dan 26,5 persen cukup setuju.
+      2. Aparat keaman tak mampu melindungi Ahmadiyah, sebanyak 28,2 persen sangat setuju dan 42,2 persen cukup setuju.
+      3. Terkait media penggunaan kata “bentrok” untuk menyebut peristiwa Cikeusik, 6,8 persen wartawan sangat setuju dan 37,2 persen wartawan cukup setuju.
+
+    3. Pemberitaan Ambon 1999-2002 di mana media Muslim dan media Kristen ikut memperburuk suasana, pelajaran utama yang didapat Wartawan musti menanggalkan identitas mereka saat meliput. Data ini kita gunakan untuk latar belakang pentingnya berhati-hati dalam meliput konflik agama.
+    
+    4. Survey Yayasan Pantau ini sebelumnya dilakukan pada tahun 2009 dan digelar di 16 provinsi di Indonesia dan mewawancarai 600 wartawan dan 500 wawancara pertama dilakukan dengan tatap muka langsung dengan responden. Update survey pada 2012 juga mewawancarai 600 wartawan di 16 provinsi dengan mengacak ulang respondennya.
+  
+    5. Temuan lain survey sebelumnya untuk disebarluaskan adalah sebanyak 99 persen wartawan menjawab tujuan pemberitaan adalah untuk mendidik, 98 persen setuju tujuan pemberitaan adalah untuk memperbaiki keadaan, serta 96 persen untuk memberitakan kaum lemah. Sementara pada 2012, mendidik masyarakat 98,7 persen dan Memberi suara kepada kaum lemah, 97,5 persen dan membangun pembangunan nasional dan regional, 92,8 persen.
+  
+    6. Temuan-temuan menarik ini perlu disebarluaskan kepada pekerja pers khususnya, dan masyarakat umumnya supaya mereka tahu kecenderungan wartawan saat ini.
+  
+    7. Hasil survey 2012, kami mendiskusikan hasil survey ini di lima kota: Pekanbaru, Pontianak, Manado, Jakarta dan Yogyakarta.
+  
+    8. Menurut wartawan, tantangan sebagai wartawan Indonesia saat ini, adalah: soal etika dan kurang profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam melakukan aktivitas jurnalistik,”
+  
+    9. Pada survey 2012, dua hal yang menjadi hambatan jurnalisme Indonesia yaitu kurangnya profesionalisme (50 % menjawab sangat penting dan 29,2% menjawab cukup penting) dan rendahnya etika (49,2% menjawab sangat penting dan 30,2% menjawab cukup penting).
+    
+    10. Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam untuk tahun 2012. (Untuk laporan lengkapnya baca Laporan Survey Persepsi Wartawan Indonesia Terhadap Islam 2012).
 
   Karena kami menemukan persoalan utama yang dihadapi wartawan Indonesia adalah kurangnya profesionalisme dan rendahnya etika. Pantau berusaha menggunakan dana untuk diskusi hasil survey ini tidak hanya untuk diskusi hasil survey namun juga untuk pelatihan jurnalistik di Riau dan diskusi buku BLUR di Riau, Pontianak, Manado, Jakarta dan Jogjakarta.
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
-* Tersedianya data mengenai persepsi wartawan Indonesia terhadap Islam di tahun 2012 berupa laporan Survey Persepsi Wartawan Terhadap Islam 2012.
-* Ada publikasi soal hasil Survey di jurnal dan koran berbahasa Indonesia dan Inggris dan setelah diluncurkan di Sumatra, Kalimantan, Sulawesi dan Jawa akan dipublikasikan di media-media lokal di daerah-daerah tersebut.
-* Data mengenai hasil survey 2012 diumumkan via jejaring sosial: facebook dan twitter bersamaan dengan peluncuran hasil survey
+  * Tersedianya data mengenai persepsi wartawan Indonesia terhadap Islam di tahun 2012 berupa laporan Survey Persepsi Wartawan Terhadap Islam 2012.
+  
+  * Ada publikasi soal hasil Survey di jurnal dan koran berbahasa Indonesia dan Inggris dan setelah diluncurkan di Sumatra, Kalimantan, Sulawesi dan Jawa akan dipublikasikan di media-media lokal di daerah-daerah tersebut.
+  
+  * Data mengenai hasil survey 2012 diumumkan via jejaring sosial: facebook dan twitter bersamaan dengan peluncuran hasil survey
 
   Hasil aktual hingga laporan ini dibuat:
 
