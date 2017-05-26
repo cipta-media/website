@@ -6,8 +6,6 @@ categories:
 - Pandu App 
 ---
 
-![250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg](/uploads/250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg){: .img-responsive .center-block }
-
 **Final 25 Juni 2014**
 
 **Indikator keberhasilan diperbaharui 12 Maret 2015**
