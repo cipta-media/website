@@ -4,8 +4,12 @@ date: 2012-06-16
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
+
+
 ![200px-13_Oktober_2012_ASEAN_Blogger.jpg](/uploads/200px-13_Oktober_2012_ASEAN_Blogger.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Undangan ASEAN BLOGGER
 

@@ -4,6 +4,7 @@ date: 2012-06-01
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
 ![200px-Juni_1_2012_Kartunet_Undangan_MetroTV.JPG](/uploads/200px-Juni_1_2012_Kartunet_Undangan_MetroTV.JPG){: .img-responsive .center-block }
 

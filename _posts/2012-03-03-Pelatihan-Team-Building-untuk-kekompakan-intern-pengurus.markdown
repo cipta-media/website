@@ -4,6 +4,7 @@ date: 2012-03-03
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
 ![Maret_03_2012_Kartunet_Team_Building.JPG](/uploads/Maret_03_2012_Kartunet_Team_Building.JPG){: .img-responsive .center-block }
 

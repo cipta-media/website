@@ -4,9 +4,12 @@ date: 2012-01-20
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Januari_20_2012_LenteraTimur.com_Menempuh_jalur_darat_Jakarta-Medan_selama_4_hari_4_malam.jpg](/uploads/200px-Januari_20_2012_LenteraTimur.com_Menempuh_jalur_darat_Jakarta-Medan_selama_4_hari_4_malam.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Tim LenteraTimur.com bergerak menuju Medan menggunakan jalur darat.
 

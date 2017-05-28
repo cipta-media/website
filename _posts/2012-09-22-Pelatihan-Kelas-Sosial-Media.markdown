@@ -4,8 +4,12 @@ date: 2012-09-22
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
+
+
 ![200px-September_22_2012_Kartunet_Kelas_Training_Bloging.jpg](/uploads/200px-September_22_2012_Kartunet_Kelas_Training_Bloging.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Pelatihan Kelas Sosial Media
 

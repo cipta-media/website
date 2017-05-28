@@ -4,8 +4,12 @@ date: 2012-06-16
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
+
+
 ![200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG](/uploads/200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG){: .img-responsive .center-block }
+
 
 **Tujuan** : Pengenalan Kartunet kepada LOccatane
 

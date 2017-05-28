@@ -4,6 +4,7 @@ date: 2012-04-14
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
 ![200px-April_14_2012_Kartunet_Meeting_dengan_Rumah_Kenari_dan_Kebukit.JPG](/uploads/200px-April_14_2012_Kartunet_Meeting_dengan_Rumah_Kenari_dan_Kebukit.JPG){: .img-responsive .center-block }
 

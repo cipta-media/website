@@ -4,9 +4,12 @@ date: 2012-01-17
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Januari_17_2012_LenteraTimur.com_Sharing_Manajemen_Keuangan_dengan_AJI_Indonesia.jpg](/uploads/200px-Januari_17_2012_LenteraTimur.com_Sharing_Manajemen_Keuangan_dengan_AJI_Indonesia.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Sharing perihal manajemen keuangan dengan pihak AJI Indonesia
 

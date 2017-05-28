@@ -4,6 +4,7 @@ date: 2012-02-11
 categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
 ![200px-Februari_11_2012_Kartunet_Pelatihan_Wiki.jpg](/uploads/200px-Februari_11_2012_Kartunet_Pelatihan_Wiki.jpg){: .img-responsive .center-block }
 

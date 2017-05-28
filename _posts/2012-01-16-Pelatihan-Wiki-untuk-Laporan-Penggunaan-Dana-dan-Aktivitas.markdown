@@ -4,11 +4,14 @@ date: 2012-01-16
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 ![200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur.jpg](/uploads/200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur.jpg){: .img-responsive .center-block }
 
 ![200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur-1.jpg](/uploads/200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur-1.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Pelatihan Wiki untuk Laporan Penggunaan Dana dan Aktivitas
 
