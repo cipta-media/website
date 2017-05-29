@@ -84,7 +84,7 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 * 2 Lain lain (none)
 * 36 Pendidikan
 * 11 Praktek cerdas
-* 1 Trusted reports 16 April 2015 **pertanyaan: mengapa dari seluruh kategori pelaporan, justru trusted reports yang tidak terbaharui? Saran: Ada baiknya agar konsisten dengan Laporan I statistik yang sama dimasukkan dengan periode spesifik pelaporan.**
+* 1 Trusted reports 16 April 2015 <font color="blue">pertanyaan: mengapa dari seluruh kategori pelaporan, justru trusted reports yang tidak terbaharui? Saran: Ada baiknya agar konsisten dengan Laporan I statistik yang sama dimasukkan dengan periode spesifik pelaporan.</font>
 * 32 Kesehatan
 
 2. Aktivitas 2 - Memberikan pengetahuan dasar kepada masyarakat untuk membuat laporan warga dengan Menggunakan fasilitas SMS dan MMS yang murah dan ramah pengguna (user friendly) 
@@ -102,9 +102,9 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
  **Hasil**
 * Situs laporan warga <font color="red">telah tersedia dengan enam kategori pelaporan (lihat Laporan I untuk kategori lengkapnya).</font>
 * Rubrik SMS warga dapat diakses via www.tabloidjubi.com. 
-* Pertanyaan: Saya cari rubrik ini di situs Jubi tidak ada, yang ada malah Surat Pembaca dan Saya komen yang lalu masuk ke situs lain, serta Laporan Warga yang kembali lagi ke situs ushaidi dengan statistik diatas. Jadi yang mana persisnya rubrik SMS Warga di situs Jubi?
+* <font color="blue">Pertanyaan: Saya cari rubrik ini di situs Jubi tidak ada, yang ada malah Surat Pembaca dan Saya komen yang lalu masuk ke situs lain, serta Laporan Warga yang kembali lagi ke situs ushaidi dengan statistik diatas. Jadi yang mana persisnya rubrik SMS Warga di situs Jubi?</font>
 * Laporan warga juga dimuat di rubrik Laporan Warga via SMS di Koran Jubi. 
- (Permintaan: mungkin bisa di foto atau screenshot rubrik ini di Tabloid Jubi yang terbaru?)
+ <font color="blue">(Permintaan: mungkin bisa di foto atau screenshot rubrik ini di Tabloid Jubi yang terbaru?)</font>
 
 4. Aktivitas 4 - Menyediakan administrator situs laporan warga. 
  Administrator situs berfungsi sebagai pengelola informasi yang dikirimkan oleh warga. Selain itu, administrator juga berfungsi sebagai distributor (membagikan informasi) kepada publik melalui system SMS frontline maupun media sosial.
@@ -301,7 +301,7 @@ Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 4. Terjalin kerjasama dengan berbagai pihak melalui koordinasi dan sinergi program untuk meningkatkan kapasitas dan partisipasi masyarakat terhadap pelayanan publik terkait hak memperoleh pendidikan dan layanan kesehatan yang lebih baik dan mendapatkan keadilan.
  Sementara sasaran yang tercapai dalam periode pelaporan ini adalah sebagai berikut:
  1. Partisipasi masyarakat untuk terlibat dalam proyek ini masih terbatas pada warga yang tinggal di wilayah perkotaan dengan konsentrasi di Kota Jayapura, Sentani, Wamena, Merauke, dan Nabire. Perkumpulan Jujur Bicara berupaya menjangkau masyarakat yang berada di pedalaman dan pesisir Tanah Papua.
- 2. Warga yang terlibat sebagian besar berjenis kelamin laki-laki, rentang usia mereka yang berpartisipasi adalah 15 – 40 tahun (usia produktif) dengan latar belakang pendidikan setingkat sekolah menengah atas dan perguruan tinggi. <font color="red">Keterlibatan perempuan untuk berpartisipasi dalam proyek ini masih harus ditingkatkan.</font> Apakah tidak sebaiknya kalimat ini masuk pada pembelajaran?
+ 2. Warga yang terlibat sebagian besar berjenis kelamin laki-laki, rentang usia mereka yang berpartisipasi adalah 15 – 40 tahun (usia produktif) dengan latar belakang pendidikan setingkat sekolah menengah atas dan perguruan tinggi. <font color="red">Keterlibatan perempuan untuk berpartisipasi dalam proyek ini masih harus ditingkatkan.</font> <font color="blue">Apakah tidak sebaiknya kalimat ini masuk pada pembelajaran?</font>
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
