@@ -1,5 +1,5 @@
 ---
-title: Seleksi Awal - Piranti Lunak
+title: Seleksi Awal - Produksi & Penyampaian Konten
 layout: info
 ---
 
@@ -8,13 +8,13 @@ layout: info
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1>Seleksi Awal - Piranti Lunak</h1>
+            <h1>Seleksi Awal - Produksi & Penyampaian Konten</h1>
         </div>
     </div>
 
     <div class="row">	
   	{% for hibahcms in site.data.hibahcms %}
-  	{% if hibahcms.tipe == 'software' and hibahcms.seleksi %}
+  	{% if hibahcms.tipe == 'konten' and hibahcms.seleksi %}
 		<div class="col-md-4">
 			<div class="col-md-12 well well-lg" style="height: 600px;">
 				<a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
