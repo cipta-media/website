@@ -39,3 +39,20 @@ Ahmad Nurcholish, salah satu tokoh dan peneliti Islam yang telah menerbitkan ber
 *	Diskusi tentang pluralisme agama untuk mendorong peserta berani berpikir kritis
 *	Mempererat hubungan antara para anggota Bhinneka dengan mengadakan dialog di antara mereka, pembicara dan publik
 *	Ringkasan diskusi bisa disimak di: https://www.facebook.com/notes/lembaga-bhinneka/ringkasan-diskusi-keragaman-agama-15-november-di-the-reading-room-jakarta/487608647927389
+
+**Respon SMS**
+Lokasi Reading Room Jl Kemang Timur Raya No 57 info Daris Telpon 022190277567 Pembicara Shinta Miranda, Musdah Mulia, Rocky Gerung, Soetjen Marching
+Respon SMS
+* BNK|ReadingRoom-Jakarta Acaranya seru bangettt ihhh, ciyus! 
+* BNK|ReadingRoomJkt acara #DiskusiKeragaman seru sekali! Topiknya menarik, pembicaranya sangat informatif. Overall, it's a great event! :) 
+* Bnk|asembaris edukatif & informatif. Mohon diadakan lagi acara serupa secara reguler 
+* BNK|ReadingRoomJkt acara #DiskusiKeragaman seru sekali! Topiknya menarik, pembicaranya sangat informatif. Overall, it's a great event! :) 
+* BNK|Jakarta Acaranya sangat bagus, seru dan yang paling Pasti menambah wawasan... :) 
+* Bnk|jakarta acara sukses banyak mendapat pemahaman tentang fakta akan keberagaman.
+* BNK| depok asik2 aja jadi teringat sekitar 20thn yg lewat ternyata skarang lebih banyak orang yg rasional ya(pak de) 
+* BNK|Eka Sugiri, Jakarta klo bisa acaranya dirutinkan tiap bulan... 
+* BNK|Lisya jakarta awalnya saya exited sekali dengan diskusi itu. Tapi baru 2 jam berada di sana saya sangat kecewa. Bagaimana sebuah diskusi berlabel pluralisme cenderung 'menyerang' label keyakinan. Bahkan apa yg dibawakan pembicara satu cenderung paradoks dg pembicara lainnya. Saya harap itu tidak berlangsung sepanjang acara karena saya juga kecewa tidak bisa mengikuti acara hingga usai. Semoga kesimpulan yg saya ambil hanya bagian ambigu dalam sebuah 'ajaran' (dlm hal ini diskusi) sama seperti paradoks yg terjadi dlm semua ajaran agama. Trims 
+* BNK|Jakarta Agak sulit bernafas, terlalu banyak asap rokok. Diskusi pluralisme? Saya rasa bukan. Lebih kepada menertawakan bersama orang-orang yang beragama, karena agama dianggap sebagai kebodohan massal. 
+* BNK|TANGERANG Diskusi Bhineka menarik. Tapi lbh menarik kalau mengundang narsum yg sedikit berseberangan agar diskusi lbh dinamis dan dialektis. 
+* BNK|Jakarta forum ini sangat bagus, sy harapkn agar d laksanakan scara rutin agar smakin byk wawasan manusia terbuka dgn yg namanya perbedaan.. 
+* BNK|AnyaJakarta Agak sulit bernafas, terlalu banyak asap rokok. Diskusi pluralisme? Saya rasa bukan. Lebih kepada menertawakan bersama orang-orang yang beragama, karena agama dianggap sebagai kebodohan massal. 
