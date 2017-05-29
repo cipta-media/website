@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi lanjutan: kepada SKPD Kapuas Hulu dan Pelatihan Jurnalisme Kampung dan blogger di Putussibau. 
+title: Sosialisasi lanjutan- kepada SKPD Kapuas Hulu dan Pelatihan Jurnalisme Kampung dan blogger di Putussibau.
 date: 2012-02-14
 categories:
 - laporan
