@@ -1,5 +1,5 @@
 ---
-title: Perkembangan Koding Berita Syariat Islam AJI Banda Aceh
+title: Pelatihan wiki dan twitdeck 
 date: 2012-04-25
 categories:
 - laporan
