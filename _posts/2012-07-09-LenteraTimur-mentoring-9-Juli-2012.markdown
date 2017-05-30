@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - LenteraTimur.com – Menyigi Identitas Indonesia
-laporan: laporancmb
+layout: laporancmb
 ---
 
 * Dari [Tengku Muhammad Dhani Iqbal](http://wiki.ciptamedia.org/wiki/Tengku_Muhammad_Dhani_Iqbal) kepada [Eva Danayanti](http://wiki.ciptamedia.org/wiki/Eva_Danayanti)

@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - LenteraTimur.com – Menyigi Identitas Indonesia
-laporan: laporancmb
+layout: laporancmb
 ---
 
 Persetujuan rencana penggunaan sisa dana dan program dianggap selesai dilaksanakan.

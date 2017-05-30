@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
-laporan: laporancmb
+layout: laporancmb
 ---
 
 Oleh [Donny B.U](http://wiki.ciptamedia.org/wiki/Donny_B.U) via surel subyek [CMB] catatan konsultansi: KARTUNET.

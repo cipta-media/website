@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - LenteraTimur.com – Menyigi Identitas Indonesia
-laporan: laporancmb
+layout: laporancmb
 ---
 
 * Dari Ken Miryam Vivekananda Fadlil kepada Eva Danayanti subyek: Program Lanjutan LenteraTimur.com 

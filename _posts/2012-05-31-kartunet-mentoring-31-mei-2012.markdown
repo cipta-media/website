@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
-laporan: laporancmb
+layout: laporancmb
 ---
 
 Oleh [Yanuar Nugroho](http://wiki.ciptamedia.org/wiki/Pengguna:Yanuar) via telepon dengan Dimas Prasetyo Muharam

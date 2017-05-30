@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
-laporan: laporancmb
+layout: laporancmb
 ---
 
 * Dari [Heru Tjatur](http://wiki.ciptamedia.org/wiki/Heru_Tjatur) kepada [Dimas Prasetyo Muharam](http://wiki.ciptamedia.org/wiki/Dimas_Prasetyo_Muharam) dan [Trias Nurhidayat](http://wiki.ciptamedia.org/wiki/Trias_Nurhidayat) via surel dengan subyek: Keputusan Organisasi Pengelola Program Cipta Media Bersama

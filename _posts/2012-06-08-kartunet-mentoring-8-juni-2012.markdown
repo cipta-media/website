@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
-laporan: laporancmb
+layout: laporancmb
 ---
 
 * Kunjungan langsung Kartunet, dihadiri Dimas dan sekira 8 orang pengurus Kartunet lainnya oleh [Anggara](wiki.ciptamedia.org/index.php?title=Anggara&action=edit&redlink=1)
