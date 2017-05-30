@@ -10,26 +10,34 @@ layout:
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Error</title>
-    <link href="{{"bower_components/bootstrap/dist/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{"bower_components/components-font-awesome/css/font-awesome.min.css"| prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{"bower_components/animate.css/animate.min.css"| prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{"static/css/style.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/bower_components/bootstrap/dist/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/bower_components/components-font-awesome/css/font-awesome.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/bower_components/animate.css/animate.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{"/static/css/style.min.css"| prepend: site.baseurl }}" rel="stylesheet">
 </head>
 <body class="gray-bg">
     <div class="middle-box text-center animated fadeInDown">
         <h1>404</h1>
-        <h3 class="font-bold">Page Not Found</h3>
+        <h3 class="font-bold">Halaman tidak ditemukan</h3>
         <div class="error-desc">
-            <p>
-            Sorry, but the page you are looking for has not been found. Try checking the URL for error, then hit the refresh button on your browser or try found something else in my website.
-            </p>
+            <p>Maaf, halaman yang Anda cari tidak dapat ditemukan. Anda dapat melakukan pencarian menggunakan fitur cari di bawah.</p>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-group">
+                            <form action="/search/" method="get">
+                                <input type="text" id="search_box" placeholder="Cari..." name="query" class="form-control">
+                                <!-- <input type="submit" value="Cari"> -->
+                            </form>
+                        </div>
+                    </div>
+                </div>
             <div>
-                <a class="btn btn-primary" href="/">Home</a>
+                <a class="btn btn-primary" href="/">Beranda</a>
             </div>
         </div>
     </div>
     <!-- Mainly scripts -->
-    <script src="{{"bower_components/jquery/dist/jquery.min.js"| prepend: site.baseurl }}"></script>
-    <script src="{{"bower_components/bootstrap/dist/js/bootstrap.min.js"| prepend: site.baseurl }}"></script>
+    <script src="{{"/bower_components/jquery/dist/jquery.min.js"| prepend: site.baseurl }}"></script>
+    <script src="{{"/bower_components/bootstrap/dist/js/bootstrap.min.js"| prepend: site.baseurl }}"></script>
 </body>
 </html>

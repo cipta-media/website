@@ -3,7 +3,7 @@ title: Laporan singkat Kegiatan ALDP (Bulan Januari - tanggal 12 Februari 2012)
 date: 2012-02-15
 categories:
 - laporan
-- Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
 ---
 
 Pengantar
