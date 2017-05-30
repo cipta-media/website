@@ -5,7 +5,7 @@ categories:
 - laporan
 - mentoring
 - LenteraTimur.com – Menyigi Identitas Indonesia
-laporan: laporancmb
+layout: laporancmb
 ---
 
 * Jagongan Media Rakyat Yogyakarta
