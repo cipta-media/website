@@ -12,5 +12,7 @@ layout: laporancmb
   * Tanggal: 7 April 2012
   * Lokasi: Lampung
 
+---
+
 **Isi Laporan:**
   * JRKL\|Dalam acara AL,EL,DUL pada jam 08.00 Membenarkan gebut-gebutan padahal msih di bawah umur. 
