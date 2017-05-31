@@ -37,15 +37,70 @@ Sebelum mendapatkan hibah ini, Solidaritas.net hanyalah sebuah website yang berb
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
 
-Buruh tidak mendapatkan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternative) dan benar, baik dari media informasi arus-utama (mainstream) maupun dari komunitasnya seperti serikat buruh tempat ia beraktivitas
-Buruh membutuhkan informasi hukum untuk mengatasi masalahnya.
-Buruh tidak memiliki kemampuan menulis dan membuat informasi.
-Buruh tidak memiliki informasi dan pengetahuan untuk membela dirinya sendiri di Pengadilan Hubungan Industrial (PHI).
-Buruh tidak memahami posisinya dalam hubungan industrial dan cara menggunakan kekuatan kolektifnya.
-Buruh mengalami kasus-kasus ketenagakerjaan.
+* Buruh tidak mendapatkan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternative) dan benar, baik dari media informasi arus-utama (mainstream) maupun dari komunitasnya seperti serikat buruh tempat ia beraktivitas
+* Buruh membutuhkan informasi hukum untuk mengatasi masalahnya.
+* Buruh tidak memiliki kemampuan menulis dan membuat informasi.
+* Buruh tidak memiliki informasi dan pengetahuan untuk membela dirinya sendiri di Pengadilan Hubungan Industrial (PHI).
+* Buruh tidak memahami posisinya dalam hubungan industrial dan cara menggunakan kekuatan kolektifnya.
+* Buruh mengalami kasus-kasus ketenagakerjaan.
 
 Aktifitas dan isu yang anda atasi:
 
+1. Buruh tidak mendapatkan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar, baik dari media informasi arus-utama (mainstream) maupun dari komunitasnya seperti serikat buruh tempat ia beraktivitas
+**Memproduksi dan menyebarluaskan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar.**
+* Mendirikan Media Center Solidaritas.net yang dilengkapi dengan akses internet yang beralamat: Jalan Kasuari Raya Ruko Roxy Plaza Blok S1 A No. 15, Pecenongan Square, Kawasan Jababeka 2, Cikarang Selatan, Kab. Bekasi, Jawa Barat.
+* Memproduksi konten berupa teks dan video.
+ 1. Konten yang diproduksi untuk proyek ini dapat diakses di: [pranala ini](http://solidaritas.net/tag/smc)
+ 2. Konten video yang diproduksi untuk proyek ini dapat diakses di: [pranala ini](http://solidaritas.net/category/video)
+* Menyebarluaskan informasi dan pengetahuan melalui:
+ 1. Media sosial Facebook yang bisa diakses di [pranala ini](https://facebook.com/solidaritasnews) dengan jumlah fans 3773.
+ 2. Media sosial Twitter yang bisa diakses di [pranala ini](https://twitter.com/solidaritasnews)
+ 3. Whats App: +6281943737903
+ 4. Blackberry Messenger dengan pin 7F96324B
+ 5. SMS dengan nomor: 081943737903
+ 6. Aplikasi Android: [pranala ini](https://play.google.com/store/apps/details?id=com.solidaritas.net.aplikasi)
+* Menyelenggarakan diskusi bulanan membahas masalah aktual.
+ 1. Diskusi dan peluncuran media center Solidaritas.net pada 19 Oktober 2014
+ 2. Diskusi dan pemutaran film Senyap membahas masalah pelanggaran hak asasi manusia (HAM) masa lalu dan hubungannya dengan gerakan buruh di masa sekarang pada bulan Desember 2014, dapat dilihat di [pranala ini](http://ciptamedia.org/wiki/Solidaritas.net_Media_Center/Laporan_Aktivitas#Desember_2015)
+ 3. Diskusi bulanan mengenai masalah Badan Penyelenggaran Jaminan Sosial (BPJS) pada 18 Januari 2015, dapat dilihat di [pranala ini](http://ciptamedia.org/wiki/Solidaritas.net_Media_Center/Laporan_Aktivitas#Januari_2015)
+
+2. Buruh membutuhkan informasi hukum untuk mengatasi masalahnya
+**Menyediakan konsultasi melalui tatap muka langsung dan media seluler (SMS, BBM dan Whats App). Hasil konsultasi dan jawabannya bisa diakses di**
+[pranala ini](http://solidaritas.net/category/konsultasi)
+
+3. Buruh tidak memiliki kemampuan menulis dan membuat informasi
+**Menyelenggarakan pendidikan jurnalistik untuk buruh.**
+* Menyelenggarakan pendidikan jurnalistik dilakukan satu kali dengan tiga kali pertemuan. Penulis yang berhasil direkrut sebagai berikut:
+1. Dari buruh
+  1. [Budi Kurniawan](http://solidaritas.net/author/budikurniawan)
+  2. [Boyo](http://solidaritas.net/author/boyo)
+  3. [Wahyu](http://solidaritas.net/author/wahyu)
+  4. [Andry Yunarko](http://solidaritas.net/author/andryunarko)
+  5. [Eko Ari Wibowo](http://solidaritas.net/author/ekoari)
+2. Dari mahasiswa
+  1. [Fullah Jumaynah](http://solidaritas.net/author/fullah)
+3. Penulis freelance:
+  1. [Adela Eka Marza](http://solidaritas.net/author/adelaeka)
+  2. [Riza Dian Kurnia](http://solidaritas.net/author/rizadiankurnia)
+
+4. Buruh tidak memiliki informasi dan pengetahuan untuk membela dirinya sendiri di Pengadilan Hubungan Industrial (PHI)
+**Menyelenggarakan pendidikan hukum perburuhan untuk buruh dan melatih buruh untuk membela dirinya sendiri melalui simulasi Pengadilan Hubungan Industrial**
+  1. Pendidikan advokasi hukum formil baru satu kali pertemuan.
+  2. Pendidikan advokasi jaminan kesehatan BPJS (Badan Penyelenggaran Jaminan Sosial) sebanyak dua kali pertemuan.
+
+5. Buruh tidak memahami posisinya dalam hubungan industrial dan cara menggunakan kekuatan kolektifnya
+**Menyelenggarakan pendidikan ekonomi dan politik untuk buruh.**
+  1. Menyelenggarakan pendidikan ekonomi politik membahas pembukuan perusahaan.
+  2. Menyelenggarakan pendidikan ekonomi politik selama dua hari yang membahas mengenai sejarah munculnya buruh di Indonesia, akar penindasan buruh perempuan, analisa proses produksi dan jantung pabrik.
+
+6. Buruh mengalami kasus-kasus ketenagakerjaan
+**Mengadvokasi kasus-kasus buruh dan membentuk wadah-wadah advokasi yang dijalankan oleh buruh yang telah mendapatkan pendidikan dan latihan mengadvokasi.**
+* Mengadvokasi kasus buruh.
+1. Kasus pemutusan hubungan kerja (PHK) terhadap Andry Yunarko yang bekerja di PT Cartinie Lingerie, Andry juga adalah pengurus serikat tingkat pabrik dan penulis di Solidaritas.net.
+2. Memberikan analisa keuntungan perusahaan untuk bahan buruh dalam perundingan dengan pengusaha di PT Nanbu Plastic.
+* Mengadvokasi kebijakan.
+1. Mendukung dan terlibat dalam penolakan Peraturan Daerah Ketenagakerjaan Jawa Barat.
+* Rencana pembentukan tim advokasi bersama BPJS di Cikarang setelah diskusi BPJS pada 31 Januari 2015 bersama BPJS Watch. Solidaritas.net diminta oleh peserta untuk kembali mempertemukan individu buruh dan serikat buruh dalam pertemuan pada bulan April 2015.
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
@@ -110,6 +165,28 @@ Adapun tujuan dari Solidaritas.net Media Center adalah:
 3. Terwujudnya buruh yang memiliki kapasistas mengadvokasi dirinya sendiri dalam perjuangan ekonomis dan politis.
 
 Tujuan yang berhasil dicapai hingga saat ini:
+
+Untuk sementara ini, tujuan dan sasaran baru berhasil dicapai sesuai dengan indikator yang dibuat adalah sebagai berikut:
+1. Memberikan pengetahuan yang bersifat tandingan (alternatif) dan benar terhadap hukum ketenagakerjaan dan keadilan sosial. Beberapa berita yang dimaksud sebagai berikut:
+  1. [Ini Penjelasan Buruh Minta BH Triumph](http://solidaritas.net/2015/01/ini-penjelasan-buruh-jateng-minta-bh-triumph.html)
+  2. [Fakta Dibalik Motor Ninja Buruh](http://solidaritas.net/2015/01/fakta-dibalik-motor-ninja-buruh.html)
+  3. [Buruh Ingin ke Ancol Sah-Sah Saja](http://solidaritas.net/2015/01/buruh-ingin-ke-ancol-sah-sah-saja.html)
+2. Memberikan konsultasi hukum ketenagakerjaan yang sampai sejauh ini telah ditulis sebanyak 15 konsultasi yang dapat diakses di kolom [konsultasi](http://solidaritas.net/category/konsultasi/) dan ada sekitar 20 pertanyaan yang masih dalam proses publikasi. Sebagian belum dijawab, sebagian sudah diposting ke website, namun masih dalam proses editing, belum dipublikasi. Jumlah ini masih jauh dari target dikarenakan keterbatasan sumber daya manusia dan ada pergantian staf di tengah jaln.
+3. Memberikan pendidikan jurnalistik sebanyak satu kali kegiatan (3 pertemuan); pendidikan hukum ketenagakerjaan (satu kali pertemuan) dan pendidikan ekonomi politik yang sudah dilakukan sebanyak satu kali kegiatan (selama dua hari) dan secara rutin sebanyak 12 kali pertemuan yang terdiri dari pendidikan ekonomi politik dasar dan lanjutan. Pendidikan ini diubah menjadi rutin setiap minggu yang mengambil hari Jumat dan Sabtu, karena agar hari Minggu dapat digunakan untuk kegiatan lain seperti pendidikan advokasi, jurnalistik dan diskusi bulanan. Ekonomi politik Solidaritas.net memberikan perspektif berbeda mengenai perburuhan, karena mengajarkan buruh untuk memahami proses produksi yang terjadi di pabriknya dan analisa keadaan keuangan perusahaan sehingga buruh memiliki alasan kuat saat berunding dengan pengusaha.
+4. Mendidik buruh untuk mengadvokasi dirinya sendiri sudah dilakukan, yakni kasus Pemutusan Hubungan Kerja Andry Yunarko di Boyolali. Ini di luar perencanaan Solidaritas.net sendiri yang sedari awal hanya berfokus di daerah Cikarang. Sehingga bantuan yang paling mungkin hanyalah membantu memberikan masukan melalui email dan media komunikasi lainnya. Kasus ini berakhir dengan keputusan buruh untuk menerima Pemutusan Hubungan Kerja (PHK) dengan alasan akan pindah ke kota lain. Mengenai advokasi hukum yang dimaksud, perlu dijelaskan bahwa advokasi hukum adalah pembelaan hukum secara formil di pengadilan, namun kenyataannya, UU No. 2 Tahun 2004 tentang Pengadilan Hubungan Industrial mewajibkan buruh melalui proses bipartit (perundingan dengan pihak pengusaha), tripartit (mediasi yang dilakukan oleh Disnaker setempat), barulah ke pengadilan hubungan industrial (PHI). Jadi, ada beberapa kesulitan untuk mengambil kasus-kasus buruh untuk diadvokasi secara formil. Pertama, kasus buruh haruslah dikawal sejak dalam tingkat bipartit. Kedua, buruh memerlukan pendampingan saat di pengadilan, sekalipun kita tetap harus mendorong buruh lebih banyak bicara sehingga harus menguasai persoalannya sendiri. Karena kesulitan inilah, maka proses advokasi hukum ini tidak serta merta hanya kasus yang sudah disidangkan di pengadilan dan penanganan advokasi formil tidak bisa cepat, kadang-kadang memakan waktu tahunan.
+
+Dalam hal sasaran, laporan kami sebagai berikut:
+1. Terwujudnya buruh yang berpengetahuan dan berkepribadian mandiri dalam hal hukum ketenagakerjaan dan isu keadilan sosial lainnya dapat dilihat dari lahirnya penulis-penulis buruh dan buruh di beberapa pabrik yang mulai sanggup mengatasi persoalannya sendiri di pabrik tanpa pendampingan langsung dari pihak luar (seperti pengurus serikat tingkat di atasnya dan lembaga lainnya). Kami mendapatkan tiga laporan dari buruh yang telah mengikuti pendidikan di Solidaritas.net yang memiliki kemampuan untuk berunding dengan pengusaha dan memenangkan bonus dan kenaikan upah. Saat ini, laporan tersebut masih sedang kami olah untuk dimuat di website Solidaritas.net sebagai berita. Buruh juga memberikan respon yang aktif berupa pertanyaan mengenai masalah-masalah di pabriknya. Kekurangan kami adalah tidak siap menghadapi pertanyaan-pertanyaan tersebut. Sebagai contoh, Solidaritas.net yang memiliki 400an kontak di BBM pernah menyebarkan broadcast pertanyaan "Ada yang mau konsultasi mengenai hukum perburuhan? Ada masalah apa yang bisa kami bantu?". 15 orang membalas dan bertanya mengenai masalah-masalahnya. Untuk menjawab masalah-masalah tersebut dalam sehari, kapasitas kami belum siap, sehingga kami tidak bertanya setiap hari. Jika kami melakukannya secara intens setiap hari, tentunya akan banyak output informasi yang bisa kami hasilkan.
+2. Terwujudnya buruh yang memiliki kapasitas sebagai jurnalis warga/buruh melalui pendidikan jurnalistik yang sudah lakukan sebanyak 1 kali (tiga kali pertemuan). Sejauh ini Solidaritas.net sudah merekrut 5 penulis buruh yang tetap dan empat penulis buruh yang tidak tetap serta satu penulis mahasiswa yang tidak tetap yang dapat dilihat di [pranala ini [http://solidaritas.net/author/kontributor/](http://solidaritas.net/author/kontributor/)].
+3. Terwujudnya buruh yang memiliki kapasistas mengadvokasi dirinya sendiri dalam perjuangan ekonomis dan politis yang dalam upaya mewujudkannya mengalami banyak kendala karena pekerjaan ini memang sulit dilakukan dan memerlukan waktu. Sudah mulai ada buruh yang berani berunding di pabriknya tanpa melibatkan pihak luar seperti yang sudah dipaparkan sebelumnya. Capaian yang paling maju dapat kami lakukan sejauh ini adalah mengumpulkan organisasi dan buruh secara individual untuk terlibat dalam gerakan penolakan Peraturan Daerah No. 6 Tahun 2014 tentang Penyelenggaraan Ketenagakerjaan Jawa Barat. Pencapaian ini adalah keberhasilan bersama dengan organisasi dan serikat buruh di Jawa Barat, namun secara khusus Solidaritas.net mengorganisir buruh secara individual untuk terlibat dalam judicial review, sekalipun serikat buruhnya si buruh sendiri tidak terlibat secara organisasional. Kami baru akan memulai gerakan pengumpulan KTP.
+
+Saat ini sedang disiapkan usaha mencapai tujuan dan sasaran sebagai berikut:
+1. Mendidik orang untuk menjadi editor. Sebagai catatan, saat ini ada 100 tulisan masih tersimpan di konsep website dan belum dipublikasi karena belum melalui proses editing.
+2. Pendidikan melalui diskusi-diskusi online dan pendidikan online melalui media seluler.
+3. Mencetak atribut kampanye pengenalan Solidaritas.net Media Center untuk disebarluaskan di daerah Cikarang.
+4. Merekrut relawan-relawan buruh baru.
+5. Melakukan kampanye melalui siaran pers ke media massa dan online;
+6. Promosi Solidaritas.net Media Center dan layanannya dengan metode roadshow keliling yang mengambil tempat di kantor serikat buruh dan tenda pemogokan buruh.
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
