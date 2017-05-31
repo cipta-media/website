@@ -8,4 +8,4 @@ categories:
 layout: laporancmb	
 ---
 
-Sejak tanggal 5 -12 Juli 2012 7 orang Kader Pendidikan Orang Rimba TNBD mengikuti kunjungan belajar dan pelatihan kecakapan hidup di Kota Jambi dan sekitarnya, lebih lengkap beritanya lihat di [http://www.metrotvnews.com/metromain/news/2012/07/09/97780/9-Anak-jadi-Kader-Pendidikan-Orang-Rimba#.T_u4_qxDHNY.facebook](http://www.metrotvnews.com/metromain/news/2012/07/09/97780/9-Anak-jadi-Kader-Pendidikan-Orang-Rimba#.T_u4_qxDHNY.facebook)
+Sejak tanggal 5 -12 Juli 2012 7 orang Kader Pendidikan Orang Rimba TNBD mengikuti kunjungan belajar dan pelatihan kecakapan hidup di Kota Jambi dan sekitarnya, lebih lengkap beritanya lihat di [http://nasional.news.viva.co.id/news/read/409797-beteguh-bocah-smp-yang-jadi-guru-orang-rimba](http://nasional.news.viva.co.id/news/read/409797-beteguh-bocah-smp-yang-jadi-guru-orang-rimba)
