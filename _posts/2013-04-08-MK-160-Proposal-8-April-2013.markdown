@@ -1,0 +1,71 @@
+---
+title: MK-160 - Proposal 8 April 2013
+date: 2013-04-08
+categories:
+- laporan
+- mentoring
+- MK-160 : Media Komunitas 160 Karakter
+layout: laporancmb
+---
+
+Via surel pada 8 April 2013 oleh Ambarsari Dewi 
+
+**Proposal**
+
+MK160: Pemanfaatan SMS sebagai Media Pertukaran dan Penyampaian Informasi Warga (Lanjutan) 
+
+
+![350px-MK160_gambar_1.png](/uploads/350px-MK160_gambar_1.png){: .img-responsive .center-block }
+
+
+1. Latar belakang
+
+MK160 adalah singkatan dari Media Komunitas 160 Karakter, yaitu program pemanfaatan SMS sebagai media komunitas di Desa Timbulharjo. Program ini dikembangkan oleh Media Komunitas Angkringan dengan bantuan dana hibah dari Cipta Media Bersama. SMS adalah fitur telepon selular yang banyak digunakan oleh penduduk di perdesaan. Berdasarkan data Asosiasi Telepon Selular Indonesia (ATSI) pada tahun 2011 terdapat 260 miliar pesan SMS yang beredar di Indonesia. Di desa Timbulharjo sendiri, teknologi ini ini digunakan oleh 100% warga Desa Timbulharjo. Warga menggunakan SMS karena fitur ini dianggap lebih murah dan cepat.
+
+MK160 dikembangkan melalui tahap-tahap sebagai berikut:
+
+1. Tahap sosialisasi kegiatan kepada warga Desa Timbulharjo
+2. Tahap pengembangan sistem aplikasi MK160 oleh kelompok pengembang Blankon Linux
+3. Tahap pendataan warga oleh tim Mk160 bekerjasama dengan Karang Taruna Desa Timbulharjo. Data warga seperti alamat, umur, jenis kelamin, pekerjaan, nomor handphone golongan darah, bahkan jadwal ronda, dientri ke dalam server MK160.
+4. Tahap pemanfaatan MK160 sebagai media komunitas desa Timbulharjo.
+5. Gambar berikut menjelaskan bagaimana pesan dan informasi disampaikan dari dan kepada warga desa Timbulharjo.
+
+Sejak pertama kali diujicoba pada bulan April 2012, MK160 mendapat respon yang positif dari warga desa. Lalu lintas informasi oleh, dari dan kepada warga desa Timbulharjo sangat dinamis. Gambar di bawah ini menunjukkan sebagian dari pesan dan tanggapan yang disampaikan oleh dan kepada warga. 
+
+
+![576px-MK160_gambar_2.png](/uploads/576px-MK160_gambar_2.png){: .img-responsive .center-block }
+
+
+![350px-MK160_gambar_3.png](/uploads/350px-MK160_gambar_3.png){: .img-responsive .center-block }
+
+Untuk mengefektifkan informasi, SMS yang masuk ke server MK160 kemudian dikonvergensikan dengan buletin, facebook dan twitter, sebagai berikut:
+
+Pengalaman diatas menunjukkan bahwa kombinasi teknologi SMS dengan database warga mampu menyampaikan informasi kepada sasaran yang spesifik berdasarkan kategori tertentu, seperti wilayah (RT, Pedukuhan), jenis kelamin, kelas sosial bahkan hobi. Selain itu, konvergensi teknologi memungkinkan informasi tersebar secara lebih efektif (SMS ke Buletin, Buletin ke SMS, SMS ke twitter). Pengalaman lain menunjukkan bahwa MK160 tidak hanya berhasil mengumpulkan data pengguna handphone, tetapi juga data lain yang sangat kaya yang didasarkan ketrampilan, jenis bisnis dan lain sebagainya. Meski biaya pulsa SMS lebih mahal dibandingkan biaya internet, namun penduduk desa tetap menggunakan fitur ini. Mahalnya biaya pulsa SMS ini disebabkan oleh pemberlakukan Peraturan Menteri Kominfo tahun 2008 tentang Interkoneksi. PerMen ini mengubah kebijakan operator telepon selular dari the sender keep all menjadi cost based tariffs dan mengharuskan operator telepon selular yang mengirimkan pesan SMS berbagi keuntungan dengan operator penerima. Peraturan ini mengubah seluruh asumsi dasar yang melatari MK160 dan menyebabkan mahalnya biaya pulsa yang harus dikeluarkan oleh MK160 untuk mem-broadcast SMS kepada warga Timbulharjo. 
+
+**2. Usulan Kegiatan**
+
+Respon positif warga Desa Timbulharjo atas keberadaan MK160 menunjukkan bahwa SMS adalah teknologi yang efektif untuk menyebarluaskan informasi. Efektifitas MK160 ini ditunjang oleh konvergensi media yang dilakukan oleh Media Komunitas Angkringan melalui buletin, facebook, twitter dan siaran radio. Namun keberlangsungan program MK160 masih menghadapi kendala baik secara eksternal yaitu pemberlakukan Permen Interkoneksi maupun internal seperti kapasitas pengelola MK160 yang belum optimal. Berdasarkan pengalaman di atas, maka Media Komunitas Angkringan mengusulkan kegiatan sebagai berikut: 
+
+**1. Penambahan biaya operasional dan pemeliharaan infrastruktur**
+
+Jumlah KK di Desa Timbulharjo sebanyak 6.000. Jika pulsa SMS adalah sebesar Rp 100,00, maka pasca pemberlakukan Permen Interkoneksi 2008, biaya pulsa sms yang harus dikeluarkan MK160 untuk mem-broadcast 1 (satu) pesan kepada seluruh keluarga di Desa Timbulharjo adalah sebesar Rp 600.000. Untuk menekan biaya SMS, MK160 sedang berupaya menjalin kerjasama dengan operator seluler. Namun proses ini membutuhkan waktu, sehingga untuk sementara waktu diperlukan subsidi dari Cipta Media Bersama.
+
+**2. Optimalisasi konvergensi Media Komunitas Angkringan**
+
+SMS dari warga yang masuk ke server MK160 merupakan sumber informasi penting bagi seluruh warga. Namun keterbatasan karakter sms menyebabkan beberapa informasi penting harus ditelusuri lebih lanjut dan Buletin Angkringan mampu menyediakan ruang tersebut. Saat ini Buletin Angkringan terbit setiap hari Jumat Kliwon dan Jumat Legi dengan tiras 500 eksemplar. Namun, dengan tiras yang terbatas, Buletin Angkringan hanya mampu melayani sebagian kecil warga. Oleh karena itu Media Komunitas Angkringan berencana untuk menaikkan tiras menjadi 1500 eksemplar. Selain itu, interaksi dengan warga akan dilakukan secara langsung melalui siaran radio melalui program talkshow, suara warga dan informasi. Pemanfaatan Facebook dan twitter akan dioptimalisasikan untuk menunjang penyebaran informasi dari, oleh dan untuk warga Desa Timbulharjo.
+
+**3. Pengembangan Model Bisnis MK160**
+
+Untuk menunjang keberlanjutan kegiatan MK160, Media Komunitas Angkringan telah melakukan diskusi dengan salah satu operator telepon selular di Yogyakarta. Respon dari operator tersebut cukup positif. Media Komunitas Angkringan berencana untuk mengembangkan model 3 bisnis MK160 agar bisa berjalan tanpa dukungan pendanaan dari pihak lain. Misalnya melalui kerjasama dengan operator dan menyediakan layanan iklan lewat SMS. Untuk itu, Media Komunitas berencana untuk melakukan diskusi dan sharing dengan operator telepon selular lain dan calon pengiklan yang potensial.
+
+**4. Penjajakan Advokasi SMS Komunitas**
+
+Saat ini teknologi SMS gateway makin marak digunakan untuk berbagai keperluan seperti bencana, pengaduan layanan publik dan pengaduan konsumen. Selain itu, rencana MK160 untuk melakukan replikasi di wilayah dan komunitas lain membuka peluang untuk penggunaan sms broadcast yang lebih masif. Namun hanya sedikit yang menyadari mahalnya tarif pulsa SMS, karena pemberlakukan Permen Interkoneksi. Untuk itu, Media Komunitas Angkringan memandang perlu untuk meninjau ulang Permen tersebut dengan melakukan rangkaian advokasi SMS Komunitas. Salah satu tujuannya adalah untuk mendorong pemerintah memberlakukan kebijakan khusus yang pro-komunitas, misalnya dengan menerapkan Universal Service Obligation (USO) bagi SMS komunitas. 
+
+**3. Rencana Aktivitas**
+
+![576px-MK160_rencana_aktivitas.png](/uploads/576px-MK160_rencana_aktivitas.png){: .img-responsive .center-block }
+
+**4. Anggaran**
+
+Permohonan [anggaran tambahan (rincian)](http://wiki.ciptamedia.org/wiki/MK-160:_Media_Komunitas_160_Karakter/Permohonan_Anggaran_Tambahan) **Rp. 98.600.000,-'**
