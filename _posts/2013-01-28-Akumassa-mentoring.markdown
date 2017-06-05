@@ -7,7 +7,7 @@ categories:
 - Akumassa.org
 ---
 
-     Dari Andang Kelana kepada Siska Doviana
+    Dari Andang Kelana kepada Siska Doviana
 
 Halo Ibu Siska yang baik, Berikut saya lampirkan surat keterangan dari Forum Lenteng mengenai penggunaan Dana Termin II (lampiran1, lampiran 2) untuk program akumassa, Cipta Media Bersama.
 
