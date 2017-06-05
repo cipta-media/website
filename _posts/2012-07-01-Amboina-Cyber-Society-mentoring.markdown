@@ -1,6 +1,6 @@
 ---
 title: Amboina Cyber Society - Mentoring Juli 2012 
-date: 2012-07-
+date: 2012-07-01
 categories:
 - laporan
 - mentoring
