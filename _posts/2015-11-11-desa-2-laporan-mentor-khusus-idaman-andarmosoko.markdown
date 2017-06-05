@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor khusus Idaman Andarmosoko
+title: Laporan mentor khusus Idaman Andarmosoko
 date: 2015-11-11
 categories:
 - laporan

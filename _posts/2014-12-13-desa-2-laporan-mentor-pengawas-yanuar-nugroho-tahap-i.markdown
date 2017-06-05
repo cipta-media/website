@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pengawas Yanuar Nugroho tahap I
+title: Desa 2.0 - Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pengawas Yanuar Nugroho tahap I
 date: 2014-12-13
 categories:
 - laporan

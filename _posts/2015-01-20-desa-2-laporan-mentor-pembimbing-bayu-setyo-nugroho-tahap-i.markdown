@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pembimbing Bayu Setyo Nugroho tahap I
+title: Desa 2.0 - Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pembimbing Bayu Setyo Nugroho tahap I
 date: 2015-01-20
 categories:
 - laporan

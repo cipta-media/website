@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Catatan Tim Penasihat
+title: Desa 2.0 - Sistem Tata Kelola Sumber Daya Desa - Catatan Tim Penasihat
 date: 2014-11-01
 categories:
 - laporan

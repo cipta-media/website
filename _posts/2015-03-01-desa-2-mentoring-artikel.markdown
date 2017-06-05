@@ -1,5 +1,5 @@
 ---
-title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Artikel
+title: Desa 2.0 - Sistem Tata Kelola Sumber Daya Desa - Artikel
 date: 2015-03-01
 categories:
 - laporan
