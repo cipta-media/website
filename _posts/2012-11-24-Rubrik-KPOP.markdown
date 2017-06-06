@@ -8,9 +8,9 @@ layout: laporancmb
 ---
 
 
-![200px-November_24_-_KPOP_1.jpg](/uploads/200px-November_24_-_KPOP_1.jpg){: .img-responsive .center-block }
+![KPOP1](/uploads/200px-November_24_-_KPOP_1.jpg){: .img-responsive .center-block }
 
-![200px-November_24_-_KPOP_2.jpg](/uploads/200px-November_24_-_KPOP_2.jpg){: .img-responsive .center-block }
+![KPOP2](/uploads/200px-November_24_-_KPOP_2.jpg){: .img-responsive .center-block }
 
 
 **Tujuan** : Rubrik KPOP 
