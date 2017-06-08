@@ -73,6 +73,33 @@ layout: blog
     </nav>
 </div>
 
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
 <section id="header" style="background-image: url(/static/img/landing/bg_2.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: right bottom;height: 100vh;">
     <div class="container" style="padding-top:250px;">
         <div class="row" style="color:#FFFFFF">
@@ -89,14 +116,14 @@ layout: blog
             </div>
         </div>
 	<div class="text-center" style="bottom: 10px; position: absolute; left: 50%;">
-  		<a href="#one" style="color: #FFF;"><i class="fa fa-chevron-circle-down fa-3x" aria-hidden="true" style="padding: 30px;"></i></a>
+  		<a href="#one" style="color: #FFF;"><i class="fa fa-chevron-circle-down fa-3x" aria-hidden="true"></i></a>
 	</div>
     </div>
 </section>
 
 <section id="header" style="margin-top: 0px;">
-    <div class="container" style="padding-bottom:50px;">
-	<div class="row m-b-lg" id="one">
+    <div class="container" style="padding-bottom:50px;" id="one">
+	<div class="row m-b-lg">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
                 <h1><span data-i18n="proyek.proyek">Proyek Terdahulu</span></h1>
