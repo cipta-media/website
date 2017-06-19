@@ -3,26 +3,6 @@ title: Penerima Hibah Cipta Media Seluler
 layout: info
 ---
 
-  <!-- jPages -->
-  <script src= "/static/js/jPages.js"></script>
-  <script src= "/static/js/js.js"></script>
-  <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
-  <script>
-	/* when document is ready */
-	$(function() {
-		/* initiate plugin */
-		$("#holder").jPages({
-			containerID : "itemContainer",
-			perPage : 9,
-			startPage: 1,
-			startRange: 1,
-			midRange: 3,
-			endRange: 1
-		});
-	});
-  </script>
-  <!-- jPages -->
-
 <div class="container" style="margin-top: 70px;">
 
     <div class="row">
@@ -39,33 +19,42 @@ layout: info
     </div>
     <div class="row m-b-lg">
         <div class="col-lg-12 article">
-            <h2>Cipta Media Membiayai 12 Proyek Seluler & Aplikasi Ponsel Untuk Kehidupan Yang Lebih Adil</h2>
-	    <p>Jakarta, 20 Juni 2014</p>
-	    <p>Ford Foundation, Wikimedia Indonesia dan ICT Watch mengumumkan 12 proyek yang akan mengembangkan aplikasi ponsel dan proyek seluler yang akan dibiayai oleh inisiatif Cipta Media Seluler. Hibah Terbuka Cipta Media Seluler diluncurkan untuk memperkuat penggunaan teknologi seluler dalam menangani masalah keadilan sosial di Indonesia. Ke 12 penerima hibah proyek dianggap mampu menjawab berbagai isu, mulai dari pembuatan sebuah aplikasi yang menyediakan akses ke layanan pekerjaan bagi orang-orang difabel, hingga ke layanan pesan pendek (sms), dan pemetaan warga untuk mengatasi berbagai masalah seperti pengelolaan sampah, transparansi pemerintah, kesehatan dan kebebasan beragama.</p>
-	    <p>Sebanyak 368 ide proyek mewakili 29 provinsi dari total 33 provinsi di Indonesia diusulkan oleh publik melalui situs www.ciptamedia.org. Ide ide ini kemudian mengalami proses seeksi bertahap hingga mendapatkan 30 finalis. Dari 30 calon penerima hibah ini publik memiliki kesempatan memilih tiga proyek, sedangkan 27 sisanya dipilih oleh tim praktisi dan ahli lapangan. Seluruh finalis kemudian bertemu ddengan tim teknis dalam lokakarya di Jakarta untuk menyampaikan ide-ide mereka, mendapat masukan, dan mengembangkannya lagi hingga menjadi proposal lengkap. Dari 30 finalis dipilih 12 proyek untuk dibiayai oleh Tim Seleksi Akhir. Tim Seleksi Akhir terdiri dari ahli teknik informatika Onno Purbo, pendiri detik.com Yayan Sopyan, aktivis sosial dan sejarawan Hilmar Farid, akademisi dan kepala staf ahli di Unit penasihat Presiden (UKP4) Yanuar Nugroho, dan program officer Ford Foundation untuk media Heidi Arbuckle.</p>
-	    <p>Berbicara atas nama tim seleksi, Heidi Arbuckle mengatakan bahwa kualitas ide-ide yang diajukan para finalis mengesankan. Menurut Heidi, hal ini menunjukkan bahwa ada potensi yang sangat besar di masyarakat untuk mengembangkan ide-ide kreatif di sektor ponsel yang tidak melulu soal keuntungan, tetapi juga untuk kepentingan sosial. "Kami juga sangat senang dengan keberagaman isu dan penyebaran geografis pemohon hibah yang masuk pada Cipta Media Seluler. Pada akhirnya kami memilih ide-ide yang akan paling menguntungkan masyarakat dari strategi penggunaan teknologi seluler oleh tim pengusul yang dianggap mampu menjadikan ide-ide ini sehingga membuahkan hasil nyata." Ujar Heidi. Dari seluruh ide yang masuk Cipta Media memetakan 33 isu lintas sektoral seperti pendidikan, hak asasi manusia, masyarakat adat, transparansi dan isu-isu perkotaan.</p>
-	    <p>Sebanyak total US $ 750.000 akan dibagikan ke 12 proyek terpilih. Mereka juga akan menerima bantuan teknis dan dukungan pemanduan untuk mengembangkan proyek-proyek tersebut selama satu tahun ke depan.</p>
-        </div>
-    </div>
-	<br/>
-    <div class="row">	
-        {% for penerimacms in site.data.penerimacms %}
-        {% assign loopindex = forloop.index | modulo: 3 %}
-                <div class="col-md-4">
-                  <div class="col-md-12 well well-lg" style="height: 600px;">
-                  <a href="{{ penerimacms.link }}"><img class="img-responsive center-block" src="{{ penerimacms.gambar }}"></a>
-                      <hr>
-                  <a href="{{ penerimacms.link }}"><h4>{{ penerimacms.nomor }} - {{ penerimacms.judul | truncatewords: 10 }}</h4></a><br/>
-                      {{ penerimacms.deskripsi | truncatewords: 20 }}
-                  <hr>
-                  <i class="fa fa-map-marker" aria-hidden="true"></i> {{ penerimacms.lokasi }}
-                  </div>
-                </div>
-                {% endfor %}
-	</div>
-    <div class="row m-b-lg text-center">
-        <div class="col-md-12">
-            <div class="pag-holder" id="holder"></div>
-        </div>
+			
+			<ul class="nav nav-tabs">
+				<li class="active"><a data-toggle="tab" href="#pengumuman">Pengumuman</a></li>
+				<li><a data-toggle="tab" href="#daftar">Daftar Penerima Hibah</a></li>
+			</ul>
+	
+			<div class="tab-content">
+				<div id="pengumuman" class="tab-pane fade in active article">
+        			<h2>Cipta Media Membiayai 12 Proyek Seluler & Aplikasi Ponsel Untuk Kehidupan Yang Lebih Adil</h2>
+	    			<p>Jakarta, 20 Juni 2014</p>
+	    			<p>Ford Foundation, Wikimedia Indonesia dan ICT Watch mengumumkan 12 proyek yang akan mengembangkan aplikasi ponsel dan proyek seluler yang akan dibiayai oleh inisiatif Cipta Media Seluler. Hibah Terbuka Cipta Media Seluler diluncurkan untuk memperkuat penggunaan teknologi seluler dalam menangani masalah keadilan sosial di Indonesia. Ke 12 penerima hibah proyek dianggap mampu menjawab berbagai isu, mulai dari pembuatan sebuah aplikasi yang menyediakan akses ke layanan pekerjaan bagi orang-orang difabel, hingga ke layanan pesan pendek (sms), dan pemetaan warga untuk mengatasi berbagai masalah seperti pengelolaan sampah, transparansi pemerintah, kesehatan dan kebebasan beragama.</p>
+	    			<p>Sebanyak 368 ide proyek mewakili 29 provinsi dari total 33 provinsi di Indonesia diusulkan oleh publik melalui situs www.ciptamedia.org. Ide ide ini kemudian mengalami proses seeksi bertahap hingga mendapatkan 30 finalis. Dari 30 calon penerima hibah ini publik memiliki kesempatan memilih tiga proyek, sedangkan 27 sisanya dipilih oleh tim praktisi dan ahli lapangan. Seluruh finalis kemudian bertemu ddengan tim teknis dalam lokakarya di Jakarta untuk menyampaikan ide-ide mereka, mendapat masukan, dan mengembangkannya lagi hingga menjadi proposal lengkap. Dari 30 finalis dipilih 12 proyek untuk dibiayai oleh Tim Seleksi Akhir. Tim Seleksi Akhir terdiri dari ahli teknik informatika Onno Purbo, pendiri detik.com Yayan Sopyan, aktivis sosial dan sejarawan Hilmar Farid, akademisi dan kepala staf ahli di Unit penasihat Presiden (UKP4) Yanuar Nugroho, dan program officer Ford Foundation untuk media Heidi Arbuckle.</p>
+	    			<p>Berbicara atas nama tim seleksi, Heidi Arbuckle mengatakan bahwa kualitas ide-ide yang diajukan para finalis mengesankan. Menurut Heidi, hal ini menunjukkan bahwa ada potensi yang sangat besar di masyarakat untuk mengembangkan ide-ide kreatif di sektor ponsel yang tidak melulu soal keuntungan, tetapi juga untuk kepentingan sosial. "Kami juga sangat senang dengan keberagaman isu dan penyebaran geografis pemohon hibah yang masuk pada Cipta Media Seluler. Pada akhirnya kami memilih ide-ide yang akan paling menguntungkan masyarakat dari strategi penggunaan teknologi seluler oleh tim pengusul yang dianggap mampu menjadikan ide-ide ini sehingga membuahkan hasil nyata." Ujar Heidi. Dari seluruh ide yang masuk Cipta Media memetakan 33 isu lintas sektoral seperti pendidikan, hak asasi manusia, masyarakat adat, transparansi dan isu-isu perkotaan.</p>
+	    			<p>Sebanyak total US $ 750.000 akan dibagikan ke 12 proyek terpilih. Mereka juga akan menerima bantuan teknis dan dukungan pemanduan untuk mengembangkan proyek-proyek tersebut selama satu tahun ke depan.</p>
+        		</div>
+				
+				<div id="daftar" class="tab-pane fade">
+					<div class="row m-b-lg">
+						<br/>
+						{% for penerimacms in site.data.penerimacms %}
+								<div class="col-md-4">
+								  <div class="col-md-12 well well-lg" style="height: 600px;">
+								  <a href="{{ penerimacms.link }}"><img class="img-responsive center-block" src="{{ penerimacms.gambar }}"></a>
+									  <hr>
+								  <a href="{{ penerimacms.link }}"><h4>{{ penerimacms.nomor }} - {{ penerimacms.judul | truncatewords: 10 }}</h4></a><br/>
+									  {{ penerimacms.deskripsi | truncatewords: 20 }}
+								  <hr>
+								  <i class="fa fa-map-marker" aria-hidden="true"></i> {{ penerimacms.lokasi }}
+								  </div>
+								</div>
+						{% endfor %}
+					</div>
+				</div>
+				
+			</div>
+				
+		</div>
     </div>
 </div>
