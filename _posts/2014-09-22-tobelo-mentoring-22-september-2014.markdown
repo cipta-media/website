@@ -1,3 +1,4 @@
+---
 title: Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler - Mentoring 22 September 2014
 date: 2014-09-22
 categories:
