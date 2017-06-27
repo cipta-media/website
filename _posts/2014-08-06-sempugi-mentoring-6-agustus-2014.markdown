@@ -30,3 +30,20 @@ Rujukan:
 
 1. [https://play.google.com/store/apps/details?id=com.art.soft.AOUQJDOWDWWALSMCI](https://play.google.com/store/apps/details?id=com.art.soft.AOUQJDOWDWWALSMCI)
 2. [https://play.google.com/store/apps/details?id=air.com.rgb.laguanak1](https://play.google.com/store/apps/details?id=air.com.rgb.laguanak10)
+
+From: Roedy Rustam 
+
+Date: 2014-08-06 14:21 GMT+07:00 
+
+To: Siska Doviana
+
+saya kira ide untuk aplikasi yg berbasis di playstore atau app store sangat menarik, ini akan dimasukkan pada point penyebaran. akan tetapi sebelumnya harus diperkuat dalam proses pembuatan/produksi konten, saya melihat ada bebeberapa hal dalam revisi, seperti supporting recording, biaya untuk studio sy kira sangat kecil, mengingat rata2 studio recording memberlakukan sistem shift, biasanya satu shift terdiri dari 3 jam jadi proses produksi per satu lagu maksimal harus tidak lebih dari durasi tersebut. nah ini akan menjadi sedikit kendala, bagi para kelompok atau komunitas musisi, seniman lokal yang baru mengenal recording, apalagi kalau sampai pada teknis recording per track pasti membutuhkan waktu yg lebih lama mungkin pada awalnya arm berniat untuk produksi sendiri. namun seperti yg telah kita diskusikan bersama model produsen menjadi distributor diupayakan pada project ini tentu proses dan hasilnya pun menjadi berbeda. kalau hanya sekedar produksi, arm dan selamat sempugi mungkin cuma memanfaatkan para anggota nya, sementara model produsen, arm dan sempugi harus mencari dan menemukan serta mendata beberapa komunitas, musisi lokal, seniman musik tradisional dll, tentu hal tersebut bukan hal yg mudah menurutku apalagi dalam skala 4 etnis besar yg tersebar di 24 provinsi. dalam waktu dekat ini, saya akan coba untuk bertemu langsung dengan arm berserta timnya yg terlibat dalam kegiatan ini. 
+sekian,
+
+From: Siska Doviana 
+Date: 2014-08-06 15:42 GMT+07:00 
+To: Rahmat Munawar
+
+Pak Andi, 
+Terlampir adalah contoh apps, ada versi simpel yang hanya menggunakan video, atau suara yang di mainkan dari youtube (harus terhubung dgn internet), ada versi yang sedikit kompleks tapi memudahkan pengguna untuk memainkan musiknya via aplikasi berbasiskan game dan bisa digunakan luring (luar jaringan, tanpa harus internet). Saya sarankan dipikirkan saja dulu yang baik. Tidak masalah juga fokus produksi sendiri untuk contoh contoh awal agar memudahkan. 
+Salam,
