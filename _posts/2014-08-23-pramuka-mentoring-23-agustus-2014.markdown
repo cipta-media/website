@@ -47,7 +47,7 @@ To: Heru Tjatur
 
 Selamat Siang, 
 
-Untuk sistem, berikut kami [http://www.ciptamedia.org/wiki/Berkas:Hasil_diskusi_dengan_Developer.pdf lampirkan penjabaran Dari Developer]. 
+Untuk sistem, berikut kami [[http://www.ciptamedia.org/wiki/Berkas:Hasil_diskusi_dengan_Developer.pdf](http://www.ciptamedia.org/wiki/Berkas:Hasil_diskusi_dengan_Developer.pdf) lampirkan penjabaran Dari Developer]. 
 Terimakasih untuk saran dam masukannya. 
 
 Salam, Mulyana Sandi
