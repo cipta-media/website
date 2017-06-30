@@ -21,7 +21,7 @@ Walaupun data spasial penggunaan lahan telah berhasil diunggah pada peta OpenStr
 Data tematik tidak dapat divisualisasikan pada peta OSM berhubung OSM lebih bersifat sebagai peta dasar yang mengakomodir data umum. Di sisi lain, data konsesi lahan merupakan data dinamis, dimana kepemilikan lahan dapat berubah.
 Pada platform Ushahidi sebenarnya terdapat fitur untuk mengintegrasikan layer data tematik diatas peta OSM, namun masih terdapat kendala untuk memasukkan data ini sebagai layer tambahan di atas peta utama. Contoh tampilan yang diharapkan adalah sebagai berikut:
 
-![Peta OSM Monitoring Hutan Dodaga.png](/uploads/Peta OSM Monitoring Hutan Dodaga.png){: .img-responsive .center-block }
+![575px-Peta_OSM_Monitoring_Hutan_Dodaga](/uploads/575px-Peta_OSM_Monitoring_Hutan_Dodaga){: .img-responsive .center-block }
 
 Pada contoh tampilan diatas terdapat 3 jenis data yang ditampilkan secara simultan.
  1. Peta OSM sebagai peta dasar
@@ -45,14 +45,14 @@ Hingga akhir bulan Oktober 2015, telah masuk 96 laporan dalam 11 kategori.
 Terjadi penambahan sebanyak 43 laporan dibandingkan pada bulan April 2015 (53 laporan).
 Sebagaimana pada laporan sebelumnya, laporan yang masuk masih didominasi oleh laporan konflik antara masyarakat adat dengan negara dan diikuti oleh konflik antara masyarakat adat dengan swasta.
 
-![Ushaidi Monitoring Hutan Dodaga.png](/uploads/Ushaidi Monitoring Hutan Dodaga.png){: .img-responsive .center-block }
+![695px-Ushaidi_Monitoring_Hutan_Dodaga](/uploads/695px-Ushaidi_Monitoring_Hutan_Dodaga){: .img-responsive .center-block }
 
 Dari Agustus 2014 hingga Oktober 2015, platform Ushahidi proyek ini telah menerima sekitar 1.070 kunjungan dan laporan/halaman didalamnya telah dilihat sebanyak 3.584 kali.
 
-![Statistik pengunjung ushaidi monitoring hutan dodaga - sebelum.png](/uploads/Statistik pengunjung ushaidi monitoring hutan dodaga - sebelum.png){: .img-responsive .center-block }
+![690px-Statistik_pengunjung_ushaidi_monitoring_hutan_dodaga_-_sebelum](/uploads/690px-Statistik_pengunjung_ushaidi_monitoring_hutan_dodaga_-_sebelum){: .img-responsive .center-block }
 
 Merupakan peningkatan yg cukup signifikan jika dibandingkan dengan kunjungan hingga April 2015 sebagaimana terlihat dibawah 
 
-![Statistik pengunjung ushaidi monitoring hutan dodaga - sesudah.png](/uploads/Statistik pengunjung ushaidi monitoring hutan dodaga - sesudah.png){: .img-responsive .center-block }
+![690px-Statistik_pengunjung_ushaidi_monitoring_hutan_dodaga_-_sesudah](/uploads/690px-Statistik_pengunjung_ushaidi_monitoring_hutan_dodaga_-_sesudah){: .img-responsive .center-block }
 
 **5. Nilai (0 hingga 10) : 7**

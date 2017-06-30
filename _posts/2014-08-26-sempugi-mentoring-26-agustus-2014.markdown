@@ -15,7 +15,7 @@ categories:
 4. Penjelasan Pendekatan Proyek Sempugi Idaman menjelaskan beberapa saran pendekatan proyek sempugi, saran tersebut pada dasarnya sejalan dengan butir butir teknis pada surat menyurat antara sempugi dengan wikimedia indonesia. Penjelasan saran arah proyek sempugi ini dapat diringkas pada butir-butir berikut (butir 5 sampai dengan butir 7). Disertai ragaan diagram pada lampiran.
 5. (Penjelasan) Arah cipta media: Dalam suatu proyek, biasanya ada kegiatan, dan kegiatan ini akan menghasilkan produk atau event. Dalam kasus Sempugi misalnya ring-tone dan wall paper adalah produk. Produk atau event ini lebih jauh diharapkan menjadi alat untuk memicu perubahan pada masyarakat atau komunitas. Cipta media ingin bahwa proyek-proyek yang didanai diarahkan lebih dari sekedar menghasilkan produk namun membawa produk itu ke arah perubahan masyarakat/komunitas
 
-![Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 1.jpg](/uploads/Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 1.jpg){: .img-responsive .center-block }
+![330px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_1](/uploads/330px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_1){: .img-responsive .center-block }
 
 6. (Penjelasan) Menempatkan kerja budaya: Karena sempugi bertitik tolak dari masalah revitalisasi kesenian tradisional yang merupakan bagian dari budaya setempat maka disarankan memandang kerja budaya seperti digambarkan pada ragaan 2, dengan penjelasan sebagai berikut
  1. Persoalan budaya bisa dipandang dari artefak maupun prakteknya (E1, E2 pada gambar). Praktek dan artefak mempunyai interaksi timbal-balik, praktek memproduksi artefak, namun juga praktek menggunakan artefak.
@@ -25,7 +25,7 @@ categories:
  5. Disarankan proyek Sempugi juga menginteraksi ruang praktek kebudayaan ini.
  6. E15: Seluler adalah bagian dari keseharian hidup masyarakat, bagian dari ruang interaksi praktek kebudayaan
 
-![Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 2.jpg](/uploads/Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 2.jpg){: .img-responsive .center-block }
+![360px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_2](/uploads/360px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_2){: .img-responsive .center-block }
 
 7. Usulan logika program kerja ringtone sempugi: Berdasarkan jabaran pada point 1, dan 2, dan sejalan dengan butir butir komunikasi email tentang detail proposal yang sudah ada. Maka dapat digambarkan bahwa arah logika program sempugi adalah sebagai berikut sesuai gambar ragaan 3:
  1. TA1: Tujuan akhir dari program ini adalah bahwa (bagian-bagian dari ) kesenian tradisional di sulawesi mengalami revitalisasi, hidup kembali.
@@ -36,7 +36,7 @@ categories:
  6. K1-KX, tiap kegiatan yang dilakukan adalah untuk meraih capaian-capaian yang dirinci di aras capaian.
  7. Program Sempugi diharapkan mencakup capaian2 tersebut sekalipun terbatas.
 
-![Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 3.jpg](/uploads/Agustus 26 2014 CIMB Sempugi mentor aug 2014 Idaman 3.jpg){: .img-responsive .center-block }
+![360px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_3](/uploads/360px-Agustus_26_2014_CIMB_Sempugi_mentor_aug_2014_Idaman_3){: .img-responsive .center-block }
 
 8. Butir butir lain dalam pertemuan
  1. Pada dapat dibahas mengenai berbagai kemungkinan cara untuk penyebar-luasan,dan pencapaian perubahan. Kemungkinan cara penyebar luasan antara lain adalah lewat gerai seluler, media komunitas, website, dsb.
