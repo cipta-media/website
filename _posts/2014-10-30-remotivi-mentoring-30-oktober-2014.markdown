@@ -1,6 +1,6 @@
 ---
-title: Remotivi - Mentoring 25 September 2014
-date: 2014-09-25
+title: Remotivi - Mentoring 30 Oktober 2014
+date: 2014-10-30
 categories:
 - laporan
 - mentoring
