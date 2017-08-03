@@ -16,7 +16,7 @@ categories:
 **Jam** : 17:00 - 17:30
 
 **Hadir** : 
-* [Rina Oktarianti Maizier](http://wiki.ciptamedia.org/wiki/Rina_Oktarianti_Maizier0
+* [Rina Oktarianti Maizier](http://wiki.ciptamedia.org/wiki/Rina_Oktarianti_Maizier)
 * [Corry Gasperz](http://wiki.ciptamedia.org/wiki/Corry_Gasperz)
 * Marthen Boseren
 
