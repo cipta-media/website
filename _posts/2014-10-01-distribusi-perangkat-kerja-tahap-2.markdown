@@ -34,7 +34,7 @@ Penyerahan perangkat kerja smartphone android bertujuan untuk menunjang kinerja 
 
 **Hadir** : 
 * [Rina Oktarianti Maizier](http://wiki.ciptamedia.org/wiki/Rina_Oktarianti_Maizier)
-* [Hillun Vilayl Napis]](http://wiki.ciptamedia.org/wiki/Hillun_Vilayl_Napis)
+* [Hillun Vilayl Napis](http://wiki.ciptamedia.org/wiki/Hillun_Vilayl_Napis)
 
 **Ringkasan** : 
 Wawancara CMS dengan penerima hibah bertujuan untuk menggali lebih jauh tentang keterlibatan masyarakat dalam proyek situs laporan warga Papua berbasis SMS. Lebih lanjut hasil wawancara dapat dilihat di [1](http://ciptamedia.org/bagaimana-memonitor-kondisi-masyarakat-di-papua/)
