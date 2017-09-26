@@ -3,7 +3,7 @@ title: Rapat panitia diskusi publik cermin
 date: 2012-02-09
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

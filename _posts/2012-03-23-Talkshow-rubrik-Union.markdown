@@ -3,7 +3,7 @@ title: Talkshow rubrik Union
 date: 2012-03-23
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

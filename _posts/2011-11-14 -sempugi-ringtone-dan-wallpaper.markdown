@@ -3,7 +3,8 @@ title: Sempugi: Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hiba
 date: 2011-11-14 
 categories:
 - laporan
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
+layout: laporancmb
 ---
 
 **Sempugi: Ringtone dan Wallpaper**

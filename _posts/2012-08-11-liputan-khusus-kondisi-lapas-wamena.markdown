@@ -3,7 +3,7 @@ title: Liputan khusus Kondisi LAPAS Wamena
 date: 2012-08-11
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Agustus_11-13_2012_Liputan_Khusus_LAPAS_Wamena.jpg](/uploads/200px-Agustus_11-13_2012_Liputan_Khusus_LAPAS_Wamena.jpg){: .img-responsive .center-block }
 

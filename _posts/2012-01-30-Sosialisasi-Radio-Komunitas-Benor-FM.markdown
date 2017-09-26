@@ -3,7 +3,7 @@ title: Sosialisasi Radio Komunitas Benor FM di balai desa Bukit Suban Kec. Air H
 date: 2012-01-30
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media 
+- Aldepe.com
 layout: laporancmb
 ---
 

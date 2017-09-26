@@ -3,7 +3,7 @@ title: Rapat Rencana Penelitian
 date: 2012-09-06
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

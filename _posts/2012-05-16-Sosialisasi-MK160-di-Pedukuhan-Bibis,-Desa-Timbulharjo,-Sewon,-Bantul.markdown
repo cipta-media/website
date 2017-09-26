@@ -3,7 +3,7 @@ title: Sosialisasi MK160 di Pedukuhan Bibis, Desa Timbulharjo, Sewon, Bantul
 date: 2012-05-16
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Mei_16_2012_MK160_Sosialisasi_MK160_Pedukuhan_Bibis.jpg](/uploads/200px-Mei_16_2012_MK160_Sosialisasi_MK160_Pedukuhan_Bibis.jpg){: .img-responsive .center-block }

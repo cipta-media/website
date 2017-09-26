@@ -3,7 +3,7 @@ title: Pelatihan wiki untuk pelaporan aktivitas
 date: 2012-04-16
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

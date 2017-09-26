@@ -4,7 +4,7 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam
+- AJI Banda Aceh
 ---
 
 Jagongan Media Rakyat, Yogyakarta

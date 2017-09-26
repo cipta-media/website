@@ -4,7 +4,7 @@ date: 2012-10-22
 categories:
 - laporan
 - mentoring
-- MK-160 : Media Komunitas 160 Karakter
+- MK-160
 layout: laporancmb
 ---
 

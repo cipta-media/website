@@ -3,7 +3,7 @@ title: Rubrik Tembang Kenangan edisi 2
 date: 2012-06-17
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

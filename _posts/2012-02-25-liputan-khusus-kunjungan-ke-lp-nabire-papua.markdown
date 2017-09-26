@@ -3,7 +3,7 @@ title: Liputan Khusus Kunjungan ke LP Nabire-Papua
 date: 2012-02-25
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Februari_25_2012_Liputan_khusus_Tapol_Nabire.JPG](/uploads/200px-Februari_25_2012_Liputan_khusus_Tapol_Nabire.JPG){: .img-responsive .center-block }
 

@@ -3,10 +3,9 @@ title: Rubrik Perempuan Pelita edisi XV
 date: 2012-09-21
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_20_Perempuan_Pelita_1.jpg](/uploads/200px-September_20_Perempuan_Pelita_1.jpg){: .img-responsive .center-block }
 

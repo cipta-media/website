@@ -3,7 +3,7 @@ title: Undangan ASEAN BLOGGERUndangan ASEAN BLOGGER
 date: 2012-06-16
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 

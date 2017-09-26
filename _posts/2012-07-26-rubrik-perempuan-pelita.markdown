@@ -3,7 +3,7 @@ title: rubrik Perempuan Pelita
 date: 2012-07-26
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

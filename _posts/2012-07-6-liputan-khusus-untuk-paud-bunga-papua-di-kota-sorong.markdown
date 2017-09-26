@@ -3,7 +3,7 @@ title: Liputan khusus untuk PAUD Bunga Papua di Kota Sorong
 date: 2012-07-06
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Juli_06-09_2012_Paud_BungaPapua.jpg](/uploads/200px-Juli_06-09_2012_Paud_BungaPapua.jpg){: .img-responsive .center-block }
 

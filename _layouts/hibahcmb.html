@@ -17,12 +17,19 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                    <li><a href="#">Menu 1</a></li>
-                    <li><a href="#">Menu 2</a></li>
+                    <li><a href="/tentang-ekspresi.html">Cipta Media Ekspresi</a></li>
                     <li class="dropdown mega-dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Terdahulu <span class="caret"></span></a>
                         <ul class="dropdown-menu mega-dropdown-menu row">
-                            <li class="col-sm-6">
+                        	<li class="col-sm-4">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Independen</li>
+                                    <li><a href="#">Tentang</a></li>
+                                    <li><a href="#">Penerima Hibah</a></li>
+                                    <li><a href="#">Tim</a></li>
+                                </ul>
+                            </li>
+                            <li class="col-sm-4">
                                 <ul>
                                     <li class="dropdown-header">Cipta Media Seluler</li>
                                     <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
@@ -31,7 +38,7 @@
                                     <li><a href="#">Tim</a></li>
                                 </ul>
                             </li>
-                            <li class="col-sm-6">
+                            <li class="col-sm-4">
                                 <ul>
                                     <li class="dropdown-header">Cipta Media Bersama</li>
                                     <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
@@ -149,13 +156,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/akumassa.org/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/akumassa.org/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Amboina Cyber Society' %}
         
-            {% for post in site.categories['Amboina Cyber Society'] %}
+            {% for post in site.categories['Amboina Cyber Society'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -165,13 +172,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/amboinacybersociety/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/amboinacybersociety/">Laporan Lainnya</a>
             </div>
           </div>
         
          {% elsif page.title == '“Benor FM”, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba' %}
         
-            {% for post in site.categories['“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba'] limit: 5 %}
+            {% for post in site.categories['Benor FM'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -181,13 +188,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/“benorfm”radiokomunitassebagaimediabelajardanalatperjuanganhakdasarorangrimba/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/benorfm/">Laporan Lainnya</a>
             </div>
           </div>
         
          {% elsif page.title == 'LenteraTimur.com – Menyigi Identitas Indonesia' %}
         
-            {% for post in site.categories['LenteraTimur.com – Menyigi Identitas Indonesia'] limit: 5 %}
+            {% for post in site.categories['LenteraTimur.com'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -197,13 +204,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/lenteratimur.com–menyigiidentitasindonesia/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/lenteratimur.com/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Video untuk Perdamaian' %}
         
-            {% for post in site.categories['Video untuk Perdamaian'] %}
+            {% for post in site.categories['Video untuk Perdamaian'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -213,7 +220,7 @@
         
         {% elsif page.title == 'Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas' %}
         
-            {% for post in site.categories['Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas'] limit: 5 %}
+            {% for post in site.categories['Kartunet.com'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -223,13 +230,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/kartunet.com-mediaonlinesosialisasidanpengembangankomunitaspemudadengandisabilitas/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/kartunet.com/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)' %}
         
-            {% for post in site.categories['Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)'] limit: 5 %}
+            {% for post in site.categories['Human Rights Blogger Award'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -239,13 +246,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/penghargaanhakasasimanusiauntukblogger(humanrightsbloggeraward)/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/humanrightsbloggeraward/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Hpku-Teman Belajarku' %}
         
-            {% for post in site.categories['Hpku-Teman Belajarku'] %}
+            {% for post in site.categories['Hpku-Teman Belajarku'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -255,7 +262,7 @@
         
         {% elsif page.title == 'Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh' %}
         
-            {% for post in site.categories['Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh'] limit: 5 %}
+            {% for post in site.categories['AJI Banda Aceh'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -265,13 +272,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/mendorongmediasehatdalampemberitaansyariatislamdiaceh/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ajibandaaceh/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Next Generation – Media Watch & Literacy' %}
         
-            {% for post in site.categories['Next Generation – Media Watch & Literacy'] limit: 5 %}
+            {% for post in site.categories['Next Generation'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -281,13 +288,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/nextgeneration–mediawatch&literacy/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/nextgeneration/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
         
-            {% for post in site.categories['Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media'] limit:5 %}
+            {% for post in site.categories['Aldepe.com'] limit:5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -297,13 +304,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/aldepe.com-advokasihakasasimanusia(ham)dipapuaviamediaonline,mobilephonedansocialmedia/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/aldepe.com/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi' %}
         
-            {% for post in site.categories['Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi'] %}
+            {% for post in site.categories['JRKL'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -313,7 +320,7 @@
         
         {% elsif page.title == 'MK-160 - Media Komunitas 160 Karakter' %}
         
-            {% for post in site.categories['MK-160 - Media Komunitas 160 Karakter'] limit: 5 %}
+            {% for post in site.categories['MK-160'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -323,13 +330,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="http://ciptamedia.siteleaf.net/mk-160-mediakomunitas160karakter/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/mk-160/">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Tidak Bermula [Dan Tidak Berakhir] Dengan Berita' %}
         
-            {% for post in site.categories['Tidak Bermula [Dan Tidak Berakhir] Dengan Berita'] %}
+            {% for post in site.categories['Di Balik Frekuensi'] %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -339,7 +346,7 @@
         
         {% elsif page.title == 'Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan' %}
         
-            {% for post in site.categories['Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan'] %}
+            {% for post in site.categories['Marsinah FM'] %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -349,7 +356,7 @@
         
         {% elsif page.title == 'Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas' %}
         
-            {% for post in site.categories['Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas'] %}
+            {% for post in site.categories['Bhinneka']  %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>

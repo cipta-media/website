@@ -3,8 +3,9 @@ title: Advokasi dan Liputan Khusus Persidangan Buktar Tabuni
 date: 2012-09-21
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
+
 ![200px-September_21_2012_Liputan_Khusus_Sidang_Buktar_Tabuni.jpg](/uploads/200px-September_21_2012_Liputan_Khusus_Sidang_Buktar_Tabuni.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Advokasi dan Liputan Khusus Persidangan Buktar Tabuni

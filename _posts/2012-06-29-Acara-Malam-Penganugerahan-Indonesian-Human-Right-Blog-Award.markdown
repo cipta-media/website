@@ -3,7 +3,7 @@ title: Acara Malam Penganugerahan Indonesian Human Right Blog Award
 date: 2012-06-29
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

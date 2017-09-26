@@ -3,7 +3,7 @@ title: Talkshow rubrik Hak dan Hukum
 date: 2012-07-06
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

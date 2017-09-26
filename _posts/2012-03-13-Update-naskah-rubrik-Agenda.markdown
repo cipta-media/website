@@ -3,7 +3,7 @@ title: Update naskah rubrik Agenda
 date: 2012-03-13
 categories:
 - laporan
-- LenteraTimur.com - Menyingi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

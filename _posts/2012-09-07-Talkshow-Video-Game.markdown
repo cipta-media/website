@@ -3,7 +3,7 @@ title: Talkshow Video Game
 date: 2012-09-07
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

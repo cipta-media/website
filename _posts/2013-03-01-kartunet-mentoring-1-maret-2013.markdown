@@ -4,7 +4,7 @@ date: 2013-03-01
 categories:
 - laporan
 - mentoring
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 

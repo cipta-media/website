@@ -3,7 +3,7 @@ title: 	Diterimanya Berkas Administaratif Lembaga Penyiaran Swasta Radio Benor F
 date: 	2012-07-23
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

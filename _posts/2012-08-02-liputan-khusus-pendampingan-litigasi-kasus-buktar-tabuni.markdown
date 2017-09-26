@@ -3,7 +3,7 @@ title: Liputan khusus pendampingan Litigasi Kasus Buktar Tabuni
 date: 2012-08-02
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Agustus_02_2012_Liputan_Khusus_Kasus_Buktar_Tabuni.jpg](/uploads/200px-Agustus_02_2012_Liputan_Khusus_Kasus_Buktar_Tabuni.jpg){: .img-responsive .center-block }
 

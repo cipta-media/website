@@ -3,7 +3,7 @@ title: Camat sewon memberikan tanggapan positif untuk kegiatan MK160. Bahkan dih
 date: 2012-05-22
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-MEI_22_2012_MK-160_SOSIALISASI_TINGKAT_DESA.jpg](/uploads/200px-MEI_22_2012_MK-160_SOSIALISASI_TINGKAT_DESA.jpg){: .img-responsive .center-block }

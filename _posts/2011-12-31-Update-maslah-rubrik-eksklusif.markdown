@@ -3,7 +3,7 @@ title: Update naskah rubrik Eksklusif
 date: 2011-12-31
 categories:
 - laporan
-- LenteraTimur.com - Menyingi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

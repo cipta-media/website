@@ -3,7 +3,7 @@ title: Pelatihan Wiki dan Creative Commons untuk ALDP
 date: 2012-02-27
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Februari_27_2012_ALDP_Pelatihan_Wiki_dan_Creative_Commons.jpg](/uploads/200px-Februari_27_2012_ALDP_Pelatihan_Wiki_dan_Creative_Commons.jpg){: .img-responsive .center-block }
 

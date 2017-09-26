@@ -3,7 +3,7 @@ title: Update naskah rubrik Kasatmata
 date: 2012-05-29
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

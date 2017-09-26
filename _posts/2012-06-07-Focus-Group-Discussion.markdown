@@ -3,7 +3,7 @@ title: Focus Group Discussion
 date: 2012-06-07
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

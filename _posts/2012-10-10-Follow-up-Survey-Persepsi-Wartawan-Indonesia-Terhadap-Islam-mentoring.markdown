@@ -4,7 +4,7 @@ date: 2012-10-10
 categories:
 - laporan
 - mentoring
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam
+- Pantau
 ---
 
 ![250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg](/_uploads/250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg){: .img-responsive .center-block }

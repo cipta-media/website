@@ -13,11 +13,15 @@ img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 
+![head](https://riosatria.github.io/ciptamedia/static/img/blog/header_1.png){: .img-responsive .center-block }
+
 Kepala Pusat Kajian Disabilitas FISIP UI, Irwanto mengatakan, hingga kini pendataan penyandang disabilitas di Indonesia masih bermasalah. Hal ini terlihat dengan tidak adanya sinkronisasi antara data dari Badan Pusat Statistik (BPS) yang sudah berbasis Internasional dengan dana kementerian/lembaga terkait masalah sosial seperti Departemen Kesehatan, Departemen Ketenagakerjaan, dan Departemen Sosial.
 
 Data penyandang disabilitas belum akurat akan berdampak dalam pemenuhan hak-hak mereka. Rubby Emir dari Saujana, lembaga sosial yang peduli terhadap isu difabel, menilai angka penyandang disabilitas di Indonesia 15% dari total populasi. WHO menganggap bahwa gangguan kejiwaan dapat juga dikategorikan sebagai penyandang disabilitas. Akibatnya ada perubahan demografi penyandang disabilitas di Indonesia. Meski demikian data BPS memiliki pandangan berbeda, menurut mereka penyandnag disabilitas hanya berjumlah 1,2% dari total penduduk.
 
-Perbedaan ini akan mengakibatkan para penyandang disabilitas rentan diskriminasi dan tak mendapatkan haknya dengan baik. Populasi pasti penyandang disabilitas akan menjadi dasar pembuatan kebijakan, seperti mendapatkan akses pendidikan, kesempatan kerja, dan juga pelayanan kesehatan yang baik. Data tersebut akan membantu pemerintah untuk merumuskan besaran angka anggaran yang bisa dimanfaatkan untuk pemberdayaan para penyandang disabilitas.
+![selamatnatal.jpg](/uploads/selamatnatal.jpg){: .img-responsive .center-block }
+
+[Perbedaan](www.google.com) ini akan mengakibatkan para penyandang disabilitas rentan diskriminasi dan tak mendapatkan haknya dengan baik. Populasi pasti penyandang disabilitas akan menjadi dasar pembuatan kebijakan, seperti mendapatkan akses pendidikan, kesempatan kerja, dan juga pelayanan kesehatan yang baik. Data tersebut akan membantu pemerintah untuk merumuskan besaran angka anggaran yang bisa dimanfaatkan untuk pemberdayaan para penyandang disabilitas.
 Rubby Emir
 
 Data yang akurat akan membantu pemerintah untuk merumuskan kebijakan yang tepat bagi penyandang disabilitas. Misalnya memberikan kuota pekerjaan sesuai kemampuan di perusahaan yang ada di Indonesia, baik BUMN maupun perusahaan swasta. Selain itu juga bisa merumuskan kebijakan baru untuk melindungi dan menjamin mereka mendapatkan kehidupan yang lebih baik, melalui pendidikan dan jaminan sosial terpadu.

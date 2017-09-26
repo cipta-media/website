@@ -3,7 +3,7 @@ title: AJI Banda Aceh - Proposal Lengkap
 date: 2012-02-15 10:08:00 +07:00
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![250px-AJI.jpg](/uploads/250px-AJI.jpg){: .img-responsive .center-block }

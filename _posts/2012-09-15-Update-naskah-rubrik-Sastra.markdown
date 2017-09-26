@@ -3,10 +3,9 @@ title: Update naskah rubrik Sastra
 date: 2012-09-15
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra "Puisi-Puisi Jamil Massa" (Kontributor - Jamil Massa)
 

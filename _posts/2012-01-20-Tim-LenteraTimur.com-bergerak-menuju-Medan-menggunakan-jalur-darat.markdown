@@ -3,7 +3,7 @@ title: Tim LenteraTimur.com bergerak menuju Medan menggunakan jalur darat.
 date: 2012-01-20
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

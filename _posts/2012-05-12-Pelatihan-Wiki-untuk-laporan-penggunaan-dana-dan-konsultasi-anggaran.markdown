@@ -3,7 +3,7 @@ title: Pelatihan Wiki untuk laporan penggunaan dana dan konsultasi anggaran.
 date: 2012-05-12
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 layout: laporancmb
 ---
 

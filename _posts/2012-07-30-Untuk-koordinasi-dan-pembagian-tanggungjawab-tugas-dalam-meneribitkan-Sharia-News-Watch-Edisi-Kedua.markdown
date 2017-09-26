@@ -3,7 +3,7 @@ title: Untuk koordinasi dan pembagian tanggungjawab tugas dalam meneribitkan Sha
 date: 2012-07-30
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Juli_30_2012_AJI_Banda_Aceh_Rapat_Redaksi_Newsletter_Edisi_Kedua.jpg](/uploads/200px-Juli_30_2012_AJI_Banda_Aceh_Rapat_Redaksi_Newsletter_Edisi_Kedua.jpg){: .img-responsive .center-block }

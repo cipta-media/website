@@ -3,7 +3,7 @@ title: 	Presentasi Indonesian Street Art Database, bersama Tanggerang Street Art
 date: 	2011-11-05
 categories:	
 - laporan	
-- Indonesian Street Art Database- Wiki Cipta Media Seluler
+- Indonesian Street Art Database
 layout: laporancmb
 ---	
 	

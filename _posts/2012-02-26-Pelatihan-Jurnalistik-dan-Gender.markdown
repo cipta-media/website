@@ -3,7 +3,7 @@ title: Pelatihan Jurnalistik dan Gender
 date: 2012-02-26
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

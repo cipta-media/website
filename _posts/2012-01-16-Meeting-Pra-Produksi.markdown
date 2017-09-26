@@ -3,7 +3,7 @@ title: Meeting Pra-Produksi
 date: 2012-01-16
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 layout: laporancmb
 ---
 

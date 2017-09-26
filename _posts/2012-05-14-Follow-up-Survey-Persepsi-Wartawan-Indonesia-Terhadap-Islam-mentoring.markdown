@@ -4,7 +4,7 @@ date: 2012-05-14
 categories:
 - laporan
 - mentoring
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam
+- Pantau
 ---
 
 ![350px-Kerangka_sampel_penelitian_pantau.jpg](/_uploads/350px-Kerangka_sampel_penelitian_pantau.jpg){: .img-responsive .center-block }

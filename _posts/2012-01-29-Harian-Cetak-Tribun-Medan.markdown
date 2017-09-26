@@ -3,7 +3,7 @@ title: Harian Cetak Tribun Medan
 date: 2012-01-29
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

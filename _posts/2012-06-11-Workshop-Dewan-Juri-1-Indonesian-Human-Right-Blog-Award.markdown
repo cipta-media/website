@@ -3,7 +3,7 @@ title: Workshop Dewan Juri 1 Indonesian Human Right Blog Award
 date: 2012-06-11
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Talkshow rubrik
 date: 2012-07-01
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

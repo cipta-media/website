@@ -3,7 +3,7 @@ title: Pembekalan dan konsultasi proyek
 date: 2012-02-24
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 ![200px-Februari_24_2012_NextGeneration_Konsultasi_Tim_Penasehat_Nasir.jpg](/uploads/200px-Februari_24_2012_NextGeneration_Konsultasi_Tim_Penasehat_Nasir.jpg){: .img-responsive .center-block }

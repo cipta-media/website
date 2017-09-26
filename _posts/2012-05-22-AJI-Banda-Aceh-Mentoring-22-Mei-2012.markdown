@@ -4,7 +4,7 @@ date: 2012-05-22
 categories:
 - laporan
 - mentoring
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 layout: laporancmb
 ---
 

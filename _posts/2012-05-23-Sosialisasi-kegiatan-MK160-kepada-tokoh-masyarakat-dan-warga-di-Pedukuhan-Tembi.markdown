@@ -3,7 +3,7 @@ title: Sosialisasi kegiatan MK160 kepada tokoh masyarakat dan warga di Pedukuhan
 date: 2012-05-23
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Mei_23_2012_MK-160_SOSIALISASI_DUSUN_TEMBI.jpg](/uploads/200px-Mei_23_2012_MK-160_SOSIALISASI_DUSUN_TEMBI.jpg){: .img-responsive .center-block }

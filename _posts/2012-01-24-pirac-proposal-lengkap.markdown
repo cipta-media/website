@@ -3,8 +3,7 @@ title: Pirac - Proposal Lengkap
 date: 2012-01-24 14:29:00 +07:00
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan
-  Media komunitas di Indonesia
+- PIRAC
 ---
 
 ![250px-Sekolahfundraising.jpg](/uploads/250px-Sekolahfundraising.jpg){: .img-responsive .center-block }

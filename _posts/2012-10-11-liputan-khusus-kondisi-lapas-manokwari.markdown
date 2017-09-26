@@ -3,7 +3,7 @@ title: Liputan khusus Kondisi LAPAS Manokwari
 date: 2012-10-11
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Oktober_11-12_2012_Liputan_Khusus_Kondisi_LAPAS_Manokwari.jpg](/uploads/200px-Oktober_11-12_2012_Liputan_Khusus_Kondisi_LAPAS_Manokwari.jpg){: .img-responsive .center-block }
 

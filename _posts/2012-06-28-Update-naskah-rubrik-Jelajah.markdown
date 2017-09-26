@@ -3,7 +3,7 @@ title: Update naskah rubrik Jelajah
 date: 2012-06-28
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

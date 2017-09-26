@@ -4,7 +4,7 @@ date: 2012-05-08
 categories:
 - laporan
 - mentoring
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam
+- Pantau
 ---
 
 Oleh Siska Via surat-menyurat dengan Imam Shofwan dan Siska Doviana

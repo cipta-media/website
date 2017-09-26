@@ -3,9 +3,8 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-09-20
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
-
 
 ![200px-September_20_2012_NextGeneration_MathaulKhaeriyah1.JPG](/uploads/200px-September_20_2012_NextGeneration_MathaulKhaeriyah1.JPG){: .img-responsive .center-block }
 

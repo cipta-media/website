@@ -3,7 +3,7 @@ title: Monev Program Cipta Media yang di Laksanakan oleh AJI dan ALDP
 date: 2012-08-02
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 
 **Tujuan** : Monev Program Cipta Media yang di Laksanakan oleh AJI dan ALDP

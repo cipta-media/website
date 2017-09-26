@@ -1,6 +1,6 @@
-Pelaksana mampu untuk membuat laporan aktivitas dan keuangan online
-	
-date: 	2012-01-13
+---
+title: Pelaksana mampu untuk membuat laporan aktivitas dan keuangan online
+date: 2012-01-13
 categories:	
 - laporan	
 - Hpku-Teman Belajarku	

@@ -1,9 +1,9 @@
 ---
-title: 
+title: Pengesahan Akta
 date: 2012-03-23
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 ![200px-Maret_23_2012_Kartunet_Akta_Pendirian.JPG](/uploads/200px-Maret_23_2012_Kartunet_Akta_Pendirian.JPG){: .img-responsive .center-block }

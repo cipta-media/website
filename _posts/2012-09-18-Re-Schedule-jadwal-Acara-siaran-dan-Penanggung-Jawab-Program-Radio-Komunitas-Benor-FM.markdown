@@ -3,7 +3,7 @@ title: Re-Schedule jadwal Acara siaran dan Penanggung Jawab Program Radio Komuni
 date: 2012-09-18
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

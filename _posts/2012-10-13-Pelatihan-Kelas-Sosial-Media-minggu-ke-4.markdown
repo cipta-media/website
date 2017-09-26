@@ -3,7 +3,7 @@ title: Pelatihan Kelas Sosial Media minggu ke 4
 date: 2012-10-13
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 

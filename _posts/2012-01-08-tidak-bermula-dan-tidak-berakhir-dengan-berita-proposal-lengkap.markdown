@@ -3,7 +3,7 @@ title: Tidak Bermula Dan Tidak Berakhir Dengan Berita - Proposal Lengkap
 date: 2012-01-08 17:55:00 +07:00
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 ---
 
 ![250px-TBTBD.jpg](/uploads/250px-TBTBD.jpg){: .img-responsive .center-block }

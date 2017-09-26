@@ -3,7 +3,7 @@ title: Liputan Khusus dan advokasi Tapol Kasus 04 April Jafrai Murib
 date: 2012-04-25
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Mei_25_2012_Penanganan_Medis_Tapo_Jafrai_Murib.jpg](/uploads/200px-Mei_25_2012_Penanganan_Medis_Tapo_Jafrai_Murib.jpg){: .img-responsive .center-block }
 

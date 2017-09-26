@@ -3,7 +3,7 @@ title: Tentang peliputan wilayah Kabupaten Sarmi
 date: 2012-01-19
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 
 ![200px-Januari_19_2012_ALDP_Liputan_Wilayah.JPG](/uploads/200px-Januari_19_2012_ALDP_Liputan_Wilayah.JPG){: .img-responsive .center-block }

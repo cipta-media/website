@@ -3,7 +3,7 @@ title: Sosialisasi MK160 di Pedukuhan kowen 2
 date: 2012-05-18
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-MEI_18_2012_MK-160_SOSIALISASI_DUSUN_KOWEN_II.jpg](/uploads/200px-MEI_18_2012_MK-160_SOSIALISASI_DUSUN_KOWEN_II.jpg){: .img-responsive .center-block }

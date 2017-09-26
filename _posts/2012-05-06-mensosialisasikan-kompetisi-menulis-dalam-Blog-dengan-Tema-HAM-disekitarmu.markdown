@@ -3,7 +3,7 @@ title: mensosialisasikan kompetisi menulis dalam Blog dengan Tema HAM disekitarm
 date: 2012-05-06
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

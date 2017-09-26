@@ -4,7 +4,7 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
-- Ibu  Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi  Perempuan dan Pemenuhan Kebutuhan Informasi
+- JRKL
 ---
 
      Oleh Idaman Andarmosoko, Jagongan Media Rakyat, Yogyakarta

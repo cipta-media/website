@@ -3,7 +3,7 @@ title: Pembuatan peraturan Kampung dan Liputan Khusus keerom
 date: 2012-08-14
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Agustus_14_2012_Asistensi_dan_Liputan_&Liputan_Khussu_PERKAM_Arso.jpg](/uploads/200px-Agustus_14_2012_Asistensi_dan_Liputan_&Liputan_Khussu_PERKAM_Arso.jpg){: .img-responsive .center-block }
 

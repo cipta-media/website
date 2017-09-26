@@ -3,7 +3,7 @@ title: Pelatihan Sosial Media Ke 5
 date: 2012-10-14
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 

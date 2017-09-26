@@ -3,7 +3,7 @@ title: Liputan Khusus Kondisi Paniai
 date: 2012-09-03
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-September_03-06_2012_Lipitan_Khusus_Kondisi_Paniai.jpg](/uploads/200px-September_03-06_2012_Lipitan_Khusus_Kondisi_Paniai.jpg){: .img-responsive .center-block }
 

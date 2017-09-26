@@ -3,7 +3,7 @@ title: Pengenalan Kartunet kepada Masyarakat luas
 date: 2012-05-13
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 ![200px-May_13_2012_Kartunet_ONOFF_PESTA_BLOGGER.jpg](/uploads/200px-May_13_2012_Kartunet_ONOFF_PESTA_BLOGGER.jpg){: .img-responsive .center-block }

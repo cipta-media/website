@@ -21,12 +21,19 @@ layout: blog
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                    <li><a href="#">Menu 1</a></li>
-                    <li><a href="#">Menu 2</a></li>
+                    <li><a href="/tentang-ekspresi.html">Cipta Media Ekspresi</a></li>
                     <li class="dropdown mega-dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Terdahulu <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Lainnya <span class="caret"></span></a>
                         <ul class="dropdown-menu mega-dropdown-menu row">
-                            <li class="col-sm-6">
+                            <li class="col-sm-4">
+                                <ul>
+                                    <li class="dropdown-header">Cipta Media Independen</li>
+                                    <li><a href="#">Tentang</a></li>
+                                    <li><a href="#">Penerima Hibah</a></li>
+                                    <li><a href="#">Tim</a></li>
+                                </ul>
+                            </li>
+                            <li class="col-sm-4">
                                 <ul>
                                     <li class="dropdown-header">Cipta Media Seluler</li>
                                     <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
@@ -35,7 +42,7 @@ layout: blog
                                     <li><a href="/ciptamediaseluler/timkami.html">Tim</a></li>
                                 </ul>
                             </li>
-                            <li class="col-sm-6">
+                            <li class="col-sm-4">
                                 <ul>
                                     <li class="dropdown-header">Cipta Media Bersama</li>
                                     <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
@@ -140,11 +147,12 @@ $(document).ready(function(){
 			<div class="card-content">
 			    <h1 class="title">Cipta Media Seluler</h1>
 			    <h2>Teknologi seluler untuk perubahan sosial</h2>
-			    <p>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain.<br/><a href="/ciptamediaseluler/tentangcms.html">Selengkapnya...</a></p>
+			    <p>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain.<br/></p>
 			</div>
 
 			<div class="card-action">
-			    <a href="/ciptamediaseluler/proses.html" target="new_blank">Proses Hibah</a>
+			    <a href="/ciptamediaseluler/tentangcms.html">Tentang CMS</a>
+                <a href="/ciptamediaseluler/proses.html" target="new_blank">Proses Hibah</a>
 			</div>
 		    </div>
 		</div>
@@ -158,10 +166,11 @@ $(document).ready(function(){
 			<div class="card-content">
 			    <h1 class="title">Cipta Media Bersama</h1>
 			    <h2>Meretas batas – kebhinekaan bermedia</h2>
-			    <p>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia.<br/><a href="/ciptamediabersama/tentangcmb.html">Selengkapnya...</a></p>
+			    <p>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia.<br/></p>
 			</div>
 
 			<div class="card-action">
+            	<a href="/ciptamediabersama/tentangcmb.html">Tentang CMB</a>
 			    <a href="/ciptamediabersama/proses.html" target="new_blank">Proses Hibah</a>
 			</div>
 		    </div>
@@ -195,8 +204,8 @@ $(document).ready(function(){
 
 					for(var i in e.events) {
 						content += '<div class="event-tooltip-content">'
-										+ '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div>'
-										+ '<div class="event-location">' + e.events[i].location + '</div></a>'
+										+ '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '"><h3>' + e.events[i].name + '</h3></div>'
+										+ '<div class="event-location"><h4>' + e.events[i].location + '</h4></div></a>'
 										+ '<hr>'
 									+ '</div>';
 					}
@@ -283,5 +292,3 @@ $(document).ready(function(){
         </div>
     </div>
 </section>
-
-

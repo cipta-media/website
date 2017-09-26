@@ -3,7 +3,7 @@ title: Update naskah rubrik Nukilan
 date: 2012-07-18
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

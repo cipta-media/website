@@ -3,7 +3,7 @@ title: rubrik Cermin
 date: 2012-07-27
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

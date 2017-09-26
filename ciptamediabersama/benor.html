@@ -1,6 +1,6 @@
 ---
 title: Laporan Kegiatan Benor FM
-permalink: /“benorfm”radiokomunitassebagaimediabelajardanalatperjuanganhakdasarorangrimba/
+permalink: /benorfm/
 layout: blog
 ---
 
@@ -15,7 +15,7 @@ layout: blog
 
 	<div class="row m-b-lg">
 
-		{% for post in site.categories['“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba'] %}
+		{% for post in site.categories['Benor FM'] %}
 		<div class="col-md-12">
 					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>

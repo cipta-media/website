@@ -3,7 +3,7 @@ title: Update naskah rubrik Bernala
 date: 2012-07-06
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

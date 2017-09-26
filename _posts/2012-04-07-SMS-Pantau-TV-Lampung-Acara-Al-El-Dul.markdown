@@ -4,7 +4,7 @@ date: 2012-04-07
 categories:
 - laporan
 - sms
-- Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi
+- JRKL
 layout: laporancmb
 ---
 

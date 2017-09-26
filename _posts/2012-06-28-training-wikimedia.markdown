@@ -3,7 +3,7 @@ title: Training wikimedia
 date: 2012-06-28
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-November_28-30_2012_Training_wikimedia.JPG](/uploads/200px-November_28-30_2012_Training_wikimedia.JPG){: .img-responsive .center-block }
 

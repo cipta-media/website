@@ -3,7 +3,7 @@ title: IMDLN - Proposal Lengkap
 date: 2012-01-25 19:29:00 +07:00
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 ---
 
 ![250px-Blogger.jpg](/uploads/250px-Blogger.jpg){: .img-responsive .center-block }

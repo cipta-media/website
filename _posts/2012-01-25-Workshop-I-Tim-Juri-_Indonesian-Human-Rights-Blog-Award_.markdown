@@ -3,7 +3,7 @@ title: Workshop I Tim Juri "Indonesian Human Rights Blog Award"
 date: 2012-01-25
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

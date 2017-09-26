@@ -3,7 +3,7 @@ title: diskusi publik cermin dan launching marsinah FM
 date: 2012-04-21
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk KesetaraanRadio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

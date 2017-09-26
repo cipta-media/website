@@ -3,7 +3,7 @@ title: Pertemuan Relawan Baca
 date: 2012-03-31
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 ![200px-Maret_31_2012_Kartunet_Pertemuan_Relawan_Baca.JPG](/uploads/200px-Maret_31_2012_Kartunet_Pertemuan_Relawan_Baca.JPG){: .img-responsive .center-block }

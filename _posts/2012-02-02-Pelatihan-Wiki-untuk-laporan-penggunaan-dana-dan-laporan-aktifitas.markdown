@@ -3,7 +3,7 @@ title: Pelatihan Wiki untuk laporan penggunaan dana dan laporan aktifitas
 date: 2012-02-02
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Siaran Pers Bersama Koalisi Masyarakat Sipil Untuk Kasus Degewo
 date: 2012-05-29
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Mei_29_2012_Siaran_Pers_Koalisi_LSM_untuk_Kasus_Degewo.jpg](/uploads/200px-Mei_29_2012_Siaran_Pers_Koalisi_LSM_untuk_Kasus_Degewo.jpg){: .img-responsive .center-block }
 

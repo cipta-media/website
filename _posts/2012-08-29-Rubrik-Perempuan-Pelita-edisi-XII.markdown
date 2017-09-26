@@ -3,7 +3,7 @@ title: Rubrik Perempuan Pelita edisi XII
 date: 2012-08-29
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Rapat panitia
 date: 2012-02-07
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

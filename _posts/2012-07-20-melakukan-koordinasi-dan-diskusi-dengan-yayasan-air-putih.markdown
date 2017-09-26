@@ -3,7 +3,7 @@ title: 	Melakukan koordinasi dan diskusi dengan yayasan air putih
 date: 2012-07-20
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Juli_20-27_2012_Praktek_Frontline_SMS.jpg](/uploads/200px-Juli_20-27_2012_Praktek_Frontline_SMS.jpg){: .img-responsive .center-block }
 

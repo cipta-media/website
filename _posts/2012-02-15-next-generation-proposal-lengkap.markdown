@@ -3,7 +3,7 @@ title: Next Generation - Proposal Lengkap
 date: 2012-02-15 17:19:00 +07:00
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 layout: laporancmb
 ---
 

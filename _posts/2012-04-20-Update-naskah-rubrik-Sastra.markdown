@@ -3,7 +3,7 @@ title: Update naskah rubrik Sastra
 date: 2012-04-20
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Workshop bagi 15 jurnalis lokal yang medianya dipantau dan yang tidak dip
 date: 2012-06-19
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Juni_19_2012_Workshop_Jurnalis_Manager_Program_Membuka_acara.JPG](/uploads/200px-Juni_19_2012_Workshop_Jurnalis_Manager_Program_Membuka_acara.JPG){: .img-responsive .center-block }

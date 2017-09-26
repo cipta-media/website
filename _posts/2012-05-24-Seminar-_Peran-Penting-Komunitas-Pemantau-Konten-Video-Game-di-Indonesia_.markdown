@@ -3,7 +3,7 @@ title: Seminar "Peran Penting Komunitas Pemantau Konten Video Game di Indonesia"
 date: 2012-05-24
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

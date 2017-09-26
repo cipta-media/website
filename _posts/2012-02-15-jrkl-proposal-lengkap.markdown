@@ -3,8 +3,7 @@ title: JRKL - Proposal Lengkap
 date: 2012-02-15 19:17:00 +07:00
 categories:
 - laporan
-- Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan
-  dan Pemenuhan Kebutuhan Informasi
+- JRKL
 permalink: /proposal-jrkl/
 ---
 

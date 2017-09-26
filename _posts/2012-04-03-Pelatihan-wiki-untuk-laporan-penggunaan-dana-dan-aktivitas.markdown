@@ -3,7 +3,7 @@ title: Pelatihan wiki untuk laporan penggunaan dana dan aktivitas
 date: 2012-04-03
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![250px-April_03_April_MK_160_Pelatihan_wiki_.jpg](/uploads/250px-April_03_April_MK_160_Pelatihan_wiki_.jpg){: .img-responsive .center-block }

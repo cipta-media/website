@@ -3,7 +3,7 @@ title: Rekrutmen Kontributor/jaringan website ALDP
 date: 2012-09-03
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 
 **Tujuan** : Rekrutmen Kontributor/jaringan website ALDP

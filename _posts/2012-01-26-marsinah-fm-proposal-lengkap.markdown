@@ -3,7 +3,7 @@ title: Marsinah FM - Proposal Lengkap
 date: 2012-01-26 09:03:00 +07:00
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 ---
 
 ![Logo_Fblp.jpg](/uploads/Logo_Fblp.jpg){: .img-responsive .center-block }

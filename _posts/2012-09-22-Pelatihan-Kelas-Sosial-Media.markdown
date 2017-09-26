@@ -3,7 +3,7 @@ title: Pelatihan Kelas Sosial Media
 date: 2012-09-22
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 

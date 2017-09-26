@@ -3,8 +3,7 @@ title: Benor FM - Proposal Lengkap
 date: 2012-01-08 13:30:00 +07:00
 categories:
 - laporan
-- "“Benor FM” Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar
-  Orang Rimba"
+- Benor FM
 layout: laporancmb
 ---
 

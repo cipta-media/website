@@ -3,7 +3,7 @@ title: Liputan Khusus Kondisi Kabupaten Supiori
 date: 2012-06-29
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Juni_29_2012_liputan_Khusus_Kabupaten_Supiori.jpg](/uploads/200px-Juni_29_2012_liputan_Khusus_Kabupaten_Supiori.jpg){: .img-responsive .center-block }
 

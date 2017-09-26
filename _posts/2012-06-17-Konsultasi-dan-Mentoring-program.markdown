@@ -3,7 +3,7 @@ title: Konsultasi dan Mentoring program
 date: 2012-06-17
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Juni_17_2012_AJI_Banda_Aceh_Konsultasi_Newsletter.JPG](/uploads/200px-Juni_17_2012_AJI_Banda_Aceh_Konsultasi_Newsletter.JPG){: .img-responsive .center-block }

@@ -3,7 +3,7 @@ title: Volunter Gathering untuk mahasiswa
 date: 2012-03-31
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

@@ -3,7 +3,7 @@ title: Sosialisasi Indonesia Human Rights Blogg Award
 date: 2012-04-15
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

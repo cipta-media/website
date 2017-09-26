@@ -4,7 +4,7 @@ date: 2012-04-11
 categories:
 - laporan
 - sms
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 layout: laporancmb
 ---
 

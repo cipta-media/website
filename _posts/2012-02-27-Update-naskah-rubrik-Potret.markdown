@@ -3,7 +3,7 @@ title: Update naskah rubrik Potret
 date: 2012-02-27
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

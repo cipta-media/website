@@ -3,7 +3,7 @@ title: Pulang
 date: 2012-07-12
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Kunjungan Lokasi Acara Talkshow
 date: 2012-03-08
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 ![200px-Maret_8_2012_NextGeneration_Kunjungan_Sekolah_AL_Hafiidhi.JPG](/uploads/200px-Maret_8_2012_NextGeneration_Kunjungan_Sekolah_AL_Hafiidhi.JPG){: .img-responsive .center-block }

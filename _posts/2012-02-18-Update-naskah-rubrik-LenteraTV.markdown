@@ -3,7 +3,7 @@ title: Update naskah rubrik LenteraTV
 date: 2012-02-18
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

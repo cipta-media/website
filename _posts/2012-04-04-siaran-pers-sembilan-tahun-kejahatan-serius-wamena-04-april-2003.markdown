@@ -3,7 +3,7 @@ title: Siaran Pers Sembilan Tahun Kejahatan Serius Wamena 04 April 2003
 date: 2012-04-04
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-April_04_2012_siaran_Pers_Kasus_Wamena.jpg](/uploads/200px-April_04_2012_siaran_Pers_Kasus_Wamena.jpg){: .img-responsive .center-block }
 

@@ -4,7 +4,7 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

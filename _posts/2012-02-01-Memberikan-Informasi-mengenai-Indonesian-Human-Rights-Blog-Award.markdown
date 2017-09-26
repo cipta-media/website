@@ -3,7 +3,7 @@ title: Memberikan Informasi mengenai Indonesian Human Rights Blog Award
 date: 2012-02-01
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

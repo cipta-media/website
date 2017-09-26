@@ -4,7 +4,7 @@ date: 2012-03-28
 categories:
 - laporan
 - mentoring
-- Ibu  Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi  Perempuan dan Pemenuhan Kebutuhan Informasi
+- JRKL
 ---
 
      Oleh Siska Doviana, Sekretariat JRKL Lampung.

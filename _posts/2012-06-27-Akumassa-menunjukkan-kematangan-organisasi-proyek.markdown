@@ -3,7 +3,7 @@ title: 	Akumassa menunjukkan kematangan organisasi proyek
 date: 	2012-06-27
 categories:	
 - laporan	
-- Akumassa	
+- AKUMASSA.ORG	
 layout: laporancmb	
 ---	
 	

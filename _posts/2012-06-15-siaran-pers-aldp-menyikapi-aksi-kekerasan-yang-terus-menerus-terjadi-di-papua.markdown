@@ -3,7 +3,7 @@ title: Siaran Pers ALDP menyikapi aksi kekerasan yang terus-menerus terjadi Di P
 date: 2012-06-15
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Juni_15_2012_Siaran_Pers_ALDP_menyikapi_Aksi_Kekerasan_Di_Papua.jpg](/uploads/200px-Juni_15_2012_Siaran_Pers_ALDP_menyikapi_Aksi_Kekerasan_Di_Papua.jpg){: .img-responsive .center-block }
 

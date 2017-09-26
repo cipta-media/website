@@ -3,7 +3,7 @@ title: Redesign Website ALDP
 date: 2012-02-29
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Februari_29_2011_ALDP_Redesign_Website_ALDP.JPG](/uploads/200px-Februari_29_2011_ALDP_Redesign_Website_ALDP.JPG){: .img-responsive .center-block }
 

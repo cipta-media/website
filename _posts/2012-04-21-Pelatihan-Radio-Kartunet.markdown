@@ -3,7 +3,7 @@ title: Pelatihan Radio Kartunet
 date: 2012-04-14
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 ![200px-April_21_2012_Kartunet_Pelatihan_Radio.JPG](/uploads/200px-April_21_2012_Kartunet_Pelatihan_Radio.JPG){: .img-responsive .center-block }

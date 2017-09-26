@@ -3,7 +3,7 @@ title: Sharing perihal manajemen keuangan dengan pihak AJI Indonesia
 date: 2012-01-17
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

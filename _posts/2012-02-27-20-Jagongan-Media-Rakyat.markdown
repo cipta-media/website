@@ -3,7 +3,7 @@ title: Jagongan Media Rakyat
 date: 2012-02-27-20
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media 
+- Aldepe.com
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Mengadakan evaluasi dan koordinasi serta perencanaan penulisan newsletter
 date: 2012-09-03
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-September_03_2012_Rapat_Koordinasi_Bulanan_AJI_Banda_Aceh.JPG](/uploads/200px-September_03_2012_Rapat_Koordinasi_Bulanan_AJI_Banda_Aceh.JPG){: .img-responsive .center-block }

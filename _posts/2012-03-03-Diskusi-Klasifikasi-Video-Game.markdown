@@ -3,7 +3,7 @@ title: Diskusi Klasifikasi Video Game
 date: 2012-03-03
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 ![200px-Maret_3_2012_NextGeneration_Diskusi_Konten_Video_Game_dan_Klasifikasi.JPG](/uploads/200px-Maret_3_2012_NextGeneration_Diskusi_Konten_Video_Game_dan_Klasifikasi.JPG){: .img-responsive .center-block }

@@ -3,7 +3,7 @@ title: Jagongan Media Rakyat 2012
 date: 2012-02-23
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

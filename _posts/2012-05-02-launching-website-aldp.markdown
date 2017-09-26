@@ -3,7 +3,7 @@ title: Launching Website ALDP
 date: 2012-05-02
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Mei_02_2012_launching_Website_ALDP.jpg](/uploads/200px-Mei_02_2012_launching_Website_ALDP.jpg){: .img-responsive .center-block }
 

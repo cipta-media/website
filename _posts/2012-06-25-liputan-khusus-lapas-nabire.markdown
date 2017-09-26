@@ -3,7 +3,7 @@ title: Liputan Khusus LAPAS Nabire
 date: 2012-06-25
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-November_25_2012_Liputan_Khusus_LAPAS_Nabire.jpg](/uploads/200px-November_25_2012_Liputan_Khusus_LAPAS_Nabire.jpg){: .img-responsive .center-block }
 

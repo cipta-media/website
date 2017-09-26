@@ -3,7 +3,7 @@ title: Update naskah rubrik Jejak
 date: 2012-07-01
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

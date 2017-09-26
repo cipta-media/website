@@ -3,10 +3,9 @@ title: Rubrik Malam KPOP
 date: 2012-09-15
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_15_KPOP_-1.jpg](/uploads/200px-September_15_KPOP_-1.jpg){: .img-responsive .center-block }
 

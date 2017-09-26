@@ -3,7 +3,7 @@ title: Liputan khusus dan Advokasi Kasus Tambang Nikel Tablasupa Jayapura
 date: 2012-03-28
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Maret_29_2012_Advokasi_Kasus_Tambang_Tablasupa.jpg](/uploads/200px-Maret_29_2012_Advokasi_Kasus_Tambang_Tablasupa.jpg){: .img-responsive .center-block }
 

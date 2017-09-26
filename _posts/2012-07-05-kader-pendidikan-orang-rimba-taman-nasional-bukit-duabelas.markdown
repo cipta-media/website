@@ -4,7 +4,7 @@ date: 2012-07-05
 categories:	
 - laporan
 - sms
-- “Benor FM”, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba
+- Benor FM
 layout: laporancmb	
 ---
 

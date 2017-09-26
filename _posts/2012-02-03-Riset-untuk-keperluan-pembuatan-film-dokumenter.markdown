@@ -3,7 +3,7 @@ title: Riset untuk keperluan pembuatan film dokumenter
 date: 2012-02-03
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 layout: laporancmb
 ---
 

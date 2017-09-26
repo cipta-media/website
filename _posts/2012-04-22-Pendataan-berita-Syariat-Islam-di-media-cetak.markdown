@@ -3,7 +3,7 @@ title: Pendataan berita Syariat Islam di media cetak
 date: 2012-04-22
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-April_23_2012_AJi_Banda_Aceh_Sejumlah_anggota_AJI_Banda_Aceh_tengah_mendata_berita_SI.JPG](/uploads/200px-April_23_2012_AJi_Banda_Aceh_Sejumlah_anggota_AJI_Banda_Aceh_tengah_mendata_berita_SI.JPG){: .img-responsive .center-block }

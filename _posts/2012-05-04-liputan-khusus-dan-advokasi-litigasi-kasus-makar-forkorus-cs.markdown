@@ -3,7 +3,7 @@ title: Liputan Khusus dan advokasi litigasi kasus makar Forkorus Cs
 date: 2012-05-04
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Mei_04_2012_Pendampingan_Hukum_kasus_Makar_Fokrkurus_cs.JPG](/uploads/200px-Mei_04_2012_Pendampingan_Hukum_kasus_Makar_Fokrkurus_cs.JPG){: .img-responsive .center-block }
 

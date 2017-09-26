@@ -3,7 +3,7 @@ title: Pelatihan Wiki untuk Laporan Penggunaan Dana dan Aktivitas
 date: 2012-01-16
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

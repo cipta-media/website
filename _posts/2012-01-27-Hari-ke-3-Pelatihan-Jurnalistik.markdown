@@ -3,7 +3,7 @@ title: Hari ke-3 Pelatihan Jurnalistik
 date: 2012-01-27
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

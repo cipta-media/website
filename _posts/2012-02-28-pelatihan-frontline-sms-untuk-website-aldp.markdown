@@ -3,7 +3,7 @@ title: Pelatihan FrontLine SMS untuk Website ALDP
 date: 2012-02-28
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Februari_28_2011_ALDP_Pelatihan_Frontline_SMS.JPG](/uploads/200px-Februari_28_2011_ALDP_Pelatihan_Frontline_SMS.JPG){: .img-responsive .center-block }
 

@@ -3,7 +3,7 @@ title: mensosialisasikan kompetisi Indonesian Human Rigts Blog Awards
 date: 2012-03-17
 categories:
 - laporan
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

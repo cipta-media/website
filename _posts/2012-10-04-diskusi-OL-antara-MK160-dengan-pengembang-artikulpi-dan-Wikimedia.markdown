@@ -3,7 +3,7 @@ title: diskusi OL antara MK160 dengan pengembang artikulpi dan Wikimedia terkait
 date: 2012-10-04
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Diskusi_OL_MK160_wikimedia.png](/uploads/200px-Diskusi_OL_MK160_wikimedia.png){: .img-responsive .center-block }

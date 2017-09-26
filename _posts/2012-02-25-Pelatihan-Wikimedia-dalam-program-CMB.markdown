@@ -3,7 +3,7 @@ title: Pelatihan Wikimedia dalam program CMB
 date: 2012-02-25
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 ![200px-Februari_25_2012_NextGeneration_Pelatihan_Wiki.jpg](/uploads/200px-Februari_25_2012_NextGeneration_Pelatihan_Wiki.jpg){: .img-responsive .center-block }

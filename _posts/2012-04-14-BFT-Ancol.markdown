@@ -3,7 +3,7 @@ title: BFT Ancol
 date: 2012-04-14
 categories:
 - laporan
-- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com
 layout: laporancmb
 ---
 ![200px-April_14_2012_Kartunet_BFT_Ancol.JPG](/uploads/200px-April_14_2012_Kartunet_BFT_Ancol.JPG){: .img-responsive .center-block }
