@@ -4,7 +4,7 @@ date: 2015-04-16
 categories:
 - laporan
 - mentoring
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
 ---
 
 **Laporan mentor pembimbing Roedy Rustam tahap III**

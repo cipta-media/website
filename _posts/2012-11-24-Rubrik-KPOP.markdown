@@ -3,7 +3,7 @@ title: Rubrik KPOP
 date: 2012-11-24
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

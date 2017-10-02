@@ -3,7 +3,7 @@ title: 	Laporan Hibah Termin II
 date: 	2013-01-28
 categories:	
 - laporan	
-- Akumassa	
+- AKUMASSA.ORG
 layout: laporancmb	
 ---	
 	

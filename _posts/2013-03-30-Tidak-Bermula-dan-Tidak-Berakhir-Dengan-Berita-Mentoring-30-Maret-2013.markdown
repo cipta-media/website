@@ -4,7 +4,7 @@ date: 2013-03-30
 categories:
 - laporan
 - mentoring
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 layout: laporancmb
 ---
 

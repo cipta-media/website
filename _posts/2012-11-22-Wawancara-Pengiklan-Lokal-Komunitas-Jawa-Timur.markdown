@@ -3,7 +3,7 @@ title: Wawancara Pengiklan Lokal Komunitas Jawa Timur
 date: 2012-11-22
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

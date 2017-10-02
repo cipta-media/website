@@ -3,7 +3,7 @@ title: Rubrik Anti Galau
 date: 2012-11-14
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

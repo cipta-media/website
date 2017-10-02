@@ -3,7 +3,7 @@ title: 	Liputan harian untuk Isu Ekosob dan Pemekaran
 date: 2012-11-01
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-November_01-30_2012_Liputan_harian_isu_Ekosob_dan_Pemekaran.jpg](/uploads/200px-November_01-30_2012_Liputan_harian_isu_Ekosob_dan_Pemekaran.jpg){: .img-responsive .center-block }
 

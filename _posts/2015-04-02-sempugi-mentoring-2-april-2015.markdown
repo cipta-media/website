@@ -4,7 +4,7 @@ date: 2015-04-02
 categories:
 - laporan
 - mentoring
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
 ---
 
 **Laporan mentor monitoring Idaman Andarmosoko tahap III**

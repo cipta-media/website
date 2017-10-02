@@ -3,7 +3,7 @@ title: apresiasi surat kabar untuk Media Komunitas Angkringan
 date: 2013-02-07
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![Februari_7_2013_MK160_Kegiatan_MK160_muncul_di_surat_kabar.jpg](/uploads/Februari_7_2013_MK160_Kegiatan_MK160_muncul_di_surat_kabar.jpg){: .img-responsive .center-block }

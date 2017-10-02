@@ -4,7 +4,7 @@ date: 2014-08-11
 categories:
 - laporan
 - mentoring
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
 ---
 
 **Project Cipta Media Seluler 2014, Sempugi**

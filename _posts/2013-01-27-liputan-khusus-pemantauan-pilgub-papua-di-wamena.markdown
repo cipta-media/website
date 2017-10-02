@@ -3,7 +3,7 @@ title: Liputan Khusus Pemantauan Pilgub Papua di Wamena
 date: 2013-01-27
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 layout: laporancmb
 ---
 

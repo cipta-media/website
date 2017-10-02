@@ -3,7 +3,7 @@ title: 	Dari Siska ditujukan ke Otty Widasari
 date: 	2013-01-23
 categories:	
 - laporan	
-- Akumassa	
+- AKUMASSA.ORG
 layout: laporancmb	
 ---	
 		

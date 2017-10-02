@@ -3,7 +3,7 @@ title: diskusi OL antara MK160 dengan pengembang artikulpi terkait sistem aplika
 date: 2012-10-19
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

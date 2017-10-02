@@ -3,7 +3,7 @@ title: Pertemuan dengan bos Ford
 date: 2013-02-26
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

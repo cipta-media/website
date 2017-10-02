@@ -3,7 +3,7 @@ title: Pengambilan data dan pendokumentasian Rakom MTAS FM
 date: 2012-11-14
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

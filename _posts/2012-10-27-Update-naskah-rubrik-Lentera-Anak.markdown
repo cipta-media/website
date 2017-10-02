@@ -3,7 +3,7 @@ title: Update naskah rubrik Lentera Anak
 date: 2012-10-27
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

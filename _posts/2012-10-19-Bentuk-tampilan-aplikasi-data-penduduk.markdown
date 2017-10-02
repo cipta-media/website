@@ -3,7 +3,7 @@ title: Bentuk tampilan aplikasi data penduduk dalam sistem aplikasi MK160 setela
 date: 2012-10-19
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Contoh_data_penduduk_MK160.png](/uploads/200px-Contoh_data_penduduk_MK160.png){: .img-responsive .center-block }

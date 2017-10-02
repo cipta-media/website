@@ -3,7 +3,7 @@ title: Rubrik Bollywood Hits
 date: 2012-11-26
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

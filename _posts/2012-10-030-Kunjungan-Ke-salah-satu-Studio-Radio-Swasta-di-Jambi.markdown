@@ -3,7 +3,7 @@ title: 	Kunjungan Ke salah satu Studio Radio Swasta di Jambi
 date: 	2012-10-030
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

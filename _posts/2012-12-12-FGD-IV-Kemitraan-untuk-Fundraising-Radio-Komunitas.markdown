@@ -3,7 +3,7 @@ title: FGD IV Kemitraan untuk Fundraising Radio Komunitas.
 date: 2012-12-12
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

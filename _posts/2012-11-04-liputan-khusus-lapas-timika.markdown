@@ -3,7 +3,7 @@ title: Liputan Khusus LAPAS Timika
 date: 2012-11-04
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-November_04-05_2012_Liputan_Khusus_LAPAS_Timika.jpg](/uploads/200px-November_04-05_2012_Liputan_Khusus_LAPAS_Timika.jpg){: .img-responsive .center-block }
 

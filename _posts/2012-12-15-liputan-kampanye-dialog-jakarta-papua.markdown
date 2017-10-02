@@ -3,7 +3,7 @@ title: Liputan Kampanye dialog Jakarta-Papua
 date: 2012-12-15
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Desember_15_2012_Liputan_Khusus_Dialog_Jakarta-Papua.jpg](/uploads/200px-Desember_15_2012_Liputan_Khusus_Dialog_Jakarta-Papua.jpg){: .img-responsive .center-block }
 

@@ -3,7 +3,7 @@ title: Sosialisasi program SMS Komunitas yang merupakan program kegiatan media k
 date: 2012-11-29
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-November_29_2012_Sosialisasi_Dusun_Mriyan.jpg](/uploads/200px-November_29_2012_Sosialisasi_Dusun_Mriyan.jpg){: .img-responsive .center-block }

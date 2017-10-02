@@ -4,7 +4,6 @@ date: 2012-12-31 14:38:00 +07:00
 categories:
 - laporan
 - Kartunet.com
-  Disabilitas
 ---
 
 **Kartunet**

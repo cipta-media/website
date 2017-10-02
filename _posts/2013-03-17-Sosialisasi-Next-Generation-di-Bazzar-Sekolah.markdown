@@ -3,7 +3,7 @@ title: Sosialisasi Next Generation di Bazzar Sekolah
 date: 2013-03-17
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

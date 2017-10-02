@@ -3,7 +3,7 @@ title: Launching Film Documenter
 date: 2013-05-07
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

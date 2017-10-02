@@ -3,7 +3,7 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2013-02-21
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

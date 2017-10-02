@@ -3,7 +3,7 @@ title: Kegiatan ini untuk menyatukan pandangan evauasi program Mendorong Media S
 date: 2013-01-21
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Januari_21_2013_Aktivitas_AJI_Banda_Aceh.JPG](/uploads/200px-Januari_21_2013_Aktivitas_AJI_Banda_Aceh.JPG){: .img-responsive .center-block }

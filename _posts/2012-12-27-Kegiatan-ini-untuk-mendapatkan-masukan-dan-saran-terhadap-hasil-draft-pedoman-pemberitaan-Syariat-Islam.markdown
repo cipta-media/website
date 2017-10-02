@@ -3,7 +3,7 @@ title: Kegiatan ini untuk mendapatkan masukan dan saran terhadap hasil draft ped
 date: 2012-12-27
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Desember_27_2012_Aktivitas_AJI_Banda_Aceh.JPG](/uploads/200px-Desember_27_2012_Aktivitas_AJI_Banda_Aceh.JPG){: .img-responsive .center-block }

@@ -3,7 +3,7 @@ title: Louncing seminar dan pelatihan aplikasi bersama komunitas
 date: 2013-06-27
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

@@ -199,7 +199,6 @@ $(document).ready(function(){
 			enableContextMenu: true,
 			clickDay: function(e) {
 				if(e.events.length > 0) {
-					var show = 1;
 					var content = '';
 
 					for(var i in e.events) {
@@ -210,19 +209,31 @@ $(document).ready(function(){
 									+ '</div>';
 					}
 
-					$(e.element).popover({ 
-						trigger: 'manual',
-						container: 'body',
-						html:true,
-						content: content
+					var popover = $(e.element).popover({ 
+    			        trigger: 'manual',
+    			        container: 'body',
+  				        html:true,
+          				content: content,
+          			  	placement: 'bottom'
 					});
 
-					$(e.element).popover('show');
+					var popover =  $(e.element).data('bs.popover').tip();
+					var alreadyVisible = false;
+					$('div.popover:visible').each(function() {
+						if($(this).get(0) == popover.get(0)) {
+							alreadyVisible = true;
+						}
+						else {
+							$(this).hide();
+						}
+					});
+
+					if(!alreadyVisible) {
+						$(e.element).popover('show');
+					}
 				}
 			},
-			dayContextMenu: function(e) {
-				$(e.element).popover('hide');
-			},
+
 			dataSource: [
 			{% for post in site.categories['laporan'] %}
 				{

@@ -3,7 +3,7 @@ title: FGD Penyusunan Modul Pelatihan Rakom
 date: 2013-05-13
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

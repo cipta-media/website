@@ -4,7 +4,7 @@ date: 2013-01-25
 categories:
 - laporan
 - mentoring
-- Next Generation – Media Watch & Literacy
+- Next Generation
 layout: laporancmb
 ---
 

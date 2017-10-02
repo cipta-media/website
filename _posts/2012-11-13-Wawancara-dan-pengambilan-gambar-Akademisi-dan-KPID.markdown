@@ -3,7 +3,7 @@ title: Wawancara dan pengambilan gambar Akademisi dan KPID
 date: 2012-11-13
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

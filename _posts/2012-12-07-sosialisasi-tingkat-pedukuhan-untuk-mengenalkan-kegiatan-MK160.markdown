@@ -3,7 +3,7 @@ title: sosialisasi tingkat pedukuhan untuk mengenalkan kegiatan MK160
 date: 2012-12-07
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Desember_7_2012_MK160_sosialisasi_Dusun_Kepek.jpeg](/uploads/200px-Desember_7_2012_MK160_sosialisasi_Dusun_Kepek.jpeg){: .img-responsive .center-block }

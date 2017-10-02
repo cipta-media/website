@@ -3,7 +3,7 @@ title: Worshop jurnalis lanjutan soal Etika Peliputan dan Pemberitaan
 date: 2013-04-27
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-April_27_2013_Aktivitas_AJI_Banda_Aceh_Workshop_Jurnalis_Soal_Etika_Pemberitaan.JPG](/uploads/200px-April_27_2013_Aktivitas_AJI_Banda_Aceh_Workshop_Jurnalis_Soal_Etika_Pemberitaan.JPG){: .img-responsive .center-block }

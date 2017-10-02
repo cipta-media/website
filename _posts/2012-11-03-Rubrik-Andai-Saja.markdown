@@ -3,7 +3,7 @@ title: Rubrik Andai Saja
 date: 2012-11-03
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

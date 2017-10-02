@@ -3,7 +3,7 @@ title: Pengambilan Data dan Pendokumentasian RKW
 date: 2012-11-01
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

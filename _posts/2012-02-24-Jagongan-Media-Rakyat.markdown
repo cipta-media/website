@@ -3,7 +3,7 @@ title: 	Jagongan Media Rakyat
 date: 	2012-02-24
 categories:	
 - laporan	
-- Akumassa	
+- AKUMASSA.ORG
 layout: laporancmb	
 ---	
 	

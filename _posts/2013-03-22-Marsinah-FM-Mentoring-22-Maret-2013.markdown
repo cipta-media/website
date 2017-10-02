@@ -4,7 +4,7 @@ date: 2013-03-22
 categories:
 - laporan
 - mentoring
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

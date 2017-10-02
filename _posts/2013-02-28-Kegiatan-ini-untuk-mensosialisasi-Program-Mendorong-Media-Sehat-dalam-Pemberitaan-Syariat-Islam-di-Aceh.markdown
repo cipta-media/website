@@ -3,7 +3,7 @@ title: Kegiatan ini untuk mensosialisasi Program Mendorong Media Sehat dalam Pem
 date: 2013-02-28
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Februari_28_2012_Roadshow_Media_Sehat_Takengon.JPG](/uploads/200px-Februari_28_2012_Roadshow_Media_Sehat_Takengon.JPG){: .img-responsive .center-block }

@@ -4,7 +4,7 @@ title: Tidak Bermula Dan Tidak Berakhir Dengan Berita - Laporan Narasi Pertanggu
 date: 2012-10-29 18:28:00 +07:00
 categories:
 - laporan
-- Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
+- Di Balik Frekuensi
 ---
 
 **Ucu Agustin**

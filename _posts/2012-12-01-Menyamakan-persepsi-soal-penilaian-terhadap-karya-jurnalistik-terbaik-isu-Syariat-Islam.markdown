@@ -3,7 +3,7 @@ title: Menyamakan persepsi soal penilaian terhadap karya jurnalistik terbaik isu
 date: 2012-12-01
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Desember_1_2012_Aktivitas_AJI_Banda_Aceh_Ketua_Divisi_Etik_AJI_Indonesia,_Willy_Pramudya_menyampaikan_materi_dalam_Workshop_Jurnalis_Pemberitaan_Syariat_Islam_di_Banda_Aceh.JPG](/uploads/200px-Desember_1_2012_Aktivitas_AJI_Banda_Aceh_Ketua_Divisi_Etik_AJI_Indonesia,_Willy_Pramudya_menyampaikan_materi_dalam_Workshop_Jurnalis_Pemberitaan_Syariat_Islam_di_Banda_Aceh.JPG){: .img-responsive .center-block }

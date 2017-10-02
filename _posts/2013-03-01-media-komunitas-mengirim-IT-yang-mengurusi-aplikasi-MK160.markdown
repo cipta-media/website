@@ -3,7 +3,7 @@ title: media komunitas mengirim IT yang mengurusi aplikasi MK160
 date: 2013-03-01
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![Maret_1_2013_MK160_Pelatihan_Teknis_Aplikasi_MK160.jpg](/uploads/Maret_1_2013_MK160_Pelatihan_Teknis_Aplikasi_MK160.jpg){: .img-responsive .center-block }

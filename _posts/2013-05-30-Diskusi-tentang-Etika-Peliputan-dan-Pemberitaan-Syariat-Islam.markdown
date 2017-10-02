@@ -3,7 +3,7 @@ title: Diskusi tentang Etika Peliputan dan Pemberitaan Syariat Islam
 date: 2013-05-30
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Mei_30_2013_Aktivitas_AJI_Banda_Aceh_Peserta_Diskusi_Lanjutan_Syariat_Islam.JPG](/uploads/200px-Mei_30_2013_Aktivitas_AJI_Banda_Aceh_Peserta_Diskusi_Lanjutan_Syariat_Islam.JPG){: .img-responsive .center-block }

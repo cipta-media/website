@@ -3,7 +3,7 @@ title: Seminar terkait "Pemanfaatan SMS Sebagai Media Komunitas Baru".
 date: 2013-07-06
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

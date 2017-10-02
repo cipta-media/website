@@ -3,7 +3,7 @@ title: Seminar dan Launching Gerakan
 date: 2013-03-09
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

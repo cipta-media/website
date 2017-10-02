@@ -4,7 +4,7 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
-- Ibu  Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi  Perempuan dan Pemenuhan Kebutuhan Informasi
+- JRKL
 ---
 
      Melalui surel dari Siska ditujukan pada Rifky Indrawan dan Igo

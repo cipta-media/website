@@ -3,7 +3,7 @@ title: Rubrik Dangdut Karaoke
 date: 2013-02-09
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

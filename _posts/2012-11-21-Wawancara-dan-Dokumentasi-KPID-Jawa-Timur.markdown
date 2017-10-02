@@ -3,7 +3,7 @@ title: Wawancara dan Dokumentasi KPID Jawa Timur
 date: 2012-11-21
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

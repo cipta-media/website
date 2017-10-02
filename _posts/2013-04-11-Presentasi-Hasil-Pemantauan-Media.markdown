@@ -3,7 +3,7 @@ title: Presentasi Hasil Pemantauan Media selama Setahun dan Seminar Nasional Eti
 date: 2013-04-11
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-April_11_2013_Aktivitas_AJI_Banda_ACeh_Seminar_Etika_Media.JPG](/uploads/200px-April_11_2013_Aktivitas_AJI_Banda_ACeh_Seminar_Etika_Media.JPG){: .img-responsive .center-block }

@@ -3,7 +3,7 @@ title: Acara Bincang Edukasi
 date: 2013-01-19
 categories:
 - laporan
-- Next Generation – Media Watch & Literacy
+- Next Generation
 ---
 
 

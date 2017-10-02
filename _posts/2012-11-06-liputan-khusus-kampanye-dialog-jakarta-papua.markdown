@@ -3,7 +3,7 @@ title: Liputan Khusus kampanye dialog Jakarta-Papua
 date: 2012-11-06
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-November_06_2012_liputan_khusus_dialog_Jakarta_Papua_Timika.jpg](/uploads/200px-November_06_2012_liputan_khusus_dialog_Jakarta_Papua_Timika.jpg){: .img-responsive .center-block }
 

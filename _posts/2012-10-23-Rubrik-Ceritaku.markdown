@@ -3,7 +3,7 @@ title: Rubrik Ceritaku
 date: 2012-10-23
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: Rubrik Lagu nusantara
 date: 2013-01-18
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

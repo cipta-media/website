@@ -3,7 +3,7 @@ title: pelatihan dan pengenalan entry data warga pedukuhan kowen 2 program kegia
 date: 2012-10-29
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Oktober_29_2012_MK160_Pelatihan_Laporan_Kegiatan.jpg](/uploads/200px-Oktober_29_2012_MK160_Pelatihan_Laporan_Kegiatan.jpg){: .img-responsive .center-block }

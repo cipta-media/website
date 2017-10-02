@@ -4,7 +4,7 @@ date: 2014-08-26
 categories:
 - laporan
 - mentoring
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
 ---
 
 **Laporan Mentor Idaman Andarmosoko 26 Agustus 2014**

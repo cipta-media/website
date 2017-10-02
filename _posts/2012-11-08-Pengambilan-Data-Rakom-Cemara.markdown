@@ -3,7 +3,7 @@ title: Pengambilan Data Rakom Cemara
 date: 2012-11-08
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

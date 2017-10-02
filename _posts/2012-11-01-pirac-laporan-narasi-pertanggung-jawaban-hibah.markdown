@@ -3,8 +3,7 @@ title: Pirac - Laporan Narasi Pertanggung Jawaban Hibah
 date: 2012-11-01 15:10:00 +07:00
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan
-  Media komunitas di Indonesia
+- PIRAC
 ---
 
 **Laporan Narasi Pertanggung Jawaban Hibah**

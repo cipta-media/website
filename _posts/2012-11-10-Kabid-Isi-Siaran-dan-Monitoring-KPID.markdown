@@ -3,7 +3,7 @@ title: Kabid Isi Siaran dan Monitoring KPID
 date: 2012-11-10
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

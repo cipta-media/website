@@ -3,7 +3,7 @@ title: pelatihan teknis oleh tim Articulpi
 date: 2012-12-04
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Desember_4-5_2012_MK160_pelatihan_teknis.jpeg](/uploads/200px-Desember_4-5_2012_MK160_pelatihan_teknis.jpeg){: .img-responsive .center-block }

@@ -4,7 +4,7 @@ date: 2013-03-20
 categories:
 - laporan
 - mentoring
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam
+- Pantau
 ---
 
      Dari Siska Doviana kepada Imam Shofwan via surel subyek: Surat Resmi Untuk Yayasan Pantau Mengenai Tenggat Waktu Laporan Hibah Termin II dan Penyelesaiannya

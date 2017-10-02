@@ -3,7 +3,7 @@ title: Pantau - Laporan Narasi Pertanggung Jawaban Hibah Termin II
 date: 2013-04-11 17:43:00 +07:00
 categories:
 - laporan
-- Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam dan Media Watch Lapindo
+- Pantau dan Media Watch Lapindo
 ---
 
 **Wikimedia Indonesia**

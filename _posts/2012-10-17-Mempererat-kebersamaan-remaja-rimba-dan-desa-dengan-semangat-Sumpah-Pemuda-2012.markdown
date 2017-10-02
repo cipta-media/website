@@ -3,7 +3,7 @@ title: 	Mempererat kebersamaan remaja rimba dan desa dengan semangat Sumpah Pemu
 date: 	2012-10-17
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

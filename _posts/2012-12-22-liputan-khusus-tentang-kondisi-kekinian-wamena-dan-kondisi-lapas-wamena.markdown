@@ -3,7 +3,7 @@ title: Liputan khusus tentang kondisi kekinian wamena dan Kondisi lapas Wamena
 date: 2012-12-22
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Desember_22-27_2012_Liputan_Khusus_Wamena.jpg](/uploads/200px-Desember_22-27_2012_Liputan_Khusus_Wamena.jpg){: .img-responsive .center-block }
 

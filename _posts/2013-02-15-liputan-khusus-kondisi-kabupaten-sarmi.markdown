@@ -3,7 +3,7 @@ title: Liputan Khusus kondisi Kabupaten Sarmi
 date: 2013-02-15
 categories:
 - laporan
-- Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
+- Aldepe.com
 ---
 ![200px-Februari_15-18_2013_Liputan_Khusus_Sarmi.jpg](/uploads/200px-Februari_15-18_2013_Liputan_Khusus_Sarmi.jpg){: .img-responsive .center-block }
 

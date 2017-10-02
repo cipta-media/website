@@ -3,7 +3,7 @@ title: Rubrik Dangdut Asiik
 date: 2012-11-08
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

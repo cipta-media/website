@@ -3,7 +3,7 @@ title: Rapat persiapan louncing MK160
 date: 2013-06-09
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

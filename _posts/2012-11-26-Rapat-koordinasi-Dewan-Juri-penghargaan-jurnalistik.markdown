@@ -3,7 +3,7 @@ title: Rapat koordinasi Dewan Juri penghargaan jurnalistik
 date: 2012-11-26
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-November_26_2012_AJI_Banda_Aceh_Rapat_Dewan_Juri_Penghargaan_Karya_Jurnalistik.JPG](/uploads/200px-November_26_2012_AJI_Banda_Aceh_Rapat_Dewan_Juri_Penghargaan_Karya_Jurnalistik.JPG){: .img-responsive .center-block }

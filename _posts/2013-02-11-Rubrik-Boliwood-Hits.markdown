@@ -3,7 +3,7 @@ title: Rubrik Boliwood Hits
 date: 2013-02-11
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

@@ -3,7 +3,7 @@ title: 	Pra Evaluasi Dengar Pendapat (EDP) Benor FM dan 9 Lembaga Penyiaran (LP)
 date: 	2012-10-18
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

@@ -3,7 +3,7 @@ title: Rubrik tembang kenangan
 date: 2012-12-10
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

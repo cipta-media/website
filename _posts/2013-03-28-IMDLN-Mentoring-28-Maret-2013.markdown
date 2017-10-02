@@ -4,7 +4,7 @@ date: 2013-03-28
 categories:
 - laporan
 - mentoring
-- Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
+- Human Rights Blogger Award
 layout: laporancmb
 ---
 

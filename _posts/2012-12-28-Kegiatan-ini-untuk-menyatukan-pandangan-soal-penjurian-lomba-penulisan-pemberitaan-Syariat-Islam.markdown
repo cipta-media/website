@@ -3,7 +3,7 @@ title: Kegiatan ini untuk menyatukan pandangan soal penjurian lomba penulisan pe
 date: 2012-12-28
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Desember_28_2012_Rapat_Dewan_Juri.JPG](/uploads/200px-Desember_28_2012_Rapat_Dewan_Juri.JPG){: .img-responsive .center-block }

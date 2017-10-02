@@ -3,7 +3,7 @@ title: Presentasi Hasil Pemantauan Pemberitaan Syariat Islam di hadapan publik d
 date: 2012-10-18
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Oktober_18_2012_AJI_Banda_Aceh_Seminar_Nasional_Etika_Media.JPG](/uploads/200px-Oktober_18_2012_AJI_Banda_Aceh_Seminar_Nasional_Etika_Media.JPG){: .img-responsive .center-block }

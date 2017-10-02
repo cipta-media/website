@@ -3,7 +3,7 @@ title: Desa Timbulharjo, Sewoh, Bantul, DIY ada pelaksanaan pemilihan kepada des
 date: 2013-04-14
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![April_14_2014_MK160_Penghitungan_Cepat_Pilurdes.jpg](/uploads/April_14_2014_MK160_Penghitungan_Cepat_Pilurdes.jpg){: .img-responsive .center-block }

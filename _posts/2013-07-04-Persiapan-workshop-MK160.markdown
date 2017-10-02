@@ -3,7 +3,7 @@ title: Persiapan workshop MK160
 date: 2013-07-04
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![Juli_4_2013_MK160_Persiapan_Instalasi_Untuk_Workshop.jpg](/uploads/Juli_4_2013_MK160_Persiapan_Instalasi_Untuk_Workshop.jpg){: .img-responsive .center-block }

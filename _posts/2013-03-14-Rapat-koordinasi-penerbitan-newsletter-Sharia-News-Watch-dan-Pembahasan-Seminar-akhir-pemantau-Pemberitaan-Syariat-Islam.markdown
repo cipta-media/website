@@ -3,7 +3,7 @@ title: Rapat koordinasi penerbitan newsletter Sharia News Watch dan Pembahasan S
 date: 2013-03-14
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Maret_14_2013_Aktivitas_AJI_Banda_Aceh.JPG](/uploads/200px-Maret_14_2013_Aktivitas_AJI_Banda_Aceh.JPG){: .img-responsive .center-block }

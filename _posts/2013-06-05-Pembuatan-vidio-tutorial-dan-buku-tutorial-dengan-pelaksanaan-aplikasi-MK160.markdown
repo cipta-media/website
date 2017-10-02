@@ -3,7 +3,7 @@ title: Pembuatan vidio tutorial dan buku tutorial dengan pelaksanaan aplikasi MK
 date: 2013-06-05
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

@@ -3,7 +3,7 @@ title: Rubrik hak dan hukum
 date: 2013-02-08
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

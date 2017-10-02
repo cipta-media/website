@@ -3,7 +3,7 @@ title: Pemasangan spanduk untuk publikasi seminar dan workshop dalam rangka loun
 date: 2013-07-03
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 

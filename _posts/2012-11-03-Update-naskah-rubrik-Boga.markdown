@@ -3,7 +3,7 @@ title: Update naskah rubrik Boga
 date: 2012-11-03
 categories:
 - laporan
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

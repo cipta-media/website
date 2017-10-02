@@ -3,7 +3,7 @@ title: Pengembangan Usaha untuk Fundraising Rakom
 date: 2012-11-19
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

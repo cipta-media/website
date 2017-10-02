@@ -3,7 +3,7 @@ title: Petugas administrasi tengah menyiapkan newsletter Sharia News Watch Syari
 date: 2013-03-15
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-Maret_15_2013_Aktivitas_AJI_Banda_Aceh_Distribusi_Newsletter_Edisi_IV.JPG](/uploads/200px-Maret_15_2013_Aktivitas_AJI_Banda_Aceh_Distribusi_Newsletter_Edisi_IV.JPG){: .img-responsive .center-block }

@@ -4,7 +4,7 @@ date: 2014-11-01
 categories:
 - laporan
 - mentoring
-- Sempugi - Ringtone dan Wallpaper
+- Sempugi
 ---
 
 **Artikel**

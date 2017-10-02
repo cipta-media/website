@@ -3,8 +3,7 @@ title: JRKL - Laporan Narasi Pertanggung Jawaban Hibah Termin II
 date: 2013-02-14 14:26:00 +07:00
 categories:
 - laporan
-- Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan
-  dan Pemenuhan Kebutuhan Informasi
+- JRKL
 permalink: /laporan-termin-2/jrkl/
 ---
 

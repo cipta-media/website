@@ -3,7 +3,7 @@ title: Sosialisasi program SMS Komunitas yang merupakan program kegiatan media k
 date: 2012-11-17
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![November_17_2012_MK160_Sosialisasi_Pedukuhan_Sewon.JPG](/uploads/November_17_2012_MK160_Sosialisasi_Pedukuhan_Sewon.JPG){: .img-responsive .center-block }

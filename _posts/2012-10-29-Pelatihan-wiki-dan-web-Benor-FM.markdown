@@ -3,7 +3,7 @@ title: 	Pelatihan wiki dan web Benor FM
 date: 	2012-10-29
 categories:	
 - laporan	
-- Benor_FM- Wiki Cipta Media Seluler	
+- Benor FM
 layout: laporancmb	
 ---	
 	

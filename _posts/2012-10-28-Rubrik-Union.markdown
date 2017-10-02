@@ -3,7 +3,7 @@ title: Rubrik Union
 date: 2012-10-28
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

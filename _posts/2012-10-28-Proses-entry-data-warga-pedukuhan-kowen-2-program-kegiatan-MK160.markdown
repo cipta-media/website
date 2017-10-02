@@ -3,7 +3,7 @@ title: Proses entry data warga pedukuhan kowen 2 program kegiatan MK160
 date: 2012-10-28
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![200px-Oktober_28_2012_MK160_Entry_Data_Kowen_2.jpg](/uploads/200px-Oktober_28_2012_MK160_Entry_Data_Kowen_2.jpg){: .img-responsive .center-block }

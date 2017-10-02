@@ -3,7 +3,7 @@ title: Media Komunitas angkringan melakukan proses konvergensi media bersama keg
 date: 2013-03-22
 categories:
 - laporan
-- MK-160 - Media Komunitas 160 Karakter
+- MK-160
 ---
 
 ![Maret_22_2013_MK160_Konvergensi_Media_.jpg](/uploads/Maret_22_2013_MK160_Konvergensi_Media_.jpg){: .img-responsive .center-block }

@@ -3,7 +3,7 @@ title: Perempuan Pelita
 date: 2013-01-31
 categories:
 - laporan
-- Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
+- Marsinah FM
 layout: laporancmb
 ---
 

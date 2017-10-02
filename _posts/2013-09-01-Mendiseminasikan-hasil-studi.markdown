@@ -3,7 +3,7 @@ title: Mendiseminasikan hasil studi
 date: 2013-09-01
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 

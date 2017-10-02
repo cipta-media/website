@@ -3,7 +3,7 @@ title: Menyamakan persepsi soal penilaian terhadap karya jurnalistik terbaik isu
 date: 2012-11-28
 categories:
 - laporan
-- Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
+- AJI Banda Aceh
 ---
 
 ![200px-November_28_2012_Aktivitas_AJI_Banda_Aceh,_Empat_anggota_Dewan_Juri_Penghargaan_Karya_Jurnalistik_Pemberitaan_Syariat_Islam_di_Blac_Jack_Coffee.JPG](/uploads/200px-November_28_2012_Aktivitas_AJI_Banda_Aceh,_Empat_anggota_Dewan_Juri_Penghargaan_Karya_Jurnalistik_Pemberitaan_Syariat_Islam_di_Blac_Jack_Coffee.JPG){: .img-responsive .center-block }

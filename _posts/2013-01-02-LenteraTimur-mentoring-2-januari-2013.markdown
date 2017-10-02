@@ -4,7 +4,7 @@ date: 2013-01-02
 categories:
 - laporan
 - mentoring
-- LenteraTimur.com – Menyigi Identitas Indonesia
+- LenteraTimur.com
 layout: laporancmb
 ---
 

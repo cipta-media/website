@@ -3,7 +3,7 @@ title: Wawancara & Pendokumentasian JRK Wilayah Yogyakarta
 date: 2012-11-03
 categories:
 - laporan
-- Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
+- PIRAC
 layout: laporancmb
 ---
 
