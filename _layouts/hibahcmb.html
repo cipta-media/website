@@ -13,15 +13,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="/index.html"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
+                <a href="/index.html" id="i18_title"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right" id="i18_navbar">
                     <li><a href="/tentang-ekspresi.html">Cipta Media Ekspresi</a></li>
                     <li class="dropdown mega-dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Terdahulu <span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Lainnya <span class="caret"></span></a>
                         <ul class="dropdown-menu mega-dropdown-menu row">
-                        	<li class="col-sm-4">
+                            <li class="col-sm-4">
                                 <ul>
                                     <li class="dropdown-header">Cipta Media Independen</li>
                                     <li><a href="#">Tentang</a></li>
@@ -35,7 +35,7 @@
                                     <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
                                     <li><a href="/ciptamediaseluler/penerimahibah.html">Penerima Hibah</a></li>
                                     <li><a href="/ciptamediaseluler/hibahcms-semua.html">Pendaftar Hibah</a></li>
-                                    <li><a href="#">Tim</a></li>
+                                    <li><a href="/ciptamediaseluler/timkami.html">Tim</a></li>
                                 </ul>
                             </li>
                             <li class="col-sm-4">
@@ -44,7 +44,7 @@
                                     <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
                                     <li><a href="/ciptamediabersama/penerimahibah.html">Penerima Hibah</a></li>
                                     <li><a href="/ciptamediabersama/hibahcmb-semua.html">Pendaftar Hibah</a></li>
-                                    <li><a href="#">Tim</a></li>
+                                    <li><a href="/ciptamediabersama/timkami.html">Tim</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -156,7 +156,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/akumassa.org/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/akumassa.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -172,7 +172,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/amboinacybersociety/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/amboina.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -188,7 +188,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/benorfm/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/benor.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -204,7 +204,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/lenteratimur.com/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/lenteratimur.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -217,6 +217,12 @@
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/videountukperdamaian.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas' %}
         
@@ -230,7 +236,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/kartunet.com/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/kartunet.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -246,7 +252,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/humanrightsbloggeraward/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/imldn.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -259,6 +265,12 @@
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/hptemanbelajar.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh' %}
         
@@ -272,7 +284,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ajibandaaceh/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/aji.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -288,13 +300,13 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/nextgeneration/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/nextgeneration.html">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media' %}
         
-            {% for post in site.categories['Aldepe.com'] limit:5 %}
+            {% for post in site.categories['Aldepe.com'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
@@ -304,7 +316,7 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/aldepe.com/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/aldepe.html">Laporan Lainnya</a>
             </div>
           </div>
         
@@ -317,6 +329,12 @@
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/jrkl.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'MK-160 - Media Komunitas 160 Karakter' %}
         
@@ -330,39 +348,121 @@
         
           <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
-              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/mk-160/">Laporan Lainnya</a>
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/mk160.html">Laporan Lainnya</a>
             </div>
           </div>
         
         {% elsif page.title == 'Tidak Bermula [Dan Tidak Berakhir] Dengan Berita' %}
         
-            {% for post in site.categories['Di Balik Frekuensi'] %}
+            {% for post in site.categories['Di Balik Frekuensi'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/dibalikfrekuensi.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan' %}
         
-            {% for post in site.categories['Marsinah FM'] %}
+            {% for post in site.categories['Marsinah FM'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/marsinahfm.html">Laporan Lainnya</a>
+            </div>
+          </div>
+            
+        {% elsif page.title == 'Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam dan Media Watch Lapindo' %}
+        
+            {% for post in site.categories['Pantau'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/pantau.html">Laporan Lainnya</a>
+            </div>
+          </div>
+            
+        {% elsif page.title == 'Border Blogger Movement' %}
+        
+            {% for post in site.categories['Border Blogger Movement'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/bbg.html">Laporan Lainnya</a>
+            </div>
+          </div>
+            
+        {% elsif page.title == 'Indonesian Street Art Database' %}
+        
+            {% for post in site.categories['Indonesian Street Art Database'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/isad.html">Laporan Lainnya</a>
+            </div>
+          </div>
+            
+        {% elsif page.title == 'Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia' %}
+        
+            {% for post in site.categories['PIRAC'] limit: 5 %}
+                <a href="{{ post.url }}" class="btn-link">
+                    <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+                    <h3>{{ post.title }}</h3>
+                </a>
+                <hr>
+            {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/pirac.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% elsif page.title == 'Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas' %}
         
-            {% for post in site.categories['Bhinneka']  %}
+            {% for post in site.categories['Bhinneka'] limit: 5 %}
                 <a href="{{ post.url }}" class="btn-link">
                     <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
                     <h3>{{ post.title }}</h3>
                 </a>
                 <hr>
             {% endfor %}
+            
+          <div class="row m-b-lg">
+            <div class="col-lg-12 text-center">
+              <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="/ciptamediabersama/penerimahibah/bhinneka.html">Laporan Lainnya</a>
+            </div>
+          </div>
         
         {% else %}
         
