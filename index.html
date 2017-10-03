@@ -98,7 +98,7 @@ $(document).ready(function(){
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 800, function(){
-   
+
         // Add hash (#) to URL when done scrolling (default click behavior)
         window.location.hash = hash;
       });
@@ -112,9 +112,9 @@ $(document).ready(function(){
         <div class="row" style="color:#FFFFFF">
             <div class="col-md-6 well well-lg" style="background-color: rgba(0, 0, 0, 0.3); border: #ffffff;">
                 <h1 class="title">Cipta Media Ekspresi</h1>
-                <h2>Hibah terbuka untuk seniman Indonesia terutama perempuan dan kelompok minoritas dalam mengekspresikan kebudayaannya</h2> 
+                <h2>Hibah terbuka untuk seniman Indonesia terutama perempuan dan kelompok minoritas dalam mengekspresikan kebudayaannya</h2>
                 <br>
-                <a href="#" class="btn btn-danger btn-lg">
+                <a href="#" class="btn btn-danger btn-lg disabled">
                      Daftar di sini
                 </a>
                 <a href="tentang-ekspresi.html" class="btn btn-danger btn-lg">
@@ -137,7 +137,7 @@ $(document).ready(function(){
             </div>
         </div>
         <div class="row">
-		
+
 		<div class="col-md-6">
 		    <div class="card">
 			<div class="card-image">
@@ -156,7 +156,7 @@ $(document).ready(function(){
 			</div>
 		    </div>
 		</div>
-		
+
 		<div class="col-md-6">
 		    <div class="card">
 			<div class="card-image">
@@ -175,7 +175,7 @@ $(document).ready(function(){
 			</div>
 		    </div>
 		</div>
-		
+
         </div>
     </div>
 </section>
@@ -190,12 +190,12 @@ $(document).ready(function(){
         </div>
 
     <div id="calendar" class="calendar"></div>
-    
+
 	<script>
 	$(function() {
 		var currentYear = new Date().getFullYear();
 
-		$('#calendar').calendar({ 
+		$('#calendar').calendar({
 			enableContextMenu: true,
 			clickDay: function(e) {
 				if(e.events.length > 0) {
@@ -209,7 +209,7 @@ $(document).ready(function(){
 									+ '</div>';
 					}
 
-					var popover = $(e.element).popover({ 
+					var popover = $(e.element).popover({
     			        trigger: 'manual',
     			        container: 'body',
   				        html:true,
@@ -265,14 +265,14 @@ $(document).ready(function(){
 
 <section class="features" style="margin-top: 0px;">
     <div class="container">
-        
+
         <div class="row m-b-lg text-center">
             <div class="col-lg-12">
                 <div class="navy-line"></div>
                 <h1>Artikel Terbaru</h1>
             </div>
         </div>
-        
+
         <div class="row">
         {% for post in site.posts%}
 	{% unless post.categories contains 'laporan' %}
