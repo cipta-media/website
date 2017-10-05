@@ -7343,3 +7343,12 @@ body.rtls.top-navigation .footer.fixed {
 .rtls #right-sidebar.sidebar-open {
   left: 0;
 }
+
+/* -------------------------------------- */
+/*
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+*/
+/* -------------------------------------- */

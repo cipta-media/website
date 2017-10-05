@@ -20,62 +20,94 @@ layout: info
         
         <div class="row m-b-lg">
             <div class="col-lg-12">
-                <form class="form-horizontal" name="contact" netlify-honeypot="bot-field" action="thank-you" netlify>
+                <form class="form-horizontal" name="daftar" netlify-honeypot="bot-field" action="thank-you" netlify>
                     <div class="form-group">
                         <p class="hidden">
                             <label>Don’t fill this out: <input name="bot-field"></label>
                         </p>
                     </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="nama">Nama Lengkap:</label>
-                        <div class="col-sm-10">
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="nama">Nama Lengkap</label>
+                        <div class="col-md-10">
                             <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda" required="true">
                         </div>
                     </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="alamat">Alamat:</label>
-                        <div class="col-sm-10">
-                            <textarea class="form-control" name="alamat" rows="5" id="alamat" placeholder="Masukan alamat Anda" required="true"></textarea>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="noid">No. Identitas:</label>
-                        <div class="col-sm-10">
-                            <input type="text" name="noid" class="form-control" id="noid" placeholder="Masukan nomor KTP / SIM / passport Anda" required="true">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="birth">Tanggal Lahir:</label>
-                        <div class="col-sm-10">
-                            <input type="text" name="birth" class="form-control" id="birth" placeholder="Masukan tanggal lahir Anda" required="true">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="telp">No. Telpon:</label>
-                        <div class="col-sm-10">
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="telp">No. Telpon</label>
+                        <div class="col-md-10">
                             <input type="text" name="telp" class="form-control" id="telp" placeholder="Masukan nomor telpon / telpon genggam Anda" required="true">
                         </div>
                     </div>
-                    <div class="form-group">
-                        <label class="control-label col-sm-2" for="email">Surel:</label>
-                        <div class="col-sm-10">
-                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel Anda">
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="email">Surel</label>
+                        <div class="col-md-10">
+                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel Anda" required="true">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="kota">Kabupaten/Kota Domisili</label>
+                        <div class="col-md-10">
+                            <input type="text" name="kota" class="form-control" id="kota" placeholder="Masukan nama kabupaten/kota tempat tinggal Anda">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <fieldset>
+                            <label class="control-label col-md-2" for="seni">Bidang Kesenian</label>
+                            <div class="col-md-10">
+                                <div class="radio">
+                                    <ul style="list-style: none; padding-left: 25px">
+                                        <li><input id="pertunjukan" type="radio" name="seni" value="seni-pertunjukan"><label for="pertunjukan">Seni Pertunjukan</label></li>
+                                        <li><input id="rupa" type="radio" name="seni" value="seni-rupa"><label for="rupa">Seni Rupa</label></li>
+                                        <li><input id="musik" type="radio" name="seni" value="musik"><label for="musik">Musik</label></li>
+                                        <li><input id="kriya" type="radio" name="seni" value="kriya"><label for="kriya">Kriya</label></li>
+                                        <li><input id="sastra" type="radio" name="seni" value="sastra"><label for="sastra">Sastra</label></li>
+                                        <li><input id="film" type="radio" name="seni" value="audiovisual"><label for="film">Film / Audiovisual</label></li>
+                                        <li><input id="kolab" type="radio" name="seni" value="kolaborasi"><label for="kolab">Kolaborasi</label></li>
+                                        <li><input id="riset" type="radio" name="seni" value="riset-kuratorial"><label for="riset">Riset & Kuratorial</label></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </div>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="proyek">Nama Proyek</label>
+                        <div class="col-md-10">
+                            <input type="text" name="proyek" class="form-control" id="proyek" placeholder="Masukan nama proyek Anda" required="true">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="durasi">Durasi Proyek</label>
+                        <div class="col-md-10">
+                            <input type="text" name="durasi" class="form-control" id="durasi" placeholder="Berapa lama Anda proyek Anda akan berjalan" required="true">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="deskripsi">Deskripsi Proyek</label>
+                        <div class="col-md-10">
+                            <textarea name="deskripsi" class="form-control" rows="5" id="deskripsi" placeholder="Ceritakan proyek yang akan Anda kembangkan" required="true"></textarea>
                         </div>
                     </div>
                     <div class="form-group">
-                        <label class="control-label col-sm-2" for="seni">Bidang Kesenian:</label>
-                        <div class="col-sm-10">
-                            <input type="text" name="seni" class="form-control" id="seni" placeholder="Jelaskan bidang seni yang Anda tekuni" required="true">
+                        <label class="control-label col-md-2" for="anggota">Anggota Tim / Kolaborator</label>
+                        <div class="col-md-10">
+                            <textarea name="anggota" class="form-control" rows="5" id="anggota" placeholder="Sebutkan nama-nama rekan Anda dalam menjalankan proyek tersebut (abaikan bila tidak ada)"></textarea>
                         </div>
+                    </div>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="dana">Jumlah Dana yang Diminta</label>
+                        <div class="col-md-10">
+                            <input type="text" name="dana" class="form-control" id="dana" placeholder="Masukan jumlah dana yang diminta" required="true">
+                        </div>
+                    </div>
+                    <div class="col-md-offset-2 col-md-10">
+                        <h4><font color="red"><b>*</b></font> Wajib diisi</h4>
                     </div>
                     <div class="form-group"> 
-                        <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" class="btn btn-default">Submit</button>
+                        <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-default">Kirim</button>
                         </div>
                     </div>
                 </form>
             </div>
         </div>
-    
     </div>
-    
