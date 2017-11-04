@@ -6,7 +6,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/042.jpg
   link: /hibahcms/042
-  
+
 - nomor: '061'
   judul: Mitra Kerja Penyandang Disabilitas
   deskripsi: |
@@ -15,7 +15,7 @@
   tipe: software
   gambar: /static/img/hibahcms/061.jpg
   link: /hibahcms/061
-  
+
 - nomor: '096'
   judul: Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android
   deskripsi: |
@@ -24,7 +24,7 @@
   tipe: software
   gambar: /static/img/hibahcms/096.jpg
   link: /hibahcms/096
-  
+
 - nomor: '121'
   judul: Pengadaan Pusat Training Wireless Cellular Network berbasis OpenBTS
   deskripsi: |
@@ -33,7 +33,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/121.jpg
   link: /hibahcms/121
-  
+
 - nomor: '124'
   judul: Solidaritas.net Media Center
   deskripsi: |
@@ -42,7 +42,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/124.jpg
   link: /hibahcms/124
-  
+
 - nomor: '136'
   judul: Mobile Pantau Kebebasan Beragama dan Berkeyakinan (m-Pantau KBB)
   deskripsi: |
@@ -60,7 +60,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/138.jpg
   link: /hibahcms/138
-  
+
 - nomor: '168'
   judul: Situs Laporan Warga Tanah Papua Berbasis SMS
   deskripsi: |
@@ -69,7 +69,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/168.jpg
   link: /hibahcms/168
-  
+
 - nomor: '261'
   judul: Lingkar Suara Buruh Perempuan
   deskripsi: |
@@ -78,7 +78,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/261.jpg
   link: /hibahcms/261
-  
+
 - nomor: '306'
   judul: Monitoring Wilayah dan Hutan Suku Tobelo Dalam Dodaga dengan Teknologi Seluler
   deskripsi: |
@@ -87,7 +87,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/306.jpg
   link: /hibahcms/306
-  
+
 - nomor: '324'
   judul: Desa 2.0 Sistem Tata Kelola Sumber Daya Desa
   deskripsi: |
@@ -96,7 +96,7 @@
   tipe: konten
   gambar: /static/img/hibahcms/324.jpg
   link: /hibahcms/324
-  
+
 - nomor: '350'
   judul: Peta Persampahan Kota Bandung
   deskripsi: |

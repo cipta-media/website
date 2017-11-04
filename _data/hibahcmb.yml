@@ -8,7 +8,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/001.png
   link: /hibahcmb/001
- 
+
 - nomor: '002'
   judul: School Live Streaming
   deskripsi: |
@@ -18,7 +18,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/002.png
   link: /hibahcmb/002
-  
+
 - nomor: '003'
   judul: Animasi Penyuluhan Keselamatan Jalur Pipa Bahan Bakar/ Minyak
   deskripsi: |
@@ -28,17 +28,17 @@
   seleksi: false
   gambar: /static/img/hibahcmb/003.png
   link: /hibahcmb/003
- 
+
 - nomor: '004'
   judul: Multimedia untuk Belajar
   deskripsi: |
-      Proyek pembuatan informasi dan materi pelajaran untuk sekolah melalui media interaktif menggunakan multimedia, animasi, dan internet  
+      Proyek pembuatan informasi dan materi pelajaran untuk sekolah melalui media interaktif menggunakan multimedia, animasi, dan internet
   lokasi: Losari, Brebes, Jawa Tengah
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/004.png
   link: /hibahcmb/004
-  
+
 - nomor: '005'
   judul: Net Box
   deskripsi: |
@@ -48,7 +48,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/005.png
   link: /hibahcmb/005
-  
+
 - nomor: '006'
   judul: Doa (Festival Menyanyi)
   deskripsi: |
@@ -58,7 +58,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/006.png
   link: /hibahcmb/006
-  
+
 - nomor: '007'
   judul: SeeBogor.com Pusat Informasi Online Wisata Bogor
   deskripsi: |
@@ -68,7 +68,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/007.png
   link: /hibahcmb/007
-    
+
 - nomor: '008'
   judul: Link Internet Murah
   deskripsi: |
@@ -78,7 +78,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/008.png
   link: /hibahcmb/008
-  
+
 - nomor: '009'
   judul: Sidomi News (www.sidomi.com)
   deskripsi: |
@@ -88,7 +88,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/009.png
   link: /hibahcmb/009
-  
+
 - nomor: '010'
   judul: Media Informasi Komunitas & Pelatihan Jurnalistik
   deskripsi: |
@@ -98,7 +98,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/010.png
   link: /hibahcmb/010
-  
+
 - nomor: '011'
   judul: Pemberdayaan Keterampilan Menulis Petani Organik
   deskripsi: |
@@ -108,7 +108,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/011.png
   link: /hibahcmb/011
-    
+
 - nomor: '012'
   judul: Digitalisasi & Broadcast Budaya Sunda Online
   deskripsi: |
@@ -118,7 +118,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/012.png
   link: /hibahcmb/012
-      
+
 - nomor: '013'
   judul: Media Sekolah
   deskripsi: |
@@ -128,7 +128,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/013.png
   link: /hibahcmb/013
-       
+
 - nomor: '014'
   judul: Warung Penerangan Masyarakat
   deskripsi: |
@@ -137,8 +137,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/014.png
-  link: /hibahcmb/014 
-         
+  link: /hibahcmb/014
+
 - nomor: '015'
   judul: Dunia Wayang adalah Cermin Dunia Kita
   deskripsi: |
@@ -148,7 +148,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/015.png
   link: /hibahcmb/015
-          
+
 - nomor: '016'
   judul: Katalog UMKM Online
   deskripsi: |
@@ -157,8 +157,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/016.png
-  link: /hibahcmb/016 
-  
+  link: /hibahcmb/016
+
 - nomor: '017'
   judul: Digital Villagers (DVERS)
   deskripsi: |
@@ -167,8 +167,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/017.png
-  link: /hibahcmb/017 
-  
+  link: /hibahcmb/017
+
 - nomor: '018'
   judul: Infomobilisasi Telecenter
   deskripsi: |
@@ -177,8 +177,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/018.png
-  link: /hibahcmb/018 
-   
+  link: /hibahcmb/018
+
 - nomor: '019'
   judul: Multimedia Studio
   deskripsi: |
@@ -187,8 +187,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/019.png
-  link: /hibahcmb/019  
-    
+  link: /hibahcmb/019
+
 - nomor: '020'
   judul: Dokumentasi Jejak Masa Lalu Indonesia
   deskripsi: |
@@ -197,8 +197,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/020.png
-  link: /hibahcmb/020  
-     
+  link: /hibahcmb/020
+
 - nomor: '021'
   judul: Informasi Tiada Henti
   deskripsi: |
@@ -207,8 +207,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/021.png
-  link: /hibahcmb/021   
-     
+  link: /hibahcmb/021
+
 - nomor: '022'
   judul: Warnet
   deskripsi: |
@@ -218,7 +218,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/022.png
   link: /hibahcmb/022
-       
+
 - nomor: '023'
   judul: Lab Komputer dan Internet
   deskripsi: |
@@ -228,7 +228,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/023.png
   link: /hibahcmb/023
-         
+
 - nomor: '024'
   judul: Lab Komputer dan Internet
   deskripsi: |
@@ -238,7 +238,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/024.png
   link: /hibahcmb/024
-  
+
 - nomor: '025'
   judul: Integrated Farm
   deskripsi: |
@@ -248,7 +248,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/025.png
   link: /hibahcmb/025
-    
+
 - nomor: '026'
   judul: Solusee.com
   deskripsi: |
@@ -258,7 +258,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/026.png
   link: /hibahcmb/026
-      
+
 - nomor: '027'
   judul: Social Networking and Community Web for Moslem
   deskripsi: |
@@ -268,7 +268,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/027.png
   link: /hibahcmb/027
-       
+
 - nomor: '028'
   judul: Portal TV Musik (PTM)
   deskripsi: |
@@ -277,8 +277,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/028.png
-  link: /hibahcmb/028 
-        
+  link: /hibahcmb/028
+
 - nomor: '029'
   judul: Telecenter sebagai Solusi Ekonomi Kerakyatan
   deskripsi: |
@@ -287,8 +287,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/029.png
-  link: /hibahcmb/029  
-          
+  link: /hibahcmb/029
+
 - nomor: '030'
   judul: Layar Tancap
   deskripsi: |
@@ -297,8 +297,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/030.png
-  link: /hibahcmb/030 
-          
+  link: /hibahcmb/030
+
 - nomor: '031'
   judul: LenteraTimur.com – Menyigi Identitas Indonesia
   deskripsi: |
@@ -307,8 +307,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/031.png
-  link: /hibahcmb/031  
-          
+  link: /hibahcmb/031
+
 - nomor: '032'
   judul: Film Animasi Tsunami Aceh (dari kisah korban tsunami)
   deskripsi: |
@@ -323,7 +323,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/032.png
   link: /hibahcmb/032
-          
+
 - nomor: '033'
   judul: Mencerdaskan Emosi Bangsaku
   deskripsi: |
@@ -332,8 +332,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/033.png
-  link: /hibahcmb/033  
-        
+  link: /hibahcmb/033
+
 - nomor: '034'
   judul: Iklim Karbon
   deskripsi: |
@@ -342,8 +342,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/034.png
-  link: /hibahcmb/034 
-         
+  link: /hibahcmb/034
+
 - nomor: '035'
   judul: Jurnalisme Warga – Ruang Bicara Warga Surabaya untuk Sengketa Tanah
   deskripsi: |
@@ -352,7 +352,7 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/035.png
-  link: /hibahcmb/035  
+  link: /hibahcmb/035
 
 - nomor: '036'
   judul: Innovation for Vulnerable Service Program (IVSP)
@@ -363,7 +363,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/036.png
   link: /hibahcmb/036
-           
+
 - nomor: '037'
   judul: Media Online Berbasis Bahasa Daerah
   deskripsi: |
@@ -373,7 +373,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/037.png
   link: /hibahcmb/037
-            
+
 - nomor: '038'
   judul: Lomba Cerpen Fantasy Fiesta
   deskripsi: |
@@ -383,7 +383,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/038.png
   link: /hibahcmb/038
-             
+
 - nomor: '039'
   judul: Radio Talk – Smart Digital Life Style (Radio Smart FM)
   deskripsi: |
@@ -393,7 +393,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/039.png
   link: /hibahcmb/039
-               
+
 - nomor: '040'
   judul: Pusat Data Kecamatan
   deskripsi: |
@@ -403,7 +403,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/040.png
   link: /hibahcmb/040
-                 
+
 - nomor: '041'
   judul: Ujungkulon Protection
   deskripsi: |
@@ -413,7 +413,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/041.png
   link: /hibahcmb/041
-                   
+
 - nomor: '042'
   judul: E-Tabloid Nanggroe
   deskripsi: |
@@ -423,7 +423,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/042.png
   link: /hibahcmb/042
-    
+
 - nomor: '043'
   judul: Media Program Pelayanan Informasi Terpadu
   deskripsi: |
@@ -432,8 +432,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/043.png
-  link: /hibahcmb/043 
-    
+  link: /hibahcmb/043
+
 - nomor: '044'
   judul: Meningkatkan Kualitas Pembelajaran Guru Dalam Menggunakan Pembelajaran ICT di Dalam Kelas
   deskripsi: |
@@ -442,8 +442,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/044.png
-  link: /hibahcmb/044  
-  
+  link: /hibahcmb/044
+
 - nomor: '045'
   judul: Digital Printing
   deskripsi: |
@@ -452,8 +452,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/045.png
-  link: /hibahcmb/045  
-  
+  link: /hibahcmb/045
+
 - nomor: '046'
   judul: Creative Campus (Beyond Way of Your Talent)
   deskripsi: |
@@ -462,8 +462,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/046.png
-  link: /hibahcmb/046  
-   
+  link: /hibahcmb/046
+
 - nomor: '047'
   judul: Open Animation Project
   deskripsi: |
@@ -472,8 +472,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/047.png
-  link: /hibahcmb/047  
-   
+  link: /hibahcmb/047
+
 - nomor: '048'
   judul: Lokal IP-TV Edukasi
   deskripsi: |
@@ -482,8 +482,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/048.png
-  link: /hibahcmb/048    
-    
+  link: /hibahcmb/048
+
 - nomor: '049'
   judul: Kampanye dan Advokasi Masyarakat dan Pekerja Pers Guna Mendorong Terwujudnya Jaminan Perlindungan terhadap Kebebasan Pers
   deskripsi: |
@@ -492,8 +492,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/049.png
-  link: /hibahcmb/049  
-      
+  link: /hibahcmb/049
+
 - nomor: '050'
   judul: Dah Na’ Buka’
   deskripsi: |
@@ -503,7 +503,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/050.png
   link: /hibahcmb/050
-    
+
 - nomor: '051'
   judul:  pelajartangerangnews.com
   deskripsi: |
@@ -513,7 +513,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/051.png
   link: /hibahcmb/051
-    
+
 - nomor: '052'
   judul:  Heritage Kita
   deskripsi: |
@@ -523,7 +523,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/052.png
   link: /hibahcmb/052
-    
+
 - nomor: '053'
   judul:  Heritage Kita
   deskripsi: |
@@ -532,8 +532,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/053.png
-  link: /hibahcmb/053 
-    
+  link: /hibahcmb/053
+
 - nomor: '054'
   judul: Radio Komunitas sebagai Sentral Penguatan Kapasitas Komunitas Rentan di Kabupaten Flores Timur, NTT
   deskripsi: |
@@ -543,7 +543,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/054.png
   link: /hibahcmb/054
-    
+
 - nomor: '055'
   judul:  Care. Share.
   deskripsi: |
@@ -553,7 +553,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/055.png
   link: /hibahcmb/055
-    
+
 - nomor: '056'
   judul:  Majalah dKmagz (Job and Career)
   deskripsi: |
@@ -563,7 +563,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/056.png
   link: /hibahcmb/056
-    
+
 - nomor: '057'
   judul:  DengerinRadio.com
   deskripsi: |
@@ -573,7 +573,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/057.png
   link: /hibahcmb/057
-    
+
 - nomor: '058'
   judul:  Desa Online
   deskripsi: |
@@ -583,7 +583,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/058.png
   link: /hibahcmb/058
-    
+
 - nomor: '059'
   judul:  CCTV Security System
   deskripsi: |
@@ -593,7 +593,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/059.png
   link: /hibahcmb/059
-    
+
 - nomor: '060'
   judul:  Research and Development Centre (RNDC)
   deskripsi: |
@@ -603,7 +603,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/060.png
   link: /hibahcmb/060
-    
+
 - nomor: '061'
   judul:  Sebar Jakarta
   deskripsi: |
@@ -613,7 +613,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/061.png
   link: /hibahcmb/061
-    
+
 - nomor: '062'
   judul:  HMINEWS
   deskripsi: |
@@ -623,7 +623,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/062.png
   link: /hibahcmb/062
-    
+
 - nomor: '063'
   judul:  Media Online Gratis Masyarakat Siantar
   deskripsi: |
@@ -633,7 +633,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/063.png
   link: /hibahcmb/063
-    
+
 - nomor: '064'
   judul:  Media UKM, Menembus Batas Menjemput Mimpi
   deskripsi: |
@@ -643,7 +643,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/064.png
   link: /hibahcmb/064
-      
+
 - nomor: '065'
   judul: E-survey Dinamis & Database Nasional via SMS
   deskripsi: |
@@ -653,7 +653,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/065.png
   link: /hibahcmb/065
-    
+
 - nomor: '066'
   judul:  Media Online Kesehatan Wanita Sehat
   deskripsi: |
@@ -663,7 +663,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/066.png
   link: /hibahcmb/066
-    
+
 - nomor: '067'
   judul:  Penyimpangan Kebijakan Syariah Islam terhadap Hak-hak Perempuan
   deskripsi: |
@@ -673,7 +673,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/067.png
   link: /hibahcmb/067
-    
+
 - nomor: '068'
   judul:  Penguatan Sistem Ekonomi Keluarga Pemulung dan Pendidikan Alternatif melalui Pembangunan Media Alternatif
   deskripsi: |
@@ -683,7 +683,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/068.png
   link: /hibahcmb/068
-    
+
 - nomor: '069'
   judul:  Roadshow Edukasi Sehat Berinternet
   deskripsi: |
@@ -694,7 +694,7 @@
   publik: true
   gambar: /static/img/hibahcmb/069.png
   link: /hibahcmb/069
-     
+
 - nomor: '070'
   judul: Portal Tugas Sekolah, Kuliah serta Karya Ilmiah
   deskripsi: |
@@ -703,8 +703,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/070.png
-  link: /hibahcmb/070 
-   
+  link: /hibahcmb/070
+
 - nomor: '071'
   judul: Memaksimalkan Penggunaan HP dengan Aplikasi SMS Gateway dan Website Portal Berita untuk Petani dan Nelayan Pacitan
   deskripsi: |
@@ -713,8 +713,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/071.png
-  link: /hibahcmb/071   
-    
+  link: /hibahcmb/071
+
 - nomor: '072'
   judul: Posyandu Online
   deskripsi: |
@@ -724,7 +724,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/072.png
   link: /hibahcmb/072
-    
+
 - nomor: '073'
   judul: Distribusi Linux BlankOn untuk Tuna Netra
   deskripsi: |
@@ -734,7 +734,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/073.png
   link: /hibahcmb/073
-     
+
 - nomor: '074'
   judul: Literasi Media Berbasis Teknologi Komunikasi pada Siswa SMA di Bandar Lampung
   deskripsi: |
@@ -743,8 +743,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/074.png
-  link: /hibahcmb/074 
-      
+  link: /hibahcmb/074
+
 - nomor: '075'
   judul: Wayang Online
   deskripsi: |
@@ -753,8 +753,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/075.png
-  link: /hibahcmb/075  
-        
+  link: /hibahcmb/075
+
 - nomor: '076'
   judul: Bali Koneksi - Publikasi Kreatif Produk Kebudayaan Bali
   deskripsi: |
@@ -764,7 +764,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/076.png
   link: /hibahcmb/076
-        
+
 - nomor: '077'
   judul: Menjadikan Desaku Berwawasan
   deskripsi: |
@@ -773,8 +773,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/077.png
-  link: /hibahcmb/077 
-        
+  link: /hibahcmb/077
+
 - nomor: '078'
   judul: FM Radio Watch - Tampil Pertama Menjawab Berita, Tampil Utama Membawa Kabar
   deskripsi: |
@@ -784,7 +784,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/078.png
   link: /hibahcmb/078
-        
+
 - nomor: '079'
   judul: Perpustakaan Online
   deskripsi: |
@@ -793,8 +793,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/079.png
-  link: /hibahcmb/079  
-        
+  link: /hibahcmb/079
+
 - nomor: '080'
   judul: Video Tari
   deskripsi: |
@@ -803,8 +803,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/080.png
-  link: /hibahcmb/080  
-         
+  link: /hibahcmb/080
+
 - nomor: '081'
   judul: Pelatihan Aplikasi Android Untuk Pemula
   deskripsi: |
@@ -813,8 +813,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/081.png
-  link: /hibahcmb/081  
-         
+  link: /hibahcmb/081
+
 - nomor: '082'
   judul: Jalurku
   deskripsi: |
@@ -823,8 +823,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/082.png
-  link: /hibahcmb/082    
-         
+  link: /hibahcmb/082
+
 - nomor: '083'
   judul: Wayang Republik sebagai Media Informasi
   deskripsi: |
@@ -833,8 +833,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/083.png
-  link: /hibahcmb/083  
-           
+  link: /hibahcmb/083
+
 - nomor: '084'
   judul: Portal Berita dan Info Berbasis Web + SMS Gateway
   deskripsi: |
@@ -843,8 +843,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/084.png
-  link: /hibahcmb/084    
-            
+  link: /hibahcmb/084
+
 - nomor: '085'
   judul: Hotspot Bebas Roaming / Mesh
   deskripsi: |
@@ -853,8 +853,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/085.png
-  link: /hibahcmb/085   
-              
+  link: /hibahcmb/085
+
 - nomor: '086'
   judul: Riset Abuse
   deskripsi: |
@@ -863,8 +863,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/086.png
-  link: /hibahcmb/086  
-               
+  link: /hibahcmb/086
+
 - nomor: '087'
   judul: Kantor Berita Komunitas
   deskripsi: |
@@ -873,8 +873,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/087.png
-  link: /hibahcmb/087  
-                
+  link: /hibahcmb/087
+
 - nomor: '088'
   judul: Bumi Kita Satu
   deskripsi: |
@@ -884,7 +884,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/088.png
   link: /hibahcmb/088
-                
+
 - nomor: '089'
   judul: Perpustakaan Desa dan Pelatihan Entrepreneur
   deskripsi: |
@@ -894,7 +894,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/089.png
   link: /hibahcmb/089
-                
+
 - nomor: '090'
   judul: Portal DUAPERSEN
   deskripsi: |
@@ -904,7 +904,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/090.png
   link: /hibahcmb/090
-                
+
 - nomor: '091'
   judul: Tabloid KPII
   deskripsi: |
@@ -914,7 +914,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/091.png
   link: /hibahcmb/091
-                
+
 - nomor: '092'
   judul: Paduan Seni Lokal dan Modern
   deskripsi: |
@@ -924,7 +924,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/092.png
   link: /hibahcmb/092
-                
+
 - nomor: '093'
   judul: Penguatan Karakter Kebangsaan melalui Jurnalisme Akar Rumput untuk Pengembangan Media Modern
   deskripsi: |
@@ -934,7 +934,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/093.png
   link: /hibahcmb/093
-                
+
 - nomor: '094'
   judul: Menumbuhkuatkan Citizen Jurnalism Melalui Video Komunitas Yang Kuat, Dinamis, Demokratis dan Berkelanjutan
   deskripsi: |
@@ -944,7 +944,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/094.png
   link: /hibahcmb/094
-                
+
 - nomor: '095'
   judul: Event Web
   deskripsi: |
@@ -954,7 +954,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/095.png
   link: /hibahcmb/095
-                
+
 - nomor: '096'
   judul: Penguatan Kapasitas Orang Tua Anak Jalanan
   deskripsi: |
@@ -964,7 +964,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/096.png
   link: /hibahcmb/096
-                
+
 - nomor: '097'
   judul: Internet Sehat Goes to School and Campus
   deskripsi: |
@@ -974,7 +974,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/097.png
   link: /hibahcmb/097
-                
+
 - nomor: '098'
   judul: Pemberdayaan remaja berbasis teknologi komunikasi dan teknologi pengolahan lingkungan
   deskripsi: |
@@ -984,7 +984,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/098.png
   link: /hibahcmb/098
-                  
+
 - nomor: '099'
   judul: Peningkatan kapasitas Skill Teknologi Informasi Opensource LPSE seluruh Indonesia
   deskripsi: |
@@ -994,7 +994,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/099.png
   link: /hibahcmb/099
-                  
+
 - nomor: '100'
   judul: “Radio Komunikasi untuk Mediasi Konflik Berbasis Multikultural dan Lokalitas di Kepulauan Timur Madura”
   deskripsi: |
@@ -1003,8 +1003,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/100.png
-  link: /hibahcmb/100  
-                  
+  link: /hibahcmb/100
+
 - nomor: '101'
   judul: Advokasi Kreatif Tragedi 65
   deskripsi: |
@@ -1013,8 +1013,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/101.png
-  link: /hibahcmb/101    
-                   
+  link: /hibahcmb/101
+
 - nomor: '102'
   judul: Pusat Mbangun Deso (PMD)
   deskripsi: |
@@ -1023,8 +1023,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/102.png
-  link: /hibahcmb/102  
-                   
+  link: /hibahcmb/102
+
 - nomor: '103'
   judul: Taman Bacaan Masyarakat Berbasis Multimedia
   deskripsi: |
@@ -1033,8 +1033,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/103.png
-  link: /hibahcmb/103   
-                   
+  link: /hibahcmb/103
+
 - nomor: '104'
   judul: Radio Streaming Pendidikan untuk Menyuarakan Budaya Indonesia Mendunia
   deskripsi: |
@@ -1043,8 +1043,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/104.png
-  link: /hibahcmb/104   
-                     
+  link: /hibahcmb/104
+
 - nomor: '105'
   judul: Televisi Desa
   deskripsi: |
@@ -1054,7 +1054,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/105.png
   link: /hibahcmb/105
-                      
+
 - nomor: '106'
   judul: Pemberdayaan Pengrajin Batik melalui Pemerataan Akses Media
   deskripsi: |
@@ -1064,7 +1064,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/106.png
   link: /hibahcmb/106
-                       
+
 - nomor: '107'
   judul: Akses Internet Murah dan Sehat bagi Orang Tidak Mampu
   deskripsi: |
@@ -1073,8 +1073,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/107.png
-  link: /hibahcmb/107 
-                        
+  link: /hibahcmb/107
+
 - nomor: '108'
   judul: Jejaring kesehatan DokterAnda.net
   deskripsi: |
@@ -1083,8 +1083,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/108.png
-  link: /hibahcmb/108  
-                         
+  link: /hibahcmb/108
+
 - nomor: '109'
   judul: Pembuatan mesin tetas dan kandang unggas (ayam buras, puyuh, itik) serta pembudidayaan bagi peternak pemuda “LUMIMPASOT”
   deskripsi: |
@@ -1093,8 +1093,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/109.png
-  link: /hibahcmb/109   
-                         
+  link: /hibahcmb/109
+
 - nomor: '110'
   judul: Implementasi Internet Sekolah
   deskripsi: |
@@ -1103,8 +1103,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/110.png
-  link: /hibahcmb/110    
-                           
+  link: /hibahcmb/110
+
 - nomor: '111'
   judul: Literasi Media Bagi Pelajar (SD-SMA) di Kabupaten Kudus
   deskripsi: |
@@ -1113,8 +1113,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/111.png
-  link: /hibahcmb/111  
-                            
+  link: /hibahcmb/111
+
 - nomor: '112'
   judul: Peningkatan Kapasitas Pengelolaan Keuangan LSM di Indonesia melalui Penguatan Jaringan Keuangan antar para Pihak Pemangku Kepentingan
   deskripsi: |
@@ -1123,8 +1123,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/112.png
-  link: /hibahcmb/112   
-                            
+  link: /hibahcmb/112
+
 - nomor: '113'
   judul: BentangIlmu - Repositori Online untuk Penguatan Pendidikan Berbasis Keluarga
   deskripsi: |
@@ -1133,8 +1133,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/113.png
-  link: /hibahcmb/113  
-                             
+  link: /hibahcmb/113
+
 - nomor: '114'
   judul: Cyber Ethics sebagai Salah Satu Penanggulangan Cyber Crime
   deskripsi: |
@@ -1143,8 +1143,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/114.png
-  link: /hibahcmb/114  
-                              
+  link: /hibahcmb/114
+
 - nomor: '115'
   judul: Net for Tolerance
   deskripsi: |
@@ -1153,8 +1153,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/115.png
-  link: /hibahcmb/115 
-                                
+  link: /hibahcmb/115
+
 - nomor: '116'
   judul: Jangan Sia-siakan PLIK
   deskripsi: |
@@ -1164,7 +1164,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/116.png
   link: /hibahcmb/116
-                                 
+
 - nomor: '117'
   judul: Komunitas Guru Pembelajar
   deskripsi: |
@@ -1173,8 +1173,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/117.png
-  link: /hibahcmb/117 
-                                   
+  link: /hibahcmb/117
+
 - nomor: '118'
   judul: A Better Indonesia
   deskripsi: |
@@ -1183,8 +1183,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/118.png
-  link: /hibahcmb/118 
-                                    
+  link: /hibahcmb/118
+
 - nomor: '119'
   judul: Kampung Media
   deskripsi: |
@@ -1193,8 +1193,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/119.png
-  link: /hibahcmb/119 
-                                    
+  link: /hibahcmb/119
+
 - nomor: '120'
   judul: Ibu Rumah Tangga Melek Media Internet
   deskripsi: |
@@ -1203,8 +1203,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/120.png
-  link: /hibahcmb/120  
-                                     
+  link: /hibahcmb/120
+
 - nomor: '121'
   judul: Merekam Lebak
   deskripsi: |
@@ -1213,8 +1213,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/121.png
-  link: /hibahcmb/121  
-                                      
+  link: /hibahcmb/121
+
 - nomor: '122'
   judul: Internet Sekolah Gratis
   deskripsi: |
@@ -1223,8 +1223,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/122.png
-  link: /hibahcmb/122   
-                                      
+  link: /hibahcmb/122
+
 - nomor: '123'
   judul: AKUMASSA.ORG
   deskripsi: |
@@ -1233,8 +1233,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/123.png
-  link: /hibahcmb/123    
-                                       
+  link: /hibahcmb/123
+
 - nomor: '124'
   judul: Portal informasi 500 Radio di 400 kota se-Indonesia
   deskripsi: |
@@ -1243,8 +1243,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/124.png
-  link: /hibahcmb/124  
-                                       
+  link: /hibahcmb/124
+
 - nomor: '125'
   judul: Pelatihan Film Dokumenter
   deskripsi: |
@@ -1254,7 +1254,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/125.png
   link: /hibahcmb/125
-                                       
+
 - nomor: '126'
   judul: Lomba Blog Desain dan Search Engine Optimation
   deskripsi: |
@@ -1264,7 +1264,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/126.png
   link: /hibahcmb/126
-                                       
+
 - nomor: '127'
   judul: Media911
   deskripsi: |
@@ -1274,7 +1274,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/127.png
   link: /hibahcmb/127
-                                       
+
 - nomor: '128'
   judul: Radio Komunitas & Jurnal Cetak Untuk Kampanye “Jangan Sampai Masuk Bui”
   deskripsi: |
@@ -1284,7 +1284,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/128.png
   link: /hibahcmb/128
-                                       
+
 - nomor: '129'
   judul: Kurikulum Terbuka untuk Pendidikan Indonesia
   deskripsi: |
@@ -1294,7 +1294,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/129.png
   link: /hibahcmb/129
-                                       
+
 - nomor: '130'
   judul: KEMIREN, Menulis Sejarahnya Sendiri
   deskripsi: |
@@ -1304,7 +1304,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/130.png
   link: /hibahcmb/130
-                                       
+
 - nomor: '131'
   judul: New Media Training Bagi Pers Mahasiswa
   deskripsi: |
@@ -1314,7 +1314,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/131.png
   link: /hibahcmb/131
-                                       
+
 - nomor: '132'
   judul: UU & Kebijakan Kehutanan dalam bahasa daerah
   deskripsi: |
@@ -1324,7 +1324,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/132.png
   link: /hibahcmb/132
-                                       
+
 - nomor: '133'
   judul: Portal Informasi Harga Produk Pertanian
   deskripsi: |
@@ -1334,7 +1334,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/133.png
   link: /hibahcmb/133
-                                       
+
 - nomor: '134'
   judul: Portal dan Game Engine Gratis Berbasis Web Menggunakan HTML 5 untuk Pembuatan Game Edukasi
   deskripsi: |
@@ -1344,7 +1344,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/134.png
   link: /hibahcmb/134
-                                       
+
 - nomor: '135'
   judul: Eksplorasi Indonesia
   deskripsi: |
@@ -1354,7 +1354,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/135.png
   link: /hibahcmb/135
-                                       
+
 - nomor: '136'
   judul: Cerdas Berinternet
   deskripsi: |
@@ -1364,7 +1364,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/136.png
   link: /hibahcmb/136
-                                       
+
 - nomor: '137'
   judul: Acara tv Rekrutmen
   deskripsi: |
@@ -1374,7 +1374,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/137.png
   link: /hibahcmb/137
-                                       
+
 - nomor: '138'
   judul: Sekolah Melek Media
   deskripsi: |
@@ -1384,7 +1384,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/138.png
   link: /hibahcmb/138
-                                       
+
 - nomor: '139'
   judul: Membangun Sumber Daya Insan Berkualitas
   deskripsi: |
@@ -1394,7 +1394,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/139.png
   link: /hibahcmb/139
-                                       
+
 - nomor: '140'
   judul: Menyelenggarakan Pelatihan Jurnalis di Jajaran Pemerintah, Sekolah, dan Masyarakat serta Pembentukan Dewan Pengurus Cabang di 36 Kabupaten / Kota di Provinsi Jawa Tengah
   deskripsi: |
@@ -1404,7 +1404,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/140.png
   link: /hibahcmb/140
-                                        
+
 - nomor: '141'
   judul: Sosialisasi Undang-undang 14 tahun 2008
   deskripsi: |
@@ -1413,8 +1413,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/141.png
-  link: /hibahcmb/141 
-                                         
+  link: /hibahcmb/141
+
 - nomor: '142'
   judul: Indonesian Performing Art Market On Line
   deskripsi: |
@@ -1424,7 +1424,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/142.png
   link: /hibahcmb/142
-                                          
+
 - nomor: '143'
   judul: Pemanfaatan Jaringan Internet untuk Media Pembelajaran Siswa-siswi SMP-SMA/SMK
   deskripsi: |
@@ -1434,7 +1434,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/143.png
   link: /hibahcmb/143
-                                           
+
 - nomor: '144'
   judul: Meningkatkan Mutu dan Jumlah Konten Lokal serta Membangun Sindikasi Siaran TV lokal
   deskripsi: |
@@ -1444,7 +1444,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/144.png
   link: /hibahcmb/144
-                                           
+
 - nomor: '145'
   judul: Media Masuk Desa
   deskripsi: |
@@ -1454,7 +1454,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/145.png
   link: /hibahcmb/145
-                                           
+
 - nomor: '146'
   judul: Silent Hope (Harapan Sunyi)
   deskripsi: |
@@ -1464,7 +1464,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/146.png
   link: /hibahcmb/146
-                                           
+
 - nomor: '147'
   judul: Berita Kita
   deskripsi: |
@@ -1474,7 +1474,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/147.png
   link: /hibahcmb/147
-                                           
+
 - nomor: '148'
   judul: Membangun Media Membangun Karakter Bangsa, Media Jadi Tikar
   deskripsi: |
@@ -1484,7 +1484,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/148.png
   link: /hibahcmb/148
-                                           
+
 - nomor: '149'
   judul: Internet Bagi Petani Garam dan Rumput Laut
   deskripsi: |
@@ -1494,7 +1494,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/149.png
   link: /hibahcmb/149
-                                           
+
 - nomor: '150'
   judul: JBDK Android & IOS Project
   deskripsi: |
@@ -1504,7 +1504,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/150.png
   link: /hibahcmb/150
-                                           
+
 - nomor: '151'
   judul: Lan Jalan Madura
   deskripsi: |
@@ -1514,7 +1514,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/151.png
   link: /hibahcmb/151
-                                           
+
 - nomor: '152'
   judul: Media Alternatif Anda
   deskripsi: |
@@ -1524,7 +1524,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/152.png
   link: /hibahcmb/152
-                                           
+
 - nomor: '153'
   judul: Media News Online Berbasis Kemahasiswaan
   deskripsi: |
@@ -1534,7 +1534,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/153.png
   link: /hibahcmb/153
-                                           
+
 - nomor: '154'
   judul: Tabloid Mingguan dan Koran Harian
   deskripsi: |
@@ -1544,7 +1544,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/154.png
   link: /hibahcmb/154
-                                           
+
 - nomor: '155'
   judul: Restiptut
   deskripsi: |
@@ -1554,7 +1554,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/155.png
   link: /hibahcmb/155
-                                          
+
 - nomor: '156'
   judul: Media Lokal berbasis Citizen Jurnalism
   deskripsi: |
@@ -1564,7 +1564,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/156.png
   link: /hibahcmb/156
-                                          
+
 - nomor: '157'
   judul: Kid News Plus
   deskripsi: |
@@ -1574,7 +1574,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/157.png
   link: /hibahcmb/157
-                                          
+
 - nomor: '158'
   judul: Peningkatan Keterampilan Guru untuk Mengoptimalkan Fungsi Media sebagai Salah Satu Sarana Proses Pembelajaran
   deskripsi: |
@@ -1584,7 +1584,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/158.png
   link: /hibahcmb/158
-                                           
+
 - nomor: '159'
   judul: Gemilang Pendidikan Indonesia
   deskripsi: |
@@ -1594,7 +1594,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/159.png
   link: /hibahcmb/159
-                                           
+
 - nomor: '160'
   judul: Komunitas Akar Rumput Indonesia
   deskripsi: |
@@ -1604,7 +1604,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/160.png
   link: /hibahcmb/160
-                                           
+
 - nomor: '161'
   judul: Jurnalis Warga Cerdas Membangun NKRI
   deskripsi: |
@@ -1613,8 +1613,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/161.png
-  link: /hibahcmb/161 
-                                            
+  link: /hibahcmb/161
+
 - nomor: '162'
   judul: Belajar Tidak Hanya di Sekolah
   deskripsi: |
@@ -1623,8 +1623,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/162.png
-  link: /hibahcmb/162  
-                                              
+  link: /hibahcmb/162
+
 - nomor: '163'
   judul: Media Budaya Masyarakat
   deskripsi: |
@@ -1633,8 +1633,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/163.png
-  link: /hibahcmb/163  
-                                                
+  link: /hibahcmb/163
+
 - nomor: '164'
   judul: Media Cetak Suara Rakyat
   deskripsi: |
@@ -1643,8 +1643,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/164.png
-  link: /hibahcmb/164 
-                                                 
+  link: /hibahcmb/164
+
 - nomor: '165'
   judul: Pelatihan Komputer bagi Masyarakat Sekolah dan Umum yang Belum Melek Teknologi
   deskripsi: |
@@ -1653,8 +1653,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/165.png
-  link: /hibahcmb/165  
-                                                   
+  link: /hibahcmb/165
+
 - nomor: '166'
   judul: Program Bantuan Hukum untuk Terwujudnya Kebebasan Pers
   deskripsi: |
@@ -1663,8 +1663,8 @@
   seleksi: false
   tipe: bebas
   gambar: /static/img/hibahcmb/166.png
-  link: /hibahcmb/166  
-                                                    
+  link: /hibahcmb/166
+
 - nomor: '167'
   judul: “Benor FM”, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar Orang Rimba
   deskripsi: |
@@ -1673,8 +1673,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/167.png
-  link: /hibahcmb/167  
-                                                      
+  link: /hibahcmb/167
+
 - nomor: '168'
   judul: Hijauku.com - Situs Hijau Indonesia
   deskripsi: |
@@ -1683,8 +1683,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/168.png
-  link: /hibahcmb/168 
- 
+  link: /hibahcmb/168
+
 - nomor: '169'
   judul: Lets Sign for Indonesia
   deskripsi: |
@@ -1694,7 +1694,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/169.png
   link: /hibahcmb/169
-                                                         
+
 - nomor: '170'
   judul: Tabularasa Media Independent
   deskripsi: |
@@ -1703,8 +1703,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/170.png
-  link: /hibahcmb/170 
-                                                         
+  link: /hibahcmb/170
+
 - nomor: '171'
   judul: Batang Media 2.0 - Memediakan Potensi Daerah
   deskripsi: |
@@ -1714,7 +1714,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/171.png
   link: /hibahcmb/171
-                                                          
+
 - nomor: '172'
   judul: Petani Membangun Gerakan Aksi Advokasi Media
   deskripsi: |
@@ -1723,8 +1723,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/172.png
-  link: /hibahcmb/172 
-                                                           
+  link: /hibahcmb/172
+
 - nomor: '173'
   judul: Teraka.net
   deskripsi: |
@@ -1734,8 +1734,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/173.png
-  link: /hibahcmb/173  
-                                                            
+  link: /hibahcmb/173
+
 - nomor: '174'
   judul: Multimedia Education Server Centre (MESC)
   deskripsi: |
@@ -1744,8 +1744,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/174.png
-  link: /hibahcmb/174  
-                                                             
+  link: /hibahcmb/174
+
 - nomor: '175'
   judul: Pembelajaran Online Akademi Virtual bagi Komunitas Berkebutuhan Khusus
   deskripsi: |
@@ -1754,8 +1754,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/175.png
-  link: /hibahcmb/175   
-                                                              
+  link: /hibahcmb/175
+
 - nomor: '176'
   judul: Mudahnya Akses Informasi untuk Petani
   deskripsi: |
@@ -1764,8 +1764,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/176.png
-  link: /hibahcmb/176 
-                                                               
+  link: /hibahcmb/176
+
 - nomor: '177'
   judul: Visualisasi Informasi Lalulintas Berdasarkan Informasi Berbagi dari Masyarakat dengan menggunakan Semantic Web Teknologi
   deskripsi: |
@@ -1774,7 +1774,7 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/177.png
-  link: /hibahcmb/177  
+  link: /hibahcmb/177
 
 - nomor: '178'
   judul:  Kantor Berita Difabel
@@ -1785,7 +1785,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/178.png
   link: /hibahcmb/178
-                                                                 
+
 - nomor: '179'
   judul: galeritangsel.com
   deskripsi: |
@@ -1794,8 +1794,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/179.png
-  link: /hibahcmb/179   
-                                                                   
+  link: /hibahcmb/179
+
 - nomor: '180'
   judul: depoklik.com
   deskripsi: |
@@ -1804,8 +1804,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/180.png
-  link: /hibahcmb/180 
-                                                                 
+  link: /hibahcmb/180
+
 - nomor: '181'
   judul: Pesantren Online sebagai Media Da’wah Islami
   deskripsi: |
@@ -1814,8 +1814,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/181.png
-  link: /hibahcmb/181   
-                                                                  
+  link: /hibahcmb/181
+
 - nomor: '182'
   judul: Jaringan Berita Sekolah Online
   deskripsi: |
@@ -1824,8 +1824,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/182.png
-  link: /hibahcmb/182  
-                                                                    
+  link: /hibahcmb/182
+
 - nomor: '183'
   judul: Menghubungkan Semua Desa se-Kabupaten Blora
   deskripsi: |
@@ -1835,7 +1835,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/183.png
   link: /hibahcmb/183
-  
+
 - nomor: '184'
   judul:  Bioidea
   deskripsi: |
@@ -1845,7 +1845,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/184.png
   link: /hibahcmb/184
-    
+
 - nomor: '185'
   judul:  Peningkatan Aksesibilitas Informasi Kebijakan Publik bagi Masyarakat Marginal dalam Penguatan Demokrasi Lokal (Zona-Zona Bebas Informasi)
   deskripsi: |
@@ -1857,7 +1857,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/185.png
   link: /hibahcmb/185
-     
+
 - nomor: '186'
   judul:   www.jurnalfootage.net
   deskripsi: |
@@ -1867,7 +1867,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/186.png
   link: /hibahcmb/186
-    
+
 - nomor: '187'
   judul:   Menggerakkan Inisiatif Warga Pulau Mandangin Melalui Media Mading Untuk Mengatasi Persoalan Listrik dan Air Bersih Secara MandiriMenggerakkan Inisiatif Warga Pulau Mandangin Melalui Media Mading Untuk Mengatasi Persoalan Listrik dan Air Bersih Secara Mandiri
   deskripsi: |
@@ -1877,7 +1877,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/187.png
   link: /hibahcmb/187
-    
+
 - nomor: '188'
   judul:   Sobat Bumi
   deskripsi: |
@@ -1887,7 +1887,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/188.png
   link: /hibahcmb/188
-    
+
 - nomor: '189'
   judul:   Belajar dan Berbagi Pengetahuan di Rumah Publik
   deskripsi: |
@@ -1897,7 +1897,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/189.png
   link: /hibahcmb/189
-    
+
 - nomor: '190'
   judul:   Pers Goes to Kampuang
   deskripsi: |
@@ -1907,7 +1907,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/190.png
   link: /hibahcmb/190
-    
+
 - nomor: '191'
   judul:   Lab.Multimedia untuk Pembelajaran Berbasis ICT
   deskripsi: |
@@ -1917,7 +1917,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/191.png
   link: /hibahcmb/191
-  
+
 - nomor: '192'
   judul:   Jaringan Majalah Dinding (Mading) Online Sekolah Indonesia
   deskripsi: |
@@ -1928,7 +1928,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/192.png
   link: /hibahcmb/192
-  
+
 - nomor: '193'
   judul:   Ruang Belajar Alternatif
   deskripsi: |
@@ -1938,7 +1938,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/193.png
   link: /hibahcmb/193
-  
+
 - nomor: '194'
   judul:   Muwujudkan Aplikasi e-Desa di Kecamatan Cimenyan
   deskripsi: |
@@ -1948,7 +1948,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/194.png
   link: /hibahcmb/194
-  
+
 - nomor: '195'
   judul:   Penerbitan dan Distribusi Majalah Gratis 3 Versi (Online, Digital, Cetak)
   deskripsi: |
@@ -1958,7 +1958,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/195.png
   link: /hibahcmb/195
-  
+
 - nomor: '196'
   judul:   Pengembangan Animasi Edukasi Berbasis Website (Games dan Simulasi) dan Komunitas Anak SD (engineeringtown.com for KIDS)
   deskripsi: |
@@ -1968,7 +1968,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/196.png
   link: /hibahcmb/196
-  
+
 - nomor: '197'
   judul:   Media Anak Bangsa
   deskripsi: |
@@ -1978,7 +1978,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/197.png
   link: /hibahcmb/197
-  
+
 - nomor: '198'
   judul:   Kampanye Sampah Kampung
   deskripsi: |
@@ -1988,7 +1988,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/198.png
   link: /hibahcmb/198
-  
+
 - nomor: '199'
   judul:   Pembelajaran Bahasa Indonesia-Inggris-Arab Terintegrasi Bertemakan Etika Dalam Berbahasa Berbasiskan E-learning
   deskripsi: |
@@ -1999,7 +1999,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/199.png
   link: /hibahcmb/199
-  
+
 - nomor: '200'
   judul:   Situs Jejaringku.Com
   deskripsi: |
@@ -2009,7 +2009,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/200.png
   link: /hibahcmb/200
-  
+
 - nomor: '201'
   judul:   Kebebasan Pers
   deskripsi: |
@@ -2080,7 +2080,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/206.png
   link: /hibahcmb/206
- 
+
 - nomor: '207'
   judul:   Forumlingkarpena.net
   deskripsi: |
@@ -2091,7 +2091,7 @@
   publik: true
   gambar: /static/img/hibahcmb/207.png
   link: /hibahcmb/207
- 
+
 - nomor: '208'
   judul:   Ear Magazine
   deskripsi: |
@@ -2100,8 +2100,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/208.png
-  link: /hibahcmb/208 
- 
+  link: /hibahcmb/208
+
 - nomor: '209'
   judul:   Pusat Informasi Penerapan Teknologi Tepat Guna Pompa Hidram
   deskripsi: |
@@ -2110,8 +2110,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/209.png
-  link: /hibahcmb/209   
-  
+  link: /hibahcmb/209
+
 - nomor: '210'
   judul:   Penyelenggaraan Media Anak Online sebagai Sarana Ekspresi dan Advokasi Hak Anak
   deskripsi: |
@@ -2120,8 +2120,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/210.png
-  link: /hibahcmb/210 
-    
+  link: /hibahcmb/210
+
 - nomor: '211'
   judul:   Kursus Online Animasi dan Multimedia Gratis Untuk Indonesia
   deskripsi: |
@@ -2130,8 +2130,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/211.png
-  link: /hibahcmb/211    
-   
+  link: /hibahcmb/211
+
 - nomor: '212'
   judul:   Menumbuhkembangkan Tradisi dan Budaya Lokal pada Anak-anak melalui Media Tulisan
   deskripsi: |
@@ -2140,8 +2140,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/212.png
-  link: /hibahcmb/212   
-   
+  link: /hibahcmb/212
+
 - nomor: '213'
   judul:   MosqueLife!Aid- Jejaring Kewirausahaan Sosial Berbasis Masjid
   deskripsi: |
@@ -2151,8 +2151,8 @@
   seleksi: true
   publik: true
   gambar: /static/img/hibahcmb/213.png
-  link: /hibahcmb/213 
-    
+  link: /hibahcmb/213
+
 - nomor: '214'
   judul:   Malang Peduli Menulis
   deskripsi: |
@@ -2161,8 +2161,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/214.png
-  link: /hibahcmb/214 
-    
+  link: /hibahcmb/214
+
 - nomor: '215'
   judul:   Digitalisasi Cerita Anak Melalui Partisipasi Komunitas Orang Tua dan Guru untuk Mendidik Anak Indonesia yang Berkarakter
   deskripsi: |
@@ -2171,8 +2171,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/215.png
-  link: /hibahcmb/215 
-     
+  link: /hibahcmb/215
+
 - nomor: '216'
   judul:   Trafdle
   deskripsi: |
@@ -2181,8 +2181,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/216.png
-  link: /hibahcmb/216  
-     
+  link: /hibahcmb/216
+
 - nomor: '217'
   judul:   Pilot Project Karang Taruna News
   deskripsi: |
@@ -2191,8 +2191,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/217.png
-  link: /hibahcmb/217  
-     
+  link: /hibahcmb/217
+
 - nomor: '218'
   judul:   Diskusi Akuarium Kandank Ilmu (Kandank Ilmu Fish-bowl Discussion)
   deskripsi: |
@@ -2201,8 +2201,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/218.png
-  link: /hibahcmb/218 
-     
+  link: /hibahcmb/218
+
 - nomor: '219'
   judul:   Sekolah Online Literasi Media
   deskripsi: |
@@ -2212,8 +2212,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/219.png
-  link: /hibahcmb/219   
-     
+  link: /hibahcmb/219
+
 - nomor: '220'
   judul:   Sketsa Sriwijaya
   deskripsi: |
@@ -2223,7 +2223,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/220.png
   link: /hibahcmb/220
-       
+
 - nomor: '221'
   judul:   Rekam Kita Project
   deskripsi: |
@@ -2233,7 +2233,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/221.png
   link: /hibahcmb/221
-       
+
 - nomor: '222'
   judul:   Edukasi Internet Sehat Berbasis Komik & Animasi untuk Ibu & Anak
   deskripsi: |
@@ -2243,7 +2243,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/222.png
   link: /hibahcmb/222
-       
+
 - nomor: '223'
   judul:   Media Online Kabar Investigasi
   deskripsi: |
@@ -2252,8 +2252,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/223.png
-  link: /hibahcmb/223  
-        
+  link: /hibahcmb/223
+
 - nomor: '224'
   judul:   Pengembangan Biogas
   deskripsi: |
@@ -2262,8 +2262,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/224.png
-  link: /hibahcmb/224 
-        
+  link: /hibahcmb/224
+
 - nomor: '225'
   judul:   Rumah Tahfidz & Yatim HBA (Harus Baca Al-Quran)
   deskripsi: |
@@ -2274,8 +2274,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/225.png
-  link: /hibahcmb/225  
-        
+  link: /hibahcmb/225
+
 - nomor: '226'
   judul:   AYO BERMAIN ! Matikan TV dan Game Online mu sebentar, Saatnya Bermain!
   deskripsi: |
@@ -2284,8 +2284,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/226.png
-  link: /hibahcmb/226  
-        
+  link: /hibahcmb/226
+
 - nomor: '227'
   judul:   Pembentukan Lembaga Media Watch Independen di Perguruan Tinggi se-Kota Malang
   deskripsi: |
@@ -2295,7 +2295,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/227.png
   link: /hibahcmb/227
-        
+
 - nomor: '228'
   judul:   Gerakan Cinta Indonesia Melalui Pendidikan Internet untuk Anak-anak Korban Konflik Aceh
   deskripsi: |
@@ -2304,8 +2304,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/228.png
-  link: /hibahcmb/228  
-         
+  link: /hibahcmb/228
+
 - nomor: '229'
   judul:   Video Komunitas sebagai Jembatan Komunikasi Kampung Cempluk
   deskripsi: |
@@ -2314,8 +2314,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/229.png
-  link: /hibahcmb/229 
-         
+  link: /hibahcmb/229
+
 - nomor: '230'
   judul:   Gerakan Ponsel Sehat Indonesia
   deskripsi: |
@@ -2324,8 +2324,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/230.png
-  link: /hibahcmb/230 
-         
+  link: /hibahcmb/230
+
 - nomor: '231'
   judul:   Pemutaran Film Rutin dan Pelatihan Kepenulisan
   deskripsi: |
@@ -2335,8 +2335,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/231.png
-  link: /hibahcmb/231 
-         
+  link: /hibahcmb/231
+
 - nomor: '232'
   judul:   Majalah Sekolah Bogor
   deskripsi: |
@@ -2345,8 +2345,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/232.png
-  link: /hibahcmb/232   
-          
+  link: /hibahcmb/232
+
 - nomor: '233'
   judul:   Bergerak!
   deskripsi: |
@@ -2355,8 +2355,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/233.png
-  link: /hibahcmb/233  
-          
+  link: /hibahcmb/233
+
 - nomor: '234'
   judul:   Pusat Informasi dan Teknologi Kampung (Putik)
   deskripsi: |
@@ -2365,8 +2365,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/234.png
-  link: /hibahcmb/234   
-          
+  link: /hibahcmb/234
+
 - nomor: '235'
   judul:   E-wayang, Tranformasi Tatah Sungging dan Mendalang Digital
   deskripsi: |
@@ -2375,8 +2375,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/235.png
-  link: /hibahcmb/235  
-          
+  link: /hibahcmb/235
+
 - nomor: '236'
   judul:   Amboina Cyber Society
   deskripsi: |
@@ -2388,8 +2388,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/236.png
-  link: /hibahcmb/236   
-          
+  link: /hibahcmb/236
+
 - nomor: '237'
   judul:   Blogdesa
   deskripsi: |
@@ -2398,8 +2398,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/237.png
-  link: /hibahcmb/237 
-          
+  link: /hibahcmb/237
+
 - nomor: '238'
   judul:   Serial Televisi Animasi Si Nini
   deskripsi: |
@@ -2412,8 +2412,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/238.png
-  link: /hibahcmb/238   
-          
+  link: /hibahcmb/238
+
 - nomor: '239'
   judul:   Penerbitan Media Cetak
   deskripsi: |
@@ -2422,8 +2422,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/239.png
-  link: /hibahcmb/239  
-          
+  link: /hibahcmb/239
+
 - nomor: '240'
   judul:   Radio Pendidikan Berbahasa Daerah
   deskripsi: |
@@ -2433,7 +2433,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/240.png
   link: /hibahcmb/240
-       
+
 - nomor: '241'
   judul:   Situs Pemantau Situs
   deskripsi: |
@@ -2443,7 +2443,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/241.png
   link: /hibahcmb/241
-      
+
 - nomor: '242'
   judul:   Made In Bali - Keadilan dan kesetaraan akses media
   deskripsi: |
@@ -2453,7 +2453,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/242.png
   link: /hibahcmb/242
-      
+
 - nomor: '243'
   judul:   Mading Rakyat
   deskripsi: |
@@ -2462,8 +2462,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/243.png
-  link: /hibahcmb/243  
-       
+  link: /hibahcmb/243
+
 - nomor: '244'
   judul:   Mendongkrak Popularitas Mainan Tradisional
   deskripsi: |
@@ -2473,7 +2473,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/244.png
   link: /hibahcmb/244
-       
+
 - nomor: '245'
   judul:   Teknologi Open Source untuk Pendidikan di 9 Kabupaten/Kota di Maluku Utara Melalui Roadshow Open Source serta Pembangunan Lab Komputer
   deskripsi: |
@@ -2483,7 +2483,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/245.png
   link: /hibahcmb/245
-       
+
 - nomor: '246'
   judul:   Wiramedia
   deskripsi: |
@@ -2492,8 +2492,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/246.png
-  link: /hibahcmb/246  
-       
+  link: /hibahcmb/246
+
 - nomor: '247'
   judul:   Cibulan the Trully of Kuningan
   deskripsi: |
@@ -2502,8 +2502,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/247.png
-  link: /hibahcmb/247  
-       
+  link: /hibahcmb/247
+
 - nomor: '248'
   judul:   NGOMIK.COM – Membangkitkan Komik Indonesia
   deskripsi: |
@@ -2512,8 +2512,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/248.png
-  link: /hibahcmb/248 
-       
+  link: /hibahcmb/248
+
 - nomor: '249'
   judul:   Pengembangan Multimedia Untuk Pemuda
   deskripsi: |
@@ -2522,8 +2522,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/249.png
-  link: /hibahcmb/249  
-       
+  link: /hibahcmb/249
+
 - nomor: '250'
   judul:   Gerakan Indonesia Gemar Membaca
   deskripsi: |
@@ -2532,8 +2532,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/250.png
-  link: /hibahcmb/250   
-       
+  link: /hibahcmb/250
+
 - nomor: '251'
   judul:   Ibu-Ibu Doyan Nulis
   deskripsi: |
@@ -2542,8 +2542,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/251.png
-  link: /hibahcmb/251   
-        
+  link: /hibahcmb/251
+
 - nomor: '252'
   judul:   Ibu Rumah Tangga Cerdas Media
   deskripsi: |
@@ -2552,8 +2552,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/252.png
-  link: /hibahcmb/252  
-         
+  link: /hibahcmb/252
+
 - nomor: '253'
   judul:   Saung Lontara - Tempat Berbagi dan Berdaya Kawula Makassar
   deskripsi: |
@@ -2562,8 +2562,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/253.png
-  link: /hibahcmb/253 
-          
+  link: /hibahcmb/253
+
 - nomor: '254'
   judul:   Ratanika Graphic Novel / Comic
   deskripsi: |
@@ -2572,8 +2572,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/254.png
-  link: /hibahcmb/254  
-           
+  link: /hibahcmb/254
+
 - nomor: '255'
   judul:   laporkan.or.id
   deskripsi: |
@@ -2582,8 +2582,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/255.png
-  link: /hibahcmb/255 
-           
+  link: /hibahcmb/255
+
 - nomor: '256'
   judul:   Preservasi Bahasa Nusantara
   deskripsi: |
@@ -2593,7 +2593,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/256.png
   link: /hibahcmb/256
-           
+
 - nomor: '257'
   judul:   Membangun Jaringan Pengelola Jurnalisme Warga Indonesia
   deskripsi: |
@@ -2605,7 +2605,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/257.png
   link: /hibahcmb/257
-           
+
 - nomor: '258'
   judul:   Situs Berita Kabupaten Bantul
   deskripsi: |
@@ -2615,7 +2615,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/258.png
   link: /hibahcmb/258
-           
+
 - nomor: '259'
   judul:   Pemanfaatan Teknologi Server SMS
   deskripsi: |
@@ -2625,7 +2625,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/259.png
   link: /hibahcmb/259
-           
+
 - nomor: '260'
   judul:   Membangun Model Sistem e-University untuk Mewujudkan Good University Governance dalam Menjalankan Tridharmanya
   deskripsi: |
@@ -2635,7 +2635,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/260.png
   link: /hibahcmb/260
-       
+
 - nomor: '261'
   judul:   Super Lokal
   deskripsi: |
@@ -2645,7 +2645,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/261.png
   link: /hibahcmb/261
-     
+
 - nomor: '262'
   judul:   Komunitas PinjamBuku.org
   deskripsi: |
@@ -2655,7 +2655,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/262.png
   link: /hibahcmb/262
-       
+
 - nomor: '262'
   judul:   Diseminasi Informasi Pembangunan Pedesaan Banjaran Wetan
   deskripsi: |
@@ -2665,7 +2665,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/263.png
   link: /hibahcmb/263
-       
+
 - nomor: '264'
   judul:   Adu-Ide - Platform Debat Online Anak Muda Indonesia
   deskripsi: |
@@ -2674,8 +2674,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/264.png
-  link: /hibahcmb/264  
-        
+  link: /hibahcmb/264
+
 - nomor: '265'
   judul:   Budidaya Jamur Tiram
   deskripsi: |
@@ -2684,8 +2684,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/265.png
-  link: /hibahcmb/265 
-        
+  link: /hibahcmb/265
+
 - nomor: '266'
   judul:   Katalog UKM Sebagai Media Sosialisasi Produk Unggulan Usaha Kecil Menengah
   deskripsi: |
@@ -2694,8 +2694,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/266.png
-  link: /hibahcmb/266  
-        
+  link: /hibahcmb/266
+
 - nomor: '267'
   judul:   Video Komunitas Sebagai Media Komunikasi Masyarakat Desa Grajegan
   deskripsi: |
@@ -2704,8 +2704,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/267.png
-  link: /hibahcmb/267  
-        
+  link: /hibahcmb/267
+
 - nomor: '268'
   judul:   Koran Online Sulawesi Utara
   deskripsi: |
@@ -2714,8 +2714,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/268.png
-  link: /hibahcmb/268  
-        
+  link: /hibahcmb/268
+
 - nomor: '269'
   judul:   Rockto.com – Cara Seru Berbagi Rekomendasi
   deskripsi: |
@@ -2724,8 +2724,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/269.png
-  link: /hibahcmb/269  
-         
+  link: /hibahcmb/269
+
 - nomor: '270'
   judul:   Majalah (Gratis) Untuk Siswa/Guru/Pemuda di Daerah Pedalaman
   deskripsi: |
@@ -2735,7 +2735,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/270.png
   link: /hibahcmb/270
-          
+
 - nomor: '271'
   judul:   Pemantau Media
   deskripsi: |
@@ -2744,8 +2744,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/271.png
-  link: /hibahcmb/271 
-           
+  link: /hibahcmb/271
+
 - nomor: '272'
   judul:   Taman Baca
   deskripsi: |
@@ -2754,8 +2754,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/272.png
-  link: /hibahcmb/272 
-           
+  link: /hibahcmb/272
+
 - nomor: '273'
   judul:   International Digital Biodiversity Youth Camp
   deskripsi: |
@@ -2764,8 +2764,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/273.png
-  link: /hibahcmb/273  
-           
+  link: /hibahcmb/273
+
 - nomor: '274'
   judul:   Pelestarian Budaya Nusantara melalui Pengembangan Usaha Batik dan Sosialisi melalui Media
   deskripsi: |
@@ -2774,8 +2774,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/274.png
-  link: /hibahcmb/274   
-           
+  link: /hibahcmb/274
+
 - nomor: '275'
   judul:   TV Net+Komunitas
   deskripsi: |
@@ -2785,8 +2785,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/275.png
-  link: /hibahcmb/275  
-            
+  link: /hibahcmb/275
+
 - nomor: '276'
   judul:   Open Indes
   deskripsi: |
@@ -2796,7 +2796,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/276.png
   link: /hibahcmb/276
-             
+
 - nomor: '277'
   judul:   Membangun 100 content e-Learning Mata Kuliah Teknik Industri
   deskripsi: |
@@ -2806,7 +2806,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/277.png
   link: /hibahcmb/277
-             
+
 - nomor: '278'
   judul:   Portal Informasi
   deskripsi: |
@@ -2816,7 +2816,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/278.png
   link: /hibahcmb/278
-             
+
 - nomor: '279'
   judul:   komikoo.com
   deskripsi: |
@@ -2825,8 +2825,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/279.png
-  link: /hibahcmb/279  
-              
+  link: /hibahcmb/279
+
 - nomor: '280'
   judul:   Pembuatan Media Pembelajaran Wirausaha berbasis Potensi Lokal
   deskripsi: |
@@ -2836,7 +2836,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/280.png
   link: /hibahcmb/280
-       
+
 - nomor: '281'
   judul:   Serial Animasi Petualangan Si Chorles
   deskripsi: |
@@ -2846,7 +2846,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/281.png
   link: /hibahcmb/281
-       
+
 - nomor: '282'
   judul:   Majalah Hotelier Indonesia Versi Bahasa Indonesia
   deskripsi: |
@@ -2856,7 +2856,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/282.png
   link: /hibahcmb/282
-         
+
 - nomor: '283'
   judul:   IAMC Open Project Movie
   deskripsi: |
@@ -2866,7 +2866,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/283.png
   link: /hibahcmb/283
-           
+
 - nomor: '284'
   judul:   Komunitas Sanggar Bona (KoSaBo)
   deskripsi: |
@@ -2876,7 +2876,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/284.png
   link: /hibahcmb/284
-           
+
 - nomor: '285'
   judul:   Radio 2.0 Wahana Kebhinekaan Bermedia
   deskripsi: |
@@ -2885,8 +2885,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/285.png
-  link: /hibahcmb/285  
-           
+  link: /hibahcmb/285
+
 - nomor: '286'
   judul:   Software I-Sehat
   deskripsi: |
@@ -2895,8 +2895,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/286.png
-  link: /hibahcmb/286   
-            
+  link: /hibahcmb/286
+
 - nomor: '287'
   judul:   Mari Wartakan dengan Video
   deskripsi: |
@@ -2905,8 +2905,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/287.png
-  link: /hibahcmb/287  
-            
+  link: /hibahcmb/287
+
 - nomor: '288'
   judul:   UTILITARIANISME - Upaya Membangun Etika Komunikasi yang Sesuai dengan Konteks Indonesia
   deskripsi: |
@@ -2915,8 +2915,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/288.png
-  link: /hibahcmb/288 
-            
+  link: /hibahcmb/288
+
 - nomor: '289'
   judul:   Hotspot Internet Gratis
   deskripsi: |
@@ -2925,8 +2925,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/289.png
-  link: /hibahcmb/289  
-              
+  link: /hibahcmb/289
+
 - nomor: '290'
   judul:   Aspikom Media Watch
   deskripsi: |
@@ -2935,8 +2935,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/290.png
-  link: /hibahcmb/290   
-             
+  link: /hibahcmb/290
+
 - nomor: '291'
   judul:   Riset, Penulisan, dan Penerbitan Buku mengenai ‘Ekonomi Politik dan Kinerja Media Televisi di Indonesia’
   deskripsi: |
@@ -2945,8 +2945,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/291.png
-  link: /hibahcmb/291   
-             
+  link: /hibahcmb/291
+
 - nomor: '292'
   judul:   Tabloid Inspirasi (Inspirasi,Pendidikan dan Informasi) Gratis untuk Masyarakat Cianjur
   deskripsi: |
@@ -2955,8 +2955,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/292.png
-  link: /hibahcmb/292  
-              
+  link: /hibahcmb/292
+
 - nomor: '293'
   judul:   Membangun Kesadaran Budaya Melalui Kekuatan Media
   deskripsi: |
@@ -2965,8 +2965,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/293.png
-  link: /hibahcmb/293 
-               
+  link: /hibahcmb/293
+
 - nomor: '294'
   judul:   Jaringan Radio Komunitas Petani NTT
   deskripsi: |
@@ -2975,8 +2975,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/294.png
-  link: /hibahcmb/294  
-               
+  link: /hibahcmb/294
+
 - nomor: '295'
   judul:   Jalan Remaja 1208, 1 Peta Remaja Indonesia
   deskripsi: |
@@ -2986,8 +2986,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/295.png
-  link: /hibahcmb/295   
-               
+  link: /hibahcmb/295
+
 - nomor: '296'
   judul:   KIA Magazine
   deskripsi: |
@@ -2996,8 +2996,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/296.png
-  link: /hibahcmb/296  
-               
+  link: /hibahcmb/296
+
 - nomor: '297'
   judul:   Pengembangan Koran Dinding di Sekolah
   deskripsi: |
@@ -3006,8 +3006,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/297.png
-  link: /hibahcmb/297   
-               
+  link: /hibahcmb/297
+
 - nomor: '298'
   judul:   RADIO AGRO SAMAWA (Agricultural Information Center)
   deskripsi: |
@@ -3016,8 +3016,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/298.png
-  link: /hibahcmb/298  
-                
+  link: /hibahcmb/298
+
 - nomor: '299'
   judul:   Televisi Komunitas Untuk Keadilan Informasi
   deskripsi: |
@@ -3026,8 +3026,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/299.png
-  link: /hibahcmb/299   
-                 
+  link: /hibahcmb/299
+
 - nomor: '300'
   judul:   Gerakan Guru Digital
   deskripsi: |
@@ -3042,7 +3042,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/300.png
   link: /hibahcmb/300
-       
+
 - nomor: '301'
   judul:   TentangMadura.com
   deskripsi: |
@@ -3052,7 +3052,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/301.png
   link: /hibahcmb/301
-     
+
 - nomor: '302'
   judul:   Trashgraph
   deskripsi: |
@@ -3062,7 +3062,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/302.png
   link: /hibahcmb/302
-     
+
 - nomor: '303'
   judul:   Generasi Tampil
   deskripsi: |
@@ -3072,7 +3072,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/303.png
   link: /hibahcmb/303
-      
+
 - nomor: '304'
   judul:   Media Promosi UKM
   deskripsi: |
@@ -3082,7 +3082,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/304.png
   link: /hibahcmb/304
-       
+
 - nomor: '305'
   judul:   Bermedia Bersama Komunitas Cimenyan Creative Community
   deskripsi: |
@@ -3091,8 +3091,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/305.png
-  link: /hibahcmb/305  
-       
+  link: /hibahcmb/305
+
 - nomor: '306'
   judul:   Pembuatan CD Informasi Perguruan Tinggi bagi 28.508 SMA/MA/SMK di seluruh Indonesia
   deskripsi: |
@@ -3103,8 +3103,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/306.png
-  link: /hibahcmb/306  
-        
+  link: /hibahcmb/306
+
 - nomor: '307'
   judul:   Bermedia Bersama Komunitas Cimenyan Creative Community
   deskripsi: |
@@ -3113,8 +3113,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/307.png
-  link: /hibahcmb/307 
-        
+  link: /hibahcmb/307
+
 - nomor: '308'
   judul:   Seni Budaya Papua & Pemberdayaan Teknologi Informasi dan Penciptaan Kontent Kreatif
   deskripsi: |
@@ -3127,7 +3127,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/308.png
   link: /hibahcmb/308
-        
+
 - nomor: '309'
   judul:   Program TV iSukses
   deskripsi: |
@@ -3136,8 +3136,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/309.png
-  link: /hibahcmb/309  
-         
+  link: /hibahcmb/309
+
 - nomor: '310'
   judul:   Datapublik
   deskripsi: |
@@ -3146,8 +3146,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/310.png
-  link: /hibahcmb/310  
-         
+  link: /hibahcmb/310
+
 - nomor: '311'
   judul:   Cerita Anak Islam
   deskripsi: |
@@ -3159,8 +3159,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/311.png
-  link: /hibahcmb/311   
-          
+  link: /hibahcmb/311
+
 - nomor: '312'
   judul:   Menyuarakan yang tak Bersuara
   deskripsi: |
@@ -3169,8 +3169,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/312.png
-  link: /hibahcmb/312   
-          
+  link: /hibahcmb/312
+
 - nomor: '313'
   judul:   Tandif
   deskripsi: |
@@ -3179,8 +3179,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/313.png
-  link: /hibahcmb/313   
-          
+  link: /hibahcmb/313
+
 - nomor: '314'
   judul:   Toraja Intermedia
   deskripsi: |
@@ -3189,8 +3189,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/314.png
-  link: /hibahcmb/314     
-          
+  link: /hibahcmb/314
+
 - nomor: '315'
   judul:   Eduwikinesia, Program Belajar dan Mengajar Kolaboratif untuk Indonesia
   deskripsi: |
@@ -3200,7 +3200,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/315.png
   link: /hibahcmb/315
-  
+
 - nomor: '316'
   judul:   Radio Komunitas Pertanian dan Radio Komunitas Anak Muda
   deskripsi: |
@@ -3209,8 +3209,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/316.png
-  link: /hibahcmb/316   
-  
+  link: /hibahcmb/316
+
 - nomor: '317'
   judul:   Urbanisasi Informasi
   deskripsi: |
@@ -3219,8 +3219,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/317.png
-  link: /hibahcmb/317  
-   
+  link: /hibahcmb/317
+
 - nomor: '318'
   judul:   Hpku-Teman Belajarku
   deskripsi: |
@@ -3232,8 +3232,8 @@
   seleksi: true
   publik: true
   gambar: /static/img/hibahcmb/318.png
-  link: /hibahcmb/318 
-     
+  link: /hibahcmb/318
+
 - nomor: '319'
   judul:   WikiWarta
   deskripsi: |
@@ -3244,7 +3244,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/319.png
   link: /hibahcmb/319
-     
+
 - nomor: '320'
   judul:   Parlemen Anak dan Komunitas Pencinta Buku untuk Anak
   deskripsi: |
@@ -3255,7 +3255,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/320.png
   link: /hibahcmb/320
-     
+
 - nomor: '321'
   judul:   Beyond Radio Wahana Keadilan Bermedia
   deskripsi: |
@@ -3265,7 +3265,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/321.png
   link: /hibahcmb/321
-   
+
 - nomor: '322'
   judul:   Pengembangan Media Informasi Bagi Kelompok Pemberdayaan Perempuan
   deskripsi: |
@@ -3275,7 +3275,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/322.png
   link: /hibahcmb/322
-    
+
 - nomor: '323'
   judul:   Media Edukasi Seksualitas Remaja Bogor (www.teenageloveeducation.com)
   deskripsi: |
@@ -3284,8 +3284,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/323.png
-  link: /hibahcmb/323 
-     
+  link: /hibahcmb/323
+
 - nomor: '324'
   judul:   Tripperz
   deskripsi: |
@@ -3297,8 +3297,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/324.png
-  link: /hibahcmb/324  
-    
+  link: /hibahcmb/324
+
 - nomor: '325'
   judul:   CRAYONPEDIA, The Next Generation Learning Environment
   deskripsi: |
@@ -3310,8 +3310,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/325.png
-  link: /hibahcmb/325  
-     
+  link: /hibahcmb/325
+
 - nomor: '326'
   judul:   Pelatihan Jurnalistik dan Media Sekolah Untuk Siswa SMA
   deskripsi: |
@@ -3320,8 +3320,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/326.png
-  link: /hibahcmb/326  
-      
+  link: /hibahcmb/326
+
 - nomor: '327'
   judul:   Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam dan Media Watch Lapindo
   deskripsi: |
@@ -3330,8 +3330,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/327.png
-  link: /hibahcmb/327 
-       
+  link: /hibahcmb/327
+
 - nomor: '328'
   judul:   Radio Komunitas untuk Transformasi Desa
   deskripsi: |
@@ -3341,7 +3341,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/328.png
   link: /hibahcmb/328
-       
+
 - nomor: '329'
   judul:   KhutbahKampung.com – Menyiarkan Syiar Damai dari Speaker Masjid Kampung
   deskripsi: |
@@ -3350,8 +3350,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/329.png
-  link: /hibahcmb/329   
-       
+  link: /hibahcmb/329
+
 - nomor: '330'
   judul:   Desaku Tidak Buta Teknologi Informasi
   deskripsi: |
@@ -3360,8 +3360,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/330.png
-  link: /hibahcmb/330  
-        
+  link: /hibahcmb/330
+
 - nomor: '331'
   judul:   SKETSA – Sejarah dan Kebudayaan Tionghoa Nusantara
   deskripsi: |
@@ -3372,7 +3372,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/331.png
   link: /hibahcmb/331
-        
+
 - nomor: '332'
   judul:   Media Online dan Fasilitasi Pendukung Kegiatan Penanganan Pengelolaan Sampah Rumah Tangga Berbasis Masyarakat
   deskripsi: |
@@ -3381,8 +3381,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/332.png
-  link: /hibahcmb/332 
-        
+  link: /hibahcmb/332
+
 - nomor: '333'
   judul:   Bhinneka - Keberagaman dan Kesetaraan Tanpa Batas
   deskripsi: |
@@ -3392,8 +3392,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/333.png
-  link: /hibahcmb/333  
-                                                                       
+  link: /hibahcmb/333
+
 - nomor: '334'
   judul: Tombol Lapor Dewan Pers
   deskripsi: |
@@ -3402,8 +3402,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/334.png
-  link: /hibahcmb/334    
-       
+  link: /hibahcmb/334
+
 - nomor: '335'
   judul:   Batas Kita dan Media
   deskripsi: |
@@ -3412,8 +3412,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/335.png
-  link: /hibahcmb/335 
-       
+  link: /hibahcmb/335
+
 - nomor: '336'
   judul:   Koperasi Majalah Kebudayaan Minahasa “Waleta Minahasa”
   deskripsi: |
@@ -3422,8 +3422,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/336.png
-  link: /hibahcmb/336 
-       
+  link: /hibahcmb/336
+
 - nomor: '337'
   judul:   Menghentikan Permusuhan
   deskripsi: |
@@ -3433,8 +3433,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/337.png
-  link: /hibahcmb/337 
-        
+  link: /hibahcmb/337
+
 - nomor: '338'
   judul:   Terdepan dari Keterbelakangan
   deskripsi: |
@@ -3443,8 +3443,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/338.png
-  link: /hibahcmb/338  
-         
+  link: /hibahcmb/338
+
 - nomor: '339'
   judul:   SMS Center
   deskripsi: |
@@ -3453,8 +3453,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/339.png
-  link: /hibahcmb/339 
-         
+  link: /hibahcmb/339
+
 - nomor: '340'
   judul:   SMS Center
   deskripsi: |
@@ -3464,8 +3464,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/340.png
-  link: /hibahcmb/340  
-     
+  link: /hibahcmb/340
+
 - nomor: '341'
   judul:   Majalah Audio untuk Tunanetra
   deskripsi: |
@@ -3475,7 +3475,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/341.png
   link: /hibahcmb/341
-   
+
 - nomor: '342'
   judul:   Era Portal Berita Daerah
   deskripsi: |
@@ -3485,7 +3485,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/342.png
   link: /hibahcmb/342
-   
+
 - nomor: '343'
   judul:   Pasar Informasi Warga
   deskripsi: |
@@ -3495,7 +3495,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/343.png
   link: /hibahcmb/343
-     
+
 - nomor: '344'
   judul:   Village Video Festival
   deskripsi: |
@@ -3508,7 +3508,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/344.png
   link: /hibahcmb/344
-    
+
 - nomor: '345'
   judul:   Memberdayakan Masyarakat Lokal
   deskripsi: |
@@ -3517,8 +3517,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/345.png
-  link: /hibahcmb/345 
-     
+  link: /hibahcmb/345
+
 - nomor: '346'
   judul:   Penggilingan Tebu Mini
   deskripsi: |
@@ -3527,8 +3527,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/346.png
-  link: /hibahcmb/346  
-      
+  link: /hibahcmb/346
+
 - nomor: '347'
   judul:   IdeasTalk.org
   deskripsi: |
@@ -3537,8 +3537,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/347.png
-  link: /hibahcmb/347 
-      
+  link: /hibahcmb/347
+
 - nomor: '348'
   judul:   Kanal News Room – Saluran Informasi Kasus Lumpur Lapindo Perspektif Korban
   deskripsi: |
@@ -3549,8 +3549,8 @@
   tipe: retas
   seleksi: true
   gambar: /static/img/hibahcmb/348.png
-  link: /hibahcmb/348  
-      
+  link: /hibahcmb/348
+
 - nomor: '349'
   judul:   Pusat Persaudaraan Umat, Islam Rahmatan lil Alamin (PUPIRA).org
   deskripsi: |
@@ -3559,8 +3559,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/349.png
-  link: /hibahcmb/349    
-        
+  link: /hibahcmb/349
+
 - nomor: '350'
   judul:   Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
   deskripsi: |
@@ -3569,8 +3569,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/350.png
-  link: /hibahcmb/350    
-         
+  link: /hibahcmb/350
+
 - nomor: '351'
   judul:   Mendidik Masyarakat sekitar wilayah Eksplorasi Migas Berani Bersaing
   deskripsi: |
@@ -3580,7 +3580,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/351.png
   link: /hibahcmb/351
-          
+
 - nomor: '352'
   judul:   AYO-CARI.com
   deskripsi: |
@@ -3590,7 +3590,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/352.png
   link: /hibahcmb/352
-           
+
 - nomor: '353'
   judul:   RADIO NUSANTARA - Sajian Lokal Jaringan Global
   deskripsi: |
@@ -3604,8 +3604,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/353.png
-  link: /hibahcmb/353  
-           
+  link: /hibahcmb/353
+
 - nomor: '354'
   judul:   Saatnya Masyarakat Lokal Menikmati Berita Disekitarnya Secara Lengkap dan Jujur. Dapat berinteraktif dengan Ide dan Tanggapannya.
   deskripsi: |
@@ -3614,8 +3614,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/354.png
-  link: /hibahcmb/354 
-            
+  link: /hibahcmb/354
+
 - nomor: '355'
   judul:   Pelatihan dan Pengembangan Media Online untuk Anak Panti Asuhan
   deskripsi: |
@@ -3625,7 +3625,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/355.png
   link: /hibahcmb/355
-            
+
 - nomor: '356'
   judul:   Flipper Digital Magazine
   deskripsi: |
@@ -3635,8 +3635,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/356.png
-  link: /hibahcmb/356  
-             
+  link: /hibahcmb/356
+
 - nomor: '357'
   judul:   Universitas Sebagai Penyatu keaneka ragaman Budaya Melalui Mahasiswa dari Daerah Papua
   deskripsi: |
@@ -3645,8 +3645,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/357.png
-  link: /hibahcmb/357  
-              
+  link: /hibahcmb/357
+
 - nomor: '358'
   judul:   Cara Pintar Nonton TV – Blog Edukasi dan Pemantauan Media
   deskripsi: |
@@ -3655,8 +3655,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/358.png
-  link: /hibahcmb/358 
-               
+  link: /hibahcmb/358
+
 - nomor: '359'
   judul:   CITIZEN MEDIA WACTH - Pemantauan Media Berbasis Jurnalisme Warga
   deskripsi: |
@@ -3668,7 +3668,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/359.png
   link: /hibahcmb/359
-                
+
 - nomor: '360'
   judul:   Konser & Album ‘Pancasila Rumah Kita’
   deskripsi: |
@@ -3678,7 +3678,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/360.png
   link: /hibahcmb/360
-                
+
 - nomor: '361'
   judul:   Jurnalisme Komunitas Kreatif Anak Muda Makassar
   deskripsi: |
@@ -3687,8 +3687,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/361.png
-  link: /hibahcmb/361 
-                 
+  link: /hibahcmb/361
+
 - nomor: '362'
   judul:   Madura Education Center (MEC)
   deskripsi: |
@@ -3697,8 +3697,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/362.png
-  link: /hibahcmb/362  
-                  
+  link: /hibahcmb/362
+
 - nomor: '363'
   judul:   Pembangunan Jaringan Informasi Antarkomunitas Difabel di Soloraya
   deskripsi: |
@@ -3707,8 +3707,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/363.png
-  link: /hibahcmb/363   
-                   
+  link: /hibahcmb/363
+
 - nomor: '364'
   judul:   Bicycle Library
   deskripsi: |
@@ -3717,8 +3717,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/364.png
-  link: /hibahcmb/364 
-                    
+  link: /hibahcmb/364
+
 - nomor: '365'
   judul:   Colek Tahajud Indonesia
   deskripsi: |
@@ -3729,8 +3729,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/365.png
-  link: /hibahcmb/365  
-                    
+  link: /hibahcmb/365
+
 - nomor: '366'
   judul:   Remaja Indonesia - Melek Digital
   deskripsi: |
@@ -3739,8 +3739,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/366.png
-  link: /hibahcmb/366  
-                     
+  link: /hibahcmb/366
+
 - nomor: '367'
   judul:   Audit Komunikasi Pada Organisasi Kemasyarakatan
   deskripsi: |
@@ -3749,8 +3749,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/367.png
-  link: /hibahcmb/367  
-                      
+  link: /hibahcmb/367
+
 - nomor: '368'
   judul:   I shot - Video Buletin
   deskripsi: |
@@ -3759,8 +3759,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/368.png
-  link: /hibahcmb/368  
-                      
+  link: /hibahcmb/368
+
 - nomor: '369'
   judul:   NgapakNEWS.com
   deskripsi: |
@@ -3769,8 +3769,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/369.png
-  link: /hibahcmb/369  
-                       
+  link: /hibahcmb/369
+
 - nomor: '370'
   judul:   Harian Online Blogger
   deskripsi: |
@@ -3780,7 +3780,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/370.png
   link: /hibahcmb/370
-                       
+
 - nomor: '371'
   judul:   Perpustakaan Remaja Mesjid Al-Hidayah
   deskripsi: |
@@ -3789,8 +3789,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/371.png
-  link: /hibahcmb/371  
-                         
+  link: /hibahcmb/371
+
 - nomor: '372'
   judul:   Media Online Lokal Berbasis Anak Muda
   deskripsi: |
@@ -3799,8 +3799,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/372.png
-  link: /hibahcmb/372  
-                          
+  link: /hibahcmb/372
+
 - nomor: '373'
   judul:   CD Interaktif Pembelajaran Anak Usia Dini
   deskripsi: |
@@ -3809,8 +3809,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/373.png
-  link: /hibahcmb/373 
-                          
+  link: /hibahcmb/373
+
 - nomor: '374'
   judul:   Perpustakaan digital
   deskripsi: |
@@ -3819,8 +3819,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/374.png
-  link: /hibahcmb/374  
-                           
+  link: /hibahcmb/374
+
 - nomor: '375'
   judul:   Warta di Garis Batas
   deskripsi: |
@@ -3830,7 +3830,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/375.png
   link: /hibahcmb/375
-                           
+
 - nomor: '376'
   judul:   Suara GARUDA
   deskripsi: |
@@ -3839,8 +3839,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/376.png
-  link: /hibahcmb/376  
-                            
+  link: /hibahcmb/376
+
 - nomor: '377'
   judul:   Pengembangan Situs sebagai Alat Advokasi Hak atas Tanah dan Penghidupan Warga di Kebumen, Kulon Progo dan Bantul
   deskripsi: |
@@ -3849,8 +3849,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/377.png
-  link: /hibahcmb/377  
-                            
+  link: /hibahcmb/377
+
 - nomor: '378'
   judul:   Memantau Jurnalisme, Mengabdi pada Masyarakat!
   deskripsi: |
@@ -3860,8 +3860,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/378.png
-  link: /hibahcmb/378  
-                            
+  link: /hibahcmb/378
+
 - nomor: '379'
   judul:   Desain Grafis Indonesia
   deskripsi: |
@@ -3870,8 +3870,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/379.png
-  link: /hibahcmb/379  
-                             
+  link: /hibahcmb/379
+
 - nomor: '380'
   judul:   Solusi Aplikasi Media Sosial Berjejaring Pelajar Indonesia untuk Mendapatkan Hak Meraih Pendidikan Tinggi guna Masa Depannya dan Bangsa yang Kuat
   deskripsi: |
@@ -3881,8 +3881,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/380.png
-  link: /hibahcmb/380  
-                              
+  link: /hibahcmb/380
+
 - nomor: '381'
   judul:   STOP TV Junkies
   deskripsi: |
@@ -3892,8 +3892,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/381.png
-  link: /hibahcmb/381 
-                               
+  link: /hibahcmb/381
+
 - nomor: '382'
   judul:   Media Berpetualang Dekat Rumah (Mlampah)
   deskripsi: |
@@ -3902,8 +3902,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/382.png
-  link: /hibahcmb/382 
-                                
+  link: /hibahcmb/382
+
 - nomor: '383'
   judul:   Browser untuk Internet Sehat
   deskripsi: |
@@ -3912,8 +3912,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/383.png
-  link: /hibahcmb/383  
-                                 
+  link: /hibahcmb/383
+
 - nomor: '384'
   judul:   Menulis untuk Membangun Peradaban Bangsa Indonesia Lebih Maju
   deskripsi: |
@@ -3924,8 +3924,8 @@
   seleksi: true
   publik: true
   gambar: /static/img/hibahcmb/384.png
-  link: /hibahcmb/384 
-                                 
+  link: /hibahcmb/384
+
 - nomor: '385'
   judul:   Bulletin – WadAh iNformasi & komUnikasi kAmpung - Meretas Pekerja anak di Tambang Rakyat Tatelu
   deskripsi: |
@@ -3934,8 +3934,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/385.png
-  link: /hibahcmb/385 
-                                  
+  link: /hibahcmb/385
+
 - nomor: '386'
   judul:   Edu Reporter / Reporter Pelajar
   deskripsi: |
@@ -3944,8 +3944,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/386.png
-  link: /hibahcmb/386  
-                                  
+  link: /hibahcmb/386
+
 - nomor: '387'
   judul:   Peran Radio Komunitas sebagai Media Alternatif untuk Mengimbangi Arus Informasi yang Masuk ke Masyarakat
   deskripsi: |
@@ -3954,8 +3954,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/387.png
-  link: /hibahcmb/387   
-                                  
+  link: /hibahcmb/387
+
 - nomor: '388'
   judul:   Pendidikan Pusaka untuk Anak di Indonesia
   deskripsi: |
@@ -3964,8 +3964,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/388.png
-  link: /hibahcmb/388   
-                                  
+  link: /hibahcmb/388
+
 - nomor: '389'
   judul:   Rangkuman Budaya Nusantara Digital
   deskripsi: |
@@ -3974,8 +3974,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/389.png
-  link: /hibahcmb/389    
-                                  
+  link: /hibahcmb/389
+
 - nomor: '390'
   judul:   Media Promosi Hidup Sehat Tanpa Obat
   deskripsi: |
@@ -3985,8 +3985,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/390.png
-  link: /hibahcmb/390  
-                                  
+  link: /hibahcmb/390
+
 - nomor: '391'
   judul:   Memori Bawah Tanah - Web Phototalk
   deskripsi: |
@@ -3995,8 +3995,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/391.png
-  link: /hibahcmb/391   
-                                  
+  link: /hibahcmb/391
+
 - nomor: '392'
   judul:   Pembangunan Desa melalui Media Komunitas dan Pemerintahan Elektronik (e Government)
   deskripsi: |
@@ -4007,8 +4007,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/392.png
-  link: /hibahcmb/392    
-                                  
+  link: /hibahcmb/392
+
 - nomor: '393'
   judul:   Peningkatan Keadilan dan Kesetaraan Akses Media Masyarakat Akar Rumput Melalui Radio Komunitas
   deskripsi: |
@@ -4018,8 +4018,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/393.png
-  link: /hibahcmb/393   
-                                  
+  link: /hibahcmb/393
+
 - nomor: '394'
   judul:   SAMA FM 107.7 MHz - Inspirasi & Motivasi
   deskripsi: |
@@ -4028,8 +4028,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/394.png
-  link: /hibahcmb/394    
-                                   
+  link: /hibahcmb/394
+
 - nomor: '395'
   judul:   Data Indonesia
   deskripsi: |
@@ -4047,8 +4047,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/395.png
-  link: /hibahcmb/395     
-                                   
+  link: /hibahcmb/395
+
 - nomor: '396'
   judul:   Kampanye Anti Narkoba dan Aids
   deskripsi: |
@@ -4057,8 +4057,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/396.png
-  link: /hibahcmb/396  
-                                    
+  link: /hibahcmb/396
+
 - nomor: '397'
   judul:   Kampung Kreatif
   deskripsi: |
@@ -4067,8 +4067,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/397.png
-  link: /hibahcmb/397   
-                                      
+  link: /hibahcmb/397
+
 - nomor: '398'
   judul:   Penyehatan Media
   deskripsi: |
@@ -4077,8 +4077,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/398.png
-  link: /hibahcmb/398 
-                                        
+  link: /hibahcmb/398
+
 - nomor: '399'
   judul:   Revitalisasi Peran Informasitif Rakom di Banten
   deskripsi: |
@@ -4087,8 +4087,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/399.png
-  link: /hibahcmb/399 
-                                         
+  link: /hibahcmb/399
+
 - nomor: '400'
   judul:   Warta FOSS
   deskripsi: |
@@ -4097,8 +4097,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/400.png
-  link: /hibahcmb/400 
-     
+  link: /hibahcmb/400
+
 - nomor: '401'
   judul:   KEKAYAAN BUDAYA BANGSAKU – Integrasi dan informasi data kebudayaan dan pariwisata Sulawesi Selatan dan Sulawesi Barat
   deskripsi: |
@@ -4108,7 +4108,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/401.png
   link: /hibahcmb/401
-   
+
 - nomor: '402'
   judul:   Bengkel Kreasi Media
   deskripsi: |
@@ -4118,7 +4118,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/402.png
   link: /hibahcmb/402
-     
+
 - nomor: '403'
   judul:   Display Bersama Produk Lokal UKM
   deskripsi: |
@@ -4128,7 +4128,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/403.png
   link: /hibahcmb/403
-       
+
 - nomor: '404'
   judul:   Mempertajam Identitas Maluku melalui Pengembangan Media Visual Interaktif, Autentik dan Aktual
   deskripsi: |
@@ -4138,7 +4138,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/404.png
   link: /hibahcmb/404
-         
+
 - nomor: '405'
   judul:   Pelatihan Manajemen Website se-Sumatera
   deskripsi: |
@@ -4148,7 +4148,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/405.png
   link: /hibahcmb/405
-          
+
 - nomor: '406'
   judul:   Merajut Kemerdekaan Berpikir dari Batasan Gender
   deskripsi: |
@@ -4157,8 +4157,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/406.png
-  link: /hibahcmb/406 
-           
+  link: /hibahcmb/406
+
 - nomor: '407'
   judul:   Pulsa Kesehatan
   deskripsi: |
@@ -4167,8 +4167,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/407.png
-  link: /hibahcmb/407 
-            
+  link: /hibahcmb/407
+
 - nomor: '408'
   judul:   Pemetaan online www.bukapeta.com
   deskripsi: |
@@ -4177,8 +4177,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/408.png
-  link: /hibahcmb/408  
-            
+  link: /hibahcmb/408
+
 - nomor: '409'
   judul:   Gayaku
   deskripsi: |
@@ -4187,8 +4187,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/409.png
-  link: /hibahcmb/409    
-            
+  link: /hibahcmb/409
+
 - nomor: '410'
   judul:   Penguatan dan Pengembangan Kapasitas media Radio di kawasan pedalam Aceh Aceh
   deskripsi: |
@@ -4197,8 +4197,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/410.png
-  link: /hibahcmb/410   
-             
+  link: /hibahcmb/410
+
 - nomor: '411'
   judul:   Akses Informasi – Tunarungu untuk Semua
   deskripsi: |
@@ -4208,8 +4208,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/411.png
-  link: /hibahcmb/411 
-              
+  link: /hibahcmb/411
+
 - nomor: '412'
   judul:   Srimulat Project
   deskripsi: |
@@ -4218,8 +4218,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/412.png
-  link: /hibahcmb/412 
-              
+  link: /hibahcmb/412
+
 - nomor: '413'
   judul:   Pelatihan dan Pembuatan Film Animasi 3D ” ALIENDROID”
   deskripsi: |
@@ -4228,8 +4228,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/413.png
-  link: /hibahcmb/413   
-               
+  link: /hibahcmb/413
+
 - nomor: '414'
   judul:   Pemerataan informasi ilmiah ke masyarakat umum melalui mahasiswa dan universitas sebagai simpul informasi dengan media interaktif (sms center, newsletter website dan social networking)
   deskripsi: |
@@ -4238,8 +4238,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/414.png
-  link: /hibahcmb/414  
-                
+  link: /hibahcmb/414
+
 - nomor: '415'
   judul:   movieo.net
   deskripsi: |
@@ -4248,8 +4248,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/415.png
-  link: /hibahcmb/415 
-                 
+  link: /hibahcmb/415
+
 - nomor: '416'
   judul:   Menjadikan Pelajar Praktisi Media yang Sadar Media lewat Radio
   deskripsi: |
@@ -4258,8 +4258,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/416.png
-  link: /hibahcmb/416  
-                  
+  link: /hibahcmb/416
+
 - nomor: '417'
   judul:    Jurnalis dan Majalah Online Masuk Sekolah - Dari, Oleh dan Untuk Remaja Pelajar
   deskripsi: |
@@ -4268,8 +4268,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/417.png
-  link: /hibahcmb/417   
-                  
+  link: /hibahcmb/417
+
 - nomor: '418'
   judul:    Memberikan Sajian Budaya Sebagai Panutan di Masa Sekarang
   deskripsi: |
@@ -4278,8 +4278,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/418.png
-  link: /hibahcmb/418    
-                   
+  link: /hibahcmb/418
+
 - nomor: '419'
   judul:    Setiap orang bisa buat stasionTV – TV For All
   deskripsi: |
@@ -4288,8 +4288,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/419.png
-  link: /hibahcmb/419 
-                   
+  link: /hibahcmb/419
+
 - nomor: '420'
   judul:    Pagandeng (Pedagang Sayur dan Ikan Keliling) Online
   deskripsi: |
@@ -4298,8 +4298,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/420.png
-  link: /hibahcmb/420 
-                    
+  link: /hibahcmb/420
+
 - nomor: '421'
   judul:    Pelibatan warga dalam Pemantauan Tayangan Televisi
   deskripsi: |
@@ -4308,8 +4308,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/421.png
-  link: /hibahcmb/421 
-                     
+  link: /hibahcmb/421
+
 - nomor: '422'
   judul:    BIOSKOP MERDEKA (BM) di 7 kota di Indonesia
   deskripsi: |
@@ -4318,8 +4318,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/422.png
-  link: /hibahcmb/422  
-                     
+  link: /hibahcmb/422
+
 - nomor: '423'
   judul:    Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
   deskripsi: |
@@ -4328,8 +4328,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/423.png
-  link: /hibahcmb/423   
-                      
+  link: /hibahcmb/423
+
 - nomor: '424'
   judul:    Media Sosial sebagai Sarana Advokasi Buruh
   deskripsi: |
@@ -4338,8 +4338,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/424.png
-  link: /hibahcmb/424 
-                      
+  link: /hibahcmb/424
+
 - nomor: '425'
   judul:    Majalah Ganjamedia
   deskripsi: |
@@ -4349,8 +4349,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/425.png
-  link: /hibahcmb/425  
-                      
+  link: /hibahcmb/425
+
 - nomor: '426'
   judul:    Memberdayakan Jaringan Persahabatan dengan Faktor +, *, ^, !
   deskripsi: |
@@ -4360,7 +4360,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/426.png
   link: /hibahcmb/426
-                      
+
 - nomor: '427'
   judul:    Kami Warga Mengabarkan Bencana
   deskripsi: |
@@ -4370,7 +4370,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/427.png
   link: /hibahcmb/427
-                      
+
 - nomor: '428'
   judul:    Gerakan Membaca Meretas Batas Memperoleh Akses terhadap Informasi (GEMA MERPATI)
   deskripsi: |
@@ -4380,7 +4380,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/428.png
   link: /hibahcmb/428
-                      
+
 - nomor: '429'
   judul:    Sisihkan Komisi Untuk Pakir Miskin & Menerapkan Tehknologi Pedesaan
   deskripsi: |
@@ -4390,7 +4390,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/429.png
   link: /hibahcmb/429
-                      
+
 - nomor: '430'
   judul:    Pengenalan media informasi untuk Pelaku Usaha Rakyat Mikro (URAMI)
   deskripsi: |
@@ -4400,7 +4400,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/430.png
   link: /hibahcmb/430
-                      
+
 - nomor: '431'
   judul:    Kajian Jurnalisme Damai Menuju Masyarakat Melek Media
   deskripsi: |
@@ -4410,7 +4410,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/431.png
   link: /hibahcmb/431
-                      
+
 - nomor: '432'
   judul:    Sinergi Informasi dan Ekonomi Kerakyatan
   deskripsi: |
@@ -4421,7 +4421,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/432.png
   link: /hibahcmb/432
-                      
+
 - nomor: '433'
   judul:    Portal Sejarah dan Budaya “Wacana Nusantara”
   deskripsi: |
@@ -4431,7 +4431,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/433.png
   link: /hibahcmb/433
-                      
+
 - nomor: '434'
   judul:    Portal Berita Partisipatif “Warta Nusa”
   deskripsi: |
@@ -4441,7 +4441,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/434.png
   link: /hibahcmb/434
-                      
+
 - nomor: '435'
   judul:    Perluasan Akses Bantuan Hukum Untuk Jurnalis
   deskripsi: |
@@ -4451,7 +4451,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/435.png
   link: /hibahcmb/435
-                      
+
 - nomor: '436'
   judul:    Kantor Berita Anak Indonesia
   deskripsi: |
@@ -4461,7 +4461,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/436.png
   link: /hibahcmb/436
-                      
+
 - nomor: '437'
   judul:    Rehabilitasi Para Pencandu Media Melalui Sekolah Psikologi Media
   deskripsi: |
@@ -4470,8 +4470,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/437.png
-  link: /hibahcmb/437  
-                       
+  link: /hibahcmb/437
+
 - nomor: '438'
   judul:    AREMANIA TV
   deskripsi: |
@@ -4480,8 +4480,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/438.png
-  link: /hibahcmb/438  
-                       
+  link: /hibahcmb/438
+
 - nomor: '439'
   judul:    Blog Goes to School
   deskripsi: |
@@ -4490,8 +4490,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/439.png
-  link: /hibahcmb/439   
-                        
+  link: /hibahcmb/439
+
 - nomor: '440'
   judul:    Penelitian dan FGD Tentang Pasal Pencemaran Nama Baik dan Pengaruhnya Terhadap Kinerja Jurnalis
   deskripsi: |
@@ -4500,8 +4500,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/440.png
-  link: /hibahcmb/440  
-                         
+  link: /hibahcmb/440
+
 - nomor: '441'
   judul:    Pengembangan tabloid ‘Mikro’ untuk meningkatkan status social masyarakat miskin di Kabupaten Jember
   deskripsi: |
@@ -4510,8 +4510,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/441.png
-  link: /hibahcmb/441  
-                          
+  link: /hibahcmb/441
+
 - nomor: '442'
   judul:    Anak Cinta Budaya Bangsa berbasis Teknologi Informasi
   deskripsi: |
@@ -4520,8 +4520,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/442.png
-  link: /hibahcmb/442   
-                           
+  link: /hibahcmb/442
+
 - nomor: '443'
   judul:    Ruang Belajar Cerdas - Ruang Online Untuk Wadah Belajar Bagi Anak SD, Berkreasi Sekaligus Media Promosi Cerdas
   deskripsi: |
@@ -4530,8 +4530,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/443.png
-  link: /hibahcmb/443  
-                            
+  link: /hibahcmb/443
+
 - nomor: '444'
   judul:    Ensiklopedia Digital Nusantara
   deskripsi: |
@@ -4540,8 +4540,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/444.png
-  link: /hibahcmb/444  
-                             
+  link: /hibahcmb/444
+
 - nomor: '445'
   judul:    PortalSemarang.Com – Inspirasi Warga
   deskripsi: |
@@ -4550,8 +4550,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/445.png
-  link: /hibahcmb/445  
-                              
+  link: /hibahcmb/445
+
 - nomor: '446'
   judul:    Situs Kearifan Lokal Nusantara
   deskripsi: |
@@ -4560,8 +4560,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/446.png
-  link: /hibahcmb/446 
-                              
+  link: /hibahcmb/446
+
 - nomor: '447'
   judul:    Membangun Akses Internet Gratis di Tingkat Perdesaan Melalui Kelapa Hotspot
   deskripsi: |
@@ -4570,8 +4570,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/447.png
-  link: /hibahcmb/447  
-                               
+  link: /hibahcmb/447
+
 - nomor: '448'
   judul:    Media Warga untuk Informasi Cepat Merapi
   deskripsi: |
@@ -4580,8 +4580,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/448.png
-  link: /hibahcmb/448  
-                                
+  link: /hibahcmb/448
+
 - nomor: '449'
   judul:    Pengembangan Pusat Sumberdaya dan Pengetahuan Lokal untuk Jurnalis Warga di Banyumas
   deskripsi: |
@@ -4590,8 +4590,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/449.png
-  link: /hibahcmb/449 
-                                 
+  link: /hibahcmb/449
+
 - nomor: '450'
   judul:    Lembaga Kajian IDEAS “Institute for Darussalam Education of Acehnese Student” - Concern on Economics, Social, Political and Public Policy Studies.
   deskripsi: |
@@ -4600,8 +4600,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/450.png
-  link: /hibahcmb/450  
-                                  
+  link: /hibahcmb/450
+
 - nomor: '451'
   judul:    Media Mangrove Mengare
   deskripsi: |
@@ -4611,8 +4611,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/451.png
-  link: /hibahcmb/451 
-                                   
+  link: /hibahcmb/451
+
 - nomor: '452'
   judul:    Penanggulangan Ancaman Kepunahan Lobster
   deskripsi: |
@@ -4621,8 +4621,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/452.png
-  link: /hibahcmb/452 
-                                    
+  link: /hibahcmb/452
+
 - nomor: '453'
   judul:    Majalah “PONGKOR”, Bacaan Petani Gula
   deskripsi: |
@@ -4631,8 +4631,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/453.png
-  link: /hibahcmb/453  
-                                     
+  link: /hibahcmb/453
+
 - nomor: '454'
   judul:    Mengobarkan Semangat Guru Pasif
   deskripsi: |
@@ -4641,8 +4641,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/454.png
-  link: /hibahcmb/454 
-                                      
+  link: /hibahcmb/454
+
 - nomor: '455'
   judul:    Gubug Kreativitas
   deskripsi: |
@@ -4652,7 +4652,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/455.png
   link: /hibahcmb/455
-                                       
+
 - nomor: '456'
   judul:    Pengembangan Media Penyedia dan Pengayaan Konten Sumber Pengetahuan untuk Tuna Netra Berbasis Partisipasi Masyarakat
   deskripsi: |
@@ -4661,8 +4661,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/456.png
-  link: /hibahcmb/456 
-                                        
+  link: /hibahcmb/456
+
 - nomor: '457'
   judul:    Koran Tani – 16 Halaman Menginspirasi
   deskripsi: |
@@ -4671,8 +4671,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/457.png
-  link: /hibahcmb/457  
-                                        
+  link: /hibahcmb/457
+
 - nomor: '458'
   judul:    Anime Indonesia
   deskripsi: |
@@ -4681,8 +4681,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/458.png
-  link: /hibahcmb/458  
-                                        
+  link: /hibahcmb/458
+
 - nomor: '459'
   judul:    HP-KU untuk Inovasi Gunungkidul-KU
   deskripsi: |
@@ -4691,8 +4691,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/459.png
-  link: /hibahcmb/459  
-                                         
+  link: /hibahcmb/459
+
 - nomor: '460'
   judul:    Pemberdayaan Perekonomian Masyarakat Melalui Media Internet
   deskripsi: |
@@ -4702,7 +4702,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/460.png
   link: /hibahcmb/460
-                                         
+
 - nomor: '461'
   judul:    Koran Ibu Elektronik
   deskripsi: |
@@ -4711,8 +4711,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/461.png
-  link: /hibahcmb/461  
-                                         
+  link: /hibahcmb/461
+
 - nomor: '462'
   judul:    Membuka Akses Konten Lokal Melalui Katalog Induk bersama SLiMS
   deskripsi: |
@@ -4721,8 +4721,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/462.png
-  link: /hibahcmb/462   
-                                         
+  link: /hibahcmb/462
+
 - nomor: '463'
   judul:    ANIMASI 3D STEREO
   deskripsi: |
@@ -4732,8 +4732,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/463.png
-  link: /hibahcmb/463   
-                                          
+  link: /hibahcmb/463
+
 - nomor: '464'
   judul:    Damar Aksara
   deskripsi: |
@@ -4743,8 +4743,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/464.png
-  link: /hibahcmb/464 
-                                           
+  link: /hibahcmb/464
+
 - nomor: '465'
   judul:    Menghidupkan Kembali “Kelompencapir” Era Multimedia
   deskripsi: |
@@ -4753,8 +4753,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/465.png
-  link: /hibahcmb/465 
-                                           
+  link: /hibahcmb/465
+
 - nomor: '466'
   judul:    VIDEO PINTAR – video instruksional sadar media oleh remaja untuk remaja
   deskripsi: |
@@ -4765,8 +4765,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/466.png
-  link: /hibahcmb/466  
-                                            
+  link: /hibahcmb/466
+
 - nomor: '467'
   judul:    Aplikasi Blood For Life Indonesia (Media Sosial untuk pendonor dan yang membutuhkan darah)
   deskripsi: |
@@ -4775,8 +4775,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/467.png
-  link: /hibahcmb/467  
-                                            
+  link: /hibahcmb/467
+
 - nomor: '468'
   judul:    Sistem Mobile Farming untuk Daerah Desa di Karawang
   deskripsi: |
@@ -4785,8 +4785,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/468.png
-  link: /hibahcmb/468  
-                                             
+  link: /hibahcmb/468
+
 - nomor: '469'
   judul:    Direktori Sumbar
   deskripsi: |
@@ -4796,8 +4796,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/469.png
-  link: /hibahcmb/469   
-                                            
+  link: /hibahcmb/469
+
 - nomor: '470'
   judul:    www.produkdalamnegeri.com
   deskripsi: |
@@ -4807,7 +4807,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/470.png
   link: /hibahcmb/470
-                                            
+
 - nomor: '471'
   judul:    BISA 2012 + (Blog Internet Santri Award 2012 PLUS)
   deskripsi: |
@@ -4817,8 +4817,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/471.png
-  link: /hibahcmb/471  
-                                             
+  link: /hibahcmb/471
+
 - nomor: '472'
   judul:    Media Partisipasi Perempuan sebagai Sarana pengembangan Kesadaran dan Penyatuan Kekuatan Perempuan di Indonesia
   deskripsi: |
@@ -4827,8 +4827,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/472.png
-  link: /hibahcmb/472  
-                                              
+  link: /hibahcmb/472
+
 - nomor: '473'
   judul:    Digital Urban Archive
   deskripsi: |
@@ -4837,8 +4837,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/473.png
-  link: /hibahcmb/473  
-                                               
+  link: /hibahcmb/473
+
 - nomor: '474'
   judul:    BUKU IBU
   deskripsi: |
@@ -4848,8 +4848,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/474.png
-  link: /hibahcmb/474 
-                                                
+  link: /hibahcmb/474
+
 - nomor: '475'
   judul:    e-Portfolio Siswa Indonesia
   deskripsi: |
@@ -4858,8 +4858,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/475.png
-  link: /hibahcmb/475  
-                                                  
+  link: /hibahcmb/475
+
 - nomor: '476'
   judul:    Dhanis Project
   deskripsi: |
@@ -4868,8 +4868,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/476.png
-  link: /hibahcmb/476 
-                                                   
+  link: /hibahcmb/476
+
 - nomor: '477'
   judul:    Mobil Kejujuran “Lovely Open Source”
   deskripsi: |
@@ -4879,7 +4879,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/477.png
   link: /hibahcmb/477
-                                                     
+
 - nomor: '478'
   judul:    SocInf1.0 - Pengentasan Anak Jalanan melalui Kegiatan Kreatifitas berbasis Konten
   deskripsi: |
@@ -4889,7 +4889,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/478.png
   link: /hibahcmb/478
-                                                      
+
 - nomor: '479'
   judul:    Public Journalism 2.0 - Strengthening Public Journalism in the Digital Age
   deskripsi: |
@@ -4898,8 +4898,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/479.png
-  link: /hibahcmb/479 
-                                                       
+  link: /hibahcmb/479
+
 - nomor: '480'
   judul:    Integrasi Sistem Pendidikan dalam membagun konten lokal
   deskripsi: |
@@ -4908,8 +4908,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/480.png
-  link: /hibahcmb/480  
-                                                        
+  link: /hibahcmb/480
+
 - nomor: '481'
   judul:    Inovasi Edukasi Indonesia – Mengintegrasikan Pendidikan dan Nilai Budaya
   deskripsi: |
@@ -4925,8 +4925,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/481.png
-  link: /hibahcmb/481 
-     
+  link: /hibahcmb/481
+
 - nomor: '482'
   judul:   Film Animasi Edukasi
   deskripsi: |
@@ -4936,7 +4936,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/482.png
   link: /hibahcmb/482
-     
+
 - nomor: '483'
   judul:   Katakan Islam itu Agama Kasih Sayang di dalam Web-mu!!!
   deskripsi: |
@@ -4946,7 +4946,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/483.png
   link: /hibahcmb/483
-     
+
 - nomor: '484'
   judul:   Bantuan Pendanaan Usaha dan Beasiswa Pendidikan
   deskripsi: |
@@ -4955,8 +4955,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/484.png
-  link: /hibahcmb/484 
-      
+  link: /hibahcmb/484
+
 - nomor: '485'
   judul:   Al-Faz - Sanggar dan Perpustakaan Komunitas untuk Anak Korban Lapindo
   deskripsi: |
@@ -4965,8 +4965,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/485.png
-  link: /hibahcmb/485  
-        
+  link: /hibahcmb/485
+
 - nomor: '486'
   judul:   Dokumentasi Bahasa dan Budaya
   deskripsi: |
@@ -4975,8 +4975,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/486.png
-  link: /hibahcmb/486   
-         
+  link: /hibahcmb/486
+
 - nomor: '487'
   judul:   KratonPedia - Portal Informasi Budaya Nusantara
   deskripsi: |
@@ -4985,8 +4985,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/487.png
-  link: /hibahcmb/487 
-          
+  link: /hibahcmb/487
+
 - nomor: '488'
   judul:   Rumah Media Bersama
   deskripsi: |
@@ -4996,7 +4996,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/488.png
   link: /hibahcmb/488
-          
+
 - nomor: '489'
   judul:   Media Mangrove Mengare
   deskripsi: |
@@ -5006,7 +5006,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/489.png
   link: /hibahcmb/489
-          
+
 - nomor: '490'
   judul:   Memberdayakan Unit Ekonomi Usaha Kecil dan Menengah Berbasis Media Komunitas
   deskripsi: |
@@ -5015,8 +5015,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/490.png
-  link: /hibahcmb/490    
-          
+  link: /hibahcmb/490
+
 - nomor: '491'
   judul:   Dialog Sambung Rasa dan Pagelaran Pertunjukan Seni Nusantara Bernuansa Merah Putih yang Disiarkan Langsung Radio Komunitas
   deskripsi: |
@@ -5025,8 +5025,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/491.png
-  link: /hibahcmb/491  
-           
+  link: /hibahcmb/491
+
 - nomor: '492'
   judul:   Perpus, dong!
   deskripsi: |
@@ -5035,8 +5035,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/492.png
-  link: /hibahcmb/492 
-            
+  link: /hibahcmb/492
+
 - nomor: '493'
   judul:   RONDA - Ngeronda Internet Rame-Rame!
   deskripsi: |
@@ -5045,8 +5045,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/493.png
-  link: /hibahcmb/493  
-              
+  link: /hibahcmb/493
+
 - nomor: '494'
   judul:   Mewujudkan Peran Serta Masyarakat dalam Perkembangan Informasi Global
   deskripsi: |
@@ -5056,7 +5056,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/494.png
   link: /hibahcmb/494
-               
+
 - nomor: '495'
   judul:   www.omahkendeng.org
   deskripsi: |
@@ -5065,8 +5065,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/495.png
-  link: /hibahcmb/495 
-               
+  link: /hibahcmb/495
+
 - nomor: '496'
   judul:   Encyclopedia Teknologi Informasi dan Komputer Online
   deskripsi: |
@@ -5075,8 +5075,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/496.png
-  link: /hibahcmb/496   
-                
+  link: /hibahcmb/496
+
 - nomor: '497'
   judul:   Virtual School Net
   deskripsi: |
@@ -5085,8 +5085,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/497.png
-  link: /hibahcmb/497  
-                 
+  link: /hibahcmb/497
+
 - nomor: '498'
   judul:   Pancasila Manual Bangsa
   deskripsi: |
@@ -5095,8 +5095,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/498.png
-  link: /hibahcmb/498   
-                 
+  link: /hibahcmb/498
+
 - nomor: '499'
   judul:   KDRI.WEB.ID
   deskripsi: |
@@ -5105,8 +5105,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/499.png
-  link: /hibahcmb/499   
-                 
+  link: /hibahcmb/499
+
 - nomor: '500'
   judul:    Video Animasi Hak Anak dalam Jejaring Sosial
   deskripsi: |
@@ -5115,8 +5115,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/500.png
-  link: /hibahcmb/500 
-                   
+  link: /hibahcmb/500
+
 - nomor: '501'
   judul:    Serial Doktrin KDRI
   deskripsi: |
@@ -5125,8 +5125,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/501.png
-  link: /hibahcmb/501 
-                   
+  link: /hibahcmb/501
+
 - nomor: '502'
   judul:    Gudang Data Indonesia
   deskripsi: |
@@ -5135,8 +5135,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/502.png
-  link: /hibahcmb/502 
-                     
+  link: /hibahcmb/502
+
 - nomor: '503'
   judul:    Road Show dengan Mobil ‘Aisyiyah bebas Hambatan
   deskripsi: |
@@ -5146,7 +5146,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/503.png
   link: /hibahcmb/503
-                       
+
 - nomor: '504'
   judul:    Membangun Etika Filantropi Media
   deskripsi: |
@@ -5156,7 +5156,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/504.png
   link: /hibahcmb/504
-                        
+
 - nomor: '505'
   judul:    Check My City
   deskripsi: |
@@ -5210,8 +5210,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/505.png
-  link: /hibahcmb/505 
-                       
+  link: /hibahcmb/505
+
 - nomor: '506'
   judul:    Digitalisasi Data dan Layanan Informasi Pedukuhan Berbasis Online
   deskripsi: |
@@ -5220,8 +5220,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/506.png
-  link: /hibahcmb/506  
-                       
+  link: /hibahcmb/506
+
 - nomor: '507'
   judul:    Penguatan Kapasitas Wartawan di Bidang Teknologi Guna Menjaga Kebebasan dan Beretika Media
   deskripsi: |
@@ -5230,8 +5230,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/507.png
-  link: /hibahcmb/507 
-                       
+  link: /hibahcmb/507
+
 - nomor: '508'
   judul:    Gerakan MALU
   deskripsi: |
@@ -5240,8 +5240,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/508.png
-  link: /hibahcmb/508    
-                        
+  link: /hibahcmb/508
+
 - nomor: '509'
   judul:    Internet untuk Guru SD
   deskripsi: |
@@ -5250,8 +5250,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/509.png
-  link: /hibahcmb/509    
-                        
+  link: /hibahcmb/509
+
 - nomor: '510'
   judul:    Guru Les Online
   deskripsi: |
@@ -5267,8 +5267,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/510.png
-  link: /hibahcmb/510 
-                   
+  link: /hibahcmb/510
+
 - nomor: '511'
   judul:    Garut On The Spot
   deskripsi: |
@@ -5279,8 +5279,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/511.png
-  link: /hibahcmb/511 
-                  
+  link: /hibahcmb/511
+
 - nomor: '512'
   judul:    Memperkuat Peran Masyarakat Sipil Dalam Pemantauan MediaTerkait Pemberitaan Isu Kekerasan Terhadap Perempuan Di Kota Semarang
   deskripsi: |
@@ -5290,7 +5290,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/512.png
   link: /hibahcmb/512
-                    
+
 - nomor: '513'
   judul:    Tell Us
   deskripsi: |
@@ -5300,7 +5300,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/513.png
   link: /hibahcmb/513
-                    
+
 - nomor: '514'
   judul:    Kesetaraan Informasi Publik
   deskripsi: |
@@ -5309,8 +5309,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/514.png
-  link: /hibahcmb/514  
-                     
+  link: /hibahcmb/514
+
 - nomor: '515'
   judul:    Rumah Folklore Indonesia
   deskripsi: |
@@ -5319,8 +5319,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/515.png
-  link: /hibahcmb/515  
-                       
+  link: /hibahcmb/515
+
 - nomor: '516'
   judul:    Edukasi Internet dan Social Media ke 10 Kabupaten di Kalimantan Barat
   deskripsi: |
@@ -5329,8 +5329,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/516.png
-  link: /hibahcmb/516  
-                       
+  link: /hibahcmb/516
+
 - nomor: '517'
   judul:    SMS ‘Perempuan Muda Berbagi Berani’ (disingkat SMS Berani)
   deskripsi: |
@@ -5339,8 +5339,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/517.png
-  link: /hibahcmb/517  
-                         
+  link: /hibahcmb/517
+
 - nomor: '518'
   judul:    Sosialisasi Potensi Lokal Melalui Media Online
   deskripsi: |
@@ -5349,8 +5349,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/518.png
-  link: /hibahcmb/518 
-                           
+  link: /hibahcmb/518
+
 - nomor: '519'
   judul:    Serial Animasi “Wayang Mahabharata” Season 1
   deskripsi: |
@@ -5360,7 +5360,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/519.png
   link: /hibahcmb/519
-                            
+
 - nomor: '520'
   judul:    Pemanfaatan Teknologi Informasi untuk Pemuda/i Putus Sekolah di Aceh
   deskripsi: |
@@ -5369,8 +5369,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/520.png
-  link: /hibahcmb/520 
-                            
+  link: /hibahcmb/520
+
 - nomor: '521'
   judul:    Desa Saraswati
   deskripsi: |
@@ -5379,8 +5379,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/521.png
-  link: /hibahcmb/521 
-                            
+  link: /hibahcmb/521
+
 - nomor: '522'
   judul:    Produksi Home Video untuk Home Broadcasting Online Media melalui Jejaring Sosial bagi siswa SMA/K di Semarang Solo dan Jogja
   deskripsi: |
@@ -5396,8 +5396,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/522.png
-  link: /hibahcmb/522 
-                            
+  link: /hibahcmb/522
+
 - nomor: '523'
   judul:     JEPRET !!, Suara Anak Pinggiran
   deskripsi: |
@@ -5407,7 +5407,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/523.png
   link: /hibahcmb/523
-                                                                         
+
 - nomor: '524'
   judul: ReddWatch.ORG - Meliput Hutan Mendorong Transparansi
   deskripsi: |
@@ -5416,8 +5416,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/524.png
-  link: /hibahcmb/524 
-                            
+  link: /hibahcmb/524
+
 - nomor: '525'
   judul:    Praktik Churnalism di Media Massa Indonesia
   deskripsi: |
@@ -5427,7 +5427,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/525.png
   link: /hibahcmb/525
-                            
+
 - nomor: '526'
   judul:    Pangkalan Ilmu Pengetahuan / Knowledge Bank
   deskripsi: |
@@ -5437,7 +5437,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/526.png
   link: /hibahcmb/526
-                            
+
 - nomor: '527'
   judul:    Internet Keliling (Netling)
   deskripsi: |
@@ -5447,7 +5447,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/527.png
   link: /hibahcmb/527
-                            
+
 - nomor: '528'
   judul:    Peningkatan Melek Literacy dan Cerdas Informasi Masyarakat Pedesaan melalui Pengembangan Simpul Pewarta Warga Indonesia Kecamatan dan Desa
   deskripsi: |
@@ -5458,7 +5458,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/528.png
   link: /hibahcmb/528
-                            
+
 - nomor: '529'
   judul:    Mobil Wifi - Meningkatkan peran serta masyarakat dan media rakyat dengan sarana media informasi berbasis internet
   deskripsi: |
@@ -5468,7 +5468,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/529.png
   link: /hibahcmb/529
-                            
+
 - nomor: '530'
   judul:    Perpustakaan elektronik via SMS
   deskripsi: |
@@ -5478,7 +5478,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/530.png
   link: /hibahcmb/530
-                            
+
 - nomor: '531'
   judul:    Inter Nos Media Komunikasi Umat
   deskripsi: |
@@ -5488,7 +5488,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/531.png
   link: /hibahcmb/531
-                            
+
 - nomor: '532'
   judul:    INDEPENDEN Online – Etika Media Baru
   deskripsi: |
@@ -5498,7 +5498,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/532.png
   link: /hibahcmb/532
-                            
+
 - nomor: '533'
   judul:    Riset dan Analisa Karakter Cerita pada Program Tayangan Televisi untuk Anak usia SD
   deskripsi: |
@@ -5508,7 +5508,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/533.png
   link: /hibahcmb/533
-                            
+
 - nomor: '534'
   judul:    Peningkatan Kapasistas Media dan Monitoring Pemberitaan Anak di Media Massa
   deskripsi: |
@@ -5518,7 +5518,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/534.png
   link: /hibahcmb/534
-                            
+
 - nomor: '535'
   judul:    Akses Informasi Publik untuk Hak Perlindungan Sosial Masyarakat Miskin dan Terpinggirkan
   deskripsi: |
@@ -5528,7 +5528,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/535.png
   link: /hibahcmb/535
-                            
+
 - nomor: '536'
   judul:    Film ‘Virtual Identity’
   deskripsi: |
@@ -5538,7 +5538,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/536.png
   link: /hibahcmb/536
-                            
+
 - nomor: '537'
   judul:    Arti Keberpihakan
   deskripsi: |
@@ -5548,7 +5548,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/537.png
   link: /hibahcmb/537
-                            
+
 - nomor: '538'
   judul:    Paperbox
   deskripsi: |
@@ -5558,7 +5558,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/538.png
   link: /hibahcmb/538
-                            
+
 - nomor: '539'
   judul:    Investigasi Reporting on Multimedia Platform
   deskripsi: |
@@ -5568,7 +5568,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/539.png
   link: /hibahcmb/539
-                             
+
 - nomor: '540'
   judul:    Benih Bhinneka
   deskripsi: |
@@ -5578,7 +5578,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/540.png
   link: /hibahcmb/540
-                             
+
 - nomor: '541'
   judul:    Media Alternatif Kaum Muda Deli Serdang Munuju Masyarakat Terbuka
   deskripsi: |
@@ -5587,8 +5587,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/541.png
-  link: /hibahcmb/541 
-                              
+  link: /hibahcmb/541
+
 - nomor: '542'
   judul:    LIrIK
   deskripsi: |
@@ -5598,7 +5598,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/542.png
   link: /hibahcmb/542
-                              
+
 - nomor: '543'
   judul:    Theater Games in Magz
   deskripsi: |
@@ -5608,7 +5608,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/543.png
   link: /hibahcmb/543
-                              
+
 - nomor: '544'
   judul:    areaXYZwebzine
   deskripsi: |
@@ -5618,7 +5618,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/544.png
   link: /hibahcmb/544
-                              
+
 - nomor: '545'
   judul:    Dokumenter Kampoeng
   deskripsi: |
@@ -5628,7 +5628,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/545.png
   link: /hibahcmb/545
-                              
+
 - nomor: '546'
   judul:    My Own TV
   deskripsi: |
@@ -5638,7 +5638,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/546.png
   link: /hibahcmb/546
-                              
+
 - nomor: '547'
   judul:    Sharing Voices Sharing Lives
   deskripsi: |
@@ -5648,7 +5648,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/547.png
   link: /hibahcmb/547
-                              
+
 - nomor: '548'
   judul:    Penguatan Pendampingan Hukum Bagi Narasumber Berita di Sumatera Utara
   deskripsi: |
@@ -5661,7 +5661,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/548.png
   link: /hibahcmb/548
-                              
+
 - nomor: '549'
   judul:    gangnemarem.com - Perancangan Media Online Berbasis Jurnalisme dan Budaya Arek Warga Kampung Wisata Tengah Kota
   deskripsi: |
@@ -5671,7 +5671,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/549.png
   link: /hibahcmb/549
-                              
+
 - nomor: '550'
   judul:    Radio Buruh Perempuan - Dari Perempuan Buruh untuk Kesetaraan
   deskripsi: |
@@ -5681,7 +5681,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/550.png
   link: /hibahcmb/550
-  
+
 - nomor: '551'
   judul:    Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi
   deskripsi: |
@@ -5690,7 +5690,7 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/551.png
-  link: /hibahcmb/551 
+  link: /hibahcmb/551
 
 - nomor: '552'
   judul:    Pancasila di Dadaku Para Penyiar Radio
@@ -5711,7 +5711,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/553.png
   link: /hibahcmb/553
-  
+
 - nomor: '554'
   judul:    Sejuta Penulis Indonesia yang akan Membuka dan Mewarnai Dunia
   deskripsi: |
@@ -5721,7 +5721,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/554.png
   link: /hibahcmb/554
-   
+
 - nomor: '555'
   judul:    Mendekatkan Media Massa dan Memberdayakan Masyarakat dalam Upaya Penyelamatan Kawasan Pesisir Selatan dari Ancaman Kerusakan Akibat Aktivitas Pertambangan di Kabupaten Tulungagung, Jawa Timur
   deskripsi: |
@@ -5730,8 +5730,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/555.png
-  link: /hibahcmb/555 
-    
+  link: /hibahcmb/555
+
 - nomor: '556'
   judul:    Yayasan Merah Putih
   deskripsi: |
@@ -5740,8 +5740,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/556.png
-  link: /hibahcmb/556  
-    
+  link: /hibahcmb/556
+
 - nomor: '557'
   judul:    Televisi Sehat untuk Memperbaiki Kualitas Hidup di 10 Desa Lereng Merapi
   deskripsi: |
@@ -5750,8 +5750,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/557.png
-  link: /hibahcmb/557   
-    
+  link: /hibahcmb/557
+
 - nomor: '558'
   judul:    Website Portal Teknologi dan Infomrasi – Website Social dan Komunitas
   deskripsi: |
@@ -5760,8 +5760,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/558.png
-  link: /hibahcmb/558   
-    
+  link: /hibahcmb/558
+
 - nomor: '559'
   judul:    Sekolah Desa Bencana sebagai Pusat Informasi Mitigasi Bencana Erupsi Merapi
   deskripsi: |
@@ -5770,8 +5770,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/559.png
-  link: /hibahcmb/559     
-    
+  link: /hibahcmb/559
+
 - nomor: '560'
   judul:    Tuna Netra “Melek” Media dalam Pemenuhan Kebutuhan Informasi bagi Penyandang Cacat
   deskripsi: |
@@ -5780,8 +5780,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/560.png
-  link: /hibahcmb/560 
-    
+  link: /hibahcmb/560
+
 - nomor: '561'
   judul:    Komputer Sebagai Pembangun Kualitas Yang Tepat Guna
   deskripsi: |
@@ -5790,8 +5790,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/561.png
-  link: /hibahcmb/561 
-    
+  link: /hibahcmb/561
+
 - nomor: '562'
   judul:    Pengembangan Skema Pendanaan dan Strategi Mobilisasi Sumber Daya untuk Keberlanjutan Media komunitas di Indonesia
   deskripsi: |
@@ -5803,7 +5803,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/562.png
   link: /hibahcmb/562
-    
+
 - nomor: '563'
   judul:    Informasi Tanpa Batas
   deskripsi: |
@@ -5813,7 +5813,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/563.png
   link: /hibahcmb/563
-    
+
 - nomor: '564'
   judul:    Mendorong Komunitas Ibu-ibu PKK Memanfaatkan “Media Baru”
   deskripsi: |
@@ -5825,7 +5825,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/564.png
   link: /hibahcmb/564
-    
+
 - nomor: '564'
   judul:     Indonesian Street Art Database
   deskripsi: |
@@ -5840,7 +5840,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/564.png
   link: /hibahcmb/564
-    
+
 - nomor: '566'
   judul:    Kantor Berita Radio Komunitas di Jawa Barat
   deskripsi: |
@@ -5850,7 +5850,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/566.png
   link: /hibahcmb/566
-    
+
 - nomor: '567'
   judul:    Khazanah Negeriku
   deskripsi: |
@@ -5860,7 +5860,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/567.png
   link: /hibahcmb/567
-    
+
 - nomor: '568'
   judul:    Blog Keliling
   deskripsi: |
@@ -5870,7 +5870,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/568.png
   link: /hibahcmb/568
-    
+
 - nomor: '569'
   judul:    Membangun Skill Di Green School
   deskripsi: |
@@ -5880,7 +5880,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/569.png
   link: /hibahcmb/569
-    
+
 - nomor: '570'
   judul:    Muslim Media Karya
   deskripsi: |
@@ -5890,7 +5890,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/570.png
   link: /hibahcmb/570
-      
+
 - nomor: '571'
   judul:    Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
   deskripsi: |
@@ -5908,7 +5908,7 @@
   publik: true
   gambar: /static/img/hibahcmb/571.png
   link: /hibahcmb/571
-       
+
 - nomor: '572'
   judul:    Penguatan Distribusi Informasi Pada Masyarakat dalam Upaya Mitigasi dan Adaptasi Terhadap Perubahan Iklim Di Kalimantan Barat
   deskripsi: |
@@ -5921,8 +5921,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/572.png
-  link: /hibahcmb/572 
-        
+  link: /hibahcmb/572
+
 - nomor: '573'
   judul:    Jurnalisme Remaja “Pinggiran” - Penggunaan media jejaring sosial untuk meningkatkan kepekaan remaja terhadap situasi sosial ekonomi lingkungannya dan mengenalkan kewirausahaan sebagai jalan untuk perubahan
   deskripsi: |
@@ -5933,8 +5933,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/573.png
-  link: /hibahcmb/573  
-          
+  link: /hibahcmb/573
+
 - nomor: '574'
   judul:    JEJAKmedia dotcom – Read before you speak!
   deskripsi: |
@@ -5943,8 +5943,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/574.png
-  link: /hibahcmb/574 
-           
+  link: /hibahcmb/574
+
 - nomor: '575'
   judul:    Malukupedia
   deskripsi: |
@@ -5953,8 +5953,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/575.png
-  link: /hibahcmb/575  
-            
+  link: /hibahcmb/575
+
 - nomor: '576'
   judul:    The ART (Augmented Reality Technology) of Bali
   deskripsi: |
@@ -5964,7 +5964,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/576.png
   link: /hibahcmb/576
-            
+
 - nomor: '577'
   judul:    Portal Jurnalisme Warga NTT
   deskripsi: |
@@ -5974,7 +5974,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/577.png
   link: /hibahcmb/577
-              
+
 - nomor: '578'
   judul:    Portal Komunitas Organisasi Mahasiswa
   deskripsi: |
@@ -5983,8 +5983,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/578.png
-  link: /hibahcmb/578  
-              
+  link: /hibahcmb/578
+
 - nomor: '579'
   judul:    MK-160 - Media Komunitas 160 Karakter
   deskripsi: |
@@ -6000,8 +6000,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/579.png
-  link: /hibahcmb/579   
-               
+  link: /hibahcmb/579
+
 - nomor: '580'
   judul:    SHOUT 2.0 - DEMOCRATIC CORNER BOOTH PROJECT
   deskripsi: |
@@ -6014,8 +6014,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/580.png
-  link: /hibahcmb/580   
-                
+  link: /hibahcmb/580
+
 - nomor: '581'
   judul:    NBC (Nias Bangkit dot Com)
   deskripsi: |
@@ -6025,8 +6025,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/581.png
-  link: /hibahcmb/581   
-                 
+  link: /hibahcmb/581
+
 - nomor: '582'
   judul:    Workshop Video Partisipatory Anti Kekerasan di Daerah Konflik
   deskripsi: |
@@ -6035,8 +6035,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/582.png
-  link: /hibahcmb/582   
-                 
+  link: /hibahcmb/582
+
 - nomor: '583'
   judul:    Pengambangan Website Palang Merah Indonesia untuk Pusat dan Seluruh Indonesia (33 provinsi)
   deskripsi: |
@@ -6047,8 +6047,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/583.png
-  link: /hibahcmb/583     
-                  
+  link: /hibahcmb/583
+
 - nomor: '584'
   judul:    WIDIA (Wifi Media)
   deskripsi: |
@@ -6057,8 +6057,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/584.png
-  link: /hibahcmb/584     
-                   
+  link: /hibahcmb/584
+
 - nomor: '585'
   judul:    Menuju Indonesia yang Lebih Keren
   deskripsi: |
@@ -6067,8 +6067,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/585.png
-  link: /hibahcmb/585     
-                   
+  link: /hibahcmb/585
+
 - nomor: '586'
   judul:    Menuju Media yang Informatif dan Memberdayakan Pascabencana
   deskripsi: |
@@ -6077,8 +6077,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/586.png
-  link: /hibahcmb/586   
-                   
+  link: /hibahcmb/586
+
 - nomor: '587'
   judul:    Harus ada Museum di Bekas Patilasan Kerajaan
   deskripsi: |
@@ -6087,8 +6087,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/587.png
-  link: /hibahcmb/587  
-                    
+  link: /hibahcmb/587
+
 - nomor: '588'
   judul:    Menggunakan Media Sebagai Alat Memerangi Kekerasan dan Diskriminasi Terhadap Buruh Perempuan
   deskripsi: |
@@ -6097,8 +6097,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/588.png
-  link: /hibahcmb/588 
-                      
+  link: /hibahcmb/588
+
 - nomor: '589'
   judul:    Media Perempuan
   deskripsi: |
@@ -6107,8 +6107,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/589.png
-  link: /hibahcmb/589 
-                       
+  link: /hibahcmb/589
+
 - nomor: '590'
   judul:    Dekomodifikasi Media
   deskripsi: |
@@ -6117,8 +6117,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/590.png
-  link: /hibahcmb/590  
-                        
+  link: /hibahcmb/590
+
 - nomor: '591'
   judul:    Edukasi Kesehatan Perempuan melalui Media Alternatif
   deskripsi: |
@@ -6129,7 +6129,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/591.png
   link: /hibahcmb/591
-                         
+
 - nomor: '592'
   judul:    Aplikasi Alternatif Pembelajaran
   deskripsi: |
@@ -6138,8 +6138,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/592.png
-  link: /hibahcmb/592 
-                          
+  link: /hibahcmb/592
+
 - nomor: '593'
   judul:    Menciptakan Masyarakat Kritis Media, Jembatan Bagi Perlindungan Anak
   deskripsi: |
@@ -6148,8 +6148,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/593.png
-  link: /hibahcmb/593  
-                           
+  link: /hibahcmb/593
+
 - nomor: '594'
   judul:    Pemanfaatan Pesawat Model sebagai Wahana Pengawasan Keamanan dan Lalu Lintas
   deskripsi: |
@@ -6158,8 +6158,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/594.png
-  link: /hibahcmb/594  
-                             
+  link: /hibahcmb/594
+
 - nomor: '595'
   judul:    Pemanfaatan Metanol Pasaran (Spirtus) sebagai Suplemen Bahan Bakar Bensin pada Motor Bakar
   deskripsi: |
@@ -6168,8 +6168,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/595.png
-  link: /hibahcmb/595  
-                              
+  link: /hibahcmb/595
+
 - nomor: '596'
   judul:    Mengatasi Sampah Bibit Penyakit, Yang Tidak Ada Tempat Pembuanganya
   deskripsi: |
@@ -6178,8 +6178,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/596.png
-  link: /hibahcmb/596   
-                                
+  link: /hibahcmb/596
+
 - nomor: '597'
   judul:    Next Generation – Media Watch & Literacy
   deskripsi: |
@@ -6189,8 +6189,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/597.png
-  link: /hibahcmb/597 
-                                 
+  link: /hibahcmb/597
+
 - nomor: '598'
   judul:    CSR untuk Riau
   deskripsi: |
@@ -6199,8 +6199,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/598.png
-  link: /hibahcmb/598  
-                                  
+  link: /hibahcmb/598
+
 - nomor: '599'
   judul:    Bahasaku, Penapis Kesalahan Bahasa Indonesia Digital
   deskripsi: |
@@ -6209,8 +6209,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/599.png
-  link: /hibahcmb/599  
-                                  
+  link: /hibahcmb/599
+
 - nomor: '600'
   judul:    Tips Kita
   deskripsi: |
@@ -6220,7 +6220,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/600.png
   link: /hibahcmb/600
-  
+
 - nomor: '601'
   judul:    Portal Pencinta Alam Indonesia
   deskripsi: |
@@ -6232,7 +6232,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/601.png
   link: /hibahcmb/601
-  
+
 - nomor: '602'
   judul:    Rumah Selaras
   deskripsi: |
@@ -6243,7 +6243,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/602.png
   link: /hibahcmb/602
-  
+
 - nomor: '603'
   judul:    Socionity – Jejaring Sosial Pendonor Darah
   deskripsi: |
@@ -6252,8 +6252,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/603.png
-  link: /hibahcmb/603 
-   
+  link: /hibahcmb/603
+
 - nomor: '604'
   judul:    Merajut Kebersamaan
   deskripsi: |
@@ -6262,8 +6262,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/604.png
-  link: /hibahcmb/604 
-    
+  link: /hibahcmb/604
+
 - nomor: '605'
   judul:    Media Komunitas, Menjadikan Media Kecerdasan Warga
   deskripsi: |
@@ -6276,8 +6276,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/605.png
-  link: /hibahcmb/605 
-     
+  link: /hibahcmb/605
+
 - nomor: '606'
   judul:    Aceh News Monitoring (Pemantauan Berita Aceh)
   deskripsi: |
@@ -6289,8 +6289,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/606.png
-  link: /hibahcmb/606 
-      
+  link: /hibahcmb/606
+
 - nomor: '607'
   judul:    Majalah Digital sebagai Media untuk Berbagi bagi Siswa Sekolah
   deskripsi: |
@@ -6299,8 +6299,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/607.png
-  link: /hibahcmb/607  
-        
+  link: /hibahcmb/607
+
 - nomor: '608'
   judul:    Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
   deskripsi: |
@@ -6310,8 +6310,8 @@
   tipe: bebas
   seleksi: true
   gambar: /static/img/hibahcmb/608.png
-  link: /hibahcmb/608 
-        
+  link: /hibahcmb/608
+
 - nomor: '609'
   judul:    Blogger Masuk Desa
   deskripsi: |
@@ -6320,8 +6320,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/609.png
-  link: /hibahcmb/609   
-          
+  link: /hibahcmb/609
+
 - nomor: '610'
   judul:    Sistem Informasi Tryout Online
   deskripsi: |
@@ -6330,8 +6330,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/610.png
-  link: /hibahcmb/610 
-          
+  link: /hibahcmb/610
+
 - nomor: '611'
   judul:    Radio Komunitas Taratak FM Penuh Konten Lokal
   deskripsi: |
@@ -6340,8 +6340,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/611.png
-  link: /hibahcmb/611   
-           
+  link: /hibahcmb/611
+
 - nomor: '612'
   judul:    Reproduksi Lumbung Informasi untuk Membangun Masyarakat Urban yang Komunikatif di DAS Code Yogyakarta
   deskripsi: |
@@ -6351,8 +6351,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/612.png
-  link: /hibahcmb/612  
-            
+  link: /hibahcmb/612
+
 - nomor: '613'
   judul:    Sistem Informasi dan Komunikasi Multimedia untuk Pembangunan Kota yang Inovatif, Transparan, dan Partisipatif
   deskripsi: |
@@ -6364,8 +6364,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/613.png
-  link: /hibahcmb/613 
-              
+  link: /hibahcmb/613
+
 - nomor: '614'
   judul:    Masyarakat Jawa Timur Melek Media
   deskripsi: |
@@ -6374,8 +6374,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/614.png
-  link: /hibahcmb/614 
-               
+  link: /hibahcmb/614
+
 - nomor: '615'
   judul:    Sharing Keliling (SK)
   deskripsi: |
@@ -6385,8 +6385,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/615.png
-  link: /hibahcmb/615  
-               
+  link: /hibahcmb/615
+
 - nomor: '616'
   judul:    Proyek Film Pendek Stop Motion Pertama di Dunia
   deskripsi: |
@@ -6395,8 +6395,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/616.png
-  link: /hibahcmb/616 
-                
+  link: /hibahcmb/616
+
 - nomor: '617'
   judul:    Pengarusutamaan Isu Masyarakat Akar Rumput lewat Video Seluler dan Open Source
   deskripsi: |
@@ -6405,8 +6405,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/617.png
-  link: /hibahcmb/617 
-                
+  link: /hibahcmb/617
+
 - nomor: '618'
   judul:    Pemetaan Lingkungan Teknologi Media Berbasis Internet di Indonesia - Menuju Jaringan Produksi dan Berbagi Pengetahuan STUDENTHIJO.net
   deskripsi: |
@@ -6419,8 +6419,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/618.png
-  link: /hibahcmb/618 
-                 
+  link: /hibahcmb/618
+
 - nomor: '619'
   judul:    Gethok Tular
   deskripsi: |
@@ -6433,8 +6433,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/619.png
-  link: /hibahcmb/619  
-                  
+  link: /hibahcmb/619
+
 - nomor: '620'
   judul:    Peningkatan kapasitas masyarakat dalam memantau informasi media cetak dan online lokal dan mempublikasikan hasil pantauannya
   deskripsi: |
@@ -6443,8 +6443,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/620.png
-  link: /hibahcmb/620   
-                   
+  link: /hibahcmb/620
+
 - nomor: '621'
   judul:    TAMBankdatArupiaH
   deskripsi: |
@@ -6453,8 +6453,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/621.png
-  link: /hibahcmb/621  
-                    
+  link: /hibahcmb/621
+
 - nomor: '622'
   judul:    Penulisan dan Publikasi Serial Menentang Bungkam Korban Lapindo
   deskripsi: |
@@ -6463,8 +6463,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/622.png
-  link: /hibahcmb/622   
-                     
+  link: /hibahcmb/622
+
 - nomor: '623'
   judul:    Mengenali dan Tolak Terorisme melalui Mobile Phone dan Media Sosial
   deskripsi: |
@@ -6480,8 +6480,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/623.png
-  link: /hibahcmb/623 
-                       
+  link: /hibahcmb/623
+
 - nomor: '624'
   judul:    Penguatan Keluarga TKI dan Membangun Basis Advokasi Masyarakat Sipil Dalam Akses Informasi untuk Mendorong Perlindungan Hukum Tenaga Kerja Indonesia
   deskripsi: |
@@ -6490,8 +6490,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/624.png
-  link: /hibahcmb/624 
-                       
+  link: /hibahcmb/624
+
 - nomor: '625'
   judul:    Software Aplikasi Analisa Struktur Jejaring Informasi/Linguistik
   deskripsi: |
@@ -6500,8 +6500,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/625.png
-  link: /hibahcmb/625 
-                       
+  link: /hibahcmb/625
+
 - nomor: '626'
   judul:    Menembus Batas Dunia Melalui Kampung Bahasa Asing
   deskripsi: |
@@ -6510,8 +6510,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/626.png
-  link: /hibahcmb/626   
-                       
+  link: /hibahcmb/626
+
 - nomor: '627'
   judul:    Cacat Fisik Bukan Berarti Cacat Kreatifitas
   deskripsi: |
@@ -6520,8 +6520,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/627.png
-  link: /hibahcmb/627  
-                        
+  link: /hibahcmb/627
+
 - nomor: '628'
   judul:    Membangun Budaya Damai di Papua
   deskripsi: |
@@ -6530,8 +6530,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/628.png
-  link: /hibahcmb/628    
-                         
+  link: /hibahcmb/628
+
 - nomor: '629'
   judul:    Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
   deskripsi: |
@@ -6540,8 +6540,8 @@
   tipe: bebas
   seleksi: true
   gambar: /static/img/hibahcmb/629.png
-  link: /hibahcmb/629  
-                          
+  link: /hibahcmb/629
+
 - nomor: '630'
   judul:    Balai Anak Sebagai Pusat Informasi Dan Kreatifitas
   deskripsi: |
@@ -6550,8 +6550,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/630.png
-  link: /hibahcmb/630 
-                            
+  link: /hibahcmb/630
+
 - nomor: '631'
   judul:    Fotonovela (Melaporkan Dengan Foto Yang Bercerita)
   deskripsi: |
@@ -6565,8 +6565,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/631.png
-  link: /hibahcmb/631 
-                           
+  link: /hibahcmb/631
+
 - nomor: '632'
   judul:    Literasi Media Berbasis Lokalitas untuk Media Baru Bagi Generasi “Z”
   deskripsi: |
@@ -6581,8 +6581,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/632.png
-  link: /hibahcmb/632  
-                             
+  link: /hibahcmb/632
+
 - nomor: '633'
   judul:    LRS (Leutika Reading Society)
   deskripsi: |
@@ -6596,8 +6596,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/633.png
-  link: /hibahcmb/633  
-                           
+  link: /hibahcmb/633
+
 - nomor: '634'
   judul:    FIKSI - Forum Pendidikan Indonesia
   deskripsi: |
@@ -6606,8 +6606,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/634.png
-  link: /hibahcmb/634  
-                           
+  link: /hibahcmb/634
+
 - nomor: '635'
   judul:    Mamipo – Ruang Cipta dan Dialog
   deskripsi: |
@@ -6616,8 +6616,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/635.png
-  link: /hibahcmb/635   
-                            
+  link: /hibahcmb/635
+
 - nomor: '636'
   judul:    Memecah Kebekuan
   deskripsi: |
@@ -6627,8 +6627,8 @@
   tipe: NA
   seleksi: false
   gambar: /static/img/hibahcmb/636.png
-  link: /hibahcmb/636   
-                            
+  link: /hibahcmb/636
+
 - nomor: '637'
   judul:    Komik curhat & video stopmotion karya Napi Anak
   deskripsi: |
@@ -6637,8 +6637,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/637.png
-  link: /hibahcmb/637   
-                              
+  link: /hibahcmb/637
+
 - nomor: '638'
   judul:    RT-RW NET Sekolah Swasta
   deskripsi: |
@@ -6648,7 +6648,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/638.png
   link: /hibahcmb/638
-                              
+
 - nomor: '639'
   judul:    Portal IndonesiaSeni.com
   deskripsi: |
@@ -6657,8 +6657,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/639.png
-  link: /hibahcmb/639 
-                              
+  link: /hibahcmb/639
+
 - nomor: '640'
   judul:    Pemanfaatan Teknologi Informasi bagi Pendidikan Anak sebagai Media Sosialisasi Mainan dan Permainan Rakyat Berbasis Budaya Lokal
   deskripsi: |
@@ -6687,7 +6687,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/640.png
   link: /hibahcmb/640
-  
+
 - nomor: '641'
   judul:    Pusat Kajian Media dan Budaya Populer (PKMBP)
   deskripsi: |
@@ -6708,7 +6708,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/642.png
   link: /hibahcmb/642
-  
+
 - nomor: '643'
   judul:    I MADE. Informasi Media Desa. Penyampaian Kabar Masyarakat Pesisir
   deskripsi: |
@@ -6718,7 +6718,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/643.png
   link: /hibahcmb/643
-  
+
 - nomor: '644'
   judul:    Climate Collaborative Media Project
   deskripsi: |
@@ -6727,8 +6727,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/644.png
-  link: /hibahcmb/644  
-   
+  link: /hibahcmb/644
+
 - nomor: '645'
   judul:    Media Kajian Online tentang Permasalahan Ruang Publik, Karya, Budaya Visual Perkotaan
   deskripsi: |
@@ -6739,8 +6739,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/645.png
-  link: /hibahcmb/645 
-    
+  link: /hibahcmb/645
+
 - nomor: '646'
   judul:    Media interaktif anak muda kreatif cinta damai
   deskripsi: |
@@ -6753,8 +6753,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/646.png
-  link: /hibahcmb/646 
-     
+  link: /hibahcmb/646
+
 - nomor: '647'
   judul:    Young Ecopreneurship Network Initiative
   deskripsi: |
@@ -6763,8 +6763,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/647.png
-  link: /hibahcmb/647 
-      
+  link: /hibahcmb/647
+
 - nomor: '648'
   judul:    Tripvia
   deskripsi: |
@@ -6774,7 +6774,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/648.png
   link: /hibahcmb/648
-       
+
 - nomor: '649'
   judul:    My Tangerang
   deskripsi: |
@@ -6785,8 +6785,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/649.png
-  link: /hibahcmb/649 
-        
+  link: /hibahcmb/649
+
 - nomor: '650'
   judul:    Jurnalisme Warga untuk Memperkuat Demokrasi dan Hak Asasi Manusia
   deskripsi: |
@@ -6795,8 +6795,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/650.png
-  link: /hibahcmb/650  
-        
+  link: /hibahcmb/650
+
 - nomor: '651'
   judul:    Etika dan Kebebasan Pers dalam Jurnalisme Bencana
   deskripsi: |
@@ -6805,8 +6805,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/651.png
-  link: /hibahcmb/651   
-        
+  link: /hibahcmb/651
+
 - nomor: '652'
   judul:    Warga Pemantau Media - Optimalisasi Handphone dan Internet untuk Pemantauan Media secara Partisipatif dan Independen oleh Warga
   deskripsi: |
@@ -6815,8 +6815,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/652.png
-  link: /hibahcmb/652     
-          
+  link: /hibahcmb/652
+
 - nomor: '653'
   judul:    Majapahit Online
   deskripsi: |
@@ -6826,7 +6826,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/653.png
   link: /hibahcmb/653
-          
+
 - nomor: '654'
   judul:    Pemantauan Siaran Televisi oleh Warga di Yogyakarta
   deskripsi: |
@@ -6839,8 +6839,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/654.png
-  link: /hibahcmb/654  
-          
+  link: /hibahcmb/654
+
 - nomor: '655'
   judul:    Video untuk Perdamaian
   deskripsi: |
@@ -6850,8 +6850,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/655.png
-  link: /hibahcmb/655  
-           
+  link: /hibahcmb/655
+
 - nomor: '656'
   judul:    Aplikasi e-Commerce Batik Madura
   deskripsi: |
@@ -6861,7 +6861,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/656.png
   link: /hibahcmb/656
-           
+
 - nomor: '656'
   judul:    Aplikasi e-Commerce Batik Madura
   deskripsi: |
@@ -6870,8 +6870,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/656.png
-  link: /hibahcmb/656  
-           
+  link: /hibahcmb/656
+
 - nomor: '657'
   judul:    WebGIS Kota Jambi - Kita bisa maju karena kita tau tata ruang
   deskripsi: |
@@ -6890,8 +6890,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/657.png
-  link: /hibahcmb/657    
-            
+  link: /hibahcmb/657
+
 - nomor: '658'
   judul:    Virus Menulis di Sekolah
   deskripsi: |
@@ -6900,8 +6900,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/658.png
-  link: /hibahcmb/658  
-             
+  link: /hibahcmb/658
+
 - nomor: '659'
   judul:    Melampaui Demokrasi Artifisial dalam Media - Upaya Mengembalikan Semangat Demokratisasi dalam Media
   deskripsi: |
@@ -6910,8 +6910,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/659.png
-  link: /hibahcmb/659  
-              
+  link: /hibahcmb/659
+
 - nomor: '660'
   judul:    Roadshow Media Pemberdayaan SDM dalam mengelola Kelestarian SDA
   deskripsi: |
@@ -6922,8 +6922,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/660.png
-  link: /hibahcmb/660 
-  
+  link: /hibahcmb/660
+
 - nomor: '661'
   judul:    Indonesia revive
   deskripsi: |
@@ -6943,7 +6943,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/662.png
   link: /hibahcmb/662
-  
+
 - nomor: '663'
   judul:    Buletin Untuk Informasi Yang Berimbang
   deskripsi: |
@@ -6953,7 +6953,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/663.png
   link: /hibahcmb/663
-  
+
 - nomor: '664'
   judul:    skripsienjoy.com
   deskripsi: |
@@ -6962,8 +6962,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/664.png
-  link: /hibahcmb/664  
-   
+  link: /hibahcmb/664
+
 - nomor: '665'
   judul:    Berbagi Dukungan
   deskripsi: |
@@ -6972,8 +6972,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/665.png
-  link: /hibahcmb/665 
-    
+  link: /hibahcmb/665
+
 - nomor: '666'
   judul:    PORTAL VIDEO TUTORIAL PRAKTEK SENI RUPA KREASI GURU
   deskripsi: |
@@ -6983,7 +6983,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/666.png
   link: /hibahcmb/666
-     
+
 - nomor: '667'
   judul:    Film Apresiasiku
   deskripsi: |
@@ -6993,7 +6993,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/667.png
   link: /hibahcmb/667
-    
+
 - nomor: '668'
   judul:    JejakHukum.com – Mendedah Wajah Keadilan Indonesia
   deskripsi: |
@@ -7004,7 +7004,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/668.png
   link: /hibahcmb/668
-    
+
 - nomor: '669'
   judul:    Lingkar Informasi Orang Muda
   deskripsi: |
@@ -7028,7 +7028,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/669.png
   link: /hibahcmb/669
-    
+
 - nomor: '670'
   judul:    Pengembangan Akses Murah, Sehat dan Merata
   deskripsi: |
@@ -7038,7 +7038,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/670.png
   link: /hibahcmb/670
-    
+
 - nomor: '671'
   judul:    Bajalai
   deskripsi: |
@@ -7048,7 +7048,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/671.png
   link: /hibahcmb/671
-     
+
 - nomor: '672'
   judul:    Peningkatan Peran Kelompok Informasi Masyarakat (KIM) dalam Penciptaan Konten Lokal dan Pengembangan Masyarakat yang Informatif
   deskripsi: |
@@ -7059,7 +7059,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/672.png
   link: /hibahcmb/672
-    
+
 - nomor: '673'
   judul:    Less Trash,More Garden
   deskripsi: |
@@ -7072,7 +7072,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/673.png
   link: /hibahcmb/673
-    
+
 - nomor: '674'
   judul:    Mengembangkan /Merawat bahasa daerah di 5 lokasi di Indonesia lewat radio komunitas dan media internet.
   deskripsi: |
@@ -7082,7 +7082,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/674.png
   link: /hibahcmb/674
-    
+
 - nomor: '675'
   judul:    Jaringan SIAR Jogja Memantau Media
   deskripsi: |
@@ -7092,7 +7092,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/675.png
   link: /hibahcmb/675
-    
+
 - nomor: '676'
   judul:    Kabar Dari Kawan
   deskripsi: |
@@ -7101,8 +7101,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/676.png
-  link: /hibahcmb/676 
-     
+  link: /hibahcmb/676
+
 - nomor: '677'
   judul:    Dibalik Beton, Mereka Merubah Dunia
   deskripsi: |
@@ -7115,17 +7115,17 @@
   seleksi: false
   gambar: /static/img/hibahcmb/677.png
   link: /hibahcmb/677
-  
+
 - nomor: '678'
   judul:    Media Eksistensi LGBT
   deskripsi: |
-      "Program ini akan memfokuskan pada beberapa aspek ; 1. Pendidikan (skill dan kesadaran kritis) komunitas, 2. Pengorganisasian komunitas, 3.Kemandirian kelompok (fundraising) dan 4. Kampanye publik untuk isu LGBT. Aktor yang melakukan kegiatan itu melalui pemberdayaan LGBT, yang masing-masing akan dibagi dalam kelompok penulisan artikel, photografi, film dokumenter dan reportase audiovisual. 
+      "Program ini akan memfokuskan pada beberapa aspek ; 1. Pendidikan (skill dan kesadaran kritis) komunitas, 2. Pengorganisasian komunitas, 3.Kemandirian kelompok (fundraising) dan 4. Kampanye publik untuk isu LGBT. Aktor yang melakukan kegiatan itu melalui pemberdayaan LGBT, yang masing-masing akan dibagi dalam kelompok penulisan artikel, photografi, film dokumenter dan reportase audiovisual.
 
-      Tahapannya; penguatan 4 kelompok (photografi, film dokumenter, reportase audiovisual dan penulisan artikel) melalui pertemuan rutin bulanan, masing-masing kelompok akan didampingi satu orang mentor selama 18 bulan. 
+      Tahapannya; penguatan 4 kelompok (photografi, film dokumenter, reportase audiovisual dan penulisan artikel) melalui pertemuan rutin bulanan, masing-masing kelompok akan didampingi satu orang mentor selama 18 bulan.
 
-      Selain peningkatan skill juga dibangun soal kemandirian komunitas dan pengembangan program pada wilayah lain. 
+      Selain peningkatan skill juga dibangun soal kemandirian komunitas dan pengembangan program pada wilayah lain.
 
-      Untuk pengembangan skill pada wilayah lain, fasilitator akan lebih melibatkan komunitas LGBT untuk berbagi pengetahuan dan pengalaman yang telah didapat selama ini. Sehingga harapannya diwilayah lain akan “lahir” komunitas LGBT untuk media, dan proses ini juga terjadi sharing pengalaman secara kontiyu dan memperkuat jaringan sesama komunitas LGBT. 
+      Untuk pengembangan skill pada wilayah lain, fasilitator akan lebih melibatkan komunitas LGBT untuk berbagi pengetahuan dan pengalaman yang telah didapat selama ini. Sehingga harapannya diwilayah lain akan “lahir” komunitas LGBT untuk media, dan proses ini juga terjadi sharing pengalaman secara kontiyu dan memperkuat jaringan sesama komunitas LGBT.
 
       Berita yang ada di website tidak hanya berhenti di website ourvoice saja tetapi juga akan dilink kan melalui media lain seperti groups facebook, twitter, website jurnalisme warga (seperti kompasiana dan politikana), broadcast BBM, millis maupun dalam bentuk cetak(Zine).
 
@@ -7135,7 +7135,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/678.png
   link: /hibahcmb/678
-      
+
 - nomor: '679'
   judul:    propertimedia.com
   deskripsi: |
@@ -7145,7 +7145,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/679.png
   link: /hibahcmb/679
-      
+
 - nomor: '680'
   judul:    Membangun jurnalistik dan pengenalan teknologi informasi untuk warga miskin di desa-desa atau kelurahan-kelurahan tertinggal di Provinsi Banten
   deskripsi: |
@@ -7155,8 +7155,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/680.png
-  link: /hibahcmb/680   
-       
+  link: /hibahcmb/680
+
 - nomor: '681'
   judul:    Menumbuhkembangkan Kembali Informasi Lokal melalui Radio Komunitas dalam Upaya Merestorasi Ekosistem Merapi dalam Rangka Memperkuat Ketahan Pangan dan Monitoring Biodiversity
   deskripsi: |
@@ -7166,8 +7166,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/681.png
-  link: /hibahcmb/681   
-       
+  link: /hibahcmb/681
+
 - nomor: '682'
   judul:    Childhood
   deskripsi: |
@@ -7176,8 +7176,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/682.png
-  link: /hibahcmb/682   
-        
+  link: /hibahcmb/682
+
 - nomor: '683'
   judul:    Kampoeng Internet
   deskripsi: |
@@ -7186,8 +7186,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/683.png
-  link: /hibahcmb/683   
-         
+  link: /hibahcmb/683
+
 - nomor: '684'
   judul:    Aku Bangga Jadi Anak Kampung
   deskripsi: |
@@ -7197,8 +7197,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/684.png
-  link: /hibahcmb/684   
-         
+  link: /hibahcmb/684
+
 - nomor: '685'
   judul:    Radio Dakwah
   deskripsi: |
@@ -7207,8 +7207,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/685.png
-  link: /hibahcmb/685   
-         
+  link: /hibahcmb/685
+
 - nomor: '686'
   judul:    Check My City
   deskripsi: |
@@ -7271,8 +7271,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/686.png
-  link: /hibahcmb/686   
-         
+  link: /hibahcmb/686
+
 - nomor: '687'
   judul:    DVD Interaktif - Aceh sebelum dan sesudah tsunami, sebuah pembelajaran
   deskripsi: |
@@ -7281,8 +7281,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/687.png
-  link: /hibahcmb/687   
-           
+  link: /hibahcmb/687
+
 - nomor: '688'
   judul:    Pentingnya Kebebasan bagi Masyarakat dalam Beraspirasi lewat Media online
   deskripsi: |
@@ -7291,8 +7291,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/688.png
-  link: /hibahcmb/688   
-           
+  link: /hibahcmb/688
+
 - nomor: '689'
   judul:    SINDIKASI MEDIA ONLINE & DIREKTORI VISUAL SENI BUDAYA NUSANTARA
   deskripsi: |
@@ -7310,8 +7310,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/689.png
-  link: /hibahcmb/689  
-           
+  link: /hibahcmb/689
+
 - nomor: '690'
   judul:    Pembuatan Blog Pesantren Moderat
   deskripsi: |
@@ -7320,8 +7320,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/690.png
-  link: /hibahcmb/690   
-            
+  link: /hibahcmb/690
+
 - nomor: '691'
   judul:    Solusinya dot com
   deskripsi: |
@@ -7330,8 +7330,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/691.png
-  link: /hibahcmb/691 
-             
+  link: /hibahcmb/691
+
 - nomor: '692'
   judul:    Kebangkitan Pancasila / Reviving Pancasila
   deskripsi: |
@@ -7340,8 +7340,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/692.png
-  link: /hibahcmb/692  
-              
+  link: /hibahcmb/692
+
 - nomor: '693'
   judul:    Graphic Diary of Toro Elmar
   deskripsi: |
@@ -7350,8 +7350,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/693.png
-  link: /hibahcmb/693  
-               
+  link: /hibahcmb/693
+
 - nomor: '694'
   judul:    Portal Tanggap Cepat “Jaringan Informasi Penanggulangan Bencana”, Jaringan Situs Online tentang Kegiatan dan Kebijakan Penanggulangan Bencana di Indonesia.
   deskripsi: |
@@ -7368,8 +7368,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/694.png
-  link: /hibahcmb/694  
-              
+  link: /hibahcmb/694
+
 - nomor: '695'
   judul:    Acehwildlifedotcom
   deskripsi: |
@@ -7378,8 +7378,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/695.png
-  link: /hibahcmb/695  
-               
+  link: /hibahcmb/695
+
 - nomor: '696'
   judul:    RSIA Ummi
   deskripsi: |
@@ -7388,8 +7388,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/696.png
-  link: /hibahcmb/696 
-                
+  link: /hibahcmb/696
+
 - nomor: '697'
   judul:    Memberikan bacaan (picture book) menyenangkan dan gratis
   deskripsi: |
@@ -7398,8 +7398,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/697.png
-  link: /hibahcmb/697 
-                 
+  link: /hibahcmb/697
+
 - nomor: '698'
   judul:    Sahabat Indonesia
   deskripsi: |
@@ -7408,8 +7408,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/698.png
-  link: /hibahcmb/698 
-                  
+  link: /hibahcmb/698
+
 - nomor: '699'
   judul:    Ibu rumahtangga di Yogyakarta memantau siaran televisi
   deskripsi: |
@@ -7421,8 +7421,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/699.png
-  link: /hibahcmb/699  
-                  
+  link: /hibahcmb/699
+
 - nomor: '700'
   judul:    Radio Komunitas Sebagai Media Berbagi Informasi Bisnis ,Jembatan Usaha Perdagangan, dan Pendidikan di Wilayah Terpencil
   deskripsi: |
@@ -7434,7 +7434,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/700.png
   link: /hibahcmb/700
-  
+
 - nomor: '701'
   judul:    Pendidikan Multikultur Berbasis Multimedia Pada Remaja Kalimatan Barat
   deskripsi: |
@@ -7454,7 +7454,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/702.png
   link: /hibahcmb/702
-  
+
 - nomor: '703'
   judul:    Artquake
   deskripsi: |
@@ -7468,7 +7468,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/703.png
   link: /hibahcmb/703
-   
+
 - nomor: '704'
   judul:    Gerakan Jurnalisme Kampung Masyarakat Dayak
   deskripsi: |
@@ -7480,8 +7480,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/704.png
-  link: /hibahcmb/704 
-    
+  link: /hibahcmb/704
+
 - nomor: '705'
   judul:    Membangun akses Media terbuka demi perlindungan Tenaga Kerja Indonesia dan Keluarganya
   deskripsi: |
@@ -7490,8 +7490,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/705.png
-  link: /hibahcmb/705  
-     
+  link: /hibahcmb/705
+
 - nomor: '707'
   judul:    SSYM (Semut Semut Yang Menyatu)
   deskripsi: |
@@ -7500,8 +7500,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/707.png
-  link: /hibahcmb/707 
-      
+  link: /hibahcmb/707
+
 - nomor: '708'
   judul:    GENERASI BERSIH Lomba Video HP - Pidato Anti Korupsi Remaja untuk Para Pejabat
   deskripsi: |
@@ -7514,8 +7514,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/708.png
-  link: /hibahcmb/708 
-       
+  link: /hibahcmb/708
+
 - nomor: '709'
   judul:    Portal Pantauan Pelayanan Publik
   deskripsi: |
@@ -7524,8 +7524,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/709.png
-  link: /hibahcmb/709  
-        
+  link: /hibahcmb/709
+
 - nomor: '710'
   judul:    Media Sekolah - Suara Pelajar, Suara Rakyat
   deskripsi: |
@@ -7536,8 +7536,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/710.png
-  link: /hibahcmb/710   
-         
+  link: /hibahcmb/710
+
 - nomor: '711'
   judul:    Memfungsikan Perpustakaan Sekolah Dasar sebagai Pusat Informasi, Media & Penumbuhan Minat Baca Murid
   deskripsi: |
@@ -7546,8 +7546,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/711.png
-  link: /hibahcmb/711   
-         
+  link: /hibahcmb/711
+
 - nomor: '712'
   judul:    Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
   deskripsi: |
@@ -7573,7 +7573,7 @@
   seleksi: true
   gambar: /static/img/hibahcmb/713.png
   link: /hibahcmb/713
-  
+
 - nomor: '714'
   judul:    Penggunaan booklet karikatur sebagai alat untuk Deteksi Dini Tumbuh Kembang Anak Bagi Kader Pos PAUD di Kotamadya Salatiga
   deskripsi: |
@@ -7605,7 +7605,7 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/716.png
-  link: /hibahcmb/716  
+  link: /hibahcmb/716
 
 - nomor: '717'
   judul:    Teka-Teki Silang Bergambar sebagai Media Peningkatan Pemahaman Perilaku Antikorupsi “Generasi Z”
@@ -7627,8 +7627,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/718.png
-  link: /hibahcmb/718  
- 
+  link: /hibahcmb/718
+
 - nomor: '719'
   judul:    Border Blogger Movement
   deskripsi: |
@@ -7637,8 +7637,8 @@
   tipe: adil
   seleksi: true
   gambar: /static/img/hibahcmb/719.png
-  link: /hibahcmb/719 
-   
+  link: /hibahcmb/719
+
 - nomor: '720'
   judul:    Warisan Indonesia peduli Komunitas Adat Terpencil
   deskripsi: |
@@ -7649,8 +7649,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/720.png
-  link: /hibahcmb/720 
-   
+  link: /hibahcmb/720
+
 - nomor: '721'
   judul:    Media Literacy Education di Makassar
   deskripsi: |
@@ -7662,8 +7662,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/721.png
-  link: /hibahcmb/721   
-    
+  link: /hibahcmb/721
+
 - nomor: '722'
   judul:    Blog Anak-anak Perbatasan
   deskripsi: |
@@ -7672,8 +7672,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/722.png
-  link: /hibahcmb/722 
-    
+  link: /hibahcmb/722
+
 - nomor: '723'
   judul:    Reboisasi dan Kemanusiaan Bencana
   deskripsi: |
@@ -7686,8 +7686,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/723.png
-  link: /hibahcmb/723   
-     
+  link: /hibahcmb/723
+
 - nomor: '724'
   judul:    Portal UKM dungde.com (Social Network Media dan Manager Pendamping bagi Petani, Peternak, dan Pengusaha Kecil)
   deskripsi: |
@@ -7696,8 +7696,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/724.png
-  link: /hibahcmb/724  
-       
+  link: /hibahcmb/724
+
 - nomor: '725'
   judul:    Content Management System (CMS) Weblog Desa
   deskripsi: |
@@ -7709,7 +7709,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/725.png
   link: /hibahcmb/725
-       
+
 - nomor: '727'
   judul:    Indonesian Interfaith Weather Station (melalui Pemantauan dan Analisis Media)
   deskripsi: |
@@ -7718,8 +7718,8 @@
   tipe: pantau
   seleksi: true
   gambar: /static/img/hibahcmb/727.png
-  link: /hibahcmb/727  
-        
+  link: /hibahcmb/727
+
 - nomor: '728'
   judul:    Pengembangan media interaktif pendukung advokasi pelanggaran HAM
   deskripsi: |
@@ -7728,8 +7728,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/728.png
-  link: /hibahcmb/728 
-         
+  link: /hibahcmb/728
+
 - nomor: '729'
   judul:    Pemanfaat Media Internet (www.duniasapi.com) bagi peternak sapi perah di Bandung Utara dan Bandung Selatan
   deskripsi: |
@@ -7738,8 +7738,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/729.png
-  link: /hibahcmb/729 
-         
+  link: /hibahcmb/729
+
 - nomor: '731'
   judul:    Penguatan Demokrasi Lewat Media Literacy di Pondok Pesantren Sulselbar
   deskripsi: |
@@ -7752,8 +7752,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/731.png
-  link: /hibahcmb/731 
-          
+  link: /hibahcmb/731
+
 - nomor: '732'
   judul:    Pendokumentasian Perkembangan Anak Usia Dini Online
   deskripsi: |
@@ -7762,8 +7762,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/732.png
-  link: /hibahcmb/732  
-           
+  link: /hibahcmb/732
+
 - nomor: '734'
   judul:    Literasi Media menggunakan Metode Kreatif (Kolase Foto dan Gambar) untuk Remaja
   deskripsi: |
@@ -7772,8 +7772,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/734.png
-  link: /hibahcmb/734  
-             
+  link: /hibahcmb/734
+
 - nomor: '735'
   judul:    Literasi Media Melalui Pengembangan Media dan Informasi lokal di Kalangan Pemuda Bantul Berbasis Mengenal Desa Sendiri
   deskripsi: |
@@ -7783,7 +7783,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/735.png
   link: /hibahcmb/735
-             
+
 - nomor: '736'
   judul:    Mengangkat Kesejahteraan Pelaku Kesenian di Daerah
   deskripsi: |
@@ -7793,7 +7793,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/736.png
   link: /hibahcmb/736
-              
+
 - nomor: '737'
   judul:    Pendidikan Kesiapsiagaan Melalu Informasi dan Budaya Lokal
   deskripsi: |
@@ -7802,8 +7802,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/737.png
-  link: /hibahcmb/737 
-               
+  link: /hibahcmb/737
+
 - nomor: '738'
   judul:    Program Penulisan Khazanah Kearifan Islam Nusantara Berbasis SEO (Search Engine Optimization) “Membumikan Nilai Luhur Islam dalam Kemajemukan Masyarakat Indonesia”
   deskripsi: |
@@ -7814,8 +7814,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/738.png
-  link: /hibahcmb/738  
-                
+  link: /hibahcmb/738
+
 - nomor: '739'
   judul:    Deradikalisasi di Kalangan Remaja melalui Media Film - Upaya penanaman nilai-nilai pluralisme berbasis pada media popular (film pendek semi dokumenter)
   deskripsi: |
@@ -7826,8 +7826,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/739.png
-  link: /hibahcmb/739   
-                
+  link: /hibahcmb/739
+
 - nomor: '740'
   judul:    Pemantauan Media Berbasis Masyarakat Melek Media
   deskripsi: |
@@ -7837,8 +7837,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/740.png
-  link: /hibahcmb/740   
-                
+  link: /hibahcmb/740
+
 - nomor: '741'
   judul:    Minifesto!
   deskripsi: |
@@ -7851,8 +7851,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/741.png
-  link: /hibahcmb/741    
-                
+  link: /hibahcmb/741
+
 - nomor: '742'
   judul:    Media Independen Petani Indonesia
   deskripsi: |
@@ -7861,8 +7861,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/742.png
-  link: /hibahcmb/742  
-                
+  link: /hibahcmb/742
+
 - nomor: '743'
   judul:    Kelompok Pendengar dan Pemantau Media Informasi (KPPMI) – NTT
   deskripsi: |
@@ -7871,8 +7871,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/743.png
-  link: /hibahcmb/743  
-                
+  link: /hibahcmb/743
+
 - nomor: '744'
   judul:    Environmental-Indonesia.com – Media Informasi Berwawasan Lingkungan
   deskripsi: |
@@ -7882,7 +7882,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/744.png
   link: /hibahcmb/744
-                
+
 - nomor: '745'
   judul:    Lomba Menulis Ulang Dongeng dan Foto Keindahan Alam Lokal
   deskripsi: |
@@ -7892,7 +7892,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/745.png
   link: /hibahcmb/745
-                
+
 - nomor: '746'
   judul:    PROSPEKTUS LAW (MEDIA PENDIDIKAN HUKUM MASYARAKAT)
   deskripsi: |
@@ -7902,7 +7902,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/746.png
   link: /hibahcmb/746
-                
+
 - nomor: '747'
   judul:    Bekai – Bicara Keadilan Sosial
   deskripsi: |
@@ -7921,7 +7921,7 @@
   gambar: /static/img/hibahcmb/747.png
 
   link: /hibahcmb/747
-                
+
 - nomor: '748'
   judul:    Buku Saku Hukum bagi Jurnalis
   deskripsi: |
@@ -7931,7 +7931,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/748.png
   link: /hibahcmb/748
-                
+
 - nomor: '749'
   judul:    Savety Jurnalis dan Citizen Journalism dalam Panal Policy (Kebijakan Hukum Pidana)
   deskripsi: |
@@ -7946,7 +7946,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/749.png
   link: /hibahcmb/749
-                
+
 - nomor: '750'
   judul:    KIDIA (KRITIS MEDIA)
   deskripsi: |
@@ -7956,7 +7956,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/750.png
   link: /hibahcmb/750
-  
+
 - nomor: '751'
   judul:    Ruang Rembug Masyarakat melalui Radio Komunitas
   deskripsi: |
@@ -7977,7 +7977,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/752.png
   link: /hibahcmb/752
-  
+
 - nomor: '753'
   judul:    Meningkatkan Kesadaran Kritis Komunitas terhadap Akses Informasi dan Media untuk Keadilan dalam Pengelolaan SDA
   deskripsi: |
@@ -7989,7 +7989,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/753.png
   link: /hibahcmb/753
-   
+
 - nomor: '754'
   judul:    Menggapai Kemaslahatan Umat tanpa batas
   deskripsi: |
@@ -7998,8 +7998,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/754.png
-  link: /hibahcmb/754 
-    
+  link: /hibahcmb/754
+
 - nomor: '755'
   judul:    One Stop Community Media
   deskripsi: |
@@ -8008,8 +8008,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/755.png
-  link: /hibahcmb/755  
-     
+  link: /hibahcmb/755
+
 - nomor: '756'
   judul:    Media Damai Berbasis Budaya
   deskripsi: |
@@ -8021,8 +8021,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/756.png
-  link: /hibahcmb/756 
-      
+  link: /hibahcmb/756
+
 - nomor: '757'
   judul:    Indois.me
   deskripsi: |
@@ -8031,8 +8031,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/757.png
-  link: /hibahcmb/757   
-      
+  link: /hibahcmb/757
+
 - nomor: '758'
   judul:    Layanan Bantuan Hukum Online Pro Bono
   deskripsi: |
@@ -8041,8 +8041,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/758.png
-  link: /hibahcmb/758  
-      
+  link: /hibahcmb/758
+
 - nomor: '759'
   judul:    Pemantauan Media dalam Pemberitaan Pemilihan Gubernur dan Wakil Gubernur Jawa Barat.
   deskripsi: |
@@ -8051,8 +8051,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/759.png
-  link: /hibahcmb/759  
-      
+  link: /hibahcmb/759
+
 - nomor: '760'
   judul:    Website Komunitas Bagi Pemberdayaan Buruh Migran
   deskripsi: |
@@ -8062,8 +8062,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/760.png
-  link: /hibahcmb/760    
-       
+  link: /hibahcmb/760
+
 - nomor: '761'
   judul:    Tembang Anak Kita - Berkarya, Berbagi, BerMedia Bersama Anak-anak TPA
   deskripsi: |
@@ -8072,8 +8072,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/761.png
-  link: /hibahcmb/761  
-        
+  link: /hibahcmb/761
+
 - nomor: '762'
   judul:    Penulisan Buku Citizen Journalism (CJ) dan Pelatihan CJ
   deskripsi: |
@@ -8082,8 +8082,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/762.png
-  link: /hibahcmb/762  
-          
+  link: /hibahcmb/762
+
 - nomor: '764'
   judul:    Layang Cepu
   deskripsi: |
@@ -8095,8 +8095,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/764.png
-  link: /hibahcmb/764  
-          
+  link: /hibahcmb/764
+
 - nomor: '765'
   judul:    Pelatihan Videomaking dan Pembuatan Dokumentasi Audiovisual Kesenian Papua
   deskripsi: |
@@ -8105,8 +8105,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/765.png
-  link: /hibahcmb/765 
-           
+  link: /hibahcmb/765
+
 - nomor: '766'
   judul:    HAI…KAWULA MUDA!!!
   deskripsi: |
@@ -8115,8 +8115,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/766.png
-  link: /hibahcmb/766  
-             
+  link: /hibahcmb/766
+
 - nomor: '767'
   judul:    Majalah Kesehatan HOSPITAL
   deskripsi: |
@@ -8125,8 +8125,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/767.png
-  link: /hibahcmb/767  
-             
+  link: /hibahcmb/767
+
 - nomor: '768'
   judul:    SUARA ANAK INDONESIA
   deskripsi: |
@@ -8136,7 +8136,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/768.png
   link: /hibahcmb/768
-             
+
 - nomor: '769'
   judul:    Inovasi Desain Layangan 3 Dimensi, Sebagai Media Edukasi, Rekreasi dan Promosi.
   deskripsi: |
@@ -8146,7 +8146,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/769.png
   link: /hibahcmb/769
-             
+
 - nomor: '770'
   judul:    TIM Penestrasi Testing
   deskripsi: |
@@ -8156,7 +8156,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/770.png
   link: /hibahcmb/770
-             
+
 - nomor: '771'
   judul:    Kampanye Jurnalisme Warga
   deskripsi: |
@@ -8166,7 +8166,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/771.png
   link: /hibahcmb/771
-             
+
 - nomor: '772'
   judul:    Media Antariman Berbasis Kearifan Lokal untuk Perdamaian
   deskripsi: |
@@ -8176,7 +8176,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/772.png
   link: /hibahcmb/772
-             
+
 - nomor: '773'
   judul:    Membangun Kesadaran HAM Melalui Media
   deskripsi: |
@@ -8188,7 +8188,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/773.png
   link: /hibahcmb/773
-             
+
 - nomor: '774'
   judul:    Pemuda Desa Melek Informasi
   deskripsi: |
@@ -8198,7 +8198,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/774.png
   link: /hibahcmb/774
-              
+
 - nomor: '775'
   judul:    Pendidikan Lingkungan Masyarakat Desa, Melalui Pelatihan Melek Media dan Jejaring Sosial untuk warga desa Sulang Rembang Jawa Tengah
   deskripsi: |
@@ -8208,7 +8208,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/775.png
   link: /hibahcmb/775
-              
+
 - nomor: '776'
   judul:    Indonesia, Oh Indahnya!
   deskripsi: |
@@ -8227,7 +8227,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/776.png
   link: /hibahcmb/776
-             
+
 - nomor: '777'
   judul:    Selancar
   deskripsi: |
@@ -8237,7 +8237,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/777.png
   link: /hibahcmb/777
-             
+
 - nomor: '778'
   judul:    Digitalisasi Media Berbahasa Daerah (Sunda) Tahun 1912 – Sekarang
   deskripsi: |
@@ -8250,7 +8250,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/778.png
   link: /hibahcmb/778
-             
+
 - nomor: '779'
   judul:    Tajam Menata
   deskripsi: |
@@ -8261,7 +8261,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/779.png
   link: /hibahcmb/779
-             
+
 - nomor: '780'
   judul:    Jurnalisme Multimedia Warga - Kritis Mengupas, Cerdas Menggagas
   deskripsi: |
@@ -8271,7 +8271,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/780.png
   link: /hibahcmb/780
-             
+
 - nomor: '781'
   judul:    Media Rakyat
   deskripsi: |
@@ -8281,7 +8281,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/781.png
   link: /hibahcmb/781
-                                                                      
+
 - nomor: '782'
   judul: Guru SD dan SMP mahir membuat animasi pembelajaran
   deskripsi: |
@@ -8290,8 +8290,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/782.png
-  link: /hibahcmb/782  
-             
+  link: /hibahcmb/782
+
 - nomor: '783'
   judul:    REVITALISASI 50 RADIO KOMUNITAS ANGGOTA JARINGAN RADIO SUARA PETANI DALAM UPAYA PEMANTAUAN MEDIA PERDESAAN DI JAWA BARAT, MODEL KASUS - KAWASAN PANTURA, JAWA BARAT
   deskripsi: |
@@ -8301,7 +8301,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/783.png
   link: /hibahcmb/783
-             
+
 - nomor: '784'
   judul:    Pengembangan Media Pembelajaran Ebook, video tutorial dan Website sebagai Bahan Ajar untuk Guru dan Siswa SMK Jurusan Animasi Se-Indonesia.
   deskripsi: |
@@ -8311,7 +8311,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/784.png
   link: /hibahcmb/784
-              
+
 - nomor: '786'
   judul:    Kareba Mangkasak - Media Advokasi Kebijakan Berbahasa Makassar
   deskripsi: |
@@ -8321,7 +8321,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/786.png
   link: /hibahcmb/786
-                 
+
 - nomor: '787'
   judul:    Membangun Media Center Kedaruratan
   deskripsi: |
@@ -8330,8 +8330,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/787.png
-  link: /hibahcmb/787 
-                 
+  link: /hibahcmb/787
+
 - nomor: '788'
   judul:    Mengadakan Diklat dan Pelatihan Bidang IT
   deskripsi: |
@@ -8340,8 +8340,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/788.png
-  link: /hibahcmb/788   
-                  
+  link: /hibahcmb/788
+
 - nomor: '789'
   judul:    www.indonesianyouthproject.com
   deskripsi: |
@@ -8351,7 +8351,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/789.png
   link: /hibahcmb/789
-                  
+
 - nomor: '790'
   judul:    Mendokumentasikan Kecantikan Indonesia
   deskripsi: |
@@ -8361,7 +8361,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/790.png
   link: /hibahcmb/790
-                   
+
 - nomor: '791'
   judul:    A Change for a Smile
   deskripsi: |
@@ -8370,8 +8370,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/791.png
-  link: /hibahcmb/791 
-                     
+  link: /hibahcmb/791
+
 - nomor: '792'
   judul:    Jepret – Media Sejarah Fotografi Indonesia
   deskripsi: |
@@ -8381,7 +8381,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/792.png
   link: /hibahcmb/792
-                      
+
 - nomor: '793'
   judul:    Kurungsiku – Pabrik Konten Lokal
   deskripsi: |
@@ -8390,8 +8390,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/793.png
-  link: /hibahcmb/793 
-                      
+  link: /hibahcmb/793
+
 - nomor: '794'
   judul:    Buruh Bangkit Menulis. Mengkomunikasikan Perjuangan Buruh dan Keluarganya untuk Keadilan dan Kesejahteraan.
   deskripsi: |
@@ -8400,8 +8400,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/794.png
-  link: /hibahcmb/794   
-                       
+  link: /hibahcmb/794
+
 - nomor: '795'
   judul:    www.wordsmartcenter.com - Connecting Citizen Journalist
   deskripsi: |
@@ -8410,8 +8410,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/795.png
-  link: /hibahcmb/795  
-                       
+  link: /hibahcmb/795
+
 - nomor: '796'
   judul:    Membangun Desa Internet untuk Pemberdayaan Masyarakat Desa
   deskripsi: |
@@ -8420,8 +8420,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/796.png
-  link: /hibahcmb/796    
-                         
+  link: /hibahcmb/796
+
 - nomor: '797'
   judul:    Media Panduan Siaga Bencana untuk Remaja
   deskripsi: |
@@ -8430,8 +8430,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/797.png
-  link: /hibahcmb/797 
-                         
+  link: /hibahcmb/797
+
 - nomor: '798'
   judul:    Gerakan Peduli Lingkungan pada Dunia Pendidikan dan Masyarakat Pedesaan di Pesisir Pantai Timur Taman Nasional Berbak Jambi
   deskripsi: |
@@ -8440,8 +8440,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/798.png
-  link: /hibahcmb/798  
-                          
+  link: /hibahcmb/798
+
 - nomor: '799'
   judul:    Etnofilm
   deskripsi: |
@@ -8450,8 +8450,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/799.png
-  link: /hibahcmb/799 
-                            
+  link: /hibahcmb/799
+
 - nomor: '800'
   judul:    Pasarkan Budaya Cirebon Lewat Foto
   deskripsi: |
@@ -8461,7 +8461,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/800.png
   link: /hibahcmb/800
-                             
+
 - nomor: '801'
   judul:    ‘LATAR KEBUDAYAAN UNTUK KEBERSAMAAN’ (LATAR BERSAMA) Video Kisah Budaya sebagai Latar Festival Budaya Warga Desa
   deskripsi: |
@@ -8470,8 +8470,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/801.png
-  link: /hibahcmb/801 
-                             
+  link: /hibahcmb/801
+
 - nomor: '802'
   judul:    Memperkuat (empowering) Masyarakat Adat melalui Penerapan Jurnalis Warga
   deskripsi: |
@@ -8480,8 +8480,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/802.png
-  link: /hibahcmb/802  
-                             
+  link: /hibahcmb/802
+
 - nomor: '803'
   judul:    Men for Others Network
   deskripsi: |
@@ -8490,8 +8490,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/803.png
-  link: /hibahcmb/803    
-                             
+  link: /hibahcmb/803
+
 - nomor: '804'
   judul:    Gelora Sriwijaya,Ketika Mahasiswa Berkarya
   deskripsi: |
@@ -8500,8 +8500,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/804.png
-  link: /hibahcmb/804  
-                             
+  link: /hibahcmb/804
+
 - nomor: '805'
   judul:    Rowopening, Penggerak UKM Kreatif Berbasis SMS Center dan Internet
   deskripsi: |
@@ -8510,8 +8510,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/805.png
-  link: /hibahcmb/805 
-                             
+  link: /hibahcmb/805
+
 - nomor: '806'
   judul:    Menggunakan Media Sosial untuk Memantau Etika Jurnalis dan Menguatkan Kebebasan Pers
   deskripsi: |
@@ -8520,8 +8520,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/806.png
-  link: /hibahcmb/806 
-                             
+  link: /hibahcmb/806
+
 - nomor: '807'
   judul:    Media and Youth Movement
   deskripsi: |
@@ -8531,7 +8531,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/807.png
   link: /hibahcmb/807
-                              
+
 - nomor: '808'
   judul:    Membangun Kedaulatan Petani Tiga Desa melalui Perluasan Akses Informasi Berbasis Kebutuhan Petani
   deskripsi: |
@@ -8541,7 +8541,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/808.png
   link: /hibahcmb/808
-                               
+
 - nomor: '809'
   judul:    Promosi Potensi Pedesaan
   deskripsi: |
@@ -8551,7 +8551,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/809.png
   link: /hibahcmb/809
-                                
+
 - nomor: '810'
   judul:    Mengglobalkan Desain Lokal
   deskripsi: |
@@ -8561,7 +8561,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/810.png
   link: /hibahcmb/810
-                                  
+
 - nomor: '811'
   judul:    Kabar Baik untuk Indonesia (KBI)
   deskripsi: |
@@ -8571,7 +8571,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/811.png
   link: /hibahcmb/811
-                                  
+
 - nomor: '812'
   judul:    Pelatihan Dan Pendidikan Komputer Serta Penggunaan Internet Sehat Bagi Masyarakat
   deskripsi: |
@@ -8580,8 +8580,8 @@
   tipe: bebas
   seleksi: false
   gambar: /static/img/hibahcmb/812.png
-  link: /hibahcmb/812 
-                                   
+  link: /hibahcmb/812
+
 - nomor: '813'
   judul:    Tuturnusa
   deskripsi: |
@@ -8590,8 +8590,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/813.png
-  link: /hibahcmb/813  
-                                    
+  link: /hibahcmb/813
+
 - nomor: '814'
   judul:    Memperkuat Komunitas Kesenian Tradisi di Semarang Melalui Informasi
   deskripsi: |
@@ -8600,8 +8600,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/814.png
-  link: /hibahcmb/814 
-                                     
+  link: /hibahcmb/814
+
 - nomor: '815'
   judul:    Membangun Website yang Bisa Menjadi Rujukan Pengetahuan Wisata, Budaya dan Kuliner Minangkabau
   deskripsi: |
@@ -8610,8 +8610,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/815.png
-  link: /hibahcmb/815  
-                                      
+  link: /hibahcmb/815
+
 - nomor: '816'
   judul:    Mobile and Virtual Salman Academy
   deskripsi: |
@@ -8620,8 +8620,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/816.png
-  link: /hibahcmb/816   
-                                       
+  link: /hibahcmb/816
+
 - nomor: '817'
   judul:    Didik Desa dengan Warga yang Melek Internet
   deskripsi: |
@@ -8630,8 +8630,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/817.png
-  link: /hibahcmb/817 
-                                       
+  link: /hibahcmb/817
+
 - nomor: '818'
   judul:    Media Komunitas
   deskripsi: |
@@ -8640,8 +8640,8 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/818.png
-  link: /hibahcmb/818   
-                                       
+  link: /hibahcmb/818
+
 - nomor: '819'
   judul:    Land of Hope
   deskripsi: |
@@ -8650,8 +8650,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/819.png
-  link: /hibahcmb/819   
-                                       
+  link: /hibahcmb/819
+
 - nomor: '820'
   judul:    Klab Literasi Media
   deskripsi: |
@@ -8665,8 +8665,8 @@
   tipe: pantau
   seleksi: false
   gambar: /static/img/hibahcmb/820.png
-  link: /hibahcmb/820   
-                                        
+  link: /hibahcmb/820
+
 - nomor: '821'
   judul:    Berkunjung ke Rumah Saridin
   deskripsi: |
@@ -8676,8 +8676,8 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/821.png
-  link: /hibahcmb/821   
-                                         
+  link: /hibahcmb/821
+
 - nomor: '822'
   judul:    Jurnalis Jalanan
   deskripsi: |
@@ -8687,7 +8687,7 @@
   seleksi: false
   gambar: /static/img/hibahcmb/822.png
   link: /hibahcmb/822
-                                         
+
 - nomor: '823'
   judul:    Arsipelago – Indonesian Archipelago
   deskripsi: |

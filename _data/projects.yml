@@ -27,13 +27,13 @@
   url: ''
   img: ''
   desc: 'Lorem ipsum'
-  
+
 - name: 'solidaritas.net'
   i18n: 'solidaritas.net'
   url: ''
   img: ''
   desc: 'Lorem ipsum'
-  
+
 - name: 'Kerjabilitas'
   i18n: 'Mitra Kerja Penyandang Disabilitas'
   url: '/Mitra_Kerja_Penyandang_Disabilitas'

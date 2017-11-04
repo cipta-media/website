@@ -7,7 +7,7 @@
   tipe: pantau
   gambar: /static/img/hibahcmb/655.jpg
   link: /hibahcmb/655
-  
+
 - nomor: '318'
   judul:   Hpku-Teman Belajarku
   deskripsi: |
@@ -18,7 +18,7 @@
   tipe: bebas
   gambar: /static/img/hibahcmb/318.jpg
   link: /hibahcmb/318
-  
+
 - nomor: '350'
   judul:   Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh
   deskripsi: |
@@ -27,7 +27,7 @@
   tipe: pantau
   gambar: /static/img/hibahcmb/350.jpg
   link: /hibahcmb/350
-  
+
 - nomor: '123'
   judul: AKUMASSA.ORG
   deskripsi: |
@@ -35,7 +35,7 @@
   lokasi: DKI Jakarta
   tipe: adil
   gambar: /static/img/hibahcmb/123.jpg
-  link: /hibahcmb/123 
+  link: /hibahcmb/123
 
 - nomor: '236'
   judul:   Amboina Cyber Society
@@ -57,7 +57,7 @@
   lokasi: Bandung
   tipe: pantau
   gambar: /static/img/hibahcmb/597.jpg
-  link: /hibahcmb/597 
+  link: /hibahcmb/597
 
 - nomor: '712'
   judul:    Aldepe.com - Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
@@ -70,7 +70,7 @@
   tipe: adil
   gambar: /static/img/hibahcmb/712.jpg
   link: /hibahcmb/712
-  
+
 - nomor: '579'
   judul:    MK-160 - Media Komunitas 160 Karakter
   deskripsi: |
@@ -86,7 +86,7 @@
   tipe: adil
   gambar: /static/img/hibahcmb/579.jpg
   link: /hibahcmb/579
-  
+
 - nomor: '629'
   judul:    Tidak Bermula [Dan Tidak Berakhir] Dengan Berita
   deskripsi: |
@@ -95,7 +95,7 @@
   tipe: bebas
   gambar: /static/img/hibahcmb/629.jpg
   link: /hibahcmb/629
-  
+
 - nomor: '423'
   judul:    Radio Buruh Perempuan; Dari Perempuan Buruh untuk Kesetaraan
   deskripsi: |
@@ -104,7 +104,7 @@
   tipe: adil
   gambar: /static/img/hibahcmb/423.jpg
   link: /hibahcmb/423
-  
+
 - nomor: '551'
   judul:    Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi
   deskripsi: |
@@ -123,7 +123,7 @@
   tipe: retas
   gambar: /static/img/hibahcmb/333.jpg
   link: /hibahcmb/333
-  
+
 - nomor: '327'
   judul:   Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam dan Media Watch Lapindo
   deskripsi: |
@@ -132,7 +132,7 @@
   tipe: pantau
   gambar: /static/img/hibahcmb/327.jpg
   link: /hibahcmb/327
-  
+
 - nomor: '608'
   judul:    Penghargaan Hak Asasi Manusia untuk Blogger (Human Rights Blogger Award)
   deskripsi: |
@@ -165,7 +165,7 @@
   tipe: retas
   gambar: /static/img/hibahcmb/565.jpg
   link: /hibahcmb/565
-  
+
 - nomor: '571'
   judul:    Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
   deskripsi: |

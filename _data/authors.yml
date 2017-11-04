@@ -1,22 +1,22 @@
-#detil penulis
-cms:		
+# detil penulis
+cms:
   name: Cipta Media
-  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.		
-  head_img: static/img/landing/logociptamedia.png		
-  email: email@mail.co.uk		
-  github: cms		
-riou:		
-  name: Dwi Satria Utama		
-  desc: Graphic Designer for WMID		
-  head_img: 		
-  email: dwi.satria@wikimedia.or.id		
+  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.
+  head_img: static/img/landing/logociptamedia.png
+  email: email@mail.co.uk
+  github: cms
+riou:
+  name: Dwi Satria Utama
+  desc: Graphic Designer for WMID
+  head_img:
+  email: dwi.satria@wikimedia.or.id
   github: riosatria
-admincmb:		
-  name: Admin Cipta Media Bersama		
-  desc: Admin Cipta Media Bersama		
-  head_img: 		
-  email: 		
-  github: 
+admincmb:
+  name: Admin Cipta Media Bersama
+  desc: Admin Cipta Media Bersama
+  head_img:
+  email:
+  github:
 arman:
   name: Arman Dhani
   desc: ntar dulu
