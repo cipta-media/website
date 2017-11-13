@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  hibahcme:
+    title: Hibah CME
+    output: true
 description: Arsip Cipta Media, menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
 disqus:
