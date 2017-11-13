@@ -11,8 +11,14 @@
   <meta name="author" content="{{ site.author.name }}">
 
   <title>
-        {{ site.title }}|{{ page.title }}
+    {% if jekyll.environment == "production" %}
+      {{ site.title }}
+    {% else %}
+      CME #{{ site.netlify.pull_request.id }}
+    {% endif %}
+    | {{ page.title }}
   </title>
+  <!-- {{ site.netlify.commit }} -->
   <!-- favicon -->
   <link rel="shortcut icon" href= "/static/img/favicon.ico" >
 

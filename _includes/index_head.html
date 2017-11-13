@@ -7,8 +7,13 @@
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
   <title>
+    {% if jekyll.environment == "production" %}
         {{ site.title }}
+    {% else %}
+        CME #{{ site.netlify.pull_request.id }}
+    {% endif %}
   </title>
+  <!-- {{ site.netlify.commit }} -->
   <!-- favicon -->
   <link rel="shortcut icon" href= "/static/img/favicon.ico">
 
