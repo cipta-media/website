@@ -1,0 +1,39 @@
+---
+title: '404'
+permalink: "/404.html"
+layout: null
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <h1>404</h1>
+                <h2>Halaman tidak ditemukan</h2>
+                <p>Maaf, halaman yang Anda cari tidak dapat ditemukan. Anda dapat melakukan pencarian menggunakan fitur cari di bawah.</p>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="form-group">
+                                <form action="/search/" method="get">
+                                    <input type="text" id="search_box" placeholder="Cari..." name="query" class="form-control">
+                                    <!-- <input type="submit" value="Cari"> -->
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                <div>
+                    <a class="btn btn-primary" href="/">Beranda</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Mainly scripts -->
+    <script src= "/static/js/bootstrap.min.js"></script>
+    <script src= "/static/js/material.min.js"></script>
+    <script src= "/static/js/material-kit.js"></script>
+    <script src= "/static/js/nouislider.min.js"></script>
+</body>
+</html>

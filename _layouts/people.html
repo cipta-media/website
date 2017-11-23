@@ -1,0 +1,78 @@
+---
+layout: base
+---
+
+{% include header.html %} 
+    <div class="container" style="padding-top: 70px">
+        <small>
+            <a href="/index.html">Beranda</a> > <a href="/tentang-ekspresi.html">Tentang CME</a> > {% if page.url contains 'juri' %}<a href="/juri-ekspresi.html">Juri CME</a>{% else %}<a href="/panitia-ekspresi.html">Panitia CME</a>{% endif %} > {{ page.name }}
+        </small>
+        <hr>
+        <div class="row">
+            <div class="col-md-8">
+                <img class="img-responsive center-block" src="{{ page.foto }}">
+                <h2 class="text-center">{{ page.name }}</h2>
+                <hr>
+                <p>{{ page.content }}</p>
+                <br>
+                <h5 style="display: inline;">Terkait:</h5>
+                {% for wawancara in page.wawancara %}
+                    <a href="{{ wawancara.link }}" class="btn btn-white btn-xs" style="margin-bottom: 5px;">{{ wawancara.judul }}</a>
+                {% endfor %}
+            </div>
+            <div class="col-md-4">
+                <table>
+                  <tbody>
+                    <tr>
+                      <td valign="top">Nama</td><td>{{ page.name }}</td>
+                    </tr>
+                    <tr>
+                      <td valign="top">Lahir</td><td>{{ page.ttl }}</td>
+                    </tr>
+                    <tr>
+                      <td valign="top">Ibu</td><td>{{ page.ibu }}</td>
+                    </tr>
+                    <tr>
+                      <td valign="top">Bapak</td><td>{{ page.bapak }}</td>
+                    </tr>
+                    {% if page.kakak %}<tr>
+                      <td valign="top">Kakak</td><td>{{ page.kakak }}</td>
+                    </tr>{% endif %}
+                    {% if page.adik %}<tr>
+                      <td valign="top">Adik</td><td>{{ page.adik }}</td>
+                    </tr>{% endif %}
+                    {% if page.tk %}<tr>
+                      <td valign="top">TK</td><td>{{ page.tk }}</td>
+                    </tr>{% endif %}
+                    <tr>
+                      <td valign="top">SD</td><td><ul style="list-style: none; padding-left: 0px;">{% for sd in page.sd %}<li>{{ sd }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">SMP</td><td><ul style="list-style: none; padding-left: 0px;">{% for smp in page.smp %}<li>{{ smp }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">SMA</td><td>{{ page.sma }}</td>
+                    </tr>
+                    <tr>
+                      <td valign="top">S1</td><td>{{ page.s1 }}</td>
+                    </tr>
+                    {% if page.s2 %}<tr>
+                      <td valign="top">S2</td><td>{{ page.s2 }}</td>
+                    </tr>{% endif %}
+                    {% if page.s3 %}<tr>
+                      <td valign="top">S3</td><td>{{ page.s3 }}</td>
+                    </tr>{% endif %}
+                    <tr>
+                        <td valign="top">Afiliasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for afiliasi in page.afiliasi %}<li>{{ afiliasi }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">Karya</td><td><ul style="list-style: none; padding-left: 0px;">{% for karya in page.karya %}<li>{{ karya }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    {% if page.kolaborasi %}<tr>
+                      <td valign="top">Kolaborasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for kolaborasi in page.kolaborasi %}<li>{{ kolaborasi }}</li>{% endfor %}</ul></td>
+                    </tr>{% endif %}
+                  </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
