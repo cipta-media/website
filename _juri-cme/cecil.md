@@ -10,17 +10,26 @@ sd:
   - SD Abdi Siswa Meruya, Jakarta
   - SD Tarakanita 1, Barito, Jakarta
 smp: SMP Tarakanita 5, Jakarta
-sma: SMA Tarakanita Pulo Raya, Jakarta
+sma: SMA Tarakanita  I, Pulo Raya, Jakarta
 s1: Desain Grafis Universitas Pelita Harapan, Karawaci, Tangerang (1996-2000)
-s2: Master of Fine Art Design, School of Visual Art, New York, Amerika Serikat
+s2: Master of Fine Art Design, School of Visual Art, New York, Amerika Serikat (2011-2013)
 s3:
 afiliasi:
+  - Koperasi Riset Purusha (2017-sekarang)
+  - SINDIKASI—Serikat Pekerja Media dan Industri kreatif (2017-sekarang)
+  - Arisan Desainer Upacita (2016-sekarang)
+  - Institut Kesenian Jakarta (2014-sekarang)
+  - Desain Strategist Mariani Witabora (2014-sekarang)
   - Komunitas Salihara (2008-2011)
-  - Universitas Pelita Harapan
-  - Desain Strategist Mariani Witabora
+  - Universitas Pelita Harapan (pengajar 2001-2011)
 karya:
   - tuatuasekolah.com
   - Upacita (tesis)
+  - OK Video 2017; warung-kolektif + Banko (@BankKolektif—alat tukar komplementer berbasis partisipasi lewat platform instagram)
+  - Ring-Road Project Interkonektifitas (Serrum) dan Extracurriculab 2016—LKS (Lembar Kerja Seniman)
+  - Komunitas Salihara brand
+  - Identitas Visual Jakarta Biennale 2015
+  - Behance.net/Cecilmariani
 kolaborasi:
 wawancara:
   -
