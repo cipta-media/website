@@ -1,0 +1,73 @@
+#detil penulis
+cms:		
+  name: Cipta Media
+  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.		
+  head_img: static/img/landing/logociptamedia.png		
+  email: email@mail.co.uk		
+  github: cms		
+riou:		
+  name: Dwi Satria Utama		
+  desc: Graphic Designer for WMID		
+  head_img: 		
+  email: dwi.satria@wikimedia.or.id		
+  github: riosatria
+admincmb:		
+  name: Admin Cipta Media Bersama		
+  desc: Admin Cipta Media Bersama		
+  head_img: 		
+  email: 		
+  github: 
+arman:
+  name: Arman Dhani
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+hillun:
+  name: Hillun Vilayl Napis
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+nasir:
+  name: Akhmad Nasir
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+kurniawan:
+  name: Kurniawan
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+reza:
+  name: Reza Abdul Aziz
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+ivonne:
+  name: Ivonne Kristiani
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+siska:
+  name: Siska Doviana
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+isabella:
+  name: Isabella Apriyana
+  desc: ntar dulu
+  head_img:
+  email:
+  github:
+prima:
+  name: Prima Sulistya
+  desc: ntar dulu
+  head_img:
+  email:
+  github:

@@ -68,20 +68,6 @@ layout: info
                         </div>
                     </div>
                 </div>
-                <br>
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Berita Terbaru</a></h4>
-                    </div>
-                    <div id="collapse4" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            {% for post in site.categories['Berita'] limit:5 %}
-                            <a href="{{ post.url }}" class="btn-link"><h5>{{ post.title }}</h5></a>
-                            {% if forloop.last != true %}<hr>{% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
