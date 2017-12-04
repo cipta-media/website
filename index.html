@@ -16,60 +16,38 @@ $(document).ready(function(){
 });
 </script>
 
-<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: center;height: 50vh;">
-    <div id="top" class="container" style="padding-top:20vh;">
-        <div id="call" class="row" style="color:#FFFFFF;margin-left: 0px;margin-right: 0px;">
-            <div class="col-md-6 well" style="background-color: rgba(108, 165, 150, 0.8); border: #ffffff;">
+<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: center;height: 100vh;">
+    <div id="top" class="container" style="padding-top:45vh;">
+        <div id="call" class="row" style="color:#FFFFFF;margin-left: 0px;margin-right: 0px; margin-top: 10px; margin-bottom: 0px">
+            <div class="col-md-6 well" style="background-color: rgba(108, 165, 150, 0.8); border: #ffffff; margin-bottom: 10px">
                 <h1 class="title">Cipta Media Ekspresi</h1>
                 <h2>Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.</h2>
+                <hr>
+                <div class="countdown" id="js-countdown">
+                    <div class="countdown__item countdown__item--large">
+                        <div class="countdown__timer js-countdown-days" aria-labelledby="day-countdown"></div>
+                        <div class="countdown__label" id="day-countdown">Hari</div>
+                    </div>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-hours" aria-labelledby="hour-countdown"></div>
+                        <div class="countdown__label" id="hour-countdown">Jam</div>
+                    </div>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-minutes" aria-labelledby="minute-countdown"></div>
+                        <div class="countdown__label" id="minute-countdown">Menit</div>
+                    </div>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-seconds" aria-labelledby="second-countdown"></div>
+                        <div class="countdown__label" id="second-countdown">Detik</div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="features">
+<section>
     <div class="container">
         <div id="bottom"></div>
-        <div class="row">
-            <div class="col-md-6 vcenter">
-                <img class="img-responsive center-block" src="/static/img/landing/akses.png">
-            </div><!--
-            --><div class="col-md-6 vcenter">
-                <p>Cipta Media Ekspresi merupakan hibah untuk perempuan pelaku kebudayaan lintas bidang seni. Hibah dapat digunakan untuk membuat, mengkaji, melakukan perjalanan dengan tujuan mencipta atau menampilkan [[karya]].</p>
-                <p>Jumlah total dana hibah Cipta Media Ekspresi untuk seluruh pemohon hibah yang bisa diberikan adalah 3,5 milyar rupiah bagi proyek yang dapat diselesaikan sebelum 28 Februari 2019.</p>
-                <div class="text-center">    
-                    <a href="/tentang-ekspresi.html" class="btn btn-danger btn-lg">Selengkapnya...</a>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 col-md-push-6 vcenter">
-                <img class="img-responsive center-block" src="/static/img/landing/lintas-generasi.png">
-            </div><!--
-            --><div class="col-md-6 col-md-pull-6 vcenter">
-                <h2 class="text-center">Daftar Isi</h2>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="text-center">    
-                            <a href="/kategori-ekspresi.html" class="btn btn-danger btn-lg">Kategori</a>
-                            <a href="/timeline-ekspresi.html" class="btn btn-danger btn-lg">Linimasa</a>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="text-center">    
-                            <a href="/juri-ekspresi.html" class="btn btn-danger btn-lg">Dewan Juri</a>
-                            <a href="/panitia-ekspresi.html" class="btn btn-danger btn-lg">Tim Panitia</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="text-center">    
-                            <a href="/faq-ekspresi.html" class="btn btn-danger btn-lg">Pertanyaan Umum</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 </section>

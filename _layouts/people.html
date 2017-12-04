@@ -30,11 +30,11 @@ layout: base
                       <td valign="top">Lahir</td><td>{{ page.ttl }}</td>
                     </tr>
                     <tr>
-                      <td valign="top">Ibu</td><td>{{ page.ibu }}</td>
-                    </tr>
+                      {% if page.ibu %}<td valign="top">Ibu</td><td>{{ page.ibu }}</td>
+                    </tr>{% endif %}
                     <tr>
-                      <td valign="top">Bapak</td><td>{{ page.bapak }}</td>
-                    </tr>
+                      {% if page.bapak %}<td valign="top">Bapak</td><td>{{ page.bapak }}</td>
+                    </tr>{% endif %}
                     {% if page.kakak %}<tr>
                       <td valign="top">Kakak</td><td>{{ page.kakak }}</td>
                     </tr>{% endif %}

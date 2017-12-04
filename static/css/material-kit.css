@@ -4048,4 +4048,52 @@ input[type=number]::-webkit-outer-spin-button {
     margin: 0; 
 }
 
+.countdown {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 75%;
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
+.countdown__item {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 auto;
+  min-width: 31%;
+  margin-bottom: 1rem;
+}
+
+.countdown__item--large {
+  flex: auto;
+  width: 100%;
+  font-size: 2.75em;
+}
+
+.countdown__timer {
+  font-size: 2em;
+  text-align: center;
+}
+
+.countdown__label {
+  font-size: 1em;
+  text-align: center;
+  
+  .countdown__item--large & {
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      height: 1px;
+      background-image: linear-gradient(
+        left,
+        rgba(0, 0, 0, 0), 
+        rgba(0, 0, 0, .4),
+        rgba(0, 0, 0, 0));
+    }
+
+  }
+}
+
 /*# sourceMappingURL=material-kit.css.map */
