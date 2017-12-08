@@ -1,39 +1,61 @@
 ---
-title: '404'
-permalink: "/404.html"
-layout: null
+title: 404
+layout: redir
 ---
 
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-md-offset-3">
-                <h1>404</h1>
-                <h2>Halaman tidak ditemukan</h2>
-                <p>Maaf, halaman yang Anda cari tidak dapat ditemukan. Anda dapat melakukan pencarian menggunakan fitur cari di bawah.</p>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="form-group">
-                                <form action="/search/" method="get">
-                                    <input type="text" id="search_box" placeholder="Cari..." name="query" class="form-control">
-                                    <!-- <input type="submit" value="Cari"> -->
-                                </form>
-                            </div>
-                        </div>
+<script>
+$(document).ready(function(){
+  if ($(window).width() < 992) {   
+    $("#call").appendTo("#bottom");
+  }
+  else {  
+    $("#call").appendTo("#top");
+  }
+});
+</script>
+<div class="alert alert-danger" style="position: fixed; width: 100%">
+    <div class="container-fluid">
+      <div class="alert-icon">
+        <i class="material-icons">error_outline</i>
+      </div>
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true"><i class="material-icons">clear</i></span>
+      </button>
+      <b>Peringatan:</b> Halaman yang Anda cari tidak ditemukan.
+    </div>
+</div>
+<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: center;height: 100vh;">
+    <div id="top" class="container" style="padding-top:40vh;">
+        <div id="call" class="row" style="color:#FFFFFF;margin-left: 0px;margin-right: 0px; margin-top: 10px; margin-bottom: 0px">
+            <div class="col-md-6 well" style="background-color: rgba(108, 165, 150, 0.8); border: #ffffff; margin-bottom: 10px">
+                <h1 class="title">Cipta Media Ekspresi</h1>
+                <h2>Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.</h2>
+                <hr>
+                <div class="countdown" id="js-countdown">
+                    <div class="countdown__item countdown__item--large">
+                        <div class="countdown__timer js-countdown-days" aria-labelledby="day-countdown"></div>
+                        <div class="countdown__label" id="day-countdown">Hari</div>
                     </div>
-                <div>
-                    <a class="btn btn-primary" href="/">Beranda</a>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-hours" aria-labelledby="hour-countdown"></div>
+                        <div class="countdown__label" id="hour-countdown">Jam</div>
+                    </div>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-minutes" aria-labelledby="minute-countdown"></div>
+                        <div class="countdown__label" id="minute-countdown">Menit</div>
+                    </div>
+                    <div class="countdown__item">
+                        <div class="countdown__timer js-countdown-seconds" aria-labelledby="second-countdown"></div>
+                        <div class="countdown__label" id="second-countdown">Detik</div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Mainly scripts -->
-    <script src= "/static/js/bootstrap.min.js"></script>
-    <script src= "/static/js/material.min.js"></script>
-    <script src= "/static/js/material-kit.js"></script>
-    <script src= "/static/js/nouislider.min.js"></script>
-</body>
-</html>
+</section>
+
+<section>
+    <div class="container">
+        <div id="bottom"></div>
+    </div>
+</section>

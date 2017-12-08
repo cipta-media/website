@@ -11,13 +11,14 @@ collections:
   panitia:
     title: Panitia
     output: true
+include: ["_redirects"]
 description: Halaman pembuka Cipta Media Ekspresi, Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.
 keywords: Seni, Budaya, Perempuan, Karya, Hibah, Ford Foundation
 disqus:
   name: nama_disini
   public_key: public_key_disini
 ga:
-  id: ga_disini
+  id: UA-110953836-1
 encoding: utf-8
 highlighter: rouge
 markdown: kramdown
