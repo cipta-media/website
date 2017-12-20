@@ -395,3 +395,193 @@
 .tutorial-page .title{
     color: #FFFFFF;
 }
+
+.index-well{
+    background-color: white;
+    color: #cc6666;
+    margin-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    border: white;
+    border-radius: 0px;
+}
+
+.index-cloud{
+    transform: scale(0.7, 0.7);
+    position: relative;
+}
+.index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.25, 0.25);
+        position: relative;
+        top: 0vh;
+        left: 25vh;
+}
+.index-leaf-blue-2{
+    transform: rotate(-7deg) scale(0.18, 0.18) scaleX(-1);
+    position: relative;
+    top: 10vh;
+    left: -10vh;
+}
+.index-well-post{
+        padding-top: 57vh;
+}
+@media only screen and (max-width:960px){
+    .index-well-post{
+        padding-top: 70px
+    }
+}
+@media only screen and (min-width:760px){
+    .index-cloud{
+        transform: scale(0.7, 0.7);
+        position: relative;
+        top: -8vh;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.3, 0.3);
+        position: relative;
+        top: -12vh;
+        left: 53vh;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 3vh;
+        left: -8vh;
+    }
+}
+@media only screen and (min-width:960px){
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.3, 0.3);
+        position: relative;
+        top: -12vh;
+        left: 54vh;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 3vh;
+        left: -10vh;
+    }
+}
+@media only screen and (min-width:1200px){
+    .index-cloud{
+        transform: scale(0.5, 0.5);
+        position: relative;
+        top: 40vh;
+        left: 97vh;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.35, 0.35);
+        position: relative;
+        top: 43vh;
+        left: 124vh;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 55vh;
+        left: 55vh;
+    }
+}
+@media only screen and (min-width:1440px){
+    .index-cloud{
+        transform: scale(0.5, 0.5);
+        position: relative;
+        top: 42vh;
+        left: 80vh;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.45, 0.45);
+        position: relative;
+        top: 47vh;
+        left: 100vh;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 54vh;
+        left: 43vh;
+    }
+}
+@media only screen and (min-width:1600px){
+    .index-cloud{
+        transform: scale(0.7, 0.7);
+        position: relative;
+        top: 41vh;
+        left: 90vh;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.45, 0.45);
+        position: relative;
+        top: 48vh;
+        left: 112vh;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 55vh;
+        left: 48vh;
+    }
+}
+@media only screen and (min-width:1920px){
+    .index-cloud{
+        transform: scale(0.7, 0.7);
+        position: relative;
+        top: 42vh;
+        left: 80vh;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.4, 0.4);
+        position: relative;
+        top: 48vh;
+        left: 100vh;
+    }
+    
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 52vh;
+        left: 43vh;
+    }
+}
+
+.round-button {
+    width:100%;
+    margin-bottom: 20px;
+}
+.round-button-circle {
+    width: 100%;
+    height:0;
+    padding-bottom: 100%;
+    border-radius: 50%;
+    overflow:hidden;
+    background: #ffca5f; 
+}
+.round-button-circle:hover {
+    background:#c9a353;
+}
+.round-button a {
+    display:block;
+    float:left;
+    width:100%;
+    padding-top:50%;
+    padding-bottom:50%;
+    line-height:1em;
+    margin-top:-0.5em;    
+    text-align:center;
+    color:#ffffff;
+    font-family: 'Biryani', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+a.round-button.disable {
+   pointer-events: none;
+   cursor: default;
+   background-color: gainsboro;
+}
+
+a.index-link {
+    font-family: 'Biryani', sans-serif;
+    text-transform: uppercase;
+}

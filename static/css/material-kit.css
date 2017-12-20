@@ -18,7 +18,8 @@
 /* SHADOWS */
 /* Shadows (from mdl http://www.getmdl.io/) */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Biryani');
 
 body {
   background-color: #fff;
@@ -44,7 +45,7 @@ body.inverse .card .form-control {
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 300;
 }
 
@@ -4050,10 +4051,9 @@ input[type=number]::-webkit-outer-spin-button {
 
 .countdown {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
   width: 75%;
-  max-width: 20rem;
+  max-width: 60rem;
   margin: 0 auto;
 }
 
@@ -4061,7 +4061,6 @@ input[type=number]::-webkit-outer-spin-button {
   display: flex;
   flex-direction: column;
   flex: 0 1 auto;
-  min-width: 31%;
   margin-bottom: 1rem;
 }
 
@@ -4072,12 +4071,12 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .countdown__timer {
-  font-size: 2em;
+  font-size: 4em;
   text-align: center;
 }
 
 .countdown__label {
-  font-size: 1em;
+  font-size: 2em;
   text-align: center;
   
   .countdown__item--large & {
