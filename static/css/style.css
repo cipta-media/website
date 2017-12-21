@@ -464,24 +464,24 @@
         left: -10vh;
     }
 }
-@media only screen and (min-width:1200px){
+@media only screen and (min-width:1280px){
     .index-cloud{
         transform: scale(0.5, 0.5);
         position: relative;
-        top: 40vh;
-        left: 97vh;
+        top: 37vh;
+        left: 123vh;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.35, 0.35);
         position: relative;
-        top: 43vh;
-        left: 124vh;
+        top: 37vh;
+        left: 123vh;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
         top: 55vh;
-        left: 55vh;
+        left: 66vh;
     }
 }
 @media only screen and (min-width:1440px){
@@ -489,39 +489,39 @@
         transform: scale(0.5, 0.5);
         position: relative;
         top: 42vh;
-        left: 80vh;
+        left: 103vh;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.45, 0.45);
         position: relative;
         top: 47vh;
-        left: 100vh;
+        left: 124vh;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
         top: 54vh;
-        left: 43vh;
+        left: 53vh;
     }
 }
 @media only screen and (min-width:1600px){
     .index-cloud{
         transform: scale(0.7, 0.7);
         position: relative;
-        top: 41vh;
-        left: 90vh;
+        top: 38vh;
+        left: 96vh;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.45, 0.45);
         position: relative;
-        top: 48vh;
-        left: 112vh;
+        top: 46vh;
+        left: 124vh;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
-        top: 55vh;
-        left: 48vh;
+        top: 53vh;
+        left: 55vh;
     }
 }
 @media only screen and (min-width:1920px){
