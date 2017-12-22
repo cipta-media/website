@@ -4052,7 +4052,7 @@ input[type=number]::-webkit-outer-spin-button {
 .countdown {
   display: flex;
   justify-content: space-between;
-  width: 75%;
+  width: 90%;
   max-width: 60rem;
   margin: 0 auto;
 }

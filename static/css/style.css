@@ -410,18 +410,19 @@
 .index-cloud{
     transform: scale(0.7, 0.7);
     position: relative;
+    top: -20px;
 }
 .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.25, 0.25);
         position: relative;
-        top: 0vh;
-        left: 25vh;
+        top: 2vh;
+        left: 22vh;
 }
 .index-leaf-blue-2{
     transform: rotate(-7deg) scale(0.18, 0.18) scaleX(-1);
     position: relative;
     top: 10vh;
-    left: -10vh;
+    left: -17vh;
 }
 .index-well-post{
         padding-top: 57vh;
@@ -464,64 +465,84 @@
         left: -10vh;
     }
 }
-@media only screen and (min-width:1280px){
+@media only screen and (min-width:1136px){
     .index-cloud{
         transform: scale(0.5, 0.5);
         position: relative;
-        top: 37vh;
-        left: 123vh;
+        top: 43vmin;
+        left: 120%;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.35, 0.35);
         position: relative;
-        top: 37vh;
-        left: 123vh;
+        top: 45vh;
+        left: 80vh;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
-        top: 55vh;
-        left: 66vh;
+        top: 50vh;
+        left: -13vh;
+    }
+}
+@media only screen and (min-width:1200px){
+    .index-cloud{
+        transform: scale(0.5, 0.5);
+        position: relative;
+        top: 43vmin;
+        left: 170%;
+    }
+    .index-leaf-blue-1{
+        transform: rotate(7deg) scale(0.35, 0.35);
+        position: relative;
+        top: 48vmin;
+        left: 335%;
+    }
+    .index-leaf-blue-2{
+        transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
+        position: relative;
+        top: 50vmin;
+        left: 145%;
     }
 }
 @media only screen and (min-width:1440px){
     .index-cloud{
         transform: scale(0.5, 0.5);
         position: relative;
-        top: 42vh;
-        left: 103vh;
+        top: 43vmin;
+        left: 170%;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.45, 0.45);
         position: relative;
-        top: 47vh;
-        left: 124vh;
+        top: 48vmin;
+        left: 335%;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
-        top: 54vh;
-        left: 53vh;
+        top: 50vmin;
+        left: 145%;
     }
 }
 @media only screen and (min-width:1600px){
     .index-cloud{
         transform: scale(0.7, 0.7);
         position: relative;
-        top: 38vh;
-        left: 96vh;
+        top: 43vmin;
+        left: 170%;
     }
     .index-leaf-blue-1{
         transform: rotate(7deg) scale(0.45, 0.45);
         position: relative;
-        top: 46vh;
-        left: 124vh;
+        top: 48vmin;
+        left: 335%;
     }
     .index-leaf-blue-2{
         transform: rotate(-7deg) scale(0.25, 0.25) scaleX(-1);
         position: relative;
-        top: 53vh;
-        left: 55vh;
+        top: 50vmin;
+        left: 145%;
     }
 }
 @media only screen and (min-width:1920px){
