@@ -47,14 +47,14 @@ layout: info
         </div>
     </div>
     
-    <div class="row m-b-lg">
+    <div class="row">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1>Evaluasi Cipta Media Seluler</h1>
         </div>
     </div>
 	
-    <div class="row m-b-lg">
+    <div class="row">
     	<div class="col-md-12">
 		
 		<ul class="nav nav-tabs">
@@ -76,7 +76,7 @@ layout: info
                     {% for hibahcms in site.data.hibahcms %}
                     {% if hibahcms.publik %}
                         <div class="col-md-4">
-                            <div class="col-md-12 well well-lg" style="height: 600px;">
+                            <div class="col-md-12 well well-lg" style="height: 650px;">
                                 <a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
                                 <hr>
                                 <a href="{{ hibahcms.link }}"><h4>{{ hibahcms.nomor }} - {{ hibahcms.judul | truncatewords: 10 }}</h4></a><br/>
@@ -93,7 +93,7 @@ layout: info
                 <div id="calon" class="tab-pane fade">
                     <h2>Calon Penerima Hibah</h2>
 			<h3>Produksi & Penyampaian Konten</h3>
-                    <div class="row m-b-lg">
+                    <div class="row">
                         <div class="col-md-4 text-center">
                             <a href="hibahcms-konten.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ konten }}</span></a>
                         </div>
@@ -107,7 +107,7 @@ layout: info
                     <br>
                     <br>
 			<h3>Piranti Lunak</h3>
-                    <div class="row m-b-lg">
+                    <div class="row">
                         <div class="col-md-4 text-center">
                             <a href="hibahcms-software.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ software }}</span></a>
                         </div>
@@ -121,7 +121,7 @@ layout: info
                     <br>
                     <br>
 			<h3>Perangkat Keras</h3>
-                    <div class="row m-b-lg">
+                    <div class="row">
                         <div class="col-md-4 text-center">
                             <a href="hibahcms-hardware.html" class="btn btn-danger btn-lg btn-block">Pendaftar <span class="badge">{{ hardware }}</span></a>
                         </div>

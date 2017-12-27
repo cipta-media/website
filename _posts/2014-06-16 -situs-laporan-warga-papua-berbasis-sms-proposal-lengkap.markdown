@@ -51,7 +51,6 @@ Proyek ini adalah proyek lanjutan dari sebuah proyek mandiri yang dilaksanakan s
 
 Berikut ini adalah identifikasi masalah yang ingin diatasi melalui proyek ini.
 
-{% include table-fix.html %}
 <table border="1">
   <tbody>
     <tr>
@@ -160,7 +159,6 @@ Penerima manfaat proyek adalah Masyarakat umum berusia 13 tahun ke atas yang ber
 
  Hasil yang diharapkan dari proyek ini adalah terbentuknya komunitas masyarakat yang aktif dan berkelanjutan memproduksi informasi dan saling berbagi informasi. Indikator keberhasilan proyek ini akan diukur dari kuantitas dan keterlibatan masyarakat dan kualitas interaksi melalui fasilitas yang disediakan (SMS Frontline, situs laporan warga, jejaring sosial, monitoring dan evaluasi).
  
- {% include table-fix.html %}
 <table border="1">
   <tbody>
     <tr>

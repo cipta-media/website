@@ -1,141 +1,113 @@
 ---
-layout: base
+layout: info
 ---
 
 {% assign author = site.data.authors[page.author] %}
-<div class="wrapper wrapper-content  animated fadeInRight article" style="margin-top: 70px;">
+<div class="container">
     <div class="row">
-        <div class="col-lg-7 col-lg-offset-1">
-            <div class="ibox">
-                <div class="ibox-content">
-                    <div class="text-center article-title">
-                        <h1> {{ page.title }}</h1>
+        <div class="col-md-7 col-md-offset-1">
+            <h1 class="text-center"> {{ page.title }}</h1>
+            {{ content }}
+            <h5 style="display: inline;">Tags:</h5>
+            {% for tag in page.tags %}
+            <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
+            {% endfor %}
+            <hr>
+        </div>
+        <div class="col-md-3" style="margin-top: 30px">
+            <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Penulis dan Tanggal Penulisan</a></h4>
                     </div>
-                    	{{ content }}
-                    <hr>
-                    <div class="row">
-                        <div class="col-md-12">
-                                <h5 style="display: inline;">Tags:</h5>
-                                {% for tag in page.tags %}
-                                    <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
-                                {% endfor %}
-                        </div>                       
+                    <div id="collapse1" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                        {{ author.name }}<br/>
+                        <i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}
+                        </div>
                     </div>
-                    <br>
-			<div class="row">
-				<div class="col-md-12">
-					{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//ciptamedia-siteleaf-net.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-					{% endif %}
-				</div>
-			</div>
+                </div>
+                <br>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Kategori</a></h4>
+                    </div>
+                    <div id="collapse2" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            {% for category in page.categories %}
+                            <button class="btn btn-white btn-xs" type="button">{{ category }}</button>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Lisensi Artikel</a></h4>
+                    </div>
+                    <div id="collapse3" class="panel-collapse collapse">
+                        <div class="panel-body text-center">
+                            {% assign tahun = page.date | date: "%Y" %}
+                            {{ page.date | date: "%B" }} {{ tahun }} | 
+                            {% case tahun %}
+                            {% when '2011' %}
+                            <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
+                            {% when '2012' %}
+                            <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
+                            {% when '2013' %}
+                            <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
+                            {% when '2014' %}
+                            <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
+                            {% when '2015' %}
+                            <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
+                            {% when '2016' %}
+                            <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
+                            {% when '2017' %}
+                            <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
+                            {% endcase %} 
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Berita Terbaru</a></h4>
+                    </div>
+                    <div id="collapse4" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            {% for post in site.categories['Berita'] limit:5 %}
+                            <a href="{{ post.url }}" class="btn-link"><h5>{{ post.title }}</h5></a>
+                            {% if forloop.last != true %}<hr>{% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-	<div class="col-lg-3">
-		<div class="panel-group" id="accordion">
-			
-		  <div class="panel panel-default">
-		    <div class="panel-heading">
-		      <h4 class="panel-title">
-			<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-			Penulis dan Tanggal Penulisan</a>
-		      </h4>
-		    </div>
-		    <div id="collapse1" class="panel-collapse collapse in">
-		      <div class="panel-body">
-			{{ author.name }}<br/>
-			<i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}
-		      </div>
-		    </div>
-		  </div>
-
-		  <div class="panel panel-default">
-		    <div class="panel-heading">
-		      <h4 class="panel-title">
-			<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-			Kategori</a>
-		      </h4>
-		    </div>
-		    <div id="collapse2" class="panel-collapse collapse">
-		      <div class="panel-body">
-                    	{% for category in page.categories %}
-                        	<button class="btn btn-white btn-xs" type="button">{{ category }}</button>
-                        {% endfor %}
-		      </div>
-		    </div>
-		  </div>
-			
-		  <div class="panel panel-default">
-		    <div class="panel-heading">
-		      <h4 class="panel-title">
-			<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-			Lisensi Artikel</a>
-		      </h4>
-		    </div>
-		    <div id="collapse3" class="panel-collapse collapse">
-		      <div class="panel-body text-center">
-			{% assign tahun = page.date | date: "%Y" %}
-			{{ page.date | date: "%B" }} {{ tahun }} | 
-			{% case tahun %}
-			{% when '2011' %}
-			<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
-			{% when '2012' %}
-			<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
-			{% when '2013' %}
-			<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
-			{% when '2014' %}
-			<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id" class="btn-link">CC BY-SA 3.0</a>
-			{% when '2015' %}
-			<a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
-			{% when '2016' %}
-			<a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
-			{% when '2017' %}
-			<a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
-			{% endcase %} 
-		      </div>
-		    </div>
-		  </div>
-			
-		  <div class="panel panel-default">
-		    <div class="panel-heading">
-		      <h4 class="panel-title">
-			<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-			Berita Terbaru</a>
-		      </h4>
-		    </div>
-		    <div id="collapse4" class="panel-collapse collapse">
-		      <div class="panel-body">
-		      {% for post in site.categories['Berita'] limit:5 %}
-			<a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
-			{% if forloop.last != true %}<hr>{% endif %}
-		      {% endfor %}
-		      </div>
-		    </div>
-		  </div>
-			
-		  </div>
-		</div>
+    </div>
+    <div class="row">
+        <div class="col-md-7 col-md-offset-1">
+            {% if page.comments %}
+            <div id="disqus_thread"></div>
+            <script>
+                /**
+                *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                /*
+                var disqus_config = function () {
+                this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                };
+                */
+                (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = '//ciptamedia-siteleaf-net.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            {% endif %}
         </div>
     </div>
-
 </div>

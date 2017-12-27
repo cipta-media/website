@@ -147,7 +147,6 @@ Masyarakat Tobelo memiliki cara tersendiri memperlakukan alam, khususnya hutan. 
 
  **Hasil yang diharapkan dan indikator keberhasilan**
 
-  {% include table-fix.html %}
 <table border="1">
   <tbody>
     <tr>

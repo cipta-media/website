@@ -241,7 +241,6 @@ Hasil aktual hingga laporan ini dibuat:
 
 **Jumlah aduan**
 
-{% include table-fix.html %}
 <table border="1">
   <tbody>
     <tr>

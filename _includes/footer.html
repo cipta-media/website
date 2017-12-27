@@ -1,2 +1,26 @@
-<script src= "/static/js/scroll.js"></script>
-<!-- <script async src="{{ "static/js/count_page.js" | prepend: site.baseurl }}"></script> -->
+<footer class="footer" style="background-color: #efefef">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="form-group">
+                    <form action="/search/" method="get">
+                        <input type="text" id="search_box" placeholder="Kotak pencarian" name="query" class="form-control">
+                        <!-- <input type="submit" value="Cari"> -->
+                    </form>
+                </div>
+            </div>
+        </div>
+        <nav class="pull-left">
+            {% include social.html %}
+        </nav>
+        <div class="copyright pull-right">
+            <a href="https://creativecommons.org/licenses/by/4.0/deed.id"><h3>Cipta Media | CC BY 4.0</h3></a>
+        </div>
+    </div>
+</footer>
+{% include analytics.html %}
+<!-- script -->
+<script src= "/static/js/bootstrap.min.js"></script>
+<script src= "/static/js/material.min.js"></script>
+<script src= "/static/js/material-kit.js"></script>
+<script src= "/static/js/nouislider.min.js"></script>

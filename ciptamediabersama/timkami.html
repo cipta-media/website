@@ -3,21 +3,24 @@ title: Tim Kami
 layout: info
 ---
 
-{% include card.html %}
+
 <div class="container" style="margin-top: 30px;">
 
-    <div class="row m-b-lg">
+    <div class="row">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1><span data-i18n="tentang.tentang">Tim Kami</span></h1>
         </div>
     </div>
 
-    <div class="row m-b-lg">
+    <div class="row">
         <br/>
-        {% for timcmb in site.data.timcmb %}
+        {% for timcmb in site.tim-cmb %}
+        
+        {{ timcmb.name }}
+        
         {% assign counter = counter | plus: 1 %}
-        <div class="col-md-3 m-b-lg">
+        <div class="col-md-3">
 
             <div class="row">
                 <!-- Card Projects -->
@@ -27,14 +30,13 @@ layout: info
                             <img class="img-responsive center-block" src="{{ timcmb.foto }}">
                         </div>
                         
-                        <div class="card-content">
+                        <div class="card-body">
                             <h2>{{ timcmb.name }}</h2>
-                            <br/>
                             {% for timcmb in timcmb.posisi %}
                                 <h4>{{ timcmb }}</h4>
                             {% endfor %}
                             <hr>
-                            {{ timcmb.bio | truncatewords:20 }}
+                            {{ timcmb.content | truncatewords:20 }}
                             <hr>
                             <a data-toggle="modal" data-target="#{{ timcmb.name | remove: " " }}">selengkapnya</a>
                         </div>

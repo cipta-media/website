@@ -5,104 +5,20 @@ author: cms
 layout: blog
 ---
 
-{% include megamenu.html %}
-{% include card.html %}
-<div class="navbar-wrapper">
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <div class="container">
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a href="#page-top" id="i18_title"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                    <li><a href="/tentang-ekspresi.html">Cipta Media Ekspresi</a></li>
-                    <li class="dropdown mega-dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Lainnya <span class="caret"></span></a>
-                        <ul class="dropdown-menu mega-dropdown-menu row">
-                            <li class="col-sm-4">
-                                <ul>
-                                    <li class="dropdown-header">Cipta Media Independen</li>
-                                    <li><a href="#">Tentang</a></li>
-                                    <li><a href="#">Penerima Hibah</a></li>
-                                    <li><a href="#">Tim</a></li>
-                                </ul>
-                            </li>
-                            <li class="col-sm-4">
-                                <ul>
-                                    <li class="dropdown-header">Cipta Media Seluler</li>
-                                    <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
-                                    <li><a href="/ciptamediaseluler/penerimahibah.html">Penerima Hibah</a></li>
-                                    <li><a href="/ciptamediaseluler/hibahcms-semua.html">Pendaftar Hibah</a></li>
-                                    <li><a href="/ciptamediaseluler/timkami.html">Tim</a></li>
-                                </ul>
-                            </li>
-                            <li class="col-sm-4">
-                                <ul>
-                                    <li class="dropdown-header">Cipta Media Bersama</li>
-                                    <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
-                                    <li><a href="/ciptamediabersama/penerimahibah.html">Penerima Hibah</a></li>
-                                    <li><a href="/ciptamediabersama/hibahcmb-semua.html">Pendaftar Hibah</a></li>
-                                    <li><a href="/ciptamediabersama/timkami.html">Tim</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    <li class="dropdown mega-dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
-                        <ul class="dropdown-menu mega-dropdown-menu row">
-                            <li class="col-sm-6">
-                                <ul>
-                                    <li class="dropdown-header">Cipta Media Seluler</li>
-                                    <li><a href="/berita/">Berita</a></li>
-                                    <li><a href="/inspirasi/">Inspirasi</a></li>
-                                    <li><a href="/kajian/">Kajian</a></li>
-                                    <li><a href="/gagasan/">Gagasan</a></li>
-                                    <li><a href="/inovasi/">Inovasi</a></li>
-                                    <li><a href="/tutorial/">Tutorial</a></li>
-                                </ul>
-                            </li>
-                            <li class="col-sm-6">
-                                <ul>
-                                    <li class="dropdown-header">Cipta Media Bersama</li>
-                                    <li><a href="/acara/">Acara</a></li>
-                                    <li><a href="/teladan/">Teladan</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                </ul>
-            </div>
-        </div>
-    </nav>
-</div>
+{% include header.html %}
 
 <script>
 $(document).ready(function(){
-  // Add smooth scrolling to all links
   $("a").on('click', function(event) {
-
-    // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
-      // Prevent default anchor click behavior
       event.preventDefault();
-
-      // Store hash
       var hash = this.hash;
-
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 800, function(){
-
-        // Add hash (#) to URL when done scrolling (default click behavior)
         window.location.hash = hash;
       });
-    } // End if
+    }
   });
 });
 </script>
@@ -144,13 +60,10 @@ $(document).ready(function(){
 			    <img class="img-responsive" src="/static/img/landing/buruh.jpg">
 			</div>
 
-			<div class="card-content">
-			    <h1 class="title">Cipta Media Seluler</h1>
+			<div class="card-body">
+			    <h1>Cipta Media Seluler</h1>
 			    <h2>Teknologi seluler untuk perubahan sosial</h2>
 			    <p>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain.<br/></p>
-			</div>
-
-			<div class="card-action">
 			    <a href="/ciptamediaseluler/tentangcms.html">Tentang CMS</a>
                 <a href="/ciptamediaseluler/proses.html" target="new_blank">Proses Hibah</a>
 			</div>
@@ -163,13 +76,10 @@ $(document).ready(function(){
 			    <img class="img-responsive" src="/static/img/landing/23_1_4-Photo.jpg">
 			</div>
 
-			<div class="card-content">
-			    <h1 class="title">Cipta Media Bersama</h1>
+			<div class="card-body">
+			    <h1>Cipta Media Bersama</h1>
 			    <h2>Meretas batas – kebhinekaan bermedia</h2>
 			    <p>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia.<br/></p>
-			</div>
-
-			<div class="card-action">
             	<a href="/ciptamediabersama/tentangcmb.html">Tentang CMB</a>
 			    <a href="/ciptamediabersama/proses.html" target="new_blank">Proses Hibah</a>
 			</div>

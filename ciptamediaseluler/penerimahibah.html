@@ -11,13 +11,13 @@ layout: info
         </div>
     </div>
 	
-    <div class="row m-b-lg">
+    <div class="row">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
             <h1>Penerima Hibah</h1>
         </div>
     </div>
-    <div class="row m-b-lg">
+    <div class="row">
         <div class="col-lg-12 article">
 			
 			<ul class="nav nav-tabs">
@@ -36,11 +36,11 @@ layout: info
         		</div>
 				
 				<div id="daftar" class="tab-pane fade">
-					<div class="row m-b-lg">
+					<div class="row">
 						<br/>
 						{% for penerimacms in site.data.penerimacms %}
 								<div class="col-md-4">
-								  <div class="col-md-12 well well-lg" style="height: 600px;">
+								  <div class="col-md-12 well well-lg" style="height: 650px;">
 								  <a href="{{ penerimacms.link }}"><img class="img-responsive center-block" src="{{ penerimacms.gambar }}"></a>
 									  <hr>
 								  <a href="{{ penerimacms.link }}"><h4>{{ penerimacms.nomor }} - {{ penerimacms.judul | truncatewords: 10 }}</h4></a><br/>

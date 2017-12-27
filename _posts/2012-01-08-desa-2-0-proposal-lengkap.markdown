@@ -7,7 +7,6 @@ categories:
 - Desa 2.0
 ---
 
-{% include table-fix.html %}
 PEMBAHARUAN AKHIR 12 AGUSTUS 2014
 
 **Organisasi**
