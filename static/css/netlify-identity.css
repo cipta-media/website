@@ -1,0 +1,165 @@
+[data-netlify-identity-button] a {
+    display: inline-block;
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    padding: 18px 36px;
+    margin: 10px 1px;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    will-change: box-shadow, transform;
+    transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 14px;
+    background-color: #f44336;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+[data-netlify-identity-button] a:hover,
+[data-netlify-identity-button] a:focus {
+    background-color: #f44336;
+    box-shadow: 0 2px 2px 0 rgba(244, 67, 54, 0.14), 0 3px 1px -2px rgba(244, 67, 54, 0.2), 0 1px 5px 0 rgba(244, 67, 54, 0.12);
+}
+
+[data-netlify-identity-menu] ul {
+    display: flex;
+}
+
+[data-netlify-identity-menu] li:first-child {
+    margin-right: 16px;
+}
+
+[data-netlify-identity-menu] li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+[data-netlify-identity-menu] a {
+    display: block;
+    position: relative;
+    width: 192px;
+    height: 24px;
+    padding: 8px;
+    outline: 0;
+    cursor: pointer;
+    border: 2px solid #007a70;
+    border-radius: 4px;
+    background-color: #00ad9F;
+    color: white;
+    transition: background-color 0.2s ease;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+[data-netlify-identity-menu] a:hover,
+[data-netlify-identity-menu] a:focus {
+    background-color: #007a70;
+    text-decoration: none;
+}
+
+.netlify-identity-user-details {
+    display: block;
+}
+
+.netlify-identity-user {
+    font-weight: 500;
+    color: #2d3b41;
+    display: block;
+    margin-top: 8px;
+}
+
+.hands-on-area {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.single-button {
+    flex-grow: 1;
+    margin-right: 104px;
+    margin-bottom: 40px;
+}
+
+.multiple-buttons {
+    flex-grow: 2;
+}
+
+.single-button div {
+    margin-top: 8px;
+}
+
+.multiple-buttons div {
+    margin-top: 8px;
+}
+
+.call-out svg {
+    display: block;
+    margin-left: 40px;
+    width: 90%;
+    max-width: 420px;
+}
+
+.github-link {
+    font-weight: 500;
+    font-size: 16px;
+    color: inherit;
+    text-decoration: none;
+}
+
+.github-link:hover,
+.github-link:focus {
+    text-decoration: underline;
+}
+
+.github-link::before {
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    content: " ";
+    width: 19px;
+    height: 19px;
+    margin-right: 8px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url(/static/img/landing/GitHub-Mark-120px-plus.png);
+}
+
+@media (max-width: 880px) {
+    .main {
+        padding: 16px;
+    }
+
+    .header h1 {
+        font-size: 10vw;
+    }
+
+    .hands-on-area {
+        flex-direction: column;
+    }
+
+    [data-netlify-identity-menu] ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    [data-netlify-identity-menu] li {
+        margin-bottom: 16px;
+    }
+}
+
+@media screen and (max-height: 680px) {
+    .main {
+        padding: 64px 0;
+    }
+
+    .footer {
+        position: relative;
+        bottom: auto;
+    }
+}
