@@ -465,7 +465,7 @@
         left: -10vh;
     }
 }
-@media only screen and (min-width:1136px){
+@media only screen and (min-width:1024px){
     .index-cloud{
         transform: scale(0.5, 0.5);
         position: relative;
