@@ -26,6 +26,14 @@ karya:
   - Archipelagongs (Warner Music Indonesia, Jakarta, 2000)
   - Music for Solo Performer, Ubiet Sings Tony Prabowo (Musikita, Jakarta, 2006)
   - Ubiet Kroncong Tenggara (Ragadi Music/demajors, Jakarta, 2007/2013)
+penghargaan:
+  - Beasiswa Yayasan Malem Putra-Aceh, 1991, 2000
+  - Leland Coon Fellowship, University of Wisconsin-Madison, 1992-1993
+  - Indonesian Cultural Foundation Fellowship-New York, 1993
+  - The Ford Foundation Fellowship, 1998-2008
+  - Center for Southeast Asian Studies Fellowship, University of Wisconsin-Madison, 1998-1999, 2009
+  - Asian Cultural Council Fellowship-New York, 1999, 2009, 2011
+  - Beasiswa Unggulan, Departemen Pendidikan Nasional, 2008
 kolaborasi:
   - Ubiet & Dian HP, Komposisi Delapan Cinta (demajors, 2011)
   - Kain Sigli, in Patahan, simakDialog (demajors, Jakarta, 2006)
@@ -34,11 +42,17 @@ kolaborasi:
   - 2 Worlds-KrakatauEthno (Musikita, Jakarta, 2005)
   - Malacca Bay, in Home, Dewa Budjana (Sony BMG Indonesia, 2005)
   - 9 Januari, in Nusa Damai, Dewa Budjana (Chico & Ira, Jakarta, 1997)
+riset:
+  - Musik Aceh (musik vokal terkait dengan Islam; vocal music associated with Islam)
+  - Musik Kerinci, Jambi (musik vokal terkait dengan Islam)
+  - Vokal Musik Nusantara, Musik Populer Indonesia
+teater:
+sutradara:
 wawancara:
   -
     judul: "Nyak Ina Raseuki (Ubiet): Ragam Suara dan Sikap dalam Kehidupan"
     link: /ubiet/ragam-suara-dan-sikap-dalam-kehidupan/
-foto: /static/img/juricme/ubiet.jpg
+foto: /static/img/juricme/ubiet.png
 layout: people
 ---
 

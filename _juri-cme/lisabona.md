@@ -1,8 +1,31 @@
 ---
 name: Lisabona Rahman
-posisi: Juri Utama
-foto: /static/img/juricme/lisabona.jpg
+ttl:
+suami:
+ibu:
+bapak:
+kakak:
+adik:
+tk:
+sd:
+smp:
+sma:
+s1:
+s2:
+s3:
+afiliasi:
+karya:
+penghargaan:
+kolaborasi:
+riset:
+teater:
+sutradara:
+wawancara:
+  -
+    judul: "Lisabona Rahman: Perempuan, Pemikiran dan Pencatatan Sejarah"
+    link: /lisabona/perempuan-pemikiran-dan-pencatatan-sejarah/
+foto: /static/img/juricme/lisabona.png
 layout: people
 ---
 
-Lisabona Rahman adalah seorang pegiat film. Lulus dari Universitas  Indonesia dan Master di bidang Film/Cinema/Video Studies Universiteit  van Amsterdam Master of Arts (MA) wartawan film dan editor film untuk  portal berita ini kini lebih mengkhususkan diri pada bidang restorasi  film. Kini ia berfokus dalam memeriksa dan mempersiapkan film untuk  tujuan restorasi dan hal hal teknis yang terkait film tersebut.
+Pelaku arsip dan studi film dari Indonesia. Lulus S1 Hubungan Internasional dari Universitas Indonesia dan Master di bidang Film/Cinema/Video Studies Universiteit van Amsterdam. Lisa juga berprofesi sebagai wartawan dan editor untuk portal berita tentang industri film Indonesia. Kini ia lebih mengkhususkan diri pada bidang arsip dan restorasi film, terutama melakukan persiapan dan studi tentang sejarah produksi film di Indonesia.

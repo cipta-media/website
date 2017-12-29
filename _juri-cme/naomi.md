@@ -28,11 +28,17 @@ kolaborasi:
   - Goyang Penasaran (Pertunjukan - Hibah EWA Yayasan Kelola 2011)
   - Goyang Penasaran (Naskah - Gramedia Pustaka Utama 2012)
   - 100% Yogyakarta (Teater Garasi - Rimini Protocoll 2015)
+riset:
+teater:
+  - WAH (1995)
+  - Les Parevents (2000)
+sutradara:
+  - Shakuntala (2007)
 wawancara:
   -
     judul: "Naomi Srikandi : Kekuasaan dan Imajinasi"
     link: /naomi-srikandi/kekuasaan-dan-imajinasi/
-foto: /static/img/juricme/naomi.jpg
+foto: /static/img/juricme/naomi.png
 layout: people
 ---
 

@@ -5,8 +5,8 @@ categories:
 - CME
 - Wawancara Juri
 permalink: /naomi-srikandi/kekuasaan-dan-imajinasi/
-img: /static/img/juricme/naomi.jpg
-author: hillun
+img: /static/img/juricme/naomi.png
+author: siska
 comments: true
 ---
 

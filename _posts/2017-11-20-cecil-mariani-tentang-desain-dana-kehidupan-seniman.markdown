@@ -5,7 +5,7 @@ categories:
 - CME
 - Wawancara Juri
 permalink: /cecil-mariani/tentang-desain-dana-kehidupan-seniman/
-img: /static/img/juricme/cecil.jpg
+img: /static/img/juricme/cecil.png
 author: siska
 comments: true
 ---

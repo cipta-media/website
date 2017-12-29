@@ -5,6 +5,7 @@ categories:
 - CME
 - Wawancara Juri
 permalink: /ubiet/ragam-suara-dan-sikap-dalam-kehidupan/
+img: /static/img/juricme/ubiet.png
 author: siska
 comments: true
 ---
