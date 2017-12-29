@@ -6,8 +6,28 @@ layout: info
     <script src= "https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src= "https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
     <script src= "https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/additional-methods.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-sha256@0.9.0/src/sha256.min.js"></script>
+
     <script>
+      function setIdentity(user) {
+        $(function() {
+          $("#auth_name").val(user.user_metadata.full_name);
+          $("#email").val(user.email);
+        });
+      }
+
+      function checkAuth(user) {
+        if (user && !user.user_metadata.registered) {
+          return setIdentity(user);
+        }
+        window.location.href = '/';
+      }
+
+      netlifyIdentity.on("init", checkAuth);
+
       $( function() {
+        checkAuth(netlifyIdentity.currentUser());
+
         var propinsi2 = [
           {
             value: "Q1823",
@@ -204,6 +224,14 @@ layout: info
     $(document).ready(function() {
         $("#formpass").validate();
         $('#preview').click(function() {
+          var $btn = $(this);
+          $btn.html('<i class="fa fa-cog fa-spin fa-3x fa-fw"></i>');
+          $btn.prop("disabled", "disabled");
+
+          checkDuplicateId($('#ktp').val()).done(function(){
+            $("#duplicate").hide();
+            $btn.html("Selanjutnya");
+            $btn.removeAttr("disabled");
             $("#formpass").valid();
             $("html, body").animate({ scrollTop: 0 }, "slow");
             if($("#formpass").valid()){
@@ -231,6 +259,13 @@ layout: info
                 $("#preview_dana").val( $("#dana").val() );
                 $("#preview_sukses").val( $("#sukses").val() );
             };
+          })
+          .catch(function(){
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            $("#duplicate").show();
+            $btn.html("Selanjutnya");
+            $btn.removeAttr("disabled");
+          });
         });
         function readURL(input) {
             if (input.files && input.files[0]) {
@@ -254,6 +289,59 @@ layout: info
         var $select = $(".999");
         for (i=1;i<=999;i++){
             $select.append($('<option></option>').val(i).html(i))
+        }
+
+        $("#formpass").submit(function(e){
+          e.preventDefault();
+
+          var $submit = $("#formsubmit");
+
+          $submit.html('<i class="fa fa-cog fa-spin fa-3x fa-fw"></i>');
+          $submit.prop("disabled", "disabled");
+          $("#confirmWarn").hide();
+
+          var $form = $(this);
+          var action = $form.attr("action");
+          var formData = new FormData($form.get(0));
+
+          var user = netlifyIdentity.currentUser();
+
+          $.ajax({
+            url: action,
+            data: formData,
+            type: "POST",
+            contentType: false,
+            processData: false,
+          })
+          .then(function(){ return user.update({ data: { registered: true } }); })
+          .done(function(){
+            window.location.href = action;
+          });
+        });
+
+        function checkDuplicateId(id) {
+          var deferred = $.Deferred();
+
+          // Skip checking if no repository to check
+          if (!window.NETLIFY_ENV) {
+            return deferred.resolve();
+          }
+
+          var BRANCH_API = "https://gitlab.com/api/v4/projects/" +
+                           window.NETLIFY_ENV.repository_slug +
+                           "/repository/branches/"
+
+          var hashedId = sha256(id)
+
+          $.get(BRANCH_API + hashedId)
+          .done(function(){ deferred.reject(); }) // Branch exists; ID registered
+          .fail(function(e){
+            if (e.status !== 404) return console.err(e);
+            // Branch does not exists; unique ID
+            deferred.resolve();
+          });
+
+          return deferred;
         }
     });
     </script>
@@ -288,6 +376,12 @@ layout: info
                 <h2>Silakan periksa kembali data yang Anda masukkan. Apabila sudah benar, klik tombol Konfirmasi di bawah.</h2>
             </div>
         </div>
+        <div id="duplicate" class="alert alert-danger" hidden>
+            <div class="container-fluid">
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close">x</button>
+              Nomor KTP / No. Passport sudah terdaftar.
+            </div>
+        </div>
         <div class="row" id="formulir_isi">
             <div class="col-lg-12">
                 <form class="form-horizontal" id="formpass" name="daftar" netlify-honeypot="bot-field" action="thank-you" netlify>
@@ -303,6 +397,7 @@ layout: info
                         <label class="control-label col-md-2" for="nama">Nama Lengkap</label>
                         <div class="col-md-10">
                             <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda" required="true">
+                            <input type="text" name="auth_name" id="auth_name" hidden>
                         </div>
                     </div>
                     <div class="ui-widget form-group required">
@@ -322,20 +417,20 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="email">Surel / Email</label>
                         <div class="col-md-10">
-                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required="true">
+                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required="true" readonly>
                         </div>
                     </div>
                     <div class="form-group">
                         <label class="control-label col-md-2" for="foto">Foto Diri</label>
                         <div class="col-md-10">
                             <input type="file" class="btn btn-default" name="foto" id="foto">
-                            <div class="input-group"> 
-                                <input type="text" readonly="" class="form-control" placeholder="Masukan foto Anda dengan klik di sini"> 
-                                <span class="input-group-btn input-group-sm"> 
-                                    <button type="button" class="btn btn-fa btn-round"> 
-                                        <i class="material-icons">attach_file</i> 
+                            <div class="input-group">
+                                <input type="text" readonly="" class="form-control" placeholder="Masukan foto Anda dengan klik di sini">
+                                <span class="input-group-btn input-group-sm">
+                                    <button type="button" class="btn btn-fa btn-round">
+                                        <i class="material-icons">attach_file</i>
                                      </button>
-                                </span> 
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -383,13 +478,13 @@ layout: info
                         <label class="control-label col-md-2" for="file">Contoh Karya</label>
                         <div class="col-md-10">
                             <input type="file" class="btn btn-default" name="file" id="file" multiple>
-                            <div class="input-group"> 
-                                <input type="text" readonly="" class="form-control" placeholder="Contoh karya yang diunggah dapat berbentuk citra visual atau audiovisual dengan ukuran tidak lebih dari 5MB"> 
-                                <span class="input-group-btn input-group-sm"> 
-                                    <button type="button" class="btn btn-fa btn-round"> 
-                                        <i class="material-icons">attach_file</i> 
+                            <div class="input-group">
+                                <input type="text" readonly="" class="form-control" placeholder="Contoh karya yang diunggah dapat berbentuk citra visual atau audiovisual dengan ukuran tidak lebih dari 5MB">
+                                <span class="input-group-btn input-group-sm">
+                                    <button type="button" class="btn btn-fa btn-round">
+                                        <i class="material-icons">attach_file</i>
                                      </button>
-                                </span> 
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -470,17 +565,17 @@ layout: info
                     <div class="col-md-offset-2 col-md-10">
                         <h4><font color="red"><b>*</b></font> Wajib diisi</h4>
                     </div>
-                    <div class="form-group"> 
+                    <div class="form-group">
                         <div class="col-lg-12 text-center">
                             <button type="button" id="preview" class="btn btn-lg btn-danger btn-rounded btn-outline">Selanjutnya</button>
                         </div>
                     </div>
-                </form>        
+                </form>
             </div>
         </div>
-        
+
         <div class="row" id="formulir" hidden>
-            <div class="alert alert-warning">
+            <div class="alert alert-warning" id="confirmWarn">
                 <div class="container-fluid">
                   <button type="button" class="close" data-dismiss="alert" aria-label="Close">x</button>
                   <b>Peringatan:</b> Formulir Anda belum terkirim sampai Anda menekan tombol Konfirmasi
@@ -624,7 +719,7 @@ layout: info
                         <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="kembali">Kembali</a>
                     </div>
                     <div class="col-md-3 text-center">
-                        <button type="submit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn">Konfirmasi</button>
+                        <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn">Konfirmasi</button>
                     </div>
                 </div>
             </div>
