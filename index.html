@@ -8,6 +8,19 @@ layout: blog
 {% include header.html %}
 
 <script>
+function checkAuth(user) {
+  if (!user) {
+    netlifyIdentity.on("login", function() {
+      document.location.href = "/formcme.html";
+    });
+  }
+
+  if (user && user.user_metadata.registered) {
+    $("#registercme").addClass("disabled");
+    $("#registercme").html("Sudah Terdaftar!");
+  }
+}
+
 $(document).ready(function(){
   $("a").on('click', function(event) {
     if (this.hash !== "") {
@@ -20,7 +33,20 @@ $(document).ready(function(){
       });
     }
   });
+
+  var user = netlifyIdentity.currentUser();
+
+  $("#registercme").click(function(event){
+    if (!user) {
+      netlifyIdentity.open();
+      return false;
+    }
+  });
+
+  checkAuth(netlifyIdentity.currentUser());
 });
+
+netlifyIdentity.on("init", checkAuth);
 </script>
 
 <section id="header" style="background-image: url(/static/img/landing/bg_2.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: right bottom;height: 100vh;">
@@ -30,7 +56,7 @@ $(document).ready(function(){
                 <h1 class="title">Cipta Media Ekspresi</h1>
                 <h2>Hibah terbuka untuk seniman Indonesia terutama perempuan dan kelompok minoritas dalam mengekspresikan kebudayaannya</h2>
                 <br>
-                <a href="#" class="btn btn-danger btn-lg disabled">
+                <a href="formcme.html" id="registercme" class="btn btn-danger btn-lg">
                      Daftar di sini
                 </a>
                 <a href="tentang-ekspresi.html" class="btn btn-danger btn-lg">
