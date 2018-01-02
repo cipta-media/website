@@ -625,3 +625,57 @@ a.index-link {
     font-size: 1.2em;
     font-weight: bold;
 }
+
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 25px 20px 25px 55px;
+  margin: 20px 10px 20px;
+  position: relative;
+  
+  /*Font*/
+  font-size: 18px;
+  font-style: italic;
+  color: #666;
+  
+  /*Borders - (Optional)*/
+  border-left: 0px solid #6ca59a;
+  border-right: 0px solid #6ca59a;
+
+}
+
+blockquote::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+  
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top:5px;
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote a:hover{
+ color: #666;
+}
+
+blockquote em{
+  font-style: italic;
+}

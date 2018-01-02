@@ -25,6 +25,9 @@ $(document).ready(function(){
                 <h5 style="display: inline; color: #e2bc67; text-transform: uppercase; font-weight: bold">Terkait:</h5>
                 {% for wawancara in page.wawancara %}
                     <a href="{{ wawancara.link }}" style="margin-bottom: 5px; display: inline; color: #e2bc67;">{{ wawancara.judul }}</a>
+                    {% if forloop.last == false %}
+                    <h4 style="display: inline; color: #e2bc67; text-transform: uppercase; margin-left: 10px; margin-right: 10px">|</h4>
+                    {% endif %}
                 {% endfor %}
                 <hr style="border-top: 2px solid #ffca5f; margin-bottom: 50px; margin-top: 50px">
                 <h4 style="color: #6ca59a; text-transform: uppercase; font-weight: bold">Dewan Juri Cipta Media Ekspresi</h4>
