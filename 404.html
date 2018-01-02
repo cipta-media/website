@@ -13,7 +13,7 @@ $(document).ready(function(){
   }
 });
 </script>
-<div class="alert alert-danger" style="position: fixed; width: 100%">
+<div class="alert alert-danger" style="position: fixed; width: 100%; z-index: 1">
     <div class="container-fluid">
       <div class="alert-icon">
         <i class="material-icons">error_outline</i>
@@ -24,15 +24,87 @@ $(document).ready(function(){
       <b>Peringatan:</b> Halaman yang Anda cari tidak ditemukan.
     </div>
 </div>
-<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: center;height: 100vh;">
-    <div id="top" class="container" style="padding-top:40vh;">
-        <div id="call" class="row" style="color:#FFFFFF;margin-left: 0px;margin-right: 0px; margin-top: 10px; margin-bottom: 0px">
-            <div class="col-md-6 well" style="background-color: rgba(108, 165, 150, 0.8); border: #ffffff; margin-bottom: 10px">
-                <h1 class="title">Cipta Media Ekspresi</h1>
-                <h2>Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.</h2>
-                <hr>
-                <div class="countdown" id="js-countdown">
-                    <div class="countdown__item countdown__item--large">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+
+<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;background-position: center;height: 100vh;">
+    <div class="container">  
+        <div id="top"></div>
+        <div id="call">
+            <ul id="scene" class="scene" data-hover-only="true" data-relative-input="true" style="padding-left: 0">
+                <li data-depth="1.00">
+                    <div class="index-well-post">
+                        <div class="row">
+                            <div class="col-lg-6 col-lg-offset-6 well text-center index-well">
+                                <h2 style="line-height: 150%">Hibah dana tunai untuk merayakan keragaman pengetahuan dan kreativitas ekspresi perempuan di Indonesia</h2>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li data-depth-x="0.80" data-depth-y="-0.80"><div class="index-cloud"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Cloud.png"></div></li>
+                <li data-depth-x="0.60" data-depth-y="-0.20"><div class="index-leaf-blue-2"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
+                <li data-depth="0.40"><div class="index-leaf-blue-1"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div id="bottom"></div>
+    </div>
+</section>
+
+<section style="margin-top: 100px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 text-center vcenter">
+                <img class="img-responsive center-block" src="/static/img/landing/logo-ekspresi-typo.png">
+            </div><!--
+            --><div class="col-md-8 vcenter">
+                <p style="font-size: 1.2em;">Cipta Media Ekspresi merupakan hibah untuk perempuan pelaku kebudayaan di segala bidang seni. Hibah dapat digunakan untuk membuat, mengkaji, melakukan perjalanan serta membantu perempuan mencipta atau menampilkan karya.</p>
+                <p style="font-size: 1.2em;">Karya dapat berupa ciptaan asli, kajian, pemilihan benda-benda untuk dipamerkan atau diarsipkan dengan maksud mempertunjukkan atau berbagi.</p>
+                <p style="font-size: 1.2em;">Jumlah total dana hibah Cipta Media Ekspresi adalah 3,5 milyar rupiah bagi proyek yang dapat diselesaikan sebelum 28 Februari 2019.</p>
+                <a class="index-link" href="/tentang-ekspresi" style="font-size: 1.2em;">Selengkapnya</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="margin-top: 100px">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/kategori-ekspresi" class="round-button"><b>Kategori</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/timeline-ekspresi" class="round-button"><b>Linimasa</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/juri-ekspresi" class="round-button"><b>Dewan Juri</b><br><b>& Panitia</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/syarat-ekspresi.html" class="round-button"><b>Syarat &</b><br><b>Ketentuan</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/faq-ekspresi.html" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2>Pendaftaran Dibuka:</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                    <div class="countdown" id="js-countdown">
+                    <div class="countdown__item">
                         <div class="countdown__timer js-countdown-days" aria-labelledby="day-countdown"></div>
                         <div class="countdown__label" id="day-countdown">Hari</div>
                     </div>
@@ -54,8 +126,7 @@ $(document).ready(function(){
     </div>
 </section>
 
-<section>
-    <div class="container">
-        <div id="bottom"></div>
-    </div>
-</section>
+<script>
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+</script>
