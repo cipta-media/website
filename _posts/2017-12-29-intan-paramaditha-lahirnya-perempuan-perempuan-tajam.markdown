@@ -10,6 +10,8 @@ author: siska
 comments: true
 ---
 
+![intan paramaditha](/static/img/juricme/article/Intan_2.jpg "intan paramaditha"){: .img-responsive .center-block }
+
 Banyak orang takut saat mendengar istilah, “gentayangan”, tapi tidak Intan. Selama dua belas tahun ia banyak berpindah-pindah negara dan bergetayangan, hasilnya tahun ini ia menelurkan karyanya, “Gentayangan: Pilih Sendiri Petualangan Sepatu Merahmu”, yang disusun selama sembilan tahun. Hobinya menulis fiksi sudah dimulai sejak Intan berumur 12 tahun, duduk di kelas 6 SD ia mulai mengirimkan karyanya ke Majalah Bobo. Tulisannya kala itu banyak terpengaruh oleh cerita detektif Agatha Christie, beranjak dewasa Intan menggunakan kesempatan yang ia dapatkan mengunjungi dan tinggal di beberapa negara untuk melontarkan pertanyaan-pertanyaan dan mengunjungi kembali cara pandang mengenai negara, bangsa, rumah, perjalanan, serta hubungannya secara lokal dan global. Pertanyaan-pertanyaan tersebut dituangkan dalam novel terbarunya, Gentayangan. 
 
 Menjadi penulis untuk Intan adalah pilihan, di mana gagasan dan pertanyaan dapat ia tuangkan secara nyaman melalui fiksi menggunakan bahasa Indonesia. Namun pilihannya untuk menjadi pengajar dipengaruhi oleh pembimbingnya dahulu, Ibu Melani Budianta. Semasa kuliah Sastra Inggris, di Universitas Indonesia Ibu Melani menjadi pembimbing intelektual yang merangkap sebagai aktivis dan feminis. Hal ini menginspirasi Intan, bagaimana ia melakukan kritik tegas terhadap kondisi gender, perempuan di Indonesia, dan hubungan etnis minoritas Tionghoa kerap terlontar dan mempengaruhi cara pandang Intan mengenai hal-hal tersebut. “Kalau menjadi akademisi berarti memiliki sikap politik yang tegas dan menginsiprasi seperti Ibu Melani, maka saya mau menjadi akademisi.” 

@@ -10,6 +10,8 @@ author: siska
 comments: true
 ---
 
+![lisabona rahman](/static/img/juricme/article/Lisa_7.jpg "lisabona rahman"){: .img-responsive .center-block }
+
 Lisabona Rahman, dikenal sebagai salah satu penggiat film dan sejarah film, dan pada akhir-akhir ini menjadi aktivis pengarsipan film. Semenjak kecil hidupnya berpindah-pindah, lahir di Lisabon, Portugal pada tahun 1978 ia sekeluarga bermukim di Kuwait, Mesir, dan banyak negara lainnya. Absen dalam menikmati film nasional, yang hanya dijumpai via kaset video, pada tahun 1993-2006 Lisabona mulai menyimak perkembangan film Indonesia langsung di Indonesia.  “Awalnya karena saya senang menjadi sukarelawan di Pusat Kebudayaan, saya jadi sadar bahwa produksi film alternatif tidak hanya di luar negeri, di Indonesia juga secara teratur memproduksi film ini. Ada yang membuat film pendek, ada yang membuat film dokumenter,” jelasnya. Menurut Lisa film-film Indonesia alternatif seperti berada pada dunia yang tak terlihat, namun hadir secara konstan. Karena tidak “hadir” dalam arus utama, Lisabona merasa bahwa Indonesia memiliki realitas alternatif yang sebenarnya sangat penting, menurutnya pembuat-pembuat film alternatif inilah yang menghidupkan kembali film Indonesia. Keterlibatannya dalam dunia film di Indonesia digambarkannya sebagai dinamika ‘terseret arus kala gerakan itu tumbuh, membesar, terlibat di dalamnya, hingga terbawa sampai sekarang’. 
 
 Lisa mengenang film alternatif yang sangat berpengaruh untuk untuknya adalah yang disaksikannya saat ia berumur 16 tahun, film yang berjudul “The Lover” (Kekasih-red) berdasarkan novel autobiografis karya Marguerite Duras yang disutradarai oleh Jean-Jacques

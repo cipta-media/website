@@ -10,6 +10,8 @@ author: siska
 comments: true
 ---
 
+![ubiet](/static/img/juricme/article/Ubiet_3.jpg "ubiet"){: .img-responsive .center-block }
+
 Ingatan masa kecilnya yang paling lalu adalah neneknya memangginya “Ubiet” yang berarti “kecil” (Bahasa Aceh), ia tertawa, karena hal ini bertolak belakang dengan statusnya yang merupakan anak paling besar,”Paling besar, tapi kecil.” Celetuknya. Nyak Ina Raseuki memang lahir di Jakarta pada 1965, ayah berasal dari Aceh dan Ibu Minangkabau, pada umur 2 tahun ia dibawa Ayahnya ke Pulau Weh, Sabang dan ia dibesarkan disana. Saat itu pelabuhan bebas satu-satunya di Indonesia hanya ada di Pulau Weh, yang kemudian ditutup oleh Soeharto. 
 
 Ubiet kecil sering dibawa oleh Ayah Ibu datang ke kampung daratan Aceh di Kabupaten Pidi, disana ia berkenalan dengan kekayaan musikalitas Aceh, nyanyian tradisi Aceh yang sama sekali berbeda dengan nada diatonis Barat yang dipelajarinya kemudian. Sejak kecil nyanyian-nyanyian tersebut merasuk pada Ubiet sehingga ia tumbuh dengan bimusikalitas nada diatonis (do-re-mi-fa-so-la-si-do Barat -red) dan nyanyian tradisi Aceh. “Kalau orang bisa dua bahasa dikatakan bilingual, maka untuk seniman musik, menyanyi dengan dua nada itu bimusikalitas, atau musikalitas bilingual” Ujarnya. Keterlibatan Ubiet sejak kecil dengan musik termasuk pada saat mengaji, baca Qur’an, dan nyanyi-nyanyian Islam Aceh. Tiap hari Sabtu, entah cuaca bagus atau laut bergelombang, Ubiet menyebrang dari Pulau Weh, Sabang ke daratan Sumatera untuk belajar piano. 

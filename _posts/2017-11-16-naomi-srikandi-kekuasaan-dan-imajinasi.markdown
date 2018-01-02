@@ -10,6 +10,8 @@ author: siska
 comments: true
 ---
 
+![naomi srikandi](/static/img/juricme/article/Naomi_6.jpg "naomi srikandi"){: .img-responsive .center-block }
+
 Bergelar Raden Ayu di kartu identitasnya, Naomi berpikir untuk menghilangkan gelarnya, namun sudah kepalang tanggung tidak bisa karena KTP kini tercetak untuk seumur hidup. Bapaknya, WS Rendra (Alm) sudah memesan untuk akta kelahiran agar anak punya nama sendiri, tidak membawa nama orang tua, tidak membawa nama suami, nama anaknya sendiri. Saat membuat akta kelahiran, pesannya dicatat dan akta kelahirannya selamat tanpa gelar, padalah kerabat-kerabat Keraton lainnya menggunakan gelar.
 
 Naomi merasa gelar kebangsawanan merupakan warisan feodal, dan Naomi mengidentikkan dirinya sebagai Anti Feodalisme. Ia tidak mengingkari dilahirkan oleh siapa dan dibesarkan dilingkungan keraton, namun ia merasa feodalisme atau otoritas super selalu menjadi masalah. Almarhum Bapaknya selalu memasukkan derita lingkungan dalam puisinya, dan mengkritik kesenian yang melepaskan derita lingkungan dalam karyanya, seperti renda-renda dan gincu. Sementara Ibunya dari kalangan bangsawan yang senang berkesenian, serta selalu didorong orang tuanya untuk belajar seni, akhirnya mengikuti Bengkel Teater di Patang Buluh dan bertemu dengan bapaknya, karena teater dan keraton posisinya dekat.
