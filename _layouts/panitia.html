@@ -1,0 +1,23 @@
+---
+layout: base
+---
+
+{% include header.html %}
+    <div class="container" style="padding-top: 50px">
+        <div class="row">
+            <div class="col-md-8">
+                <img class="img-responsive" src="{{ page.foto }}">
+                <h1 style="color: #e2bc67; text-transform: uppercase; font-weight: bold; margin-top: 50px">{{ page.name }}</h1>
+                <h2 style="color: #6ca59a; font-weight: bold; margin-top: 50px">{{ page.posisi }}</h2>
+                <h3 style="font-weight: bold; color: #17374e">{{ page.content }}</h3>
+                <hr style="border-top: 2px solid #ffca5f; margin-bottom: 50px; margin-top: 50px">
+                <h4 style="color: #6ca59a; text-transform: uppercase; font-weight: bold">Panitia Cipta Media Ekspresi</h4>
+                {% for panitia in site.panitia %}
+                <h4 style="display: inline; color: #6ca59a; text-transform: uppercase"><a href="{{ panitia.url }}">{{ panitia.name }}</a></h4>
+                {% if forloop.last == false %}
+                <h4 style="display: inline; color: #6ca59a; text-transform: uppercase; margin-left: 10px; margin-right: 10px">|</h4>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
