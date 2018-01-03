@@ -89,7 +89,7 @@ $(document).ready(function(){
                       <td valign="top" style="font-weight: bold">SMA</td><td>{{ page.sma }}</td>
                     </tr>
                     {% endif %}
-                    {% if page.s2 %}
+                    {% if page.s1 %}
                     <tr>
                       <td valign="top" style="font-weight: bold">S1</td><td>{{ page.s1 }}</td>
                     </tr>
@@ -104,6 +104,11 @@ $(document).ready(function(){
                       <td valign="top" style="font-weight: bold">S3</td><td>{{ page.s3 }}</td>
                     </tr>
                     {% endif %}
+                    {% if page.residensi %}
+                    <tr>
+                      <td valign="top" style="font-weight: bold">Residensi</td><td><ul style="list-style: none; padding-left: 0px;">{% for residensi in page.residensi %}<li>{{ residensi }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    {% endif %}
                     <tr>
                         <td valign="top" style="font-weight: bold">Afiliasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for afiliasi in page.afiliasi %}<li>{{ afiliasi }}</li>{% endfor %}</ul></td>
                     </tr>
@@ -111,7 +116,17 @@ $(document).ready(function(){
                     <tr>
                       <td valign="top" style="font-weight: bold">Karya</td><td><ul style="list-style: none; padding-left: 0px;">{% for karya in page.karya %}<li>{{ karya }}</li>{% endfor %}</ul></td>
                     </tr>
-                      {% endif %}
+                    {% endif %}
+                    {% if page.fiksi %}
+                    <tr>
+                      <td valign="top" style="font-weight: bold">Fiksi</td><td><ul style="list-style: none; padding-left: 0px;">{% for fiksi in page.fiksi %}<li>{{ fiksi }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    {% endif %}
+                    {% if page.naskah %}
+                    <tr>
+                      <td valign="top" style="font-weight: bold">Naskah</td><td><ul style="list-style: none; padding-left: 0px;">{% for naskah in page.naskah %}<li>{{ naskah }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    {% endif %}
                     {% if page.penghargaan %}
                     <tr>
                       <td valign="top" style="font-weight: bold">Penghargaan</td><td><ul style="list-style: none; padding-left: 0px;">{% for penghargaan in page.penghargaan %}<li>{{ penghargaan }}</li>{% endfor %}</ul></td>
@@ -122,14 +137,14 @@ $(document).ready(function(){
                       <td valign="top" style="font-weight: bold">Riset</td><td><ul style="list-style: none; padding-left: 0px;">{% for riset in page.riset %}<li>{{ riset }}</li>{% endfor %}</ul></td>
                     </tr>
                     {% endif %}
-                    {% if page.teater %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Teater</td><td><ul style="list-style: none; padding-left: 0px;">{% for teater in page.teater %}<li>{{ teater }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
                     {% if page.sutradara %}
                     <tr>
                       <td valign="top" style="font-weight: bold">Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for sutradara in page.sutradara %}<li>{{ sutradara }}</li>{% endfor %}</ul></td>
+                    </tr>
+                    {% endif %}
+                    {% if page.rekan-sutradara %}
+                    <tr>
+                      <td valign="top" style="font-weight: bold">Rekanan Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for rekan-sutradara in page.rekan-sutradara %}<li>{{ rekan-sutradara }}</li>{% endfor %}</ul></td>
                     </tr>
                     {% endif %}
                     {% if page.kolaborasi %}

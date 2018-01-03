@@ -21,8 +21,8 @@ afiliasi:
 karya:
   - Sihir Perempuan (2005)
   - Kumpulan Budak Setan (2010)
-  - Goyang Penasaran: Naskah Drama dan Cataran Proses (2013)
-  - Gentayangan: Pilih Sendiri Petualangan Sepatu Merahmu (2017)
+  - Goyang Penasaran - Naskah Drama dan Cataran Proses (2013)
+  - Gentayangan - Pilih Sendiri Petualangan Sepatu Merahmu (2017)
   - Apple and Knife (kumpulan cerpen terjemahan Stephen J. Epstein, Maret 2018)
 penghargaan:
   - National Community Radio of Indonesia Service Award (2011)
