@@ -38,12 +38,6 @@ teater:
 sutradara:
   - Shakuntala (2007)
 wawancara:
-  -
-    judul: "Naomi Srikandi : Kekuasaan dan Imajinasi"
-    link: /naomi-srikandi/kekuasaan-dan-imajinasi/
-  -
-    judul: "Naomi Srikandi: Tentang Seni dan Inspirasi"
-    link: /naomi-srikandi/tentang-seni-dan-inspirasi/
 foto: /static/img/juricme/naomi.png
 layout: people
 ---
