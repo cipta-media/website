@@ -324,6 +324,18 @@ layout: info
                 $("#edit_form_title").show();
                 $("#formulir_isi").show();
         });
+        /* confirm button - transition to success tab */
+        $("#konfirmasi").click(function(){
+                $("html, body").animate({ scrollTop: 0 }, "slow");
+                $("#preview_form_title").hide();
+                $("#classified_data").hide();
+                $("#konfirmasi").hide();
+                $("#kembali").hide();
+                $("#please_confirm").hide();
+                $("#preview_subtitle").hide();
+                $("#confirmWarn").hide();
+                $("#success_tab").fadeIn();
+        });
         var $select = $(".999");
         for (i=1;i<=999;i++){
             $select.append($('<option></option>').val(i).html(i))
@@ -419,6 +431,14 @@ layout: info
             <div class="col-lg-12 text-center" id="preview_form_title" hidden>
                 <h1>Pratinjau Formulir Pendaftaran</h1>
                 <h2>Silakan periksa kembali data yang Anda masukkan. Apabila sudah benar, klik tombol Konfirmasi di bawah.</h2>
+            </div>
+            <div class="col-lg-12 text-center" id="success_tab" hidden>
+                <img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
+                <h1>Pendaftaran Berhasil</h1>
+                <h2>Pendaftaran hibah Anda sudah berhasil tercatat dan akan kami proses.</h2>
+                <br>
+                <h2>Nomor Pendaftaran Hibah Anda adalah:</h2>
+                <h1>###</h1>
             </div>
         </div>
         <div id="duplicate" class="alert alert-danger" hidden>
@@ -632,13 +652,14 @@ layout: info
             </div>
             <div class="col-lg-12">
                 <form class="form-horizontal">
+                  <div id="classified_data">
                     <h3 class="text-center">Data Rahasia</h3>
                     <h4 class="text-center">Informasi yang tertulis di dalam bagian Data Rahasia tidak akan disebarluaskan</h4>
                     <hr>
                     <div class="form-group has-success">
                         <label class="control-label col-md-2" style="color: #eee">No. KTP</label>
                         <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_ktp" id="preview_ktp" style="color: #eee">
+                            <input readonly class="form-control" name="preview_ktp" id="preview_ktp" style="color: #ccc">
                             <span class="form-control-feedback">
                                 <i class="fa fa-check" aria-hidden="true"></i>
                             </span>
@@ -647,7 +668,7 @@ layout: info
                     <div class="form-group has-success">
                         <label class="control-label col-md-2" style="color: #eee">Surel</label>
                         <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_email" id="preview_email" style="color: #eee">
+                            <input readonly class="form-control" name="preview_email" id="preview_email" style="color: #ccc">
                             <span class="form-control-feedback">
                                 <i class="fa fa-check" aria-hidden="true"></i>
                             </span>
@@ -656,7 +677,7 @@ layout: info
                     <div class="form-group has-success">
                         <label class="control-label col-md-2" style="color: #eee">No. Telpon</label>
                         <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_telp" id="preview_telp" style="color: #eee">
+                            <input readonly class="form-control" name="preview_telp" id="preview_telp" style="color: #ccc">
                             <span class="form-control-feedback">
                                 <i class="fa fa-check" aria-hidden="true"></i>
                             </span>
@@ -664,8 +685,9 @@ layout: info
                     </div>
                     <hr>
                     <br>
+                  </div>
                     <h3 class="text-center">Data Pemohon Hibah</h3>
-                    <h4 class="text-center">Informasi yang tertulis di dalam bagian Data Pemohon Hibah akan disebarluaskan</h4>
+                    <h4 class="text-center" id="preview_subtitle">Informasi yang tertulis di dalam bagian Data Pemohon Hibah akan disebarluaskan</h4>
                     <div class="form-group has-success">
                         <label class="control-label col-md-2">Nama</label>
                         <div class="col-md-10">
@@ -814,7 +836,7 @@ layout: info
                             </span>
                         </div>
                     </div>
-                    <div class="col-md-offset-2 col-md-10">
+                    <div class="col-md-offset-2 col-md-10" id="please_confirm">
                         <h4>Harap pastikan bahwa data yang Anda masukan pada formulir di atas adalah benar.</h4>
                     </div>
                 </form>
@@ -822,6 +844,11 @@ layout: info
                     <div class="col-md-3 col-md-offset-3 text-center">
                         <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="kembali">Kembali</a>
                     </div>
+                    <!-- transition to success tab -->
+                    <div class="col-md-3 text-center" hidden>
+                        <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="konfirmasi">Konfirmasi</a>
+                    </div>
+                    <!-- real submit button, please hook it up to konfirmasi -->
                     <div class="col-md-3 text-center">
                         <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn">Konfirmasi</button>
                     </div>
