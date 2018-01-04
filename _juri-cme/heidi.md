@@ -14,16 +14,16 @@ s1: Curtin University, Australia, Political Science (1997)
 s2: Curtin University, Australia, Honours Social Science (2000)
 s3: University of Melbourne, Australia, Gender Studies and Asian Studies (2012)
 afiliasi:
-  - *Digital Democracy Forum* (2016)
-  - *Australasian Evaluation Society* (2014)
-  - *Asia Pacific Women’s Forum* (2004)
+  - <i>Digital Democracy Forum</i> (2016)
+  - <i>Australasian Evaluation Society</i> (2014)
+  - <i>Asia Pacific Women’s Forum</i> (2004)
   - Komunitas Taring Padi (1998)
 karya:
 penghargaan:
-  - *National Community Radio of Indonesia Service Award* (2011)
-  - *Australian Postgraduate Award* (2001)
-  - *Indonesian Government Dharmasiswa Scholar Award* (2000)
-  - *Australian Consortium for In-Country Studies* (1997)
+  - <i>National Community Radio of Indonesia Service Award</i> (2011)
+  - <i>Australian Postgraduate Award</i> (2001)
+  - <i>Indonesian Government Dharmasiswa Scholar Award</i> (2000)
+  - <i>Australian Consortium for In-Country Studies</i> (1997)
 kolaborasi:
 riset:
 teater:
