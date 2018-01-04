@@ -13,39 +13,39 @@ sma:
   - SMAN 1 Sabang, Aceh 
   - SMAN 29 Jakarta
 s1: Institut Kesenian Jakarta, Jakarta Vokal-Musik (1983-1989)
-s2: *University of Wisconsin-Madison, Wisconsin, U.S.A. Master of Music in Ethnomusicology* (1993)
-s3: *University of Wisconsin-Madison, Wisconsin, U.S.A. Ph.D in Ethnomusicology* (2009)
+s2: <i>University of Wisconsin-Madison, Wisconsin, U.S.A. Master of Music in Ethnomusicology</i> (1993)
+s3: <i>University of Wisconsin-Madison, Wisconsin, U.S.A. Ph.D in Ethnomusicology</i> (2009)
 afiliasi:
   - Institut Kesenian Jakarta Pascasarjana (2014)
   - Dewan Kesenian Jakarta, Anggota Komite Musik (2006-2009)
   - Taman Musik Dian Indonesia, Direktur (2003-2011)
   - Pendidikan Seni Nusantara, Sekretaris Jendral (2002-2006)
-  - *University of Wisconsin-Madison, U.S.A*, Asisten Pustakawan (1991-1993)
+  - <i>University of Wisconsin-Madison, U.S.A</i>, Asisten Pustakawan (1991-1993)
 karya:
-  - *Commonality-The New Jakarta Ensemble* (Siam Records, New York, 1999)
-  - *Archipelagongs* (Warner Music Indonesia, Jakarta, 2000)
-  - *Music for Solo Performer, Ubiet Sings Tony Prabowo* (Musikita, Jakarta, 2006)
-  - *Ubiet Kroncong Tenggara* (Ragadi Music/demajors, Jakarta, 2007/2013)
+  - <i>Commonality-The New Jakarta Ensemble</i> (Siam Records, New York, 1999)
+  - <i>Archipelagongs</i> (Warner Music Indonesia, Jakarta, 2000)
+  - <i>Music for Solo Performer, Ubiet Sings Tony Prabowo</i> (Musikita, Jakarta, 2006)
+  - <i>Ubiet Kroncong Tenggara</i> (Ragadi Music/demajors, Jakarta, 2007/2013)
 penghargaan:
   - Beasiswa Yayasan Malem Putra-Aceh, 1991, 2000
-  - *Leland Coon Fellowship, University of Wisconsin-Madison*, 1992-1993
-  - *Indonesian Cultural Foundation Fellowship-New York*, 1993
-  - *The Ford Foundation Fellowship*, 1998-2008
-  - *Center for Southeast Asian Studies Fellowship, University of Wisconsin-Madison*, 1998-1999, 2009
-  - *Asian Cultural Council Fellowship-New York*, 1999, 2009, 2011
+  - <i>Leland Coon Fellowship, University of Wisconsin-Madison</i>, 1992-1993
+  - <i>Indonesian Cultural Foundation Fellowship-New York</i>, 1993
+  - <i>The Ford Foundation Fellowship</i>, 1998-2008
+  - <i>Center for Southeast Asian Studies Fellowship, University of Wisconsin-Madison<i>, 1998-1999, 2009
+  - <i>Asian Cultural Council Fellowship-New York</i>, 1999, 2009, 2011
   - Beasiswa Unggulan, Departemen Pendidikan Nasional, 2008
 kolaborasi:
-  - Ubiet & Dian HP, *Komposisi Delapan Cinta* (demajors, 2011)
-  - *Kain Sigli, in Patahan, simakDialog* (demajors, Jakarta, 2006)
-  - *Jalan Cahaya, in Romantic Rhapsody*, ADA Band (EMI Indonesia, 2006)
-  - *Rhythm of Reformation-KrakatauEthno* (Musikita, 2005)
-  - *2 Worlds-KrakatauEthno* (Musikita, Jakarta, 2005)
-  - *Malacca Bay*, in Home, Dewa Budjana (Sony BMG Indonesia, 2005)
-  - *9 Januari*, in Nusa Damai, Dewa Budjana (Chico & Ira, Jakarta, 1997)
+  - Ubiet & Dian HP, <i>Komposisi Delapan Cinta</i> (demajors, 2011)
+  - <i>Kain Sigli, in Patahan, simakDialog</i> (demajors, Jakarta, 2006)
+  - <i>Jalan Cahaya, in Romantic Rhapsody</i>, ADA Band (EMI Indonesia, 2006)
+  - <i>Rhythm of Reformation-KrakatauEthno</i> (Musikita, 2005)
+  - <i>2 Worlds-KrakatauEthno</i> (Musikita, Jakarta, 2005)
+  - <i>Malacca Bay</i>, in Home, Dewa Budjana (Sony BMG Indonesia, 2005)
+  - <i>9 Januari</i>, in Nusa Damai, Dewa Budjana (Chico & Ira, Jakarta, 1997)
 riset:
-  - *Musik Aceh* (musik vokal terkait dengan Islam; *vocal music associated with Islam*)
-  - *Musik Kerinci*, Jambi (musik vokal terkait dengan Islam)
-  - *Vokal Musik Nusantara, Musik Populer Indonesia*
+  - <i>Musik Aceh</i> (musik vokal terkait dengan Islam; <i>vocal music associated with Islam</i>)
+  - <i>Musik Kerinci</i>, Jambi (musik vokal terkait dengan Islam)
+  - <i>Vokal Musik Nusantara, Musik Populer Indonesia</i>
 teater:
 sutradara:
 wawancara:
