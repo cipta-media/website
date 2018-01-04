@@ -200,17 +200,17 @@ layout: info
             desc: "Propinsi",
           },
         ];
-        $( "#propinsi" ).autocomplete({
+        $( "#lokasi" ).autocomplete({
           minLength: 0,
           source: propinsi2,
           focus: function( event, ui ) {
-            $( "#propinsi" ).val( ui.item.label );
+            $( "#lokasi" ).val( ui.item.label );
             return false;
           },
           select: function( event, ui ) {
-            $( "#propinsi" ).val( ui.item.label );
-            $( "#propinsi_id" ).val( ui.item.value );
-            $( "#propinsi_description" ).html( ui.item.desc );
+            $( "#lokasi" ).val( ui.item.label );
+            $( "#lokasi_id" ).val( ui.item.value );
+            $( "#lokasi_description" ).html( ui.item.desc );
 
             return false;
           }
@@ -222,7 +222,46 @@ layout: info
         };
       });
     $(document).ready(function() {
-        $("#formpass").validate();
+        $("#formpass").validate({
+          focusInvalid: true,
+          rules: {
+            ktp: {
+              required: true,
+              rangelength: [16, 16],
+            },
+            dana: {
+              required: true,
+              range: [1, 999],
+            },
+            telp: {
+              required: true,
+              minlength: 10,
+            }
+          },
+          messages: {
+            ktp: {
+              required: "Harap masukan nomor KTP Anda",
+              rangelength: "No. KTP yang Anda masukan harus 16 digit",
+              number: "No. KTP harus berupa angka",
+            },
+            dana: {
+              required: "Harap masukan dana hibah yang Anda inginkan",
+              range: "Harap masukan angka antara 1 - 999",
+              number: "Harap masukan angka antara 1 - 999",
+            },
+            telp: {
+                required: "Harap masukan nomor telpon / telpon genggam Anda",
+                minlength: "Harap masukan nomor telpon dengan benar",
+                number: "Harap masukan nomor telpon dengan benar",
+            }
+          },
+          highlight: function ( element, errorClass, validClass ) {
+              $( element ).parents( ".col-md-10" ).addClass( "red" ).removeClass( "has-success" );
+          },
+          unhighlight: function (element, errorClass, validClass) {
+              $( element ).parents( ".col-md-10" ).addClass( "has-success" ).removeClass( "red" );
+          }
+        });
         $('#preview').click(function() {
           var $btn = $(this);
           $btn.html('<i class="fa fa-cog fa-spin fa-3x fa-fw"></i>');
@@ -241,8 +280,7 @@ layout: info
                 $("#formulir_isi").hide();
                 $("#preview_ktp").val( $("#ktp").val() );
                 $("#preview_nama").val( $("#nama").val() );
-                $("#preview_propinsi").val( $("#propinsi").val() );
-                $("#wikidata").val( $("#propinsi_id").val() );
+                $("#preview_lokasi").val( $("#lokasi").val() );
                 $("#preview_telp").val( $("#telp").val() );
                 $("#preview_email").val( $("#email").val() );
                 $("#preview_seni").val( $("input[name=seni]:checked").val() );
@@ -363,6 +401,13 @@ layout: info
         .ui-helper-hidden-accessible {
             display:none;
         }
+        .red {
+            background-color: #f57676;
+            border-radius: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-right: 40px;
+        }
     </style>
 
 	<div class="container">
@@ -379,45 +424,42 @@ layout: info
         <div id="duplicate" class="alert alert-danger" hidden>
             <div class="container-fluid">
               <button type="button" class="close" data-dismiss="alert" aria-label="Close">x</button>
-              Nomor KTP / No. Passport sudah terdaftar.
+              Nomor KTP sudah terdaftar.
             </div>
         </div>
         <div class="row" id="formulir_isi">
             <div class="col-lg-12">
                 <form class="form-horizontal" id="formpass" name="daftar" netlify-honeypot="bot-field" action="thank-you" netlify>
-                    <h3>Identitas</h3>
+                    <h3 class="text-center">Kontak</h3>
                     <hr>
                     <div class="form-group required">
-                        <label class="control-label col-md-2" for="nama">No. KTP / No. Passport</label>
+                        <label class="control-label col-md-2" for="email">Surel / Email</label>
                         <div class="col-md-10">
-                            <input type="text" name="ktp" class="form-control" id="ktp" placeholder="Masukkan nomor KTP atau Nomor Passpor apabila Anda WNA" required="true">
-                        </div>
-                    </div>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2" for="nama">Nama Lengkap</label>
-                        <div class="col-md-10">
-                            <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda" required="true">
+                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required="true" readonly>
                             <input type="text" name="auth_name" id="auth_name" hidden>
-                        </div>
-                    </div>
-                    <div class="ui-widget form-group required">
-                        <label class="control-label col-md-2" for="propinsi">Provinsi</label>
-                        <div class="col-md-10">
-                          <input type="text" name="propinsi" class="form-control" id="propinsi" placeholder="Provinsi dimana Anda tinggal" required="true">
-                          <input type="text" name="propinsi_id" id="propinsi_id" hidden>
-                          <p id="project-id"></p>
                         </div>
                     </div>
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="telp">No. Telpon</label>
                         <div class="col-md-10">
-                            <input type="number" name="telp" class="form-control" id="telp" placeholder="Nomor telpon / telpon genggam Anda" required="true">
+                            <div class="input-group">
+                                <span class="input-group-addon">+62 8</span>
+                                <input type="number" name="telp" class="form-control" id="telp" placeholder="Masukan nomor telpon genggam Anda" required="true">
+                            </div>
+                        </div>
+                    </div>
+                    <h3 class="text-center">Identitas</h3>
+                    <hr>
+                    <div class="form-group required">
+                        <label class="control-label col-md-2" for="nama">No. KTP</label>
+                        <div class="col-md-10">
+                            <input type="number" name="ktp" class="form-control" id="ktp" placeholder="Masukkan nomor KTP" required="true">
                         </div>
                     </div>
                     <div class="form-group required">
-                        <label class="control-label col-md-2" for="email">Surel / Email</label>
+                        <label class="control-label col-md-2" for="nama">Nama Sesuai KTP</label>
                         <div class="col-md-10">
-                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required="true" readonly>
+                            <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda sesuai dengan KTP" required="true" data-msg="Harap masukan nama Anda">
                         </div>
                     </div>
                     <div class="form-group">
@@ -435,7 +477,7 @@ layout: info
                         </div>
                     </div>
                     <br>
-                    <h3>Riwayat Berkarya</h3>
+                    <h3 class="text-center">Riwayat Berkarya</h3>
                     <hr>
                     <div class="form-group required">
                         <fieldset>
@@ -459,7 +501,7 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="pengalaman">Pengalaman Berkarya</label>
                         <div class="col-md-10">
-                            <input type="text" name="pengalaman" class="form-control" id="pengalaman" placeholder="contoh: 3 tahun / 6 bulan / baru memulai" required="true">
+                            <input type="text" name="pengalaman" class="form-control" id="pengalaman" placeholder="contoh: 3 tahun / 6 bulan / baru memulai" required="true" data-msg="Harap masukan berapa lama Anda sudah berkarya">
                         </div>
                     </div>
                     <div class="form-group">
@@ -489,18 +531,25 @@ layout: info
                         </div>
                     </div>
                     <br>
-                    <h3>Proyek</h3>
+                    <h3 class="text-center">Proyek</h3>
                     <hr>
                     <div class="form-group required">
                       <label class="control-label col-md-2" for="proyek">Judul Proyek</label>
                       <div class="col-md-10">
-                        <input type="text" name="proyek" class="form-control" id="proyek" placeholder="Masukan nama proyek Anda" required="true">
+                        <input type="text" name="proyek" class="form-control" id="proyek" placeholder="Masukan nama proyek Anda" required="true" data-msg="Harap masukan judul proyek Anda">
                       </div>
+                    </div>
+                    <div class="ui-widget form-group required">
+                      <label class="control-label col-md-2" for="lokasi">Lokasi Proyek</label>
+                        <div class="col-md-10">
+                          <input type="text" name="lokasi" class="form-control" id="lokasi" placeholder="Lokasi Anda menjalankan proyek (Kota / Kabupaten / Propinsi)" required="true" data-msg="Harap masukan lokasi proyek Anda (Kota / Kabupaten / Propinsi)">
+                          <input type="text" name="lokasi_id" id="lokasi_id" hidden>
+                        </div>
                     </div>
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="deskripsi">Deskripsi Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="deskripsi" class="form-control" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required="true"></textarea>
+                            <textarea name="deskripsi" class="form-control" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan tentang proyek Anda"></textarea>
                         </div>
                     </div>
                     <div class="form-group required">
@@ -520,13 +569,13 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="latar_belakang">Latar Belakang Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="latar_belakang" class="form-control" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required="true"></textarea>
+                            <textarea name="latar_belakang" class="form-control" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required="true" data-msg="Harap ceritakan latar belakang proyek Anda"></textarea>
                         </div>
                     </div>
                     <div class="form-group required">
                       <label class="control-label col-md-2" for="masalah">Masalah yang Diangkat</label>
                       <div class="col-md-10">
-                        <textarea name="masalah" class="form-control" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required="true"></textarea>
+                        <textarea name="masalah" class="form-control" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan pokok pikiran proyek Anda"></textarea>
                       </div>
                     </div>
                     <div class="form-group required">
@@ -548,7 +597,7 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="sukses">Indikator Sukses</label>
                         <div class="col-md-10">
-                            <textarea name="sukses" class="form-control" rows="5" id="sukses" placeholder="Jelaskan ukuran keberhasilan proyek Anda" required="true"></textarea>
+                            <textarea name="sukses" class="form-control" rows="5" id="sukses" placeholder="Jelaskan ukuran keberhasilan proyek Anda" required="true" data-msg="Harap ceritakan bagaimana proyek Anda dapat dikatakan berhasil"></textarea>
                         </div>
                     </div>
                     <div class="form-group required">
@@ -556,7 +605,7 @@ layout: info
                         <div class="col-md-10">
                             <div class="input-group">
                                 <span class="input-group-addon">Rp.</span>
-                                <select name="dana" class="form-control 999" id="dana" required="true"></select>
+                                <input type="number" name="dana" class="form-control" id="dana" placeholder="Masukan dana yang Anda inginkan (antara 1 - 999 juta)" required="true">
                                 <span class="input-group-addon">Juta</span>
                             </div>
                             <small>Jumlah dana hibah harus realistis dan secara konsisten menunjukkan biaya atas apa yang ingin dilakukan, berapa jumlah orang yang akan melakukannya, serta mencerminkan lama aktivitas.</small>
@@ -573,7 +622,7 @@ layout: info
                 </form>
             </div>
         </div>
-
+        
         <div class="row" id="formulir" hidden>
             <div class="alert alert-warning" id="confirmWarn">
                 <div class="container-fluid">
@@ -583,131 +632,186 @@ layout: info
             </div>
             <div class="col-lg-12">
                 <form class="form-horizontal">
-                    <h3>Identitas</h3>
+                    <h3 class="text-center">Data Rahasia</h3>
+                    <h4 class="text-center">Informasi yang tertulis di dalam bagian Data Rahasia tidak akan disebarluaskan</h4>
                     <hr>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2">No. KTP</label>
+                    <div class="form-group has-success">
+                        <label class="control-label col-md-2" style="color: #eee">No. KTP</label>
                         <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_ktp" id="preview_ktp">
+                            <input readonly class="form-control" name="preview_ktp" id="preview_ktp" style="color: #eee">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2">Nama Lengkap</label>
+                    <div class="form-group has-success">
+                        <label class="control-label col-md-2" style="color: #eee">Surel</label>
+                        <div class="col-md-10">
+                            <input readonly class="form-control" name="preview_email" id="preview_email" style="color: #eee">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="form-group has-success">
+                        <label class="control-label col-md-2" style="color: #eee">No. Telpon</label>
+                        <div class="col-md-10">
+                            <input readonly class="form-control" name="preview_telp" id="preview_telp" style="color: #eee">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <hr>
+                    <br>
+                    <h3 class="text-center">Data Pemohon Hibah</h3>
+                    <h4 class="text-center">Informasi yang tertulis di dalam bagian Data Pemohon Hibah akan disebarluaskan</h4>
+                    <div class="form-group has-success">
+                        <label class="control-label col-md-2">Nama</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_nama" id="preview_nama">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2">Provinsi</label>
-                        <div class="col-md-10">
-                          <input readonly class="form-control" name="preview_propinsi" id="preview_propinsi">
-                          <input readonly class="form-control" name="wikidata" id="wikidata" style="display: none">
-                        </div>
-                    </div>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2">No. Telpon</label>
-                        <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_telp" id="preview_telp">
-                        </div>
-                    </div>
-                    <div class="form-group required">
-                        <label class="control-label col-md-2">Surel</label>
-                        <div class="col-md-10">
-                            <input readonly class="form-control" name="preview_email" id="preview_email">
-                        </div>
-                    </div>
-                    <div class="form-group">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="foto">Foto Diri</label>
                         <div class="col-md-10">
                             <img style="max-height: 200px" class="img-responsive" id="previewfoto" src="#" alt="Silahkan unggah foto Anda" />
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <br>
-                    <h3>Riwayat Berkarya</h3>
-                    <hr>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <fieldset>
                             <label class="control-label col-md-2" for="seni">Bidang Seni yang Anda Tekuni</label>
                             <div class="col-md-10">
                                 <input readonly class="form-control" name="preview_seni" id="preview_seni">
+                                <span class="form-control-feedback">
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
                             </div>
                         </fieldset>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="pengalaman">Pengalaman Berkarya</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_pengalaman" id="preview_pengalaman">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="website">Situs Web / Blog</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_website" id="preview_website">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="sosmed">Media Sosial</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_sosmed" id="preview_sosmed">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="file">Contoh Karya</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="filename" id="filename">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <br>
-                    <h3>Proyek</h3>
-                    <hr>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                       <label class="control-label col-md-2" for="proyek">Judul Proyek</label>
                       <div class="col-md-10">
                         <input readonly class="form-control" name="preview_proyek" id="preview_proyek">
+                        <span class="form-control-feedback">
+                            <i class="fa fa-check" aria-hidden="true"></i>
+                        </span>
                       </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
+                      <label class="control-label col-md-2">Lokasi</label>
+                        <div class="col-md-10">
+                            <input readonly class="form-control" name="preview_lokasi" id="preview_lokasi">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="deskripsi">Deskripsi Proyek</label>
                         <div class="col-md-10">
                             <textarea readonly class="form-control" name="preview_deskripsi" id="preview_deskripsi" rows="5"></textarea>
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <fieldset>
                             <label class="control-label col-md-2" for="kategori">Kategori</label>
                             <div class="col-md-10">
                                 <input readonly class="form-control" name="preview_kategori" id="preview_kategori">
+                                <span class="form-control-feedback">
+                                    <i class="fa fa-check" aria-hidden="true"></i>
+                                </span>
                             </div>
                         </fieldset>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="latar_belakang">Latar Belakang Proyek</label>
                         <div class="col-md-10">
                             <textarea readonly class="form-control" name="preview_latarbelakang" id="preview_latarbelakang" rows="5"></textarea>
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="masalah">Masalah yang Diangkat</label>
                         <div class="col-md-10">
                             <textarea readonly class="form-control" name="preview_masalah" id="preview_masalah" rows="5"></textarea>
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="durasi">Durasi Proyek</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_durasi" id="preview_durasi">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="sukses">Indikator Sukses</label>
                         <div class="col-md-10">
                             <textarea readonly class="form-control" name="preview_sukses" id="preview_sukses" rows="5"></textarea>
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
-                    <div class="form-group required">
+                    <div class="form-group has-success">
                         <label class="control-label col-md-2" for="dana">Dana Hibah</label>
                         <div class="col-md-10">
                             <input readonly class="form-control" name="preview_dana" id="preview_dana">
+                            <span class="form-control-feedback">
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            </span>
                         </div>
                     </div>
                     <div class="col-md-offset-2 col-md-10">
