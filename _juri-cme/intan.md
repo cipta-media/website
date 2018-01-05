@@ -25,10 +25,6 @@ karya:
   - Gentayangan - Pilih Sendiri Petualangan Sepatu Merahmu (2017)
   - <i>Apple and Knife</i> (kumpulan cerpen terjemahan Stephen J. Epstein, Maret 2018)
 penghargaan:
-  - <i>National Community Radio of Indonesia Service Award</i> (2011)
-  - <i>Australian Postgraduate Award</i> (2001)
-  - <i>Indonesian Government Dharmasiswa Scholar Award</i> (2000)
-  - <i>Australian Consortium for In-Country Studies</i> (1997)
 kolaborasi:
 riset:
 teater:
