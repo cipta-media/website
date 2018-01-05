@@ -25,4 +25,4 @@ foto: /static/img/juricme/andy.png
 layout: people
 ---
 
-Ketua Sub Komisi Partisipasi Masyarakat Komnas Perempuan periode 2010-2014. Lulus dari Universitas Indonesia jurusan Hubungan Internasional dan Master Media and Communications dari University of London, UK. Salah satu ketertarikannya adalah mendokumentasikan cerita - cerita mengenai perempuan Indonesia, permasalahan dan perjuangannya bertahan. Kini mengetuai Suar Asa Khatulistiwa (SAKA).
+Ketua Sub Komisi Partisipasi Masyarakat Komnas Perempuan periode 2010-2014. Lulus dari Universitas Indonesia jurusan Hubungan Internasional dan Magister Program *Media and Communications* dari *University of London*, UK. Salah satu ketertarikannya adalah mendokumentasikan cerita - cerita mengenai perempuan Indonesia, permasalahan dan perjuangannya bertahan. Kini mengetuai Suar Asa Khatulistiwa (SAKA).
