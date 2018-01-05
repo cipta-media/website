@@ -586,9 +586,9 @@
     display:block;
     float:left;
     width:100%;
-    padding-top:50%;
+    padding-top:45%;
     padding-bottom:50%;
-    line-height:1em;
+    line-height:1.3em;
     margin-top:-0.5em;    
     text-align:center;
     color:#ffffff;
@@ -617,13 +617,15 @@ a.index-link {
 .tentang {
     color: #17374e;
     font-size: 1.3em;
-    font-weight: bold;
+    letter-spacing: 0.025em;
+    line-height: 1.5em;
 }
 
 .tentang-side {
     color: #6ca59a;
-    font-size: 1.2em;
-    font-weight: bold;
+    font-size: 1.1em;
+    letter-spacing: 0.02em;
+    line-height: 1.4em;
 }
 
 blockquote{
@@ -636,7 +638,7 @@ blockquote{
   /*Font*/
   font-size: 18px;
   font-style: italic;
-  color: #666;
+  color: #6ca59a;
   
   /*Borders - (Optional)*/
   border-left: 0px solid #6ca59a;
@@ -651,7 +653,7 @@ blockquote::before{
   font-family: Georgia, serif;
   font-size: 60px;
   font-weight: bold;
-  color: #999;
+  color: #6ca59a;
   
   /*Positioning*/
   position: absolute;

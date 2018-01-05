@@ -15,7 +15,7 @@ $(document).ready(function(){
 </script>
     <div class="container" style="padding-top: 50px">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-6 col-md-offset-1">
                 <img class="img-responsive" src="{{ page.foto }}">
                 <h1 style="color: #e2bc67; text-transform: uppercase; font-weight: bold; margin-top: 50px">{{ page.name }}</h1>
                 <h3 style="font-weight: bold; color: #17374e">{{ page.content }}</h3>
@@ -30,9 +30,9 @@ $(document).ready(function(){
                     {% endif %}
                 {% endfor %}
                 <hr style="border-top: 2px solid #ffca5f; margin-bottom: 50px; margin-top: 50px">
-                <h4 style="color: #6ca59a; text-transform: uppercase; font-weight: bold">Dewan Juri Cipta Media Ekspresi</h4>
+                <h4 style="color: #6ca59a; text-transform: uppercase; font-weight: bold; font-size: 14px; line-height: 1.8em; letter-spacing: 0.05em">Dewan Juri Cipta Media Ekspresi</h4>
                 {% for juri in site.juri-cme %}
-                <h4 style="display: inline; color: #6ca59a; text-transform: uppercase"><a href="{{ juri.url }}">{{ juri.name }}</a></h4>
+                <h4 style="display: inline; color: #6ca59a; text-transform: uppercase; font-weight: bold; font-size: 14px; line-height: 1.8em; letter-spacing: 0.05em"><a href="{{ juri.url }}">{{ juri.name }}</a></h4>
                 {% if forloop.last == false %}
                 <h4 style="display: inline; color: #6ca59a; text-transform: uppercase; margin-left: 10px; margin-right: 10px">|</h4>
                 {% endif %}
@@ -41,7 +41,7 @@ $(document).ready(function(){
             {% if page.ttl %}
             <div id="top"></div>
             <div class="col-md-4" id="call">
-                <table style="color: #6ca59a; font-size: 0.9em;">
+                <table style="color: #6ca59a; font-size: 0.8em;">
                   <tbody>
                     <tr>
                       <td valign="top" style="font-weight: bold">Nama</td><td>{{ page.name }}</td>
@@ -104,11 +104,6 @@ $(document).ready(function(){
                       <td valign="top" style="font-weight: bold">S3</td><td>{{ page.s3 }}</td>
                     </tr>
                     {% endif %}
-                    {% if page.residensi %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Residensi</td><td><ul style="list-style: none; padding-left: 0px;">{% for residensi in page.residensi %}<li>{{ residensi }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
                     <tr>
                         <td valign="top" style="font-weight: bold">Afiliasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for afiliasi in page.afiliasi %}<li>{{ afiliasi }}</li>{% endfor %}</ul></td>
                     </tr>
@@ -117,43 +112,59 @@ $(document).ready(function(){
                       <td valign="top" style="font-weight: bold">Karya</td><td><ul style="list-style: none; padding-left: 0px;">{% for karya in page.karya %}<li>{{ karya }}</li>{% endfor %}</ul></td>
                     </tr>
                     {% endif %}
-                    {% if page.fiksi %}
+                    {% if page.penghargaan or page.kolaborasi or page.residensi %}
                     <tr>
-                      <td valign="top" style="font-weight: bold">Fiksi</td><td><ul style="list-style: none; padding-left: 0px;">{% for fiksi in page.fiksi %}<li>{{ fiksi }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.naskah %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Naskah</td><td><ul style="list-style: none; padding-left: 0px;">{% for naskah in page.naskah %}<li>{{ naskah }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.penghargaan %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Penghargaan</td><td><ul style="list-style: none; padding-left: 0px;">{% for penghargaan in page.penghargaan %}<li>{{ penghargaan }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.riset %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Riset</td><td><ul style="list-style: none; padding-left: 0px;">{% for riset in page.riset %}<li>{{ riset }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.sutradara %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for sutradara in page.sutradara %}<li>{{ sutradara }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.rekan-sutradara %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Rekanan Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for rekan-sutradara in page.rekan-sutradara %}<li>{{ rekan-sutradara }}</li>{% endfor %}</ul></td>
-                    </tr>
-                    {% endif %}
-                    {% if page.kolaborasi %}
-                    <tr>
-                      <td valign="top" style="font-weight: bold">Kolaborasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for kolaborasi in page.kolaborasi %}<li>{{ kolaborasi }}</li>{% endfor %}</ul></td>
+                      <td valign="top" style="font-weight: bold"><a style="color: #6ca59a" data-toggle="collapse" data-target="#next">Selengkapnya...</a></td><td></td>
                     </tr>
                     {% endif %}
                   </tbody>
                 </table>
+                <div id="next" class="collapse">
+                  <table style="color: #6ca59a; font-size: 0.8em;">
+                    <tbody>
+                      {% if page.residensi %}
+                      <tr >
+                        <td valign="top" style="font-weight: bold">Residensi</td><td><ul style="list-style: none; padding-left: 0px;">{% for residensi in page.residensi %}<li>{{ residensi }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.fiksi %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Fiksi</td><td><ul style="list-style: none; padding-left: 0px;">{% for fiksi in page.fiksi %}<li>{{ fiksi }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.naskah %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Naskah</td><td><ul style="list-style: none; padding-left: 0px;">{% for naskah in page.naskah %}<li>{{ naskah }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.penghargaan %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Penghargaan</td><td><ul style="list-style: none; padding-left: 0px;">{% for penghargaan in page.penghargaan %}<li>{{ penghargaan }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.riset %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Riset</td><td><ul style="list-style: none; padding-left: 0px;">{% for riset in page.riset %}<li>{{ riset }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.sutradara %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for sutradara in page.sutradara %}<li>{{ sutradara }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.rekan-sutradara %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Rekanan Sutradara</td><td><ul style="list-style: none; padding-left: 0px;">{% for rekan-sutradara in page.rekan-sutradara %}<li>{{ rekan-sutradara }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                      {% if page.kolaborasi %}
+                      <tr>
+                        <td valign="top" style="font-weight: bold">Kolaborasi</td><td><ul style="list-style: none; padding-left: 0px;">{% for kolaborasi in page.kolaborasi %}<li>{{ kolaborasi }}</li>{% endfor %}</ul></td>
+                      </tr>
+                      {% endif %}
+                    </tbody>
+                  </table>
+                </div>
             </div>
             {% endif %}
         </div>

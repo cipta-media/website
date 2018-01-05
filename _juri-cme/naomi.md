@@ -24,16 +24,6 @@ afiliasi:
   - Koalisi Seni Indonesia (2014-kini)
   - Peretas (Perempuan Lintas Batas) (2017-kini)
 karya:
-  - <i>Malam Jahanam</i>, Teater Lima Muhi (1992) - dinobatkan sebagai Pemeran Paling Handal dalam Festival Teater SMA DIY 
-  - <i>WAH</i>, Teater Garasi (1995)
-  - <i>Les Paravents</i>, Teater Garasi (2000)
-  - <i>Waktu Batu 1 Kisah-kisah yang Bertemu di Ruang Tunggu</i>, Teater Garasi (2001-2002)
-  - <i>Waktu Batu 2 Ritus Seratus Kecemasan dan Wajah Siapa yang Terbelah</i>, Teater Garasi (2003)
-  - <i>Prism<i>, <i>Kageboushi Theater Company</i> (2003)
-  - <i>Waktu Batu 3 Deus Ex Machina dan Perasaan-perasaanku Kepadamu</i>, Teater Garasi (2004) 
-  - <i>Shichinin Misaki, Pacific Basin Arts Carnival Associations</i> (2004 - 2006)
-  - <i>Di Cong Bak</i>, Teater Garasi, Tikar Pandan, Theater Embassy (2006)
-  - <i>The King’s Witch<i>, Teater Garasi, <i>Continuum Ensemble, Batavia Madrigal Singers</i> (2006)
   - <i>Shakuntala</i>, Teater Garasi (2007)
   - <i>After Ana Mendes’ Automatic Self Portrait, Cemeti Art House</i> (2013)
   - <i>After Ugo Untoro, Ark Galerie</i> (2014)

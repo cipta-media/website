@@ -5,8 +5,8 @@ layout: info
 {% assign author = site.data.authors[page.author] %}
 <div class="container">
     <div class="row">
-        <div class="col-md-7 col-md-offset-1">
-            <h1 class="text-center"> {{ page.title }}</h1>
+        <div class="col-md-6 col-md-offset-2">
+            <h1 class="index-title text-center"> {{ page.title }}</h1>
             <br>
             <br>
             {{ content }}
@@ -16,26 +16,26 @@ layout: info
             {% endfor %}
             <hr>
         </div>
-        <div class="col-md-3" style="margin-top: 30px">
-            <div class="panel-group" id="accordion">
+        <div class="col-md-2" style="margin-top: 30px">
+            <div class="panel-group" style="font-size: 12px" id="accordion">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Penulis dan Tanggal Penulisan</a></h4>
+                        <p style="font-size: 12px; margin-bottom: 0;"><a style="color: #6ca59a;" data-toggle="collapse" data-parent="#accordion" href="#collapse1">Penulis dan Tanggal Penulisan</a></p>
                     </div>
                     <div id="collapse1" class="panel-collapse collapse in">
-                        <div class="panel-body">
+                        <div class="panel-body" style="border-top: 1px solid #e0bb6b;">
                         {{ author.name }}<br/>
-                        <i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}
+                        {{ page.date | date: "%-d %b %Y" }}
                         </div>
                     </div>
                 </div>
                 <br>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Kategori</a></h4>
+                        <p style="font-size: 12px; margin-bottom: 0;"><a style="color: #6ca59a;" data-toggle="collapse" data-parent="#accordion" href="#collapse2">Kategori</a></p>
                     </div>
                     <div id="collapse2" class="panel-collapse collapse">
-                        <div class="panel-body">
+                        <div class="panel-body" style="border-top: 1px solid #e0bb6b;">
                             {% for category in page.categories %}
                             <button class="btn btn-white btn-xs" type="button">{{ category }}</button>
                             {% endfor %}
@@ -45,10 +45,10 @@ layout: info
                 <br>
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Lisensi Artikel</a></h4>
+                        <p style="font-size: 12px; margin-bottom: 0;"><a style="color: #6ca59a;" data-toggle="collapse" data-parent="#accordion" href="#collapse3">Lisensi Artikel</a></p>
                     </div>
                     <div id="collapse3" class="panel-collapse collapse">
-                        <div class="panel-body text-center">
+                        <div class="panel-body text-center" style="border-top: 1px solid #e0bb6b;">
                             {% assign tahun = page.date | date: "%Y" %}
                             {{ page.date | date: "%B" }} {{ tahun }} | 
                             {% case tahun %}
@@ -65,6 +65,8 @@ layout: info
                             {% when '2016' %}
                             <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
                             {% when '2017' %}
+                            <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
+                            {% when '2018' %}
                             <a href="https://creativecommons.org/licenses/by/4.0/deed.id" class="btn-link">CC BY 4.0</a>
                             {% endcase %} 
                         </div>
