@@ -27,14 +27,15 @@ fi
 # List all modified files in the commit
 MODIFIED_FILES=$(curl --fail -sS $GITLAB_DIFF_API | \
 python3 -c "import sys, json; \
-print(' '.join(list(map(lambda x: x['new_path'], json.load(sys.stdin)))))") \
+d=json.load(sys.stdin);print(' '.join(['\"{}\"'.format(o['new_path']) \
+for o in d if(not o['deleted_file'])]))") \
 || exit
 
 echo "Fast build mode"
 echo "Removing: $PATH_TO_EXCLUDE"
 echo "These committed file(s) are not removed:"
 
-tar -cvf modified.tar $MODIFIED_FILES; echo
+echo $MODIFIED_FILES | xargs tar -cvf modified.tar; echo
 rm -rf $PATH_TO_EXCLUDE
 tar -xf modified.tar
 rm modified.tar
