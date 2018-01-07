@@ -17,7 +17,7 @@ disqus:
   name: nama_disini
   public_key: public_key_disini
 ga:
-  id: ga_disini
+  id: UA-110953836-1
 encoding: utf-8
 highlighter: rouge
 markdown: kramdown
