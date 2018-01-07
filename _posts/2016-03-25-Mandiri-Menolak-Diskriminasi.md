@@ -9,7 +9,7 @@ tags:
 - UI
 author: 
 comments: true
-img: "/static/img/landing/cms-placeholder.jpg"
+img: /uploads/Screen-Shot-2015-07-21-at-7.28.14-PM-400x291-8df944.png
 layout: post
 ---
 
