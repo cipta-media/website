@@ -1,0 +1,85 @@
+---
+title: Juri Cipta Media Ekspresi
+layout: info
+---
+
+	<div class="container" style="margin-top: 30px;">
+        <div class="row">
+            <div class="col-lg-12">
+                <img class="img-responsive center-block" src="/static/img/juricme/group2.jpg" style="max-height: 50vh">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1 class="index-title">{{ page.title }}</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 text-center">
+                <h4 style="line-height: 1.3em">
+                    Tim juri Cipta Media Ekspresi adalah penentu penerima hibah. Apabila permohonan hibah Anda terpilih, <a href="/panitia-ekspresi.html">panitia</a> akan menghubungi Anda, baik untuk memberi kabar tentang proses hibah selanjutnya ataupun meminta Anda mengirimkan proposal yang lebih panjang dan rancangan anggaran yang lebih rinci. Ada kemungkinan Anda akan diminta melakukan presentasi gagasan di hadapan tim juri.
+                </h4>
+                <h4 style="line-height: 1.3em">
+                    Proses pemilihan ini terbuka dan transparan, sebagian dari proses ini akan didokumentasikan secara daring <i>(online)</i>. Anda harus siap mendiskusikan gagasan Anda secara terbuka untuk publik.
+                </h4>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 70px">
+            {% for juri in site.juri-cme %}
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <a href="{{ juri.url }}">
+                            <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
+                                <div class="card-image">
+                                    <img class="img-responsive center-block" src="{{ juri.foto }}">
+                                </div>
+                                <div class="card-body text-center">
+                                    <h3 class="text-center" style="color: #e2bc67; font-family: 'Biryani', sans-serif; text-transform: uppercase;">{{ juri.name }}</h3>
+                                    <p>{{ juri.content | truncatewords: 10 }}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 well" style="background-color: white; border-radius: 0;">
+                <h2 style="line-height: 1.7em; color: #e2bc67; font-weight: bold;" class="text-center">Kriteria Penentuan Penerima Hibah:</h2>
+                <h4>Kriteria penentuan penerima hibah yang disusun oleh tim juri berangkat dari upaya kritis terhadap ukuran-ukuran yang berpihak pada lelaki dalam menetapkan kualitas dan nilai suatu karya.</h4>
+                <h4>Kriteria berikut digunakan untuk menilai pemohon mendapatkan hibah mereka dengan ukuran apakah upaya seni budaya mereka dapat:</h4>
+                <ul>
+                  <li><h4>menarik jenis penonton/pemirsa yang beragam</h4></li>
+                  <li><h4>menawarkan sudut pandang baru dalam melihat karya perempuan yang selama ini tidak diakui sehingga dapat memperkaya keragaman dunia seni budaya</h4></li>
+                  <li><h4>mempersoalkan norma dan paham yang membatasi waktu atau kesempatan perempuan untuk menghasilkan karya atau terlibat di dalam kegiatan seni budaya</h4></li>
+                  <li><h4>membuka kerjasama/kolaborasi lintas budaya di antara sesama perempuan atau menciptakan pemahaman terhadap praktik budaya yang beragam</h4></li>
+                  <li><h4>memajukan dialog yang lebih luas dan mendalam mengenai gagasan dan praktik budaya di antara perempuan yang berbeda generasi</h4></li>
+                </ul>
+            </div>
+        </div>
+        <hr style="border-top: 2px solid #ffca5f;">
+        <section style="margin-top: 100px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/kategori-ekspresi" class="round-button"><b>Kategori</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/timeline-ekspresi" class="round-button"><b>Linimasa</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/juri-ekspresi" class="round-button"><b>Dewan Juri</b><br><b>& Panitia</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/syarat-ekspresi" class="round-button"><b>Syarat &</b><br><b>Ketentuan</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/faq-ekspresi" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
+    </div>

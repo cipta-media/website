@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  juri-cme:
+    title: Juri
+    output: true
   hibahcme:
     title: Hibah CME
     output: true
