@@ -18,7 +18,7 @@
 /* SHADOWS */
 /* Shadows (from mdl http://www.getmdl.io/) */
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Barlow');
 
 body {
   background-color: #fff;
@@ -44,7 +44,7 @@ body.inverse .card .form-control {
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 300;
 }
 

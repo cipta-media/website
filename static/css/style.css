@@ -1,3 +1,7 @@
+body, p {
+  font-family: 'Barlow', sans-serif;
+}
+
 .tim-row{
     margin-bottom: 20px;
 }
