@@ -3010,11 +3010,10 @@ h2.title {
 
 .panel {
   border-radius: 2px;
-  border: 0;
-  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+  border: 1px solid #e0bb6b;
 }
 .panel > .panel-heading, .panel.panel-default > .panel-heading {
-  background-color: #eeeeee;
+  background-color: #fff;
 }
 .panel.panel-inverse > .panel-heading {
   background-color: #3f51b5;
