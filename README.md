@@ -1,3 +1,7 @@
-# Cipta Media Seluler
+# Cipta Media
 
-http://ciptamedia.siteleaf.net/
+This site includes three separate series of grants since 2010.
+
+1. Cipta Media Bersama
+2. Cipta Media Seluler
+3. Cipta Media Ekspresi
