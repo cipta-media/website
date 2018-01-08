@@ -369,10 +369,7 @@ layout: info
             $("#confirmWarn").hide();
             $("#success_tab").fadeIn();
             return user.update({ data: { registered: true } });
-          }).catch(() => {
-            // Overide This
-            console.log('Somthing Went Wrong')
-          })
+          });
         });
 
         function checkDuplicateId(id) {
