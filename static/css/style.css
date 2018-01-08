@@ -636,3 +636,14 @@ a.index-link {
     letter-spacing: 0.02em;
     line-height: 1.4em;
 }
+
+.red-subtitle {
+  text-transform: uppercase;
+  color: #a14243;
+}
+
+.biryani-yellow-subtitle {
+  font-family: 'Biryani', sans-serif;
+  color: #e2bc67;
+  text-transform: uppercase;
+}
