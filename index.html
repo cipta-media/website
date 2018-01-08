@@ -1,241 +1,92 @@
 ---
-title: index
+title: Beranda
 permalink: "/"
-author: cms
-layout: blog
+author: Cipta Media
+layout: base
 ---
 
-{% include header.html %}
-
 <script>
-function checkAuth(user) {
-  if (!user) {
-    netlifyIdentity.on("login", function() {
-      document.location.href = "/formcme.html";
-    });
-  }
-
-  if (user && user.user_metadata.registered) {
-    $("#registercme").addClass("disabled");
-    $("#registercme").html("Sudah Terdaftar!");
-  }
-}
-
 $(document).ready(function(){
-  $("a").on('click', function(event) {
-    if (this.hash !== "") {
-      event.preventDefault();
-      var hash = this.hash;
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 800, function(){
-        window.location.hash = hash;
-      });
-    }
-  });
-
-  var user = netlifyIdentity.currentUser();
-
-  $("#registercme").click(function(event){
-    if (!user) {
-      netlifyIdentity.open();
-      return false;
-    }
-  });
-
-  checkAuth(netlifyIdentity.currentUser());
+  if ($(window).width() < 992) {
+    $("#call").appendTo("#bottom");
+  }
+  else {
+    $("#call").appendTo("#top");
+  }
 });
-
-netlifyIdentity.on("init", checkAuth);
 </script>
 
-<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;background-position: right bottom;height: 100vh;">
-    <div class="container" style="padding-top:250px;">
-        <div class="row" style="color:#FFFFFF">
-            <div class="col-md-6 well well-lg" style="background-color: rgba(0, 0, 0, 0.3); border: #ffffff;">
-                <h1 class="title">Cipta Media Ekspresi</h1>
-                <h2>Hibah terbuka untuk seniman Indonesia terutama perempuan dan kelompok minoritas dalam mengekspresikan kebudayaannya</h2>
-                <br>
-                <a href="formcme.html" id="registercme" class="btn btn-danger btn-lg">
-                     Daftar di sini
-                </a>
-                <a href="tentang-ekspresi.html" class="btn btn-danger btn-lg">
-                     Informasi lebih lanjut
-                </a>
-            </div>
-        </div>
-	<div class="text-center" style="bottom: 10px; position: absolute; left: 50%;">
-  		<a href="#one" style="color: #FFF;"><i class="fa fa-chevron-circle-down fa-3x" aria-hidden="true"></i></a>
-	</div>
-    </div>
-</section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 
-<section id="header" style="margin-top: 0px;">
-    <div class="container" style="padding-bottom:50px;" id="one">
-	<div class="row m-b-lg">
-            <div class="col-lg-12 text-center">
-                <div class="navy-line"></div>
-                <h1><span data-i18n="proyek.proyek">Proyek Terdahulu</span></h1>
-            </div>
-        </div>
-        <div class="row">
-
-		<div class="col-md-6">
-		    <div class="card">
-			<div class="card-image">
-			    <img class="img-responsive" src="/static/img/landing/buruh.jpg">
-			</div>
-
-			<div class="card-body">
-			    <h1>Cipta Media Seluler</h1>
-			    <h2>Teknologi seluler untuk perubahan sosial</h2>
-			    <p>Cipta Media Seluler adalah hibah terbuka yang mengajak individu, komunitas, atau organisasi memunculkan inisiatif-inisiatif untuk perubahan sosial yang lebih adil melalui penggunaan teknologi seluler. Hibah terbuka ini menyediakan dukungan dana sebesar 750 ribu dolar AS bagi inisiatif-inisiatif teknologi seluler terbaik yang dapat dimodifikasi dan dicontoh untuk diterapkan di daerah lain.<br/></p>
-			    <a href="/ciptamediaseluler/tentangcms.html">Tentang CMS</a>
-                <a href="/ciptamediaseluler/proses.html" target="new_blank">Proses Hibah</a>
-			</div>
-		    </div>
-		</div>
-
-		<div class="col-md-6">
-		    <div class="card">
-			<div class="card-image">
-			    <img class="img-responsive" src="/static/img/landing/23_1_4-Photo.jpg">
-			</div>
-
-			<div class="card-body">
-			    <h1>Cipta Media Bersama</h1>
-			    <h2>Meretas batas – kebhinekaan bermedia</h2>
-			    <p>Cipta Media Bersama adalah hibah terbuka yang mengajak individu atau organisasi memunculkan ide baru dan segar dalam praktek bermedia yang mampu membuat perbaikan media di Indonesia. Hibah terbuka ini menyediakan dukungan sebesar satu juta dolar AS bagi inisiatif-inisiatif yang dapat menjadi contoh praktek terbaik dalam kebhinekaan, kesetaraan, kebebasan dan etika bermedia.<br/></p>
-            	<a href="/ciptamediabersama/tentangcmb.html">Tentang CMB</a>
-			    <a href="/ciptamediabersama/proses.html" target="new_blank">Proses Hibah</a>
-			</div>
-		    </div>
-		</div>
-
-        </div>
-    </div>
-</section>
-
-<section class="features gray-section" style="margin-top: 0px;">
+<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;background-position: center;height: 100vh;">
     <div class="container">
-        <div class="row m-b-lg text-center">
-            <div class="col-lg-12">
-                <div class="navy-line"></div>
-                <h1>Kalender Aktifitas</h1>
-            </div>
+        <div id="top"></div>
+        <div id="call">
+            <ul id="scene" class="scene" data-hover-only="true" data-relative-input="true" style="padding-left: 0">
+                <li data-depth="1.00">
+                    <div class="index-well-post">
+                        <div class="row">
+                            <div class="col-lg-6 col-lg-offset-6 well text-center index-well">
+                                <h2 style="line-height: 125%">Hibah dana tunai untuk merayakan keragaman pengetahuan dan ekspresi kreativitas perempuan di Indonesia</h2>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li data-depth-x="0.80" data-depth-y="-0.80"><div class="index-cloud"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Cloud.png"></div></li>
+                <li data-depth-x="0.60" data-depth-y="-0.20"><div class="index-leaf-blue-2"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
+                <li data-depth="0.40"><div class="index-leaf-blue-1"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
+            </ul>
         </div>
-
-    <div id="calendar" class="calendar"></div>
-
-	<script>
-	$(function() {
-		var currentYear = new Date().getFullYear();
-
-		$('#calendar').calendar({
-			enableContextMenu: true,
-			clickDay: function(e) {
-				if(e.events.length > 0) {
-					var content = '';
-
-					for(var i in e.events) {
-						content += '<div class="event-tooltip-content">'
-										+ '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '"><h3>' + e.events[i].name + '</h3></div>'
-										+ '<div class="event-location"><h4>' + e.events[i].location + '</h4></div></a>'
-										+ '<hr>'
-									+ '</div>';
-					}
-
-					var popover = $(e.element).popover({
-    			        trigger: 'manual',
-    			        container: 'body',
-  				        html:true,
-          				content: content,
-          			  	placement: 'bottom'
-					});
-
-					var popover =  $(e.element).data('bs.popover').tip();
-					var alreadyVisible = false;
-					$('div.popover:visible').each(function() {
-						if($(this).get(0) == popover.get(0)) {
-							alreadyVisible = true;
-						}
-						else {
-							$(this).hide();
-						}
-					});
-
-					if(!alreadyVisible) {
-						$(e.element).popover('show');
-					}
-				}
-			},
-
-			dataSource: [
-			{% for post in site.categories['laporan'] %}
-				{
-					name: '{{ post.title }}',
-					location: '{{ post.categories | last }}',
-					url: '{{ post.url }}',
-					startDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
-					endDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
-				},
-			{% endfor %}
-			]
-		});
-
-		$('[data-toggle="popover"],[data-original-title]').popover();
-
-		$(document).on('click', function(e) {
-			$('[data-toggle="popover"],[data-original-title]').each(function() {
-			if (!$(this).is(e.element) && $(this).has(e.element).length === 0 && $('.popover').has(e.events).length === 0) {
-			  $(this).popover('hide').data('bs.popover').inState.click = false
-			}
-
-			});
-		});
-	});
-        </script>
-
-	</div>
+    </div>
 </section>
 
-<section class="features" style="margin-top: 0px;">
+<section>
     <div class="container">
+        <div id="bottom"></div>
+    </div>
+</section>
 
-        <div class="row m-b-lg text-center">
-            <div class="col-lg-12">
-                <div class="navy-line"></div>
-                <h1>Artikel Terbaru</h1>
-            </div>
-        </div>
-
+<section style="margin-top: 100px">
+    <div class="container">
         <div class="row">
-        {% for post in site.posts%}
-	{% unless post.categories contains 'laporan' %}
-	{% assign counter = counter | plus: 1 %}
-            <div class="col-md-6">
-                <div class="row">
-                    <div class="col-xs-4">
-                        <img src="{{ post.img }}" class="img-responsive center-block" style="max-height:120px">
-                    </div>
-                    <div class="col-xs-8">
-                        <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-                        <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
-                        <p>{{ post.content | strip_html | truncatewords:20 }}</p>
-                    </div>
-                </div>
-                <hr>
-            </div>
-	{% if counter == 8 %}
-		{% break %}
-	{% endif %}
-	{% endunless %}
-        {% endfor %}
-        </div>
-        <div class="row m-b-lg">
-            <div class="col-lg-12 text-center">
-                <a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href="{{ "/blog/" | prepend: site.baseurl }}">Artikel Lainnya</a>
+            <div class="col-md-4 text-center vcenter" style="margin-bottom: 40px">
+                <img class="img-responsive center-block" src="/static/img/landing/logo-ekspresi-typo.png">
+            </div><!--
+            --><div class="col-md-8 vcenter">
+                <p style="font-size: 1.2em; line-height: 1.5">Cipta Media Ekspresi merupakan hibah untuk perempuan pelaku kebudayaan di segala bidang seni. Hibah dapat digunakan untuk membuat, mengkaji, melakukan perjalanan serta membantu perempuan mencipta atau menampilkan karya.</p>
+                <p style="font-size: 1.2em; line-height: 1.5">Karya dapat berupa ciptaan asli, kajian, pemilihan benda-benda untuk dipamerkan atau diarsipkan dengan maksud mempertunjukkan atau berbagi.</p>
+                <p style="font-size: 1.2em; line-height: 1.5">Jumlah total dana hibah Cipta Media Ekspresi adalah 3,5 milyar rupiah bagi proyek yang dapat diselesaikan sebelum 28 Februari 2019.</p>
+                <a class="index-link" href="/ciptamediaekspresi/tentang-ekspresi" style="font-size: 1.2em; line-height: 1.5">Selengkapnya</a>
             </div>
         </div>
     </div>
 </section>
+
+<section style="margin-top: 100px">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/kategori-ekspresi" class="round-button"><b>Kategori</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/timeline-ekspresi" class="round-button"><b>Linimasa</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/juri-ekspresi" class="round-button"><b>Dewan Juri</b><br><b>& Panitia</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-md-2 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/syarat-ekspresi" class="round-button"><b>Syarat &</b><br><b>Ketentuan</b></a></div></div>
+            </div>
+            <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
+                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/faq-ekspresi" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
+
+<script>
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+</script>

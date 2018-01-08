@@ -1,0 +1,125 @@
+---
+title: Tentang Cipta Media Ekspresi
+layout: info
+---
+
+<script>
+function checkAuth(user) {
+  if (!user) {
+    netlifyIdentity.on("login", function() {
+      document.location.href = "/formcme.html";
+    });
+  }
+
+  if (user && user.user_metadata.registered) {
+    $("#registercme").addClass("disabled");
+    $("#registercme").html("Sudah Terdaftar!");
+  }
+}
+
+$(document).ready(function(){
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+        window.location.hash = hash;
+      });
+    }
+  });
+
+  var user = netlifyIdentity.currentUser();
+
+  $("#registercme").click(function(event){
+    if (!user) {
+      netlifyIdentity.open();
+      return false;
+    }
+  });
+
+  checkAuth(netlifyIdentity.currentUser());
+});
+
+netlifyIdentity.on("init", checkAuth);
+</script>
+<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: center;height: 65vh;">
+</section>
+    <div class="container" style="margin-top: 70px;">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1 class="index-title">{{ page.title }}</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-lg-offset-3 text-center">
+                <h2 style="color: #e2bc67; line-height: 1.4em; letter-spacing: 0.03em">Hibah dana tunai untuk merayakan keragaman pengetahuan dan ekspresi kreativitas perempuan di Indonesia.</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 col-md-offset-1 col-md-push-7 text-center">
+                <img class="img-responsive center-block" src="/static/img/landing/logo-ekspresi-v.png">
+                <br>
+                <p class="tentang-side">Cipta Media Ekspresi merupakan hibah untuk perempuan pelaku kebudayaan di segala bidang seni. Hibah dapat digunakan untuk membuat, mengkaji, melakukan perjalanan serta membantu perempuan mencipta atau menampilkan karya.</p>
+                <p class="tentang-side">Karya dalam hibah Cipta Media Ekspresi dapat berupa karya ciptaan asli, kajian, pemilihan benda-benda untuk dipamerkan atau diarsipkan dengan maksud mempertunjukkan atau berbagi.
+                <p class="tentang-side">Jumlah total dana hibah Cipta Media Ekspresi adalah 3,5 milyar rupiah bagi proyek yang dapat diselesaikan sebelum 28 Februari 2019.</p>
+            </div>
+            <div class="col-md-6 col-md-pull-3" style="margin-top: 20px">
+                <p class="tentang">Cipta Media Ekspresi diadakan untuk mendukung karya perempuan dan menyebarkan pikiran-pikiran mereka untuk memperkaya masyarakat.</p>
+                <p class="tentang">Coba pikirkan, berapa nama perempuan dan karyanya yang bisa Anda sebutkan dengan baik? Apakah jumlah mereka sebanding dengan rekannya yang lelaki?</p>
+                <p class="tentang">Sekarang, ingat-ingat berapa jumlah perempuan yang bisa Anda lihat memasak, menenun, menari, main musik, bikin film atau bercerita.</p>
+                <p class="tentang">Barangkali mereka melakukannya sambil mengasuh anak? Ataukah mereka mesti berhenti menghasilkan masakan, kain, film dan ceritanya waktu mereka menikah dan mengasuh anak?</p>
+                <p class="tentang">Pernahkah Anda pergi ke pameran atau menonton pertunjukan dan melihat perbedaan jumlah mencolok antara pencipta dan pemirsa perempuan dengan yang lelaki?</p>
+                <p class="tentang">Adakah teman atau kenalan perempuan Anda yang tidak bisa lagi datang ke acara budaya karena harus mengurus keluarga? Atau, lebih mendasar lagi, apakah Anda atau kenalan Anda tidak bisa mencipta atau menikmati acara kebudayaan sebagai perempuan?</p>
+                <p class="tentang">Kalau Anda menjawab ‘Ya’ pada semua atau sebagian besar pertanyaan di atas dan ingin mengubah keadaan ini, maka hibah Cipta Media Ekspresi tepat untuk Anda.</p>
+                <p class="tentang">Banyak perempuan yang dihalangi berkarya karena jenis kelaminnya. </p>
+                <p class="tentang">Banyak juga yang terhambat karena harus menggunakan waktunya untuk mengurus anak atau keluarga.</p>
+                <p class="tentang">Ada juga perempuan yang perlu mengembangkan gagasannya dengan membuat ruang bertemu sesama seniman dan bertukar pikiran sembari mengasuh anak, atau pengaturan jam pertunjukan dan pameran yang lebih cocok dengan waktu mengurus keluarga.</p>
+                <p class="tentang">Kesulitan-kesulitan seperti ini nyata terjadi, namun jarang disikapi.</p>
+                <p class="tentang">Banyak orang bilang bahwa mengurus keluarga adalah kodrat dan tugas utama perempuan, karena itu keinginan lain, misalnya bekerja atau berkarya harus ditinggalkan. </p>
+                <p class="tentang">Karena itu riwayat penciptaan seorang perempuan bisa saja putus-putus atau jarang-jarang.</p>
+                <p class="tentang">Ada juga para perempuan yang selama ini sudah aktif berkarya dengan ilham dan bahan yang ada di sekelilingnya.</p>
+                <p class="tentang">Lingkungan kesehariannya di ruang asuh anak, dapur, kebun dan lain-lain memberinya inspirasi yang berbeda dari rekan-rekannya yang lelaki.</p>
+                <p class="tentang">Hasil karya yang berbeda ini tidak selalu diakui dan dihargai dalam dunia profesional seni budaya, meskipun sebetulnya ciptaan dan kemampuannya akan semakin memperkaya peradaban.</p>
+                <p class="tentang">Selain hambatan penciptaan, perempuan juga masih sedikit yang bisa melakukan kolaborasi dan perjalanan untuk memperkaya wawasan atau memperkenalkan karyanya kepada para perempuan dan komunitas yang lain.</p>
+                <p class="tentang">Hibah Cipta Media Ekspresi ini diadakan khusus untuk menyikapi persoalan yang menghambat penciptaan perempuan serta memberikan pengakuan atas pengetahuan dan keahliannya.</p>
+                <div class="row" style="margin-top: 70px">
+                  <div class="col-lg-6 text-center">
+                    <a href="/ciptamediaekspresi/faq-ekspresi" class="index-link">
+                        <img class="img-responsive center-block" src="/static/img/landing/CME_Icon_FAQ.png" style="max-height: 140px;"><br>Pertanyaan Umum
+                    </a>
+                  </div>
+                  <div class="col-lg-6 text-center">
+                    <a href="/formcme" id="registercme" class="index-link">
+                         <img class="img-responsive center-block" src="/static/img/landing/CME_Icon_Form.png" style="max-height: 140px;"><br>Daftar Di Sini
+                    </a>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        <hr style="border-top: 2px solid #ffca5f;">
+        <section style="margin-top: 100px">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/kategori-ekspresi" class="round-button"><b>Kategori</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/timeline-ekspresi" class="round-button"><b>Linimasa</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/juri-ekspresi" class="round-button"><b>Dewan Juri</b><br><b>& Panitia</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-md-2 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/syarat-ekspresi" class="round-button"><b>Syarat &</b><br><b>Ketentuan</b></a></div></div>
+                    </div>
+                    <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
+                        <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/faq-ekspresi" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
+    </div>
