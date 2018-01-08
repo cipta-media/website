@@ -52,7 +52,7 @@ sutradara:
 wawancara:
   -
     judul: "Andy Yentriyani: Tidak Boleh Menyerah Mengubah Keadaan Menjadi Lebih Indah"
-    link: /andy-yentriyani/judul-artikel/
+    link: /andy-yentriany/tidak-menyerah/
 foto: /static/img/juricme/andy.png
 layout: people
 ---
