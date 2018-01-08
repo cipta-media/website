@@ -17,8 +17,8 @@ collections:
   panitia:
     title: Panitia
     output: true
-description: Arsip Cipta Media, menggunakan Jekyll dan github pages.
-keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
+description: Halaman pembuka Cipta Media Ekspresi, Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.
+keywords: Seni, Budaya, Perempuan, Karya, Hibah, Ford Foundation
 disqus:
   name: nama_disini
   public_key: public_key_disini
