@@ -330,18 +330,7 @@ layout: info
                 $("#edit_form_title").show();
                 $("#formulir_isi").show();
         });
-        /* confirm button - transition to success tab */
-        $("#konfirmasi").click(function(){
-                $("html, body").animate({ scrollTop: 0 }, "slow");
-                $("#preview_form_title").hide();
-                $("#classified_data").hide();
-                $("#konfirmasi").hide();
-                $("#kembali").hide();
-                $("#please_confirm").hide();
-                $("#preview_subtitle").hide();
-                $("#confirmWarn").hide();
-                $("#success_tab").fadeIn();
-        });
+        
         var $select = $(".999");
         for (i=1;i<=999;i++){
             $select.append($('<option></option>').val(i).html(i))
@@ -369,10 +358,21 @@ layout: info
             contentType: false,
             processData: false,
           })
-          .then(function(){ return user.update({ data: { registered: true } }); })
-          .done(function(){
-            window.location.href = action;
-          });
+          .then(function(){
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            $("#preview_form_title").hide();
+            $("#classified_data").hide();
+            $("#konfirmasi").hide();
+            $("#kembali").hide();
+            $("#please_confirm").hide();
+            $("#preview_subtitle").hide();
+            $("#confirmWarn").hide();
+            $("#success_tab").fadeIn();
+            return user.update({ data: { registered: true } });
+          }).catch(() => {
+            // Overide This
+            console.log('Somthing Went Wrong')
+          })
         });
 
         function checkDuplicateId(id) {
