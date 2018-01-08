@@ -6,14 +6,51 @@ layout: base
 ---
 
 <script>
+function checkAuth(user) {
+  if (!user) {
+    netlifyIdentity.on("login", function() {
+      document.location.href = "/formcme.html";
+    });
+  }
+
+  if (user && user.user_metadata.registered) {
+    $("#registercme").addClass("disabled");
+    $("#registercme").html("Sudah Terdaftar!");
+  }
+}
+
 $(document).ready(function(){
-  if ($(window).width() < 992) {
-    $("#call").appendTo("#bottom");
-  }
-  else {
-    $("#call").appendTo("#top");
-  }
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+        window.location.hash = hash;
+      });
+    }
+    if ($(window).width() < 992) {
+      $("#call").appendTo("#bottom");
+    }
+    else {
+      $("#call").appendTo("#top");
+    }
+  });
+
+  var user = netlifyIdentity.currentUser();
+
+  $("#registercme").click(function(event){
+    if (!user) {
+      netlifyIdentity.open();
+      return false;
+    }
+  });
+
+  checkAuth(netlifyIdentity.currentUser());
 });
+
+netlifyIdentity.on("init", checkAuth);
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
@@ -79,6 +116,17 @@ $(document).ready(function(){
             </div>
             <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
                 <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/faq-ekspresi" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-5 text-center">
+                <div class="round-button">
+                    <div class="round-button-circle">
+                        <a href="formcme.html" id="registercme">
+                            <b>Formulir</b>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
