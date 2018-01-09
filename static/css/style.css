@@ -658,6 +658,13 @@ a.index-link {
   background-repeat: no-repeat;
   background-position: center;
   height: 100vh;
+
+/* Globally update p to match h4 style because a lot of usage of h4 tag semantically should be a p */
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+  font-size: 16px;
 }
 
 .image-input {
