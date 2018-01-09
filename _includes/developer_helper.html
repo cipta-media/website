@@ -1,0 +1,18 @@
+<div class='alert alert-info mx-auto' style="position: fixed; bottom: 0;">
+  Duh, sepertinya anda berada di mode pratinjau. 🧐🧐🧐 <button id="_clearUser" class='btn btn-danger'>Reset status terdaftar</button>
+</div>
+<script type="text/javascript">
+
+$(document).ready(
+  function() {
+    $('#_clearUser').click(_clearUser);
+  }
+)
+const _clearUser = function() {
+  netlifyIdentity.currentUser().update( {data: {registered: false}}).
+  then(function() {
+    alert('Status terdaftar sudah di hapus, halaman akan di muat ulang!');
+    window.location.reload();
+  })
+}
+</script>
