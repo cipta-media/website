@@ -665,3 +665,22 @@ a.index-link {
   font-size: 14px;
   color: #A5A5A5;
 }
+
+.index-margin {
+  margin-top: 100px;
+}
+
+@media only screen and (max-width:768px) {
+  .index-banner {
+    background-image: url(/static/img/landing/bg_3_mobile.jpg);
+    height: 20vh;
+    background-size: contain;
+    background-position: top center;
+  }
+  .hide-paralax {
+    display: none;
+  }
+  .index-margin {
+   margin-top: 10px;
+  }
+}
