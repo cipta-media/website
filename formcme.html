@@ -243,6 +243,41 @@ layout: info
               required: true,
               number: true,
               minlength: 10,
+            },
+            nama: {
+              required: true,
+              minlength: 3,
+            },
+            lokasi: {
+              required: true,
+              minlength: 3,
+            },
+            pengalaman: {
+              required: true,
+              minlength: 3,
+            },
+            proyek: {
+              required: true,
+              minlength: 5,
+            },
+            deskripsi: {
+              required: true,
+              minlength: 50,
+            },
+            latar_belakang: {
+              required: true,
+              minlength: 50,
+            },
+            masalah: {
+              required: true,
+              minlength: 50,
+            },
+            sukses: {
+              required: true,
+              minlength: 3,
+            },
+            foto: {
+              required: true,
             }
           },
           messages: {
@@ -266,6 +301,41 @@ layout: info
                 required: "Harap masukan nomor telpon / telpon genggam Anda",
                 minlength: "Harap masukan nomor telpon dengan benar",
                 number: "Harap masukan nomor telpon dengan benar",
+            },
+            nama: {
+              required: "Harap masukan nama Anda",
+              minlength: "Harap masukan nama Anda",
+            },
+            lokasi: {
+              required: "Harap masukan lokasi Anda",
+              minlength: "Harap masukan lokasi Anda",
+            },
+            pengalaman: {
+              required: "Harap masukan pengalaman Anda",
+              minlength: "Harap masukan pengalaman Anda",
+            },
+            proyek: {
+              required: "Harap masukan nama proyek Anda",
+              minlength: "Harap masukan nama proyek Anda",
+            },
+            deskripsi: {
+              required: "Harap ceritakan proyek anda",
+              minlength: "Harap ceritakan proyek anda",
+            },
+            latar_belakang: {
+              required: "Harap ceritakan latar belakang proyek Anda",
+              minlength: "Harap ceritakan latar belakang proyek Anda",
+            },
+            masalah: {
+              required: "Harap ceritakan masalah yang ingin Anda angkat",
+              minlength: "Harap ceritakan masalah yang ingin Anda angkat",
+            },
+            sukses: {
+              required: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
+              minlength: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
+            },
+            foto: {
+              required: "Harap unggah foto diri Anda",
             }
           },
           highlight: function ( element, errorClass, validClass ) {
@@ -606,7 +676,7 @@ layout: info
                     <div class="form-group">
                         <label class="control-label col-md-2" for="foto">Foto Diri</label>
                         <div class="col-md-10">
-                            <input type="file" class="btn btn-default" name="foto" id="foto">
+                            <input type="file" class="btn btn-default" name="foto" id="foto" required="true" data-msg="Harap unggah foto diri Anda">
                             <div class="input-group">
                                 <input type="text" readonly="" class="form-control" placeholder="Masukan foto Anda dengan klik di sini">
                                 <span class="input-group-btn input-group-sm">
