@@ -20,13 +20,6 @@ function checkAuth(user) {
 }
 
 $(document).ready(function(){
-  if ($(window).width() < 992) {
-    $("#call").appendTo("#bottom");
-  }
-  else {
-    $("#call").appendTo("#top");
-  }
-  
   $("a").on('click', function(event) {
     if (this.hash !== "") {
       event.preventDefault();
@@ -58,8 +51,7 @@ netlifyIdentity.on("init", checkAuth);
 
 <section id="header" class="index-banner">
     <div class="container">
-        <div id="top"></div>
-        <div id="call">
+        <div>
             <ul id="scene" class="scene" data-hover-only="true" data-relative-input="true" style="padding-left: 0">
                 <li data-depth="1.00">
                     <div class="index-well-post">
@@ -75,12 +67,6 @@ netlifyIdentity.on("init", checkAuth);
                 <li data-depth="0.40"><div class="index-leaf-blue-1"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
             </ul>
         </div>
-    </div>
-</section>
-
-<section>
-    <div class="container">
-        <div id="bottom"></div>
     </div>
 </section>
 
