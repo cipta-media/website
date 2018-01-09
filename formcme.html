@@ -367,7 +367,6 @@ layout: info
                 $("#preview_form_title").show();
                 $("#edit_form_title").hide();
                 $("#formulir_isi").hide();
-                $("#agree").hide();
                 $("#preview_ktp").val( $("#ktp").val() );
                 $("#preview_nama").val( $("#nama").val() );
                 $("#preview_lokasi").val( $("#lokasi").val() );
@@ -1045,13 +1044,15 @@ layout: info
                     </ul>
                     <h4>Jika menurut Anda formulir yang Anda isi sudah memenuhi kriteria di atas, silahkan tekan Konfirmasi, apabila belum silahkan tekan Kembali</h4>
                 </div>
-                <div class="form-group required" id="agree">
-                    <label class="control-label col-md-2" for="agree">Persetujuan</label>
-                    <div class="col-md-10">
-                        <div class="checkbox">
-                            <label>
-                                <input type="checkbox" name="agree" value="agree" id="agree" required="true"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
-                            </label>
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="form-group required" id="agree">
+                        <label class="control-label col-md-2" for="agree">Persetujuan</label>
+                        <div class="col-md-10">
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="agree" value="agree" id="agree" required="true"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
+                                </label>
+                            </div>
                         </div>
                     </div>
                 </div>
