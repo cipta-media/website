@@ -365,6 +365,7 @@ layout: info
             if($("#formpass").valid()){
                 $("#formulir").show();
                 $("#preview_form_title").show();
+                $("#syarat_ketentuan").hide();
                 $("#edit_form_title").hide();
                 $("#formulir_isi").hide();
                 $("#preview_ktp").val( $("#ktp").val() );
@@ -410,6 +411,7 @@ layout: info
         $("#kembali").click(function(){
                 $("#preview_form_title").hide();
                 $("#formulir").hide();
+                $("#syarat_ketentuan").show();
                 $("#edit_form_title").show();
                 $("#formulir_isi").show();
         });
@@ -450,6 +452,7 @@ layout: info
             $("#please_confirm").hide();
             $("#preview_subtitle").hide();
             $("#confirmWarn").hide();
+            $("#syarat_ketentuan").hide();
             $("#success_tab").fadeIn();
             return user.update({ data: { registered: true } });
           });
