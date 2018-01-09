@@ -20,6 +20,13 @@ function checkAuth(user) {
 }
 
 $(document).ready(function(){
+  if ($(window).width() < 992) {
+    $("#call").appendTo("#bottom");
+  }
+  else {
+    $("#call").appendTo("#top");
+  }
+  
   $("a").on('click', function(event) {
     if (this.hash !== "") {
       event.preventDefault();
@@ -29,12 +36,6 @@ $(document).ready(function(){
       }, 800, function(){
         window.location.hash = hash;
       });
-    }
-    if ($(window).width() < 992) {
-      $("#call").appendTo("#bottom");
-    }
-    else {
-      $("#call").appendTo("#top");
     }
   });
 
@@ -55,7 +56,7 @@ netlifyIdentity.on("init", checkAuth);
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 
-<section id="header" style="background-image: url(/static/img/landing/bg_3.jpg);background-size: cover;background-attachment: fixed;background-repeat: no-repeat;background-position: center;height: 100vh;">
+<section id="header" class="index-banner">
     <div class="container">
         <div id="top"></div>
         <div id="call">

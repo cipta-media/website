@@ -647,3 +647,15 @@ a.index-link {
   color: #e2bc67;
   text-transform: uppercase;
 }
+
+.index-banner {
+  background-image: url(/static/img/landing/bg_3.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
