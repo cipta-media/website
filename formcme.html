@@ -222,6 +222,17 @@ layout: info
         };
       });
     $(document).ready(function() {
+        function getWordCount(wordString) {
+          return wordString.split(/\w+/).length - 1;
+        }
+
+        jQuery.validator.addMethod("maxwordcount",
+           function(value, element, max) {
+              var count = getWordCount(value);
+              if (count <= max) return true;
+           }
+        );
+
         $("#formpass").validate({
           focusInvalid: true,
           rules: {
@@ -264,14 +275,17 @@ layout: info
             deskripsi: {
               required: true,
               minlength: 50,
+              maxwordcount: 200,
             },
             latar_belakang: {
               required: true,
               minlength: 50,
+              maxwordcount: 200,
             },
             masalah: {
               required: true,
               minlength: 50,
+              maxwordcount: 200,
             },
             sukses: {
               required: true,
@@ -322,14 +336,17 @@ layout: info
             deskripsi: {
               required: "Harap ceritakan proyek anda",
               minlength: "Harap ceritakan proyek anda",
+              maxwordcount: "Harap ceritakan proyek Anda dalam 200 kata",
             },
             latar_belakang: {
               required: "Harap ceritakan latar belakang proyek Anda",
               minlength: "Harap ceritakan latar belakang proyek Anda",
+              maxwordcount: "Harap ceritakan latar belakang proyek Anda dalam 200 kata",
             },
             masalah: {
               required: "Harap ceritakan masalah yang ingin Anda angkat",
               minlength: "Harap ceritakan masalah yang ingin Anda angkat",
+              maxwordcount: "Harap ceritakan latar belakang proyek Anda dalam 200 kata",
             },
             sukses: {
               required: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
@@ -489,6 +506,20 @@ layout: info
 
           return deferred;
         }
+
+        $('.count-words').on('input', function(e){
+          $input = $(this);
+          $counter = $input.nextAll('.text-right');
+          wordCount = getWordCount($input.val());
+
+          if (wordCount > 200) {
+            $counter.addClass("text-danger");
+          } else {
+            $counter.removeClass("text-danger");
+          }
+
+          $counter.text(wordCount);
+        });
     });
     </script>
 
@@ -770,7 +801,8 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="deskripsi">Deskripsi Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="deskripsi" class="form-control" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan tentang proyek Anda"></textarea>
+                            <textarea name="deskripsi" class="form-control count-words" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan tentang proyek Anda"></textarea>
+                            <p class="text-right">0</p>
                         </div>
                     </div>
                     <div class="form-group required">
@@ -790,13 +822,15 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="latar_belakang">Latar Belakang Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="latar_belakang" class="form-control" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required="true" data-msg="Harap ceritakan latar belakang proyek Anda"></textarea>
+                            <textarea name="latar_belakang" class="form-control count-words" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required="true" data-msg="Harap ceritakan latar belakang proyek Anda"></textarea>
+                            <p class="text-right">0</p>
                         </div>
                     </div>
                     <div class="form-group required">
                       <label class="control-label col-md-2" for="masalah">Masalah yang Diangkat</label>
                       <div class="col-md-10">
-                        <textarea name="masalah" class="form-control" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan pokok pikiran proyek Anda"></textarea>
+                        <textarea name="masalah" class="form-control count-words" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan pokok pikiran proyek Anda"></textarea>
+                        <p class="text-right">0</p>
                       </div>
                     </div>
                     <div class="form-group required">
