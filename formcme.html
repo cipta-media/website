@@ -395,6 +395,13 @@ layout: info
             $btn.removeAttr("disabled");
           });
         });
+        $('#agree').click(function() {
+            if ($(this).is(':checked')) {
+                $('#formsubmit').removeAttr('disabled');
+            } else {
+                $('#formsubmit').prop('disabled', 'disabled');
+            }
+        });
         function readURL(input) {
             if (input.files && input.files[0]) {
                 var reader = new FileReader();
@@ -1048,12 +1055,12 @@ layout: info
                     <h4>Jika menurut Anda formulir yang Anda isi sudah memenuhi kriteria di atas, silahkan tekan Konfirmasi, apabila belum silahkan tekan Kembali</h4>
                 </div>
                 <div class="col-md-8 col-md-offset-2">
-                    <div class="form-group required" id="agree">
+                    <div class="form-group required">
                         <label class="control-label col-md-2" for="agree">Persetujuan</label>
                         <div class="col-md-10">
                             <div class="checkbox">
                                 <label>
-                                    <input type="checkbox" name="agree" value="agree" id="agree" required="true"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
+                                    <input type="checkbox" id="agree"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
                                 </label>
                             </div>
                         </div>
@@ -1069,7 +1076,7 @@ layout: info
                     </div>
                     <!-- real submit button, please hook it up to konfirmasi -->
                     <div class="col-md-3 text-center">
-                        <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn">Konfirmasi</button>
+                        <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" disabled>Konfirmasi</button>
                     </div>
                 </div>
             </div>
