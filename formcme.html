@@ -28,6 +28,8 @@ layout: info
       $( function() {
         checkAuth(netlifyIdentity.currentUser());
 
+        $("#user_agent").val(window.navigator.userAgent);
+
         var propinsi2 = [
           {
             value: "Q1823",
@@ -682,6 +684,9 @@ layout: info
                     <p class="hidden">
                         <label>Don’t fill this out: <input name="bot-field"></label>
                     </p>
+
+                    <input id="user_agent" type="hidden" name="user_agent">
+
                     <h3 class="text-center biryani-yellow-subtitle">Kontak</h3>
                     <hr>
                     <div class="form-group required">
