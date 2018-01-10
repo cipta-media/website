@@ -687,7 +687,7 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="email">Surel / Email</label>
                         <div class="col-md-10">
-                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required="true" readonly>
+                            <input type="email" name="email" class="form-control" id="email" placeholder="Masukan surel / email Anda" required readonly>
                             <input type="text" name="auth_name" id="auth_name" hidden>
                         </div>
                     </div>
@@ -696,7 +696,7 @@ layout: info
                         <div class="col-md-10">
                             <div class="input-group">
                                 <span class="input-group-addon">+62 8</span>
-                                <input type="tel" name="telp" class="form-control" id="telp" placeholder="Masukan nomor telpon genggam Anda" required="true">
+                                <input type="tel" name="telp" class="form-control" id="telp" placeholder="Masukan nomor telpon genggam Anda" required>
                             </div>
                         </div>
                     </div>
@@ -705,19 +705,19 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="nama">No. KTP</label>
                         <div class="col-md-10">
-                            <input type="number" name="ktp" class="form-control" id="ktp" placeholder="Masukkan nomor KTP" required="true">
+                            <input type="number" name="ktp" class="form-control" id="ktp" placeholder="Masukkan nomor KTP" required>
                         </div>
                     </div>
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="nama">Nama Sesuai KTP</label>
                         <div class="col-md-10">
-                            <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda sesuai dengan KTP" required="true" data-msg="Harap masukan nama Anda">
+                            <input type="text" name="nama" class="form-control" id="nama" placeholder="Masukan nama lengkap Anda sesuai dengan KTP" required data-msg="Harap masukan nama Anda">
                         </div>
                     </div>
                     <div class="form-group">
                         <label class="control-label col-md-2" for="foto">Foto Diri</label>
                         <div class="col-md-10">
-                            <input type="file" class="btn btn-default" name="foto" id="foto" required="true" data-msg="Harap unggah foto diri Anda">
+                            <input type="file" class="btn btn-default" name="foto" id="foto" required data-msg="Harap unggah foto diri Anda">
                             <div class="input-group">
                                 <input type="text" readonly="" class="form-control" placeholder="Masukan foto Anda dengan klik di sini">
                                 <span class="input-group-btn input-group-sm">
@@ -753,7 +753,7 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="pengalaman">Pengalaman Berkarya</label>
                         <div class="col-md-10">
-                            <input type="text" name="pengalaman" class="form-control" id="pengalaman" placeholder="contoh: 3 tahun / 6 bulan / baru memulai" required="true" data-msg="Harap masukan berapa lama Anda sudah berkarya">
+                            <input type="text" name="pengalaman" class="form-control" id="pengalaman" placeholder="contoh: 3 tahun / 6 bulan / baru memulai" required data-msg="Harap masukan berapa lama Anda sudah berkarya">
                         </div>
                     </div>
                     <div class="form-group">
@@ -788,20 +788,20 @@ layout: info
                     <div class="form-group required">
                       <label class="control-label col-md-2" for="proyek">Judul Proyek</label>
                       <div class="col-md-10">
-                        <input type="text" name="proyek" class="form-control" id="proyek" placeholder="Masukan nama proyek Anda" required="true" data-msg="Harap masukan judul proyek Anda">
+                        <input type="text" name="proyek" class="form-control" id="proyek" placeholder="Masukan nama proyek Anda" required data-msg="Harap masukan judul proyek Anda">
                       </div>
                     </div>
                     <div class="ui-widget form-group required">
                       <label class="control-label col-md-2" for="lokasi">Lokasi Proyek</label>
                         <div class="col-md-10">
-                          <input type="text" name="lokasi" class="form-control" id="lokasi" placeholder="Lokasi Anda menjalankan proyek (Kota / Kabupaten / Propinsi)" required="true" data-msg="Harap masukan lokasi proyek Anda (Kota / Kabupaten / Propinsi)">
+                          <input type="text" name="lokasi" class="form-control" id="lokasi" placeholder="Lokasi Anda menjalankan proyek (Kota / Kabupaten / Propinsi)" required data-msg="Harap masukan lokasi proyek Anda (Kota / Kabupaten / Propinsi)">
                           <input type="text" name="lokasi_id" id="lokasi_id" hidden>
                         </div>
                     </div>
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="deskripsi">Deskripsi Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="deskripsi" class="form-control count-words" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan tentang proyek Anda"></textarea>
+                            <textarea name="deskripsi" class="form-control count-words" rows="5" id="deskripsi" placeholder="Ceritakan apa yang ingin Anda lakukan untuk proyek ini. (maksimal 200 kata)" required data-msg="Harap ceritakan tentang proyek Anda"></textarea>
                             <p class="text-right">0</p>
                         </div>
                     </div>
@@ -822,21 +822,21 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="latar_belakang">Latar Belakang Proyek</label>
                         <div class="col-md-10">
-                            <textarea name="latar_belakang" class="form-control count-words" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required="true" data-msg="Harap ceritakan latar belakang proyek Anda"></textarea>
+                            <textarea name="latar_belakang" class="form-control count-words" rows="5" id="latar_belakang" placeholder="Ceritakan proses terbentuknya gagasan proyek Anda (maksimal 200 kata)" required data-msg="Harap ceritakan latar belakang proyek Anda"></textarea>
                             <p class="text-right">0</p>
                         </div>
                     </div>
                     <div class="form-group required">
                       <label class="control-label col-md-2" for="masalah">Masalah yang Diangkat</label>
                       <div class="col-md-10">
-                        <textarea name="masalah" class="form-control count-words" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required="true" data-msg="Harap ceritakan pokok pikiran proyek Anda"></textarea>
+                        <textarea name="masalah" class="form-control count-words" rows="5" id="masalah" placeholder="Ceritakan pokok pikiran permintaan hibah Anda / tema / masalah yang ingin Anda atasi. (maksimal 200 kata)" required data-msg="Harap ceritakan pokok pikiran proyek Anda"></textarea>
                         <p class="text-right">0</p>
                       </div>
                     </div>
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="durasi">Durasi Proyek</label>
                         <div class="col-md-10">
-                            <select name="durasi" class="form-control" id="durasi" required="true">
+                            <select name="durasi" class="form-control" id="durasi" required>
                                 <option>1 bulan</option>
                                 <option>2 bulan</option>
                                 <option>3 bulan</option>
@@ -852,7 +852,7 @@ layout: info
                     <div class="form-group required">
                         <label class="control-label col-md-2" for="sukses">Indikator Sukses</label>
                         <div class="col-md-10">
-                            <textarea name="sukses" class="form-control" rows="5" id="sukses" placeholder="Jelaskan ukuran keberhasilan proyek Anda" required="true" data-msg="Harap ceritakan bagaimana proyek Anda dapat dikatakan berhasil"></textarea>
+                            <textarea name="sukses" class="form-control" rows="5" id="sukses" placeholder="Jelaskan ukuran keberhasilan proyek Anda" required data-msg="Harap ceritakan bagaimana proyek Anda dapat dikatakan berhasil"></textarea>
                         </div>
                     </div>
                     <div class="form-group required">
@@ -860,7 +860,7 @@ layout: info
                         <div class="col-md-10">
                             <div class="input-group">
                                 <span class="input-group-addon">Rp.</span>
-                                <input type="number" name="dana" class="form-control" id="dana" placeholder="Masukan dana yang Anda inginkan (antara 1 - 999 juta)" required="true">
+                                <input type="number" name="dana" class="form-control" id="dana" placeholder="Masukan dana yang Anda inginkan (antara 1 - 999 juta)" required>
                                 <span class="input-group-addon">Juta</span>
                             </div>
                             <small>Jumlah dana hibah harus realistis dan secara konsisten menunjukkan biaya atas apa yang ingin dilakukan, berapa jumlah orang yang akan melakukannya, serta mencerminkan lama aktivitas.</small>
