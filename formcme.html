@@ -474,12 +474,11 @@ layout: info
             $("html, body").animate({ scrollTop: 0 }, "slow");
             $("#preview_form_title").hide();
             $("#classified_data").hide();
-            $("#konfirmasi").hide();
-            $("#kembali").hide();
             $("#please_confirm").hide();
             $("#preview_subtitle").hide();
             $("#confirmWarn").hide();
             $("#syarat_ketentuan").hide();
+            $("#hide_on_success").hide();
             $("#success_tab").fadeIn();
             return user.update({ data: { registered: true } });
           });
@@ -1078,42 +1077,44 @@ layout: info
                         <h4>Harap pastikan bahwa data yang Anda masukan pada formulir di atas adalah benar.</h4>
                     </div>
                 </form>
-                <div class="col-md-8 col-md-offset-2 well" style="background-color: white; border-radius: 0;">
-                    <h2 style="line-height: 1.7em; color: #e2bc67; font-weight: bold;" class="text-center">Kriteria Penentuan Penerima Hibah:</h2>
-                    <h4>Kriteria penentuan penerima hibah yang disusun oleh tim juri berangkat dari upaya kritis terhadap ukuran-ukuran yang berpihak pada lelaki dalam menetapkan kualitas dan nilai suatu karya.</h4>
-                    <h4>Kriteria berikut digunakan untuk menilai pemohon mendapatkan hibah mereka dengan ukuran apakah upaya seni budaya mereka dapat:</h4>
-                    <ul>
-                        <li><h4>menarik jenis penonton/pemirsa yang beragam</h4></li>
-                        <li><h4>menawarkan sudut pandang baru dalam melihat karya perempuan yang selama ini tidak diakui sehingga dapat memperkaya keragaman dunia seni budaya</h4></li>
-                        <li><h4>mempersoalkan norma dan paham yang membatasi waktu atau kesempatan perempuan untuk menghasilkan karya atau terlibat di dalam kegiatan seni budaya</h4></li>
-                        <li><h4>membuka kerjasama/kolaborasi lintas budaya di antara sesama perempuan atau menciptakan pemahaman terhadap praktik budaya yang beragam</h4></li>
-                        <li><h4>memajukan dialog yang lebih luas dan mendalam mengenai gagasan dan praktik budaya di antara perempuan yang berbeda generasi</h4></li>
-                    </ul>
-                    <h4>Jika menurut Anda formulir yang Anda isi sudah memenuhi kriteria di atas, silahkan tekan Konfirmasi, apabila belum silahkan tekan Kembali</h4>
-                </div>
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="form-group required">
-                        <label class="control-label col-md-2" for="agree">Persetujuan</label>
-                        <div class="col-md-10">
-                            <div class="checkbox">
-                                <label>
-                                    <input type="checkbox" id="agree"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
-                                </label>
+                <div id="hide_on_success">
+                    <div class="col-md-8 col-md-offset-2 well" style="background-color: white; border-radius: 0;">
+                        <h2 style="line-height: 1.7em; color: #e2bc67; font-weight: bold;" class="text-center">Kriteria Penentuan Penerima Hibah:</h2>
+                        <h4>Kriteria penentuan penerima hibah yang disusun oleh tim juri berangkat dari upaya kritis terhadap ukuran-ukuran yang berpihak pada lelaki dalam menetapkan kualitas dan nilai suatu karya.</h4>
+                        <h4>Kriteria berikut digunakan untuk menilai pemohon mendapatkan hibah mereka dengan ukuran apakah upaya seni budaya mereka dapat:</h4>
+                        <ul>
+                            <li><h4>menarik jenis penonton/pemirsa yang beragam</h4></li>
+                            <li><h4>menawarkan sudut pandang baru dalam melihat karya perempuan yang selama ini tidak diakui sehingga dapat memperkaya keragaman dunia seni budaya</h4></li>
+                            <li><h4>mempersoalkan norma dan paham yang membatasi waktu atau kesempatan perempuan untuk menghasilkan karya atau terlibat di dalam kegiatan seni budaya</h4></li>
+                            <li><h4>membuka kerjasama/kolaborasi lintas budaya di antara sesama perempuan atau menciptakan pemahaman terhadap praktik budaya yang beragam</h4></li>
+                            <li><h4>memajukan dialog yang lebih luas dan mendalam mengenai gagasan dan praktik budaya di antara perempuan yang berbeda generasi</h4></li>
+                        </ul>
+                        <h4>Jika menurut Anda formulir yang Anda isi sudah memenuhi kriteria di atas, silahkan tekan Konfirmasi, apabila belum silahkan tekan Kembali</h4>
+                    </div>
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="form-group required">
+                            <label class="control-label col-md-2" for="agree">Persetujuan</label>
+                            <div class="col-md-10">
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" id="agree"> Saya telah membaca dan menyetujui seluruh syarat dan ketentuan dari Cipta Media Ekspresi
+                                    </label>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="form-group">
-                    <div class="col-md-3 col-md-offset-3 text-center">
-                        <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="kembali">Kembali</a>
-                    </div>
-                    <!-- transition to success tab -->
-                    <div class="col-md-3 text-center" hidden>
-                        <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="konfirmasi">Konfirmasi</a>
-                    </div>
-                    <!-- real submit button, please hook it up to konfirmasi -->
-                    <div class="col-md-3 text-center">
-                        <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" disabled>Konfirmasi</button>
+                    <div class="form-group">
+                        <div class="col-md-3 col-md-offset-3 text-center">
+                            <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="kembali">Kembali</a>
+                        </div>
+                        <!-- transition to success tab -->
+                        <div class="col-md-3 text-center" hidden>
+                            <a class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" id="konfirmasi">Konfirmasi</a>
+                        </div>
+                        <!-- real submit button, please hook it up to konfirmasi -->
+                        <div class="col-md-3 text-center">
+                            <button type="submit" id="formsubmit" form="formpass" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn" disabled>Konfirmasi</button>
+                        </div>
                     </div>
                 </div>
             </div>
