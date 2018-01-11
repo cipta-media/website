@@ -381,6 +381,7 @@ layout: info
             $btn.removeAttr("disabled");
             if($("#formpass").valid()){
                 $("#formulir").show();
+                $("html, body").animate({ scrollTop: 0 }, "slow");
                 $("#preview_form_title").show();
                 $("#syarat_ketentuan").hide();
                 $("#edit_form_title").hide();
