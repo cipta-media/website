@@ -425,6 +425,7 @@ layout: info
             if (input.files && input.files[0]) {
                 var reader = new FileReader();
                 reader.onload = function (e) {
+                    $('#inputfoto').attr('src', e.target.result);
                     $('#previewfoto').attr('src', e.target.result);
                 }
                 reader.readAsDataURL(input.files[0]);
@@ -724,12 +725,10 @@ layout: info
                         <div class="col-md-10">
                             <input type="file" class="btn btn-default" name="foto" id="foto" required data-msg="Harap unggah foto diri Anda">
                             <div class="input-group">
-                                <input type="text" readonly="" class="form-control" placeholder="Masukan foto Anda dengan klik di sini">
-                                <span class="input-group-btn input-group-sm">
-                                    <button type="button" class="btn btn-fa btn-round">
-                                        <i class="material-icons">attach_file</i>
-                                     </button>
-                                </span>
+                                <img class="img-responsive image-input" id="inputfoto" src="#" alt="Masukan foto Anda dengan klik di sini">
+                                <button type="button" class="btn btn-fa btn-round">
+                                    <i class="material-icons">attach_file</i> lampirkan foto Anda
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -939,7 +938,7 @@ layout: info
                     <div class="form-group has-success">
                         <label class="control-label col-md-2" for="foto">Foto Diri</label>
                         <div class="col-md-10">
-                            <img style="max-height: 200px" class="img-responsive" id="previewfoto" src="#" alt="Silahkan unggah foto Anda" />
+                            <img style="max-height: 200px" class="img-responsive" id="previewfoto" src="#" />
                             <span class="form-control-feedback">
                                 <i class="fa fa-check" aria-hidden="true"></i>
                             </span>

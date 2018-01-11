@@ -659,3 +659,9 @@ a.index-link {
   background-position: center;
   height: 100vh;
 }
+
+.image-input {
+  max-height: 200px;
+  font-size: 14px;
+  color: #A5A5A5;
+}
