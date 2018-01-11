@@ -15,7 +15,7 @@ function checkAuth(user) {
 
   if (user && user.user_metadata.registered) {
     $("#registercme").addClass("disabled");
-    $("#registercme").html("Sudah Terdaftar!");
+    $("#registercme").html('<span class="round-button"><b>Sudah</b><br/><b>Terdaftar!</b></span>');
   }
 }
 
@@ -108,8 +108,8 @@ netlifyIdentity.on("init", checkAuth);
         <div class="row">
             <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-5 text-center">
                 <div class="round-button">
-                    <div class="round-button-circle">
-                        <a href="formcme.html" id="registercme">
+                    <div id="registercme" class="round-button-circle">
+                        <a href="formcme.html" class="round-button">
                             <b>Formulir</b>
                         </a>
                     </div>
