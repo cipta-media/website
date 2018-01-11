@@ -379,8 +379,6 @@ layout: info
             $("#duplicate").hide();
             $btn.html("Selanjutnya");
             $btn.removeAttr("disabled");
-            $("#formpass").valid();
-            $("html, body").animate({ scrollTop: $("#formulir_isi").offset().top }, "slow");
             if($("#formpass").valid()){
                 $("#formulir").show();
                 $("#preview_form_title").show();
@@ -405,6 +403,9 @@ layout: info
                 $("#preview_durasi").val( $( "#durasi option:selected" ).text() );
                 $("#preview_dana").val( $("#dana").val() );
                 $("#preview_sukses").val( $("#sukses").val() );
+            }
+            else {
+                $("html, body").animate({ scrollTop: $("#formulir_isi").offset().top }, "slow");
             };
           })
           .catch(function(){
