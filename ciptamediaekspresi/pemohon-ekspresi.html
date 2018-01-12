@@ -1,0 +1,26 @@
+---
+title: Pemohon Hibah
+layout: info
+---
+
+    <div class="container" style="margin-top: 30px;">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <img class="img-responsive center-block" src="/static/img/landing/kategori.png">
+                <h1 class="index-title">{{ page.title }}</h1>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 30px">
+            {% for hibah in site.hibahcme %}
+            <div class="col-md-3">
+                <a href="{{ hibah.url }}">
+                    <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
+                        <div class="card-image">
+                            <img class="img-responsive center-block" src="{{ hibah.foto.url }}">
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>

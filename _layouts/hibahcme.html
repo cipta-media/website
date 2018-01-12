@@ -1,207 +1,177 @@
-<!DOCTYPE html>
-<html>
-{% include head.html %}
-    <body id="page-top" class="landing-page">
-        {% if jekyll.environment != 'production' %}
+---
+title: Pemohon Hibah
+layout: info
+---
+
+    <section id="header" style="background-image: url(/static/img/landing/faq-header.png);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: bottom;height: 40vh;width: 100%"></section>
+    {% if jekyll.environment != 'production' %}
         <style>
-        #overlay {
-            width: 100%;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background-color: rgba(0,0,0,0.2);
-            z-index: 2;
-        }
+            #overlay {
+                width: 100%;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba(0,0,0,0.1);
+                z-index: 2;
+            }
+            .hide-screened {
+                display: none;
+            }
         </style>
-        <div class="navbar-wrapper">
-            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-                <div class="container">
-                    <div class="navbar-header page-scroll">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <img src="/static/img/landing/logo-ekspresi-typo.png" width="200" class="img-responsive" alt="">
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav navbar-right">
-                            <li><a href="#">Permohonan Tertunda</a></li>
-                        </ul>
-                    </div>
+        <div class="container" id="overlay">
+            <div class="row">
+                <div class="col-lg-12 text-center" style="margin-top: 30px">
+                    <h1 class="index-title">Permohonan Tertunda</h1>
                 </div>
-            </nav>
+            </div>
         </div>
-        {% else %}
-        <div class="navbar-wrapper">
-            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-                <div class="container">
-                    <div class="navbar-header page-scroll">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a href="/index.html" id="i18_title"><span data-i18n="website.title"><img src="/static/img/landing/logo-ekspresi-typo.png" width="200" class="img-responsive" alt=""></span></a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                            <li><a href="/ciptamediaekspresi/tentang-ekspresi.html">Cipta Media Ekspresi</a></li>
-                            <li class="dropdown mega-dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Proyek Lainnya <span class="caret"></span></a>
-                                <ul class="dropdown-menu mega-dropdown-menu row">
-                                    <li class="col-sm-4">
-                                        <ul>
-                                            <li class="dropdown-header">Cipta Media Independen</li>
-                                            <li><a href="#">Tentang</a></li>
-                                            <li><a href="#">Penerima Hibah</a></li>
-                                            <li><a href="#">Tim</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="col-sm-4">
-                                        <ul>
-                                            <li class="dropdown-header">Cipta Media Seluler</li>
-                                            <li><a href="/ciptamediaseluler/tentangcms.html">Tentang</a></li>
-                                            <li><a href="/ciptamediaseluler/penerimahibah.html">Penerima Hibah</a></li>
-                                            <li><a href="/ciptamediaseluler/hibahcms-semua.html">Pendaftar Hibah</a></li>
-                                            <li><a href="/ciptamediaseluler/timkami.html">Tim</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="col-sm-4">
-                                        <ul>
-                                            <li class="dropdown-header">Cipta Media Bersama</li>
-                                            <li><a href="/ciptamediabersama/tentangcmb.html">Tentang</a></li>
-                                            <li><a href="/ciptamediabersama/penerimahibah.html">Penerima Hibah</a></li>
-                                            <li><a href="/ciptamediabersama/hibahcmb-semua.html">Pendaftar Hibah</a></li>
-                                            <li><a href="/ciptamediabersama/timkami.html">Tim</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            <li class="dropdown mega-dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
-                                <ul class="dropdown-menu mega-dropdown-menu row">
-                                    <li class="col-sm-6">
-                                        <ul>
-                                            <li class="dropdown-header">Cipta Media Seluler</li>
-                                            <li><a href="/berita/">Berita</a></li>
-                                            <li><a href="/inspirasi/">Inspirasi</a></li>
-                                            <li><a href="/kajian/">Kajian</a></li>
-                                            <li><a href="/gagasan/">Gagasan</a></li>
-                                            <li><a href="/inovasi/">Inovasi</a></li>
-                                            <li><a href="/tutorial/">Tutorial</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="col-sm-6">
-                                        <ul>
-                                            <li class="dropdown-header">Cipta Media Bersama</li>
-                                            <li><a href="/acara/">Acara</a></li>
-                                            <li><a href="/teladan/">Teladan</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
+    {% endif %}
+    <div class="container" id="overlay">
+        <div class="row hide-screened">
+            <div class="col-lg-12 text-center" style="margin-top: 30px">
+                <h1 class="index-title">Pemohon Hibah {{ page.no_proyek }}</h1>
+            </div>
         </div>
-        {% endif %}
-        <div class="container article" id="overlay">
-          <div class="row m-b-lg">
-                <div class="col-lg-12 text-center">
-                    <div class="navy-line"></div>
-                </div>
-          </div>
-          <div class="row m-b-lg">
-              <div class="col-md-8 col-md-offset-2">
-                  <button type="button" class="btn btn-primary btn-lg" onclick="netlifyIdentity.open()" style="position: absolute; top: 10px; right: 30px;"><i class="fa fa-sign-out" aria-hidden="true"></i></button>
-                <h1>{{ page.title }} <small>oleh: {{ page.nama }}</small></h1>
-                {{ content }}
-                <!--data-data-->
-                <div class="row">
-                    <div class="col-lg-3">Nomor:</div><div class="col-lg-9">{{ page.nomor }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Tanggal Aplikasi:</div><div class="col-lg-9">{{ page.date | date: "%-d %B %Y" }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Nama Pemohon:</div><div class="col-lg-9">{{ page.nama }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Lokasi:</div><div class="col-lg-9">{{ page.lokasi }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Bidang Seni:</div><div class="col-lg-9">{{ page.seni }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Situs Web:</div><div class="col-lg-9">{{ page.situs }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Media Sosial:</div><div class="col-lg-9">{{ page.medsos }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Karya:</div><div class="col-lg-9">{{ page.karya }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Judul Proyek:</div><div class="col-lg-9">{{ page.title }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ content }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Kategori:</div><div class="col-lg-9">{{ page.category }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Latar Belakang:</div><div class="col-lg-9">{{ page.latarbelakang }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Durasi:</div><div class="col-lg-9">{{ page.durasi }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Indikator Sukses:</div><div class="col-lg-9">{{ page.indikator }}</div>
-                </div>
-                <hr>
-                <div class="row">
-                    <div class="col-lg-3">Permintaan Dana:</div><div class="col-lg-9">{{ page.dana }}</div>
-                </div>
-                <hr>
-                <!--end-->
-                <form class="form-horizontal" name="koreksi">
-                    <input type="text" name="username" class="form-control" id="username" readonly style="display: none">
-                    <input type="text" name="email" class="form-control" id="email" readonly style="display: none">
-                    <input type="text" name="nohibah" class="form-control" id="nohibah" value="{{ page.nohibah }}" readonly style="display: none">
-                    <input type="text" name="title" class="form-control" id="title" value="{{ page.title }}" readonly style="display: none">
-                    <div class="form-group" id="koreksi-hidden" style="display: none">
-                        <label class="control-label col-md-2" for="koreksi">Koreksi Permintaan</label>
-                        <div class="col-md-10">
-                            <textarea name="koreksi" class="form-control" rows="5" id="koreksi" placeholder="Apakah ada yang ingin koreksi dari permohonan diatas?"></textarea>
-                        </div>
-                    </div>
-                    <div class="form-group"> 
-                        <div class="col-lg-12 text-center">
-                            <button type="submit" class="btn btn-lg btn-danger btn-rounded btn-outline wow bounceIn">Kirim</button>
-                        </div>
-                    </div>
-                </form>
-              </div>
-          </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <h2 class="text-center" style="color: #e2bc67; text-transform: uppercase; font-weight: bold; margin-top: 50px">Proyek</h2>
+                <hr style="border-top: 1px solid #ffca5f;">
+            </div>
         </div>
-        {% include footer.html %}
-    </body>
-</html>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">No. Formulir</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.nomor }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Judul Proyek</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.proyek }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Lokasi Proyek</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.lokasi }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Deskripsi Proyek</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.deskripsi }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Kategori</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.kategori }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Latar Belakang Proyek</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.latar_belakang }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Masalah yang Diangkat</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.masalah }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Durasi Proyek</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.durasi }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Indikator Sukses</p>
+            </div>
+            <div class="col-md-6">
+                <p>{{ page.sukses }}</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-md-offset-2">
+                <p style="font-weight: bold; color: #17374e;">Dana Hibah</p>
+            </div>
+            <div class="col-md-6">
+                <p>Rp.{{ page.dana }} Juta</p>
+            </div>
+        </div>
+        <img class="img-responsive center-block" src="/static/img/landing/kategori.png" style="max-height: 300px; margin-top: 90px">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <h2 class="text-center" style="color: #e2bc67; text-transform: uppercase; font-weight: bold; margin-top: 50px">{{ page.nama }}</h2>
+                <hr style="border-top: 1px solid #ffca5f;">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-md-offset-2">
+                <img class="img-responsive center-block" src="{{ page.foto.url }}" style="max-height: 400px">
+            </div>
+            <div class="col-md-4">
+                <h3 style="color: #e2bc67; text-transform: uppercase; font-weight: bold">Riwayat Berkarya</h3>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p style="font-weight: bold; color: #17374e;">Bidang Seni yang Ditekuni</p>
+                    </div>
+                    <div class="col-md-8">
+                        <p>{{ page.seni }}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p style="font-weight: bold; color: #17374e;">Pengalaman Berkarya</p>
+                    </div>
+                    <div class="col-md-8">
+                        <p>{{ page.pengalaman }}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p style="font-weight: bold; color: #17374e;">Contoh Karya</p>
+                    </div>
+                    <div class="col-md-8">
+                        <a href="{{ page.file.url }}">{{ page.file.filename }}</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p style="font-weight: bold; color: #17374e;">Situs Web</p>
+                    </div>
+                    <div class="col-md-8">
+                        <p>{{ page.website }}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <p style="font-weight: bold; color: #17374e;">Media Sosial</p>
+                    </div>
+                    <div class="col-md-8">
+                        <p>{{ page.sosmed }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
