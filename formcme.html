@@ -235,7 +235,7 @@ layout: info
            }
         );
 
-        $("#formpass").validate({
+        var $validator = $("#formpass").validate({
           focusInvalid: true,
           rules: {
             ktp: {
@@ -380,7 +380,6 @@ layout: info
           $btn.prop("disabled", "disabled");
 
           checkDuplicateId($('#ktp').val()).done(function(){
-            $("#duplicate").hide();
             $btn.html("Selanjutnya");
             $btn.removeAttr("disabled");
             if($("#formpass").valid()){
@@ -414,8 +413,8 @@ layout: info
             };
           })
           .catch(function(){
-            $("html, body").animate({ scrollTop: 0 }, "slow");
-            $("#duplicate").show();
+            $validator.showErrors({ ktp: "Nomor KTP sudah terdaftar" });
+            $("html, body").animate({ scrollTop: $("#formulir_isi").offset().top }, "slow");
             $btn.html("Selanjutnya");
             $btn.removeAttr("disabled");
           });
@@ -676,12 +675,6 @@ layout: info
                 <br>
                 <h2>Nomor Pendaftaran Hibah Anda adalah:</h2>
                 <h1>###</h1>
-            </div>
-        </div>
-        <div id="duplicate" class="alert alert-danger" hidden>
-            <div class="container-fluid">
-              <button type="button" class="close" data-dismiss="alert" aria-label="Close">x</button>
-              Nomor KTP sudah terdaftar.
             </div>
         </div>
         <div class="row" id="formulir_isi">
