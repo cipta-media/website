@@ -41,6 +41,6 @@ Marsinah FM pun giat melakukan penguatan komunitas dengan mengadakan Sekolah Fem
 
 Akhir kata ulasan tentang penerima hibah Marsinah FM akan kita tutup dengan mengutip ucapan penggemarnya,
 
-> **“Tetap Jaya di Udara dan Suarakan Aspirasi Kaum Buruh : Marsinah FM”**
+> **Tetap Jaya di Udara dan Suarakan Aspirasi Kaum Buruh : Marsinah FM**
 
 ![Marsinah-tetap-Jaya-300x118.png](/uploads/Marsinah-tetap-Jaya-300x118.png){: .img-responsive .center-block }

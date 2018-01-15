@@ -42,7 +42,7 @@ Next Gen juga mengerti bahwa mereka tidak bisa berjuang sendirian dan perlu berk
 
 Apabila anda penasaran akan hasil pemantauan Next Generation, Cipta Media menyarankan anda membaca beberapa ulasan permainan-permainan sepert [Max Payne 3](http://www.facebook.com/notes/next-generation/rating-max-payne-3-dewasa/491097394258278) dan [Elder Scroll v Skyrim](http://www.facebook.com/notes/next-generation/rating-elder-scroll-v-skyrim-d18/472878012746883) yang berating dewasa dan meyakinkan bahwa anak anda yang dibawah umur tidak memainkan permainan ini. Untuk Elder Scroll catatan analisa Next Gen dikutip sebagai berikut;
 
-> **“Adegan pertama yang muncul saat permainan baru dimulai adalah prosesi pemenggalan kepala pemberontak oleh tentara kerajaan. Konten porno juga terdapat didalam video game ini, karena setiap tokoh yang dipilih dapat dilucuti semua bajunya, termasuk karakter lain yang terdapat di video game ini. Dialog yang mereferensikan kegiatan seks juga terdengar selama permainan”.**
+> **Adegan pertama yang muncul saat permainan baru dimulai adalah prosesi pemenggalan kepala pemberontak oleh tentara kerajaan. Konten porno juga terdapat didalam video game ini, karena setiap tokoh yang dipilih dapat dilucuti semua bajunya, termasuk karakter lain yang terdapat di video game ini. Dialog yang mereferensikan kegiatan seks juga terdengar selama permainan.**
 
 Apabila anak anda bermain hal lain dan anda tidak yakin mengenai isinya, anda dapat meminta komunitas Next Gen menganalisanya via [twitter @nxgindonesia](https://twitter.com/nxgindonesia) atau [facebook mereka](http://www.facebook.com/nxgindonesia).
 

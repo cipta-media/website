@@ -23,10 +23,10 @@ Terkait aduan yang sudah diteruskan ke KPI pada Selasa (3/3/2015), ada 2 laporan
 
 ![Rapotivi-1024x121.png](/uploads/Rapotivi-1024x121.png){: .img-responsive .center-block }
 
-> “Menampilkan kekerasan terhadap peran lain dengan menampilkan hukuman menjepit muka, bibir, telinga dengan jepit pakaian di dalam sebuah tayangan televisi adalah sebuah tindakan yang keterlaluan, kekanak-kanakan, tidak mendidik, melecehkan. Makin tidak bermutunya tayangan televisi yang menggunakan saluran publik yang anehnya masih bisa menarik pengiklan dalam jumlah besar”, tulis Alpha Nugroho dalam pengaduannya.
+> Menampilkan kekerasan terhadap peran lain dengan menampilkan hukuman menjepit muka, bibir, telinga dengan jepit pakaian di dalam sebuah tayangan televisi adalah sebuah tindakan yang keterlaluan, kekanak-kanakan, tidak mendidik, melecehkan. Makin tidak bermutunya tayangan televisi yang menggunakan saluran publik yang anehnya masih bisa menarik pengiklan dalam jumlah besar, tulis Alpha Nugroho dalam pengaduannya.
 
 Sementara itu Merita Chandrarini mengatakan bahwa Tayangan The Blusukan telah melanggar privasi seseorang.
 
-> “Tayangan The Blusukan hari ini menampilkan mediasi dalam kemelut rumah tangga Kiwil. Untuk apa mediasi dilakukan sebuah televisi swasta yang dapat dikonsumsi publik. Seharusnya mediasi dilakukan secara tertutup dalam forum keluarga atau mediasi melalui pengadilan bukan mediasi secara live. Televisi Indonesia saat ini banyak memberikan tayangan tidak penting dan cenderung banyak gimick untuk mengejar rating semata”, ungkap Merita.
+> Tayangan The Blusukan hari ini menampilkan mediasi dalam kemelut rumah tangga Kiwil. Untuk apa mediasi dilakukan sebuah televisi swasta yang dapat dikonsumsi publik. Seharusnya mediasi dilakukan secara tertutup dalam forum keluarga atau mediasi melalui pengadilan bukan mediasi secara live. Televisi Indonesia saat ini banyak memberikan tayangan tidak penting dan cenderung banyak gimick untuk mengejar rating semata, ungkap Merita.
 
 Kini nilai TV ada di tangan Anda. Mari berpartisipasi dalam mengadukan tayangan bermasalah dengan mengunduh aplikasi Rapotivi di Playstore atau buat aduan di [Rapotivi.org](http://rapotivi.org/). Anda juga bisa memantau aduan yang dikirimkan dengan melihat [Arsip Kabar](http://rapotivi.org/index.php?r=home/kabar) Rapotivi.
