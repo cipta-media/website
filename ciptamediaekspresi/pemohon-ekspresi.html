@@ -11,16 +11,18 @@ layout: info
             </div>
         </div>
         <div class="row" style="margin-top: 30px">
-            {% for hibah in site.hibahcme %}
-            <div class="col-md-3">
-                <a href="{{ hibah.url }}">
-                    <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
-                        <div class="card-image">
-                            <img class="img-responsive center-block" src="{{ hibah.foto.url }}">
+            <div class="masonry">
+            {% for hibah in site.hibahcme reversed %}
+                <div class="masonry-item">
+                    <a href="{{ hibah.url }}">
+                        <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
+                            <div class="card-image">
+                                <img class="img-responsive center-block" src="{{ hibah.foto.url }}">
+                            </div>
                         </div>
-                    </div>
-                </a>
-            </div>
+                    </a>
+                </div>
             {% endfor %}
+            </div>
         </div>
     </div>
