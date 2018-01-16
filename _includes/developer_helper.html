@@ -1,17 +1,35 @@
-<div class='alert alert-info mx-auto' style="position: fixed; bottom: 0;">
-  Duh, sepertinya anda berada di mode pratinjau. 🧐🧐🧐 <button id="_clearUser" class='btn btn-danger'>Reset status terdaftar</button>
+<div
+  class='alert alert-info'
+  style="position: fixed; bottom: 0; z-index: 10; margin: 0"
+>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Tutup">
+    <span aria-hidden="true">&times;</span>
+  </button>
+  Anda berada di mode pratinjau.<br>
+  <button id="_clearUser" class="btn-link text-danger"><u>Reset status terdaftar</u></button> |
+  <button id="logout" class="btn-link text-danger"><u>Logout</u></button>
 </div>
 <script type="text/javascript">
 
 $(document).ready(
   function() {
+    if (!netlifyIdentity.currentUser()) return;
+
     $('#_clearUser').click(_clearUser);
+    $('#logout').click(logout);
   }
 )
 const _clearUser = function() {
   netlifyIdentity.currentUser().update( {data: {registered: false}}).
   then(function() {
     alert('Status terdaftar sudah di hapus, halaman akan di muat ulang!');
+    window.location.reload();
+  })
+}
+var logout = function() {
+  netlifyIdentity.currentUser().logout().
+  then(function() {
+    alert('Anda telah logout, halaman akan di muat ulang!');
     window.location.reload();
   })
 }
