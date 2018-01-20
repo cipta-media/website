@@ -185,8 +185,12 @@
   left: -12px;
 }
 .detail-tl {
-  right: -7.5px !important;
-  top: 22.5px !important;
+  top: 23px !important;
+}
+.detail-tl .fa-stack {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 @media (max-width: 767px) {
   ul.timeline:before {
@@ -239,13 +243,5 @@
 
   .timeline > li.timeline-inverted > .timeline-badge{
     left: 53px;
-  }
-
-  .detail-tl {
-    left: 47.5px !important;
-  }
-
-  .detail-tl-date {
-    top: -125px !important;
   }
 }
