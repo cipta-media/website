@@ -128,7 +128,16 @@ layout: info
         </div>
         <div class="row">
             <div class="col-md-4 col-md-offset-2">
-                <img class="img-responsive center-block" src="{{ page.foto.url }}" style="max-height: 400px">
+                <img
+                  class="rsz-fallback pemohon-img img-responsive center-block"
+                  src="{{
+                    page.foto.url |
+                    replace_first: ".com", ".com.rsz.io" |
+                    append: "?width=300" |
+                    append: "&rotate=" | append: page.foto_rotate
+                  }}"
+                  style="max-height: 400px"
+                >
             </div>
             <div class="col-md-4">
                 <h3 style="color: #e2bc67; text-transform: uppercase; font-weight: bold">Riwayat Berkarya</h3>
@@ -180,3 +189,5 @@ layout: info
             </div>
         </div>
     </div>
+
+    <script src="/static/js/rsz-fallback.js"></script>
