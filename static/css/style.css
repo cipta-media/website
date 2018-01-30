@@ -781,3 +781,13 @@ blockquote em {
   display: inline-block;
   width: 100%;
 }
+
+.yellow-line {
+  border-top: 1px solid #ffca5f;
+}
+
+.yellow-header {
+  color: #e2bc67;
+  font-family: 'Biryani', sans-serif;
+  text-transform: uppercase;
+}
