@@ -6,7 +6,11 @@
   <meta content="{{ site.description }}" name="description">
   <meta name="keywords" content="{{ site.keywords }}">
   <meta name="author" content="{{ site.author.name }}">
+  {% if page.seni %}
+  <title>{{ site.title }} Ekspresi | {{ page.title }} - {{ page.proyek }}</title>
+  {% else %}
   <title>{{ site.title }} | {{ page.title }}</title>
+  {% endif %}
   <!-- Open Graph -->
   <meta property="og:url" content="http://www.ciptamedia.org/">
   <meta property="og:type" content="website">
