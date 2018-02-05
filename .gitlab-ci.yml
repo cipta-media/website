@@ -12,9 +12,6 @@ test:
   stage: test
   script:
     - bundle exec jekyll build -d test
-  artifacts:
-    paths:
-      - test
   except:
     - master
 
