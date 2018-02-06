@@ -14,7 +14,7 @@ layout: info
             <div class="masonry">
             {% for hibah in site.hibahcme reversed %}
                 <div class="masonry-item">
-                    <a href="{{ hibah.url }}">
+                    <a href="{{ hibah.url | remove: '.html' }}">
                         <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
                             <div class="card-image">
                                 <img
