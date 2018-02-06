@@ -1,7 +1,11 @@
 #!/bin/bash
 
 build() {
-  jekyll build
+  if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
+    jekyll build --config _config.yml,_config.${JEKYLL_ENV}.yml
+  else
+    jekyll build
+  fi
   exit
 }
 
