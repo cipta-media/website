@@ -2,6 +2,26 @@
 title: Pemohon Hibah
 layout: info
 ---
+{% assign foto_url_first_char = page.foto.url | slice: 0 %}
+{% if foto_url_first_char == '/' %}
+  {% assign foto_url = page.foto.url | absolute_url %}
+{% else %}
+  {% assign foto_url = page.foto.url %}
+{% endif %}
+
+{% if page.foto_rotate %}
+  {% assign foto_src = foto_url
+                     | replace_first: ".com", ".com.rsz.io"
+                     | append: "?width=300"
+                     | append: "&amp;rotate="
+                     | append: page.foto_rotate
+                     %}
+{% else %}
+  {% assign foto_src = "https://zimage.global.ssl.fastly.net/?url="
+                     | append: foto_url
+                     | append: "&amp;width=300"
+                     %}
+{% endif %}
 
     <section id="header" style="background-image: url(/static/img/landing/faq-header.png);background-size: cover;background-attachment: scroll;background-repeat: no-repeat;background-position: bottom;height: 40vh;width: 100%"></section>
     {% if jekyll.environment != 'production' %}
@@ -130,12 +150,7 @@ layout: info
             <div class="col-md-4 col-md-offset-2">
                 <img
                   class="rsz-fallback pemohon-img img-responsive center-block"
-                  src="{{
-                    page.foto.url |
-                    replace_first: ".com", ".com.rsz.io" |
-                    append: "?width=300" |
-                    append: "&rotate=" | append: page.foto_rotate
-                  }}"
+                  src="{{ foto_src }}"
                   style="max-height: 400px"
                 >
             </div>

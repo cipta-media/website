@@ -13,18 +13,34 @@ layout: info
         <div class="row" style="margin-top: 30px">
             <div class="masonry">
             {% for hibah in site.hibahcme reversed %}
+               {% assign foto_url_first_char = hibah.foto.url | slice: 0 %}
+               {% if foto_url_first_char == '/' %}
+                 {% assign foto_url = hibah.foto.url | absolute_url %}
+               {% else %}
+                 {% assign foto_url = hibah.foto.url %}
+               {% endif %}
+               {% if hibah.foto_rotate %}
+                 {% assign foto_src = foto_url
+                                    | replace_first: ".com", ".com.rsz.io"
+                                    | append: "?width=300"
+                                    | append: "&amp;rotate="
+                                    | append: hibah.foto_rotate
+                                    %}
+               {% else %}
+                 {% assign foto_src = "https://zimage.global.ssl.fastly.net/?url="
+                                    | append: foto_url
+                                    | append: "&amp;width=300"
+                                    %}
+               {% endif %}
+
+
                 <div class="masonry-item">
                     <a href="{{ hibah.url | remove: '.html' }}">
                         <div class="card" style="box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0), 0 0 0px 0 rgba(0, 0, 0, 0);">
                             <div class="card-image">
                                 <img
                                   class="rsz-fallback img-responsive center-block"
-                                  src="{{
-                                    hibah.foto.url |
-                                    replace_first: ".com", ".com.rsz.io" |
-                                    append: "?width=300" |
-                                    append: "&rotate=" | append: hibah.foto_rotate
-                                  }}"
+                                  src="{{ foto_src }}"
                                 >
                             </div>
                         </div>
