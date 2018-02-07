@@ -53,6 +53,7 @@ wawancara:
   -
     judul: "Andy Yentriyani: Tidak Boleh Menyerah Mengubah Keadaan Menjadi Lebih Indah"
     link: /andy-yentriany/tidak-menyerah/
+youtube: https://www.youtube.com/embed/-3JB-FRZRrc
 foto: /static/img/juricme/andy.png
 layout: people
 ---

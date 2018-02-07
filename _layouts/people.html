@@ -29,6 +29,9 @@ $(document).ready(function(){
                     <h4 style="display: inline; color: #e2bc67; text-transform: uppercase; margin-left: 10px; margin-right: 10px">|</h4>
                     {% endif %}
                 {% endfor %}
+                <div class="embed-responsive embed-responsive-16by9" style="margin-top: 50px">
+                    <iframe class="embed-responsive-item" src="{{ page.youtube }}"></iframe>
+                </div>
                 <hr style="border-top: 2px solid #ffca5f; margin-bottom: 50px; margin-top: 50px">
                 <h4 style="color: #6ca59a; text-transform: uppercase; font-weight: bold; font-size: 14px; line-height: 1.8em; letter-spacing: 0.05em">Dewan Juri Cipta Media Ekspresi</h4>
                 {% for juri in site.juri-cme %}

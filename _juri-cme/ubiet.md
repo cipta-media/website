@@ -52,6 +52,7 @@ wawancara:
   -
     judul: "Nyak Ina Raseuki (Ubiet): Ragam Suara dan Sikap dalam Kehidupan"
     link: /ubiet/ragam-suara-dan-sikap-dalam-kehidupan/
+youtube: https://www.youtube.com/embed/eVjK4k4T1n8
 foto: /static/img/juricme/ubiet.png
 layout: people
 ---

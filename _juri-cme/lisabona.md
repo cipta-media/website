@@ -24,6 +24,7 @@ wawancara:
   -
     judul: "Lisabona Rahman: Perempuan, Pemikiran dan Pencatatan Sejarah"
     link: /lisabona/perempuan-pemikiran-dan-pencatatan-sejarah/
+youtube: https://www.youtube.com/embed/bR5oB8CUs20
 foto: /static/img/juricme/lisabona.png
 layout: people
 ---
