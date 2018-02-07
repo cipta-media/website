@@ -266,10 +266,12 @@ layout: info
             lokasi: {
               required: true,
               minlength: 3,
+              maxwordcount: 12,
             },
             pengalaman: {
               required: true,
               minlength: 3,
+              maxwordcount: 30,
             },
             proyek: {
               required: true,
@@ -294,6 +296,7 @@ layout: info
             sukses: {
               required: true,
               minlength: 3,
+              maxwordcount: 200,
             },
             foto: {
               required: true,
@@ -329,10 +332,12 @@ layout: info
             lokasi: {
               required: "Harap masukan lokasi Anda",
               minlength: "Harap masukan lokasi Anda",
+              maxwordcount: "Harap masukan lokasi proyek Anda secara singkat",
             },
             pengalaman: {
               required: "Harap masukan pengalaman Anda",
               minlength: "Harap masukan pengalaman Anda",
+              maxwordcount: "Harap masukan lama pengalaman Anda berkarya dengan singkat",
             },
             proyek: {
               required: "Harap masukan nama proyek Anda",
@@ -357,6 +362,7 @@ layout: info
             sukses: {
               required: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
               minlength: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
+              maxwordcount: "Harap ceritakan indikator sukses proyek Anda dalam 200 kata",
             },
             foto: {
               required: "Harap unggah foto diri Anda",
