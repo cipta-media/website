@@ -691,12 +691,12 @@ blockquote {
   padding: 25px 20px 25px 55px;
   margin: 20px 10px 20px;
   position: relative;
-  
+
   /*Font*/
   font-size: 18px;
   font-style: italic;
   color: #6ca59a;
-  
+
   /*Borders - (Optional)*/
   border-left: 0px solid #6ca59a;
   border-right: 0px solid #6ca59a;
@@ -704,13 +704,13 @@ blockquote {
 
 blockquote::before {
   content: "\201C"; /*Unicode for Left Double Quote*/
-  
+
   /*Font*/
   font-family: Georgia, serif;
   font-size: 60px;
   font-weight: bold;
   color: #6ca59a;
-  
+
   /*Positioning*/
   position: absolute;
   left: 10px;
@@ -790,4 +790,8 @@ blockquote em {
   color: #e2bc67;
   font-family: 'Biryani', sans-serif;
   text-transform: uppercase;
+}
+
+.submission {
+  min-height: 80vh;
 }
