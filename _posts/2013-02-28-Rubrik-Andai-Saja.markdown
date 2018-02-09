@@ -1,6 +1,6 @@
 ---
 title: Rubrik Andai Saja
-date: 2013-02-29
+date: 2013-02-28
 categories:
 - laporan
 - Marsinah FM
