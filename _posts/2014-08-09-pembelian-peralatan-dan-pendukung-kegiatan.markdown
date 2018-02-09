@@ -3,8 +3,10 @@ title: Pembelian Peralatan dan Pendukung Kegiatan
 date: 2014-08-09
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-Agustus_09_2014_SIIK_Pembelian_Barang-1.jpg](/uploads/200px-Agustus_09_2014_SIIK_Pembelian_Barang-1.jpg){: .img-responsive .center-block }
 ![200px-Agustus_09_2014_SIIK_Pembelian_Barang-2.jpg](/uploads/200px-Agustus_09_2014_SIIK_Pembelian_Barang-2.jpg){: .img-responsive .center-block }
 

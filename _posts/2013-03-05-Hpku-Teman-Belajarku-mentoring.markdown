@@ -4,10 +4,11 @@ date: 2013-03-05
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Dari Ali Sahbana ke Heru Tjatur via surel dengan subyek: Keputusan Organisasi Pengelola Program Cipta Media Bersama
+Dari Ali Sahbana ke Heru Tjatur via surel dengan subyek: Keputusan Organisasi Pengelola Program Cipta Media Bersama
 
 Dear Mas Heru Tjatur (ICT  Watch)
 
@@ -60,5 +61,3 @@ Wassalamu’alaikum Wr. Wb.
 Hormat Kami
 
 Ali Sahbana (Hpku)
-
-

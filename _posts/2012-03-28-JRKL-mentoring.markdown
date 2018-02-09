@@ -4,10 +4,11 @@ date: 2012-03-28
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
-     Oleh Siska Doviana, Sekretariat JRKL Lampung.
+Oleh Siska Doviana, Sekretariat JRKL Lampung.
         Hadir: Rifky Indrawan, Manda Atmodjo, Hendra Prastiawan
 
-Pada saat melakukan pelatihan wiki diutarakan deskripsi upaya yang JRKL coba lakukan. SMS via ushaidi rencananya akan diarsipkan dan diajukan ke Komisi Penyiaran. 
+Pada saat melakukan pelatihan wiki diutarakan deskripsi upaya yang JRKL coba lakukan. SMS via ushaidi rencananya akan diarsipkan dan diajukan ke Komisi Penyiaran.

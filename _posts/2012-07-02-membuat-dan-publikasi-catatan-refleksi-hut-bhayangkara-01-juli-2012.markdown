@@ -3,8 +3,10 @@ title: Membuat dan publikasi catatan refleksi HUT Bhayangkara 01 Juli 2012
 date: 2012-07-02
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juli_02_2012_catatan_Refleksi_HUT_Bhayangkara.jpg](/uploads/200px-Juli_02_2012_catatan_Refleksi_HUT_Bhayangkara.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Membuat dan publikasi catatan refleksi HUT Bhayangkara 01 Juli 2012

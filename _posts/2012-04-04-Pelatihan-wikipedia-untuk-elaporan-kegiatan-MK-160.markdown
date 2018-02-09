@@ -3,6 +3,7 @@ title: Pelatihan wikipedia untuk pelaporan kegiatan MK-160 untuk program Cipta M
 date: 2012-04-04
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

@@ -3,8 +3,10 @@ title: Pembuatan peraturan Kampung dan Liputan Khusus keerom
 date: 2012-08-14
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Agustus_14_2012_Asistensi_dan_Liputan_&Liputan_Khussu_PERKAM_Arso.jpg](/uploads/200px-Agustus_14_2012_Asistensi_dan_Liputan_&Liputan_Khussu_PERKAM_Arso.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Pembuatan peraturan Kampung dan Liputan Khusus keerom

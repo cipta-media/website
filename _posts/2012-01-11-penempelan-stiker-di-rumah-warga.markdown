@@ -3,6 +3,7 @@ title: penempelan stiker di rumah warga untuk sosialisi dan pengingat nomor SMS 
 date: 2012-01-11
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

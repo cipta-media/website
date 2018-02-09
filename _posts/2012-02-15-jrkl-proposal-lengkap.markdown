@@ -1,8 +1,9 @@
 ---
 title: JRKL - Proposal Lengkap
-date: 2012-02-15 19:17:00 +07:00
+date: 2012-02-15 19:17:00+07:00
 categories:
 - laporan
+- CMS
 - JRKL
 permalink: /proposal-jrkl/
 ---

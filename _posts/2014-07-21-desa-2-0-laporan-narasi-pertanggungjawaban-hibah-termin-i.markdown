@@ -3,6 +3,7 @@ title: Desa 2.0 - Laporan Narasi Pertanggung Jawaban Hibah Termin I
 date: 2014-07-21
 categories:
 - laporan
+- CMS
 - Desa 2.0
 ---
 

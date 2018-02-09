@@ -3,6 +3,7 @@ title: Presentasi Hasil Pemantauan Media dan Seminar Nasional Etika Media
 date: 2012-10-18
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

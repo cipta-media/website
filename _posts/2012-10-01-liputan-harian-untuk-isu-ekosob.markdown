@@ -3,8 +3,10 @@ title: Liputan harian untuk Isu Ekosob
 date: 2012-10-01
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Oktober_01-30_2012_Liputan_harian_Untuk_isu_Ekosob.jpg](/uploads/200px-Oktober_01-30_2012_Liputan_harian_Untuk_isu_Ekosob.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan harian untuk Isu Ekosob

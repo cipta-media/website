@@ -3,6 +3,7 @@ title: Pusat Training Wireless Cellular Network OpenBTS - Proposal Lengkap
 date: 2014-07-24
 categories:
 - laporan
+- CMS
 - Pusat OpenBTS
 ---
 
@@ -137,5 +138,3 @@ Dana yang diajukan ke Cipta Media Bersama sebesar Rp. 700.000.000,-
 Kontribusi organisasi:Rp 120.655.000,- dan Penyediaan tempat, operasional dan pengembangan selanjutnya
 
 Kontribusi dari kelompok target: Setiap peserta diharapkan bisa memberikan konstribusi sebesar Rp. 50.000 / hari untuk makan dan snack selama mengikuti training.
-
- 

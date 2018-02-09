@@ -3,8 +3,10 @@ title: Liputan Khusus Diskusi Indikator Papua Tanah Damai Di Merauke
 date: 2012-08-29
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Agustus_29_2012_Liputan_Khusus_Dialog_Jakarta_Papua_Merauke.jpg](/uploads/200px-Agustus_29_2012_Liputan_Khusus_Dialog_Jakarta_Papua_Merauke.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Diskusi Indikator Papua Tanah Damai Di Merauke

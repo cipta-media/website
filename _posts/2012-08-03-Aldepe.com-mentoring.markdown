@@ -4,10 +4,11 @@ date: 2012-08-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
-     Kantor ALDP, Jayapura, Papua 
+Kantor ALDP, Jayapura, Papua 
 
     Oleh: Asep Saefullah & Anggara. 
     Hadir 03 Agustus: Yusman Conoras, Corry Silpa, Latifah Anum, Martha Korwa

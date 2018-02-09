@@ -3,6 +3,7 @@ title: Pendataan berita Syariat Islam di media cetak
 date: 2012-04-22
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

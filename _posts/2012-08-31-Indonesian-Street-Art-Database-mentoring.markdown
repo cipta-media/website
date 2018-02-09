@@ -4,10 +4,11 @@ date: 2012-08-31
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
-     Oleh: Idaman Andarmosoko
+Oleh: Idaman Andarmosoko
 
 Umum
 
@@ -33,4 +34,4 @@ Mencari tenaga spesifik programmer web-based database
 ISAD perlu membedakan berbagai jasa spesifik di dunia implementasi website, seperti antara lain jasa koneksi internet, jasa domain, jasa hosting, jasa setup CMS siap pakai, jasa desain grafis berbasis web, dan jasa programmer database berbasis web. Sedangkan keperluan urgen spesifik ISAD saat ini adalah tenaga programmer database web. Untuk ini tenaga tersebut harus dipekerjakan dengan kontrak capaian kerja, waktu dan pembayaran yang jelas, agar dapat disesuaikan dengan kebutuhan ISAD
 Konsultasi hosting
 
-ISAD perlu berkonsultasi secara teknis dengan pihak air putih tentang rincian teknis layanan hosting yang disediakan oleh air putih, baik dari segi kapasitas dan spesifikasi prasarana, maupun protokol teknis penggunaannya, dan hal hal spesifik lainnya, dan mengkomunikasikan kepada atau melibatkan tenaga programmer database 
+ISAD perlu berkonsultasi secara teknis dengan pihak air putih tentang rincian teknis layanan hosting yang disediakan oleh air putih, baik dari segi kapasitas dan spesifikasi prasarana, maupun protokol teknis penggunaannya, dan hal hal spesifik lainnya, dan mengkomunikasikan kepada atau melibatkan tenaga programmer database

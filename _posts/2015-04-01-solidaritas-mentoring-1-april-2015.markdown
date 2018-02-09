@@ -1,10 +1,10 @@
-
 ---
 title: Solidaritas.net Media Center - Mentoring 1 April 2015
 date: 2015-04-01
 categories:
 - laporan
 - mentoring
+- CMS
 - solidaritas.net
 ---
 

@@ -3,7 +3,8 @@ title: Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android - Lapo
 date: 2015-03-18
 categories:
 - laporan
-- Pandu App  
+- CMS
+- Pandu App
 ---
 
 ![250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg](/uploads/250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg){: .img-responsive .center-block }

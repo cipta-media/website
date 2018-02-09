@@ -4,6 +4,7 @@ date: 2013-04-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
@@ -14,4 +15,3 @@ Dear mbak Siska,
 Laporan terakhir adalah tgl 30 maret. Per 30 maret kemarin jumlah pengeluaran Lembaga Bhinneka melalui program CMB 2012 adalah 387jt+, sedikit overbudget. Ini juga sudah saya update lewat email untuk kawan2 check. Jika ada pertanyaan & sekiranya ada ralat, silahkan hubungi saya.
 
 Makasih, Phebe
-

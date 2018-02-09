@@ -4,9 +4,10 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
-     Oleh Tim Penasehat dalam konsultasi pada Jagongan Media Rakyat, Yogyakarta
+Oleh Tim Penasehat dalam konsultasi pada Jagongan Media Rakyat, Yogyakarta
 
     (isi belum ada)

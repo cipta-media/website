@@ -3,6 +3,7 @@ title: Kegiatan ini untuk menyatukan pandangan soal penjurian lomba penulisan pe
 date: 2012-12-28
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

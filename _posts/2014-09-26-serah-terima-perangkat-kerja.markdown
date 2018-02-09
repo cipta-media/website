@@ -3,6 +3,7 @@ title: Serah Terima Perangkat Kerja
 date: 2014-09-26
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 

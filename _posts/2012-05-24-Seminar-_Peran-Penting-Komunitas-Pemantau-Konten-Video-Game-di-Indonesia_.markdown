@@ -3,9 +3,9 @@ title: Seminar "Peran Penting Komunitas Pemantau Konten Video Game di Indonesia"
 date: 2012-05-24
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Mei_24_2012_NextGeneration_Seminar_Unisba_1.jpg](/uploads/200px-Mei_24_2012_NextGeneration_Seminar_Unisba_1.jpg){: .img-responsive .center-block }
 

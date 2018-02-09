@@ -4,10 +4,11 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
-     Melalui surel dari Siska ditujukan pada Rifky Indrawan dan Igo
+Melalui surel dari Siska ditujukan pada Rifky Indrawan dan Igo
 
 Pak Rifky dan Tim JRKL yang baik, Terkait berakhirnya hibah Cipta Media Bersama, terlampir adalah surat resmi permintaan laporan JRKL untuk revisi Termin Hibah I dan laporan Termin Hibah II.
 
@@ -47,4 +48,3 @@ Kebutuhan Informasi – atau yang lainnya. Wikimedia Indonesia meminta anggaran 
 
 Hormat saya,
 Siska Doviana
-

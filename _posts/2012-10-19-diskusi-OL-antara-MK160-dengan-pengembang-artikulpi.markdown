@@ -3,9 +3,9 @@ title: diskusi OL antara MK160 dengan pengembang artikulpi terkait sistem aplika
 date: 2012-10-19
 categories:
 - laporan
+- CMS
 - MK-160
 ---
-
 
 **Tujuan** : diskusi OL antara MK160 dengan pengembang artikulpi terkait sistem aplikasi MK160.
 

@@ -4,10 +4,11 @@ date: 2012-09-13
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Dari Ali Sahbana ke Heru Tjatur via surel dengan subyek: Laporan Naratif untuk Program HPku Teman Belajarku
+Dari Ali Sahbana ke Heru Tjatur via surel dengan subyek: Laporan Naratif untuk Program HPku Teman Belajarku
 
 Salam Mas Tjatur, dan Tim Pengawas CMB
 
@@ -15,4 +16,4 @@ Berikut kami sampaikan laporan Hpku Teman Belajarku dari 1000guru Kediri periode
 
 Hormat Kami
 
-Ali Sahbana 
+Ali Sahbana

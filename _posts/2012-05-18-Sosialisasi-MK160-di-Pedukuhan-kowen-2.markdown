@@ -3,6 +3,7 @@ title: Sosialisasi MK160 di Pedukuhan kowen 2
 date: 2012-05-18
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

@@ -4,6 +4,7 @@ date: 2013-03-16
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
@@ -16,4 +17,4 @@ Halo Bang Yusman, Tidak ada yang dikunci dari laporan keuangan ALDP. Saya sudah 
     Sri, admin penerima hibah "PIRAC"
 
 ALDP tercatat terakhir memperbaharui Evi(10 Des 2012) dan Alung (25 Jan 2013)
-Keduanya tidak ada masalah kunci-mengunci, hanya berhenti berkontribusi. 
+Keduanya tidak ada masalah kunci-mengunci, hanya berhenti berkontribusi.

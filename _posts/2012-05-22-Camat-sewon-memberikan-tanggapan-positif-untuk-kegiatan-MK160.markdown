@@ -3,6 +3,7 @@ title: Camat sewon memberikan tanggapan positif untuk kegiatan MK160. Bahkan dih
 date: 2012-05-22
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

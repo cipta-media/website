@@ -4,6 +4,7 @@ date: 2012-05-14
 categories:
 - laporan
 - mentoring
+- CMS
 - Pantau
 ---
 
@@ -44,4 +45,3 @@ Wawancara dilakukan dengan tatap muka (face to face interviews), via telepon. Wa
 Kendali Kualitas (quality control)
 
 Agar hasil survey terjaga kualitasnya, Pantau melakukan beberapa langkah. Pertama, akan ada pelatihan singkat bagi semua pewawancara. Materi pelatihan meliputi prosedur dalam memilih responden dan memahami instrumen/rumusan pertanyaan dalam survey. Kedua, akan dilakukan pendampingan (witness) sebanyak 20% dari total responden. Pendampingan ini akan dilakukan oleh staf program. Ini penting untuk memastikan bahwa pewawancara telah memilih responden dan melakukan wawancara dengan prosedur yang benar. Ketiga, akan dilakukan wawancara ulang (spot chek) sebesar 10% dari total responden untuk memastikan bahwa wawancara telah dilakukan dengan prosedur yang benar. Hasil wawancara tenaga lapangan akan diambil secara acak dan dicek kebenarannya oleh petugas quality control. Jika hasil pengecekan menunjukkan telah terjadi penipuan oleh seorang pewawancara, hasil wawancara*
-

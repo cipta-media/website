@@ -3,8 +3,10 @@ title: Liputan Khusus LAPAS Sorong
 date: 2012-10-04
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Oktober_04-05_2012_Kunjungan_LAPAS_Sorong.jpg](/uploads/200px-Oktober_04-05_2012_Kunjungan_LAPAS_Sorong.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus LAPAS Sorong

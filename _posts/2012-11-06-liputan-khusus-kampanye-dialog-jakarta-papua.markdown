@@ -3,8 +3,10 @@ title: Liputan Khusus kampanye dialog Jakarta-Papua
 date: 2012-11-06
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-November_06_2012_liputan_khusus_dialog_Jakarta_Papua_Timika.jpg](/uploads/200px-November_06_2012_liputan_khusus_dialog_Jakarta_Papua_Timika.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus kampanye dialog Jakarta-Papua

@@ -4,6 +4,7 @@ date: 2012-10-08
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 

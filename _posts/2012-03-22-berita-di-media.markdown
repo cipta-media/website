@@ -3,6 +3,7 @@ title: Berita di Media
 date: 2012-03-22
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

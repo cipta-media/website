@@ -4,6 +4,7 @@ date: 2015-03-19
 categories:
 - laporan
 - mentoring
+- CMS
 - Kerjabilitas
 ---
 
@@ -47,4 +48,3 @@ Mas Nasir yang baik,
 Terima kasih atas ulasan untuk Kerjabilitas. Sementara saya teruskan ke tim programmer dulu untuk nanti kami diskusikan, lalu menanggapi mas.
 
 Salam, rubby
-

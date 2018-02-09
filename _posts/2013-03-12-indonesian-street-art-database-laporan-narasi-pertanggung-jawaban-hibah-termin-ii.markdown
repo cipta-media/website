@@ -1,9 +1,9 @@
 ---
-title: Indonesian Street Art Database - Laporan Narasi Pertanggung Jawaban Hibah Termin
-  II
-date: 2013-03-12 20:27:00 +07:00
+title: Indonesian Street Art Database - Laporan Narasi Pertanggung Jawaban Hibah Termin II
+date: 2013-03-12 20:27:00+07:00
 categories:
 - laporan
+- CMS
 - Indonesian Street Art Database
 ---
 

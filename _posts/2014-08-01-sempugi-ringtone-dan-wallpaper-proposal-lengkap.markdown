@@ -3,6 +3,7 @@ title: Sempugi - Ringtone dan Wallpaper - Proposal Lengkap
 date: 2014-08-01
 categories:
 - laporan
+- CMS
 - Sempugi
 ---
 
@@ -136,4 +137,3 @@ Dana yang diajukan ke Cipta Media Bersama sebesar Rp 340.950.000,-
  **Sumber dana lainnya:** 
   
 Sumber dana lainnya sebesar Rp 75.850.000,- merupakan dana dari organisasi dan sumber lain yang halal dan tidak mengikat
- 

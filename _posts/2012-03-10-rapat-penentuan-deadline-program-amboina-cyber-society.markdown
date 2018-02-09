@@ -3,6 +3,7 @@ title: Rapat penentuan deadline program Amboina Cyber Society
 date: 2012-03-10
 categories:
 - laporan
+- CMS
 - Amboina Cyber Society
 ---
 

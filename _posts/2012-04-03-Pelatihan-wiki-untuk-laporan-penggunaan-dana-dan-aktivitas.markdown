@@ -3,6 +3,7 @@ title: Pelatihan wiki untuk laporan penggunaan dana dan aktivitas
 date: 2012-04-03
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

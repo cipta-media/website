@@ -3,6 +3,7 @@ title: Program Pertukaran Pengalaman Pengelolaan Media dan Peliputan Berita deng
 date: 2015-09-04
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 

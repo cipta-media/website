@@ -3,6 +3,7 @@ title: Rapat koordinasi Dewan Juri penghargaan jurnalistik
 date: 2012-11-26
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

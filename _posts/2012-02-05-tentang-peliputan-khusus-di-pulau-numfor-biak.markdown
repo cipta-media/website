@@ -3,8 +3,10 @@ title: Tentang Peliputan Khusus di Pulau Numfor-Biak
 date: 2012-02-05
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_5_2012_ALDP_Peliputan_Khusus-1.JPG](/uploads/200px-Februari_5_2012_ALDP_Peliputan_Khusus-1.JPG){: .img-responsive .center-block }
 ![200px-Februari_5_2012_ALDP_Peliputan_Khusus-2.JPG](/uploads/200px-Februari_5_2012_ALDP_Peliputan_Khusus-2.JPG){: .img-responsive .center-block }
 

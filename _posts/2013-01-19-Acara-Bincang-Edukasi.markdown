@@ -3,9 +3,9 @@ title: Acara Bincang Edukasi
 date: 2013-01-19
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Januari_19_2012_NextGeneration_Bined131.jpg](/uploads/200px-Januari_19_2012_NextGeneration_Bined131.jpg){: .img-responsive .center-block }
 
@@ -41,4 +41,4 @@ categories:
 * Materi 3 (Asep) : Latar belakang terbentuknya Rumah Pelangi dan apa yang dilakukan. Kegiatan lebih bersifat pendidikan informal bagi anak-anak di desa, mereka juga membuat perpustakaan mini yang koleksinya di dapat dari hasil menabung dan sumbangan. Melalui Rumah Pelangi, anak-anak diberi kesempatan untuk memperluas pengetahuan melalui berbagai kegiatan. Diantaranya pergi mengunjungi musem, melakukan observasi di kebun dan sawah, juga kegiatan yang bersifat kelestarian lingkungan.
 * Materi 4 (Tina) : Penggunaan Yoga sebagai alternatif bagi anak berkebutuhan khusus. Yoga yang identik dengan orang dewasa ternyata bisa juga dipraktekan oleh anak-anak, dan mereka banyak yang suka. Tak cuma membantu anak autis, Yoga juga bisa mendongkrak minat belajar anak-anak. 
 * Materi 5 (Ivan) : Pentingnya manajemen pengetahuan dan bagaimana cara memanfaatkannya agar pengetahuan yang kita miliki lebih berguna bagi banyak orang. Ivan juga menjelaskan, peran media sebagai sarana penunjang manajemen pengetahuan. Misalkan fungsi blog dan media sosial akan lebih bermanfaat bila digunakan untuk mennyebarkan pengetahuan, bukan sekadar perasaan. Ia juga menjelaskan sedikit tentang media wiki.
-* Diskusi dan sharing dipandu oleh moderator, komunitas lain yang hadirpun diberi kesempatan untuk memperkenalkan diri dan program masing-masing. 
+* Diskusi dan sharing dipandu oleh moderator, komunitas lain yang hadirpun diberi kesempatan untuk memperkenalkan diri dan program masing-masing.

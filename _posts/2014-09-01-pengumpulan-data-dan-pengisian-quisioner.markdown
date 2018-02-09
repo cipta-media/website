@@ -3,8 +3,10 @@ title: Pengumpulan Data dan Pengisian Quisioner
 date: 2014-09-01
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-September_01_2014_Pengumpulan_Data.png](/uploads/200px-September_01_2014_Pengumpulan_Data.png){: .img-responsive .center-block }
 ![200px-September_03_2014_Pengumpulan_Data.png](/uploads/200px-September_03_2014_Pengumpulan_Data.png){: .img-responsive .center-block }
 

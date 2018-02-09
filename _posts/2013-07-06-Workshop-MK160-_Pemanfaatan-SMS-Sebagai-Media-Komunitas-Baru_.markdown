@@ -3,9 +3,9 @@ title: Workshop MK160 "Pemanfaatan SMS Sebagai Media Komunitas Baru".
 date: 2013-07-06
 categories:
 - laporan
+- CMS
 - MK-160
 ---
-
 
 **Tujuan** : Workshop MK160 "Pemanfaatan SMS Sebagai Media Komunitas Baru".
 

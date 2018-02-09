@@ -4,10 +4,11 @@ date: 2013-01-19
 categories:
 - laporan
 - mentoring
+- CMS
 - Amboina Cyber Society
 ---
 
-     Dari Almascatie kepada Heru Tjatur 
+Dari Almascatie kepada Heru Tjatur 
 
 
-Okeh mas, segera disusun. 
+Okeh mas, segera disusun.

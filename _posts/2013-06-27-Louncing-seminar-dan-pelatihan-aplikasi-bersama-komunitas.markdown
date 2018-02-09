@@ -3,9 +3,9 @@ title: Louncing seminar dan pelatihan aplikasi bersama komunitas
 date: 2013-06-27
 categories:
 - laporan
+- CMS
 - MK-160
 ---
-
 
 **Tujuan** : Louncing seminar dan pelatihan aplikasi bersama komunitas
 

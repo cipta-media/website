@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-09-29
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-September_29_2012_NextGeneration_TK_Muhajirin.JPG.jpg](/uploads/200px-September_29_2012_NextGeneration_TK_Muhajirin.JPG.jpg){: .img-responsive .center-block }
 

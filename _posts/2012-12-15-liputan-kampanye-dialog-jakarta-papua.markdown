@@ -3,8 +3,10 @@ title: Liputan Kampanye dialog Jakarta-Papua
 date: 2012-12-15
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Desember_15_2012_Liputan_Khusus_Dialog_Jakarta-Papua.jpg](/uploads/200px-Desember_15_2012_Liputan_Khusus_Dialog_Jakarta-Papua.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Kampanye dialog Jakarta-Papua

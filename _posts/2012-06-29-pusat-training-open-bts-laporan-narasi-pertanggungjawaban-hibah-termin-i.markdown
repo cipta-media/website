@@ -3,6 +3,7 @@ title: Pusat Training OpenBTS Wireless Cellular Network OpenBTS - Laporan Narasi
 date: 2012-06-29
 categories:
 - laporan
+- CMS
 - Pusat OpenBTS
 ---
 

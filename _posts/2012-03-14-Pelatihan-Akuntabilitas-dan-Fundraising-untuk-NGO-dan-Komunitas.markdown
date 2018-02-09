@@ -3,6 +3,7 @@ title: Pelatihan Akuntabilitas dan Fundraising untuk NGO dan Komunitas
 date: 2012-03-14
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
 

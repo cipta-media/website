@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2013-02-21
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Februari_21_2013_NextGeneration_SD_Taimiah_1.jpg](/uploads/200px-Februari_21_2013_NextGeneration_SD_Taimiah_1.jpg){: .img-responsive .center-block }
 

@@ -3,8 +3,10 @@ title: Liputan Khusus Kondisi Kabupaten Supiori
 date: 2012-06-29
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juni_29_2012_liputan_Khusus_Kabupaten_Supiori.jpg](/uploads/200px-Juni_29_2012_liputan_Khusus_Kabupaten_Supiori.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kondisi Kabupaten Supiori

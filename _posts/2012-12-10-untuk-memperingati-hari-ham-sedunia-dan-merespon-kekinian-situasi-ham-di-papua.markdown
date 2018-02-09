@@ -3,8 +3,10 @@ title: Untuk memperingati Hari HAM Sedunia dan merespon kekinian situasi HAM di 
 date: 2012-12-10
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Desember_10_2012_Siaran_Pers_ALDP.jpg](/uploads/200px-Desember_10_2012_Siaran_Pers_ALDP.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Untuk memperingati Hari HAM Sedunia dan merespon kekinian situasi HAM di Papua

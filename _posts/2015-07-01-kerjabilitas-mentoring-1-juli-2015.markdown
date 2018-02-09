@@ -4,6 +4,7 @@ date: 2015-07-01
 categories:
 - laporan
 - mentoring
+- CMS
 - Kerjabilitas
 ---
 
@@ -34,4 +35,3 @@ Berdasarkan kinerja kami, kami menilai diri kami dengan poin 7. Alasannya karena
 **REKOMENDASI**
 
 Saujana masih berusaha melakukan penggalangan dana untuk keberlanjutan proyek MKPD (Kerjabilitas 2.0), diantaranya dengan menjajaki kerjasama dengan perbankan nasional dan regional Asia, termasuk penjajakan kolaborasi dengan donor Jepang. Namun kami harus menunggu jawaban mereka sampai sekitar 2 bulan lagi. Untuk menjembatani masa transisi ini, kami merekomendasikan kepada CMS untuk mengijinkan kami menggunakan dana sisa proyek yang kami proyeksikan bisa dipakai untuk operasional MKPD sampai 3 bulan setelah akhir proyek (sesuai jadwal, MKPD akan berakhir pada akhir Agustus). Bila hal ini disetujui, kami tetap bisa melanjutkan layanan dan beberapa kegiatan termasuk produksi konten sampai dengan akhir November.
-

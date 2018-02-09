@@ -3,6 +3,7 @@ title: Diskusi tentang Etika Peliputan dan Pemberitaan Syariat Islam
 date: 2013-05-30
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

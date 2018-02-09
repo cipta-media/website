@@ -4,10 +4,11 @@ date: 2012-09-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Dari Heru Tjatur ke Ali Sahbana via surel dengan subyek: Laporan Naratif untuk Program HPku Teman Belajarku
+Dari Heru Tjatur ke Ali Sahbana via surel dengan subyek: Laporan Naratif untuk Program HPku Teman Belajarku
 
 Dear Pak Ali,
 
@@ -29,4 +30,3 @@ Mudah-mudahan ini membantu memperjelas proses yang selama ini terhambat.
 Regards,
 Heru Tjatur
 ICT Watch
-

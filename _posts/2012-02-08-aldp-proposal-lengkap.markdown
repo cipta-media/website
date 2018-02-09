@@ -1,8 +1,9 @@
 ---
 title: ALDP - Proposal Lengkap
-date: 2012-02-08 13:23:00 +07:00
+date: 2012-02-08 13:23:00+07:00
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
 

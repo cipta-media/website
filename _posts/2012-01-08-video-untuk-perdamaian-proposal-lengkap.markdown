@@ -1,8 +1,9 @@
 ---
 title: Video untuk Perdamaian - Proposal Lengkap
-date: 2012-01-08 20:33:00 +07:00
+date: 2012-01-08 20:33:00+07:00
 categories:
 - laporan
+- CMS
 - Video untuk Perdamaian
 ---
 

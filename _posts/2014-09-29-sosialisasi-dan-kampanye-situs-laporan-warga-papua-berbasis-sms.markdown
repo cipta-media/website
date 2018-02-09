@@ -3,8 +3,10 @@ title: Sosialisasi & Kampanye Situs Laporan Warga Papua Berbasis SMS
 date: 2014-09-29
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![200px-September_29_2014_Jubi_Distribusi_buku_panduan_1.jpg](/uploads/200px-September_29_2014_Jubi_Distribusi_buku_panduan_1.jpg){: .img-responsive .center-block }
 ![200px-September_29_2014_Jubi_Distribusi_buku_panduan_2.jpg](/uploads/200px-September_29_2014_Jubi_Distribusi_buku_panduan_2.jpg){: .img-responsive .center-block }
 ![200px-September_29_2014_Jubi_Distribusi_buku_panduan_3.jpg](/uploads/200px-September_29_2014_Jubi_Distribusi_buku_panduan_3.jpg){: .img-responsive .center-block }

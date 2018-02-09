@@ -4,10 +4,11 @@ date: 2012-07-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
-     Oleh: Idaman Andarmosoko, Sekertariat ISAD, Pasar minggu, Jakarta pukul 16.00 -18.00
+Oleh: Idaman Andarmosoko, Sekertariat ISAD, Pasar minggu, Jakarta pukul 16.00 -18.00
         Hadir: Andi RhaRhaRha, Isrol , Syaiful Ardianto, Jasser Alif, Riksa Afianty 
 
 Pada saat konsultasi ISAD menyatakan bahwa mereka sedang dalam proses menulis laporan fase pertama. Konsultasi ini adalah catatan diluar laporan yang akan dibuat ISAD kemudian. Masukkan teks yang tidak akan diformat di sini
@@ -42,4 +43,4 @@ Data-data ISAD, perlu dikelola dengan suatu rancangan pengelolaan data yang mema
 
     Rekomendasi 3: Pelatihan internal tentang pengelolaan data
 
-Hal-hal yang direkomendasikan pada rekomendasi 1 dan 2 , tidak bisa dilepaskan begitu saja sepenuhnya kepada teknisi di luar ISAD. ISAD perlu memahami walaupun tidak sampai ke detail teknologisnya, tentang hal hal yang prinsipil. Karena kapasitas ini belum ada di ISAD, maka disarankan ISAD untuk mengikuti pelatihan pengelolaan data. Pelatihan ini bisa dijalankan di luar ISAD maupun di dalam tubuh ISAD. 
+Hal-hal yang direkomendasikan pada rekomendasi 1 dan 2 , tidak bisa dilepaskan begitu saja sepenuhnya kepada teknisi di luar ISAD. ISAD perlu memahami walaupun tidak sampai ke detail teknologisnya, tentang hal hal yang prinsipil. Karena kapasitas ini belum ada di ISAD, maka disarankan ISAD untuk mengikuti pelatihan pengelolaan data. Pelatihan ini bisa dijalankan di luar ISAD maupun di dalam tubuh ISAD.

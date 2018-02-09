@@ -4,10 +4,11 @@ date: 2012-10-15
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
-     Oleh Siska Doviana di FX, Jakarta
+Oleh Siska Doviana di FX, Jakarta
     Hadir: Siska Doviana, Djohan Hasibuan, Hendra Prastiawan, Rifky Indrawan
 
     Seluruh SMS yang masuk di Lapor Ciptamedia (ushaidi) ada 220 pesan. Banyak pesan ini tidak optimal karena pada bulan Maret - April 2012 saat diskusi pemantauan sedang gencar-gencarnya dilakukan, secara teknis ushaidi macet (pulsa, kegagalan admin cipta media memahami perangkat lunak baru dan lainnya).

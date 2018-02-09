@@ -3,8 +3,10 @@ title: Pelatihan Wiki
 date: 2014-08-15
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-Agustus_15_2014_SIIK_Pelatihan_Wiki-1.jpg](/uploads/200px-Agustus_15_2014_SIIK_Pelatihan_Wiki-1.jpg){: .img-responsive .center-block }
 ![200px-Agustus_15_2014_SIIK_Pelatihan_Wiki-3.JPG](/uploads/200px-Agustus_15_2014_SIIK_Pelatihan_Wiki-3.JPG){: .img-responsive .center-block }
 

@@ -3,6 +3,7 @@ title: M-Pantau Kebebasan Beragama dan Berkeyakinan - Proposal Lengkap
 date: 2014-09-26
 categories:
 - laporan
+- CMS
 - m.Pantau
 ---
 
@@ -137,4 +138,3 @@ Hasil pemantauan mereka kirim melalui SMS gateway kepada administrator di Wahid 
  **Sumber dana lainnya:**
   
   Kontribusi organisasi: Rp 132.000.000,-(Seratus tiga puluh dua juta rupiah)
- 

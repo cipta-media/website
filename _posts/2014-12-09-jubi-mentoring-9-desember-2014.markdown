@@ -4,6 +4,7 @@ date: 2014-12-09
 categories:
 - laporan
 - mentoring
+- CMS
 - Situs Laporan JUBI
 ---
 

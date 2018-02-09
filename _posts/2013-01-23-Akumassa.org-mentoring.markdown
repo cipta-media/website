@@ -4,10 +4,11 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
+- CMS
 - Akumassa.org
 ---
 
-     Dari Siska ditujukan ke Otty Widasari
+Dari Siska ditujukan ke Otty Widasari
 
 Halo Mba Otty dan Tim Akumassa,
 
@@ -48,4 +49,3 @@ Surat ini juga akan dikirimkan via pos. Namun untuk memudahkan saya salin tempel
  Hormat saya,
  
  Siska Doviana
-

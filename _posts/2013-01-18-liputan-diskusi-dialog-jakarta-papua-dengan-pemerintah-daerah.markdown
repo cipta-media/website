@@ -3,8 +3,10 @@ title: Liputan diskusi dialog Jakarta-Papua dengan pemerintah Daerah
 date: 2013-01-18
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Januari_18_2013_Liputan_Dialog_JakartaPapua_dengan_pmeritah.jpg](/uploads/200px-Januari_18_2013_Liputan_Dialog_JakartaPapua_dengan_pmeritah.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan diskusi dialog Jakarta-Papua dengan pemerintah Daerah

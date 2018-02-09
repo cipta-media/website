@@ -1,11 +1,11 @@
 ---
 title: Video untuk Perdamaian -  Laporan Narasi Pertanggung Jawaban Hibah
-date: 2012-11-07 17:45:00 +07:00
+date: 2012-11-07 17:45:00+07:00
 categories:
 - laporan
+- CMS
 - Video untuk Perdamaian
 ---
-
 
 **Laporan Narasi Pertanggung Jawaban Hibah**
 

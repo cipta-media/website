@@ -4,10 +4,11 @@ date: 2013-01-25
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
-    Dari Siska Doviana kepada Soe Tjen Marching dan tim Lembaga Bhinneka via surel dengan subyek: Surat Resmi Untuk Lembaga Bhinneka Mengenai Tenggat Waktu Laporan Hibah Termin II dan Penyelesaiannya (juga dikirimkan melalui pos)
+Dari Siska Doviana kepada Soe Tjen Marching dan tim Lembaga Bhinneka via surel dengan subyek: Surat Resmi Untuk Lembaga Bhinneka Mengenai Tenggat Waktu Laporan Hibah Termin II dan Penyelesaiannya (juga dikirimkan melalui pos)
 
 
 Ibu Soe Tjen dan Tim Lembaga Bhinneka yang baik,
@@ -61,4 +62,4 @@ Mbak Siska, Saat ini, rencana kami untuk bedah buku LGBT terpaksa ditunda, karen
 
 Tapi, kami masih positif kalau bisa menyelesaikan laporan akhir Febuari. Dari perkiraan, rasanya akan ada sisa dana. Untuk sisa dana ini, kami akan menggunakannya untuk kegiatan Lingkar Puisi dan Prosa - Lembaga Bhinneka (Lomba menulis cerpen and artikel tentang hak-hak perempuan). Kalau Cipta Media meminta detail budgetnya, apakah bisa saya beri sekitar pertengahan Febuari?
 
-Soe Tjen. 
+Soe Tjen.

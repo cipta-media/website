@@ -4,10 +4,11 @@ date: 2013-01-25
 categories:
 - laporan
 - mentoring
+- CMS
 - Pantau
 ---
 
-     Dari Siska Doviana kepada Imam Shofwan via surel subyek: Surat Resmi Untuk Yayasan Pantau Mengenai Tenggat Waktu Laporan Hibah Termin II dan Penyelesaiannya
+Dari Siska Doviana kepada Imam Shofwan via surel subyek: Surat Resmi Untuk Yayasan Pantau Mengenai Tenggat Waktu Laporan Hibah Termin II dan Penyelesaiannya
 
 
 Mas Imam dan Tim Pantau yang baik, Terkait berakhirnya hibah Cipta Media Bersama, terlampir adalah surat resmi permintaan dari Wikimedia Indonesia untuk kepastian tenggat waktu dan penyelesain laporan Termin Hibah II.
@@ -83,4 +84,4 @@ Terlampir surat yang telah direvisi.
 
 Salam dan terima kasih, semoga sukses pengumuman hasil surveynya.
 
--- Siska Doviana 
+-- Siska Doviana

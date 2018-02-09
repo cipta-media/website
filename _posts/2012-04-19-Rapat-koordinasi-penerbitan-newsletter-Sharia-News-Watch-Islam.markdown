@@ -3,6 +3,7 @@ title: Rapat koordinasi penerbitan newsletter Sharia News Watch Islam
 date: 2012-04-19
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

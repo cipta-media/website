@@ -4,6 +4,7 @@ date: 2015-08-28
 categories:
 - laporan
 - mentoring
+- CMS
 - Pandu App
 ---
 

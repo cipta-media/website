@@ -4,6 +4,7 @@ date: 2013-04-27
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
@@ -22,4 +23,4 @@ Mbak Ivonne,
 
 Rupanya ada dua nota yang belum saya upload. Sedangkan satunya salah ngelink. Senin pagi saya bereskan yah... Karena saat ini saya tidak membawa bon2 dan softfiles Bhinneka.
 
-Makasih, Phebe Anggreani 
+Makasih, Phebe Anggreani

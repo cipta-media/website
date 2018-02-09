@@ -3,6 +3,7 @@ title: Tentang peliputan wilayah Kabupaten Sarmi
 date: 2012-01-19
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
 

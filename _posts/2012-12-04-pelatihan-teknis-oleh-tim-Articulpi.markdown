@@ -3,6 +3,7 @@ title: pelatihan teknis oleh tim Articulpi
 date: 2012-12-04
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

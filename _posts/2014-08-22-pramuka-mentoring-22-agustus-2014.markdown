@@ -4,6 +4,7 @@ date: 2014-08-22
 categories:
 - laporan
 - mentoring
+- CMS
 - Pandu App
 ---
 
@@ -68,4 +69,3 @@ To: Mulyana Sandi, Nanang Syaifudin
 Hi Nanang, 
 
 Aku teruskan pertanyaannya Pak Mulyana Sandi yah. Mungkin apabila berkenan sekalian dijawab.
-

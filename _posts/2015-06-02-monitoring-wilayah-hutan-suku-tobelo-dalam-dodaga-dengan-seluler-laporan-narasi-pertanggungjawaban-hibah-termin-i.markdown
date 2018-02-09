@@ -3,6 +3,7 @@ title: Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler - Lapora
 date: 2015-06-02
 categories:
 - laporan
+- CMS
 - Monitoring Hutan Tobelo
 ---
 

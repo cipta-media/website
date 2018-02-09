@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-11-04
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-November_4_2012_NextGeneration_Semipalar1.jpg](/uploads/200px-November_4_2012_NextGeneration_Semipalar1.jpg){: .img-responsive .center-block }
 
@@ -36,4 +36,4 @@ categories:
 * Materi 2 (iqbal) :Pemaparan isu video game sebagai salah satu media massa yang perlu juga diperhatikan oleh orang tua. P*enjelasan mengapa video game tertentu sangat tidak cocok dimainkan oleh anak-anak. Orang tua juga ditunjukan beberapa konten video game yang ada dan beredar di game center yang berkemungkinan dimainkan oleh anak mereka. Beberapa contoh kasus kecanduan video game pada anak dan remaja serta dampaknya bagi mereka dan lingkungan sosial sekitar. Peran orang tua sangat sentral dalam mengurangai penggunaan video game 'dewasa' pada anak-anak. Orang tua juga harus mengaktifkan fitur 'parental control' yang ada di konsol video game yang anak mereka miliki. Selanjutnya sosialisasi komunitas NXG Indonesia, sebagai komunitas pemantau konten video game di Indonesia. Memperkenalkan sistem rating yang digunakan NXG Indonesia. NXG juga berbagi langkah praktis dalam mengatur "parental control" pada konsol video game.
 * Simulasi "Parental Control" pada Windows 7
 * Diskusi dan sharing pengalaman orang tua
-* Penutupan oleh Kepala Sekolah, dengan memaparkan tujuan dari acara parent meeting dan mengapa isu video game diangkat pada hari itu. 
+* Penutupan oleh Kepala Sekolah, dengan memaparkan tujuan dari acara parent meeting dan mengapa isu video game diangkat pada hari itu.

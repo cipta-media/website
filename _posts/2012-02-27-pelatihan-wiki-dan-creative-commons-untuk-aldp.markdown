@@ -3,8 +3,10 @@ title: Pelatihan Wiki dan Creative Commons untuk ALDP
 date: 2012-02-27
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_27_2012_ALDP_Pelatihan_Wiki_dan_Creative_Commons.jpg](/uploads/200px-Februari_27_2012_ALDP_Pelatihan_Wiki_dan_Creative_Commons.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Pelatihan Wiki dan Creative Commons untuk ALDP

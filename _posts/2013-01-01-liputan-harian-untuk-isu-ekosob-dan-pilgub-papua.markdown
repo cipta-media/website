@@ -3,8 +3,10 @@ title: Liputan Harian untuk isu Ekosob dan Pilgub Papua
 date: 2013-01-01
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Januari_01-30_2013_Liputan_Harian_Website.jpg](/uploads/200px-Januari_01-30_2013_Liputan_Harian_Website.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Harian untuk isu Ekosob dan Pilgub Papua

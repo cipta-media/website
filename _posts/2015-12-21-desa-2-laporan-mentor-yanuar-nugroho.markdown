@@ -4,6 +4,7 @@ date: 2015-12-21
 categories:
 - laporan
 - mentoring
+- CMS
 - Desa 2.0
 ---
 

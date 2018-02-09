@@ -3,8 +3,10 @@ title: Pengadaan perangkat kerja
 date: 2014-09-24
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![200px-September_24_2014_Jubi_Pembelian_perangkat_1.jpg](/uploads/200px-September_24_2014_Jubi_Pembelian_perangkat_1.jpg){: .img-responsive .center-block }
 ![200px-September_24_2014_Pembelian_Perangkat_2.jpg](/uploads/200px-September_24_2014_Pembelian_Perangkat_2.jpg){: .img-responsive .center-block }
 

@@ -4,10 +4,11 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
-     Oleh Anggara pada Jagongan Media Rakyat, Yogyakarta
+Oleh Anggara pada Jagongan Media Rakyat, Yogyakarta
 
 Border Blogger Movement berencana mengadakan pelatihan di lima kabupaten dengan tujuan membuat situs agregator sebagai hasil akhir. Mereka juga berencana mengadakan kompetisi blog (posting) yang kemudian akan dipublikasikan menjadi buku. Kegiatan telah yang dilakukan antara lain:
 
@@ -18,4 +19,4 @@ Border Blogger Movement berencana mengadakan pelatihan di lima kabupaten dengan 
 
 Catatan
 
-Pada saat peninjauan proposal terdapat kegiatan yang tidak tercantum pada rencana awal seperti paket beasiswa untuk 45 blogger. Timbul pertanyaan lanjutan mengenai adalah tentang situs agregator dan mekanisme penulisan di situs tersebut. 
+Pada saat peninjauan proposal terdapat kegiatan yang tidak tercantum pada rencana awal seperti paket beasiswa untuk 45 blogger. Timbul pertanyaan lanjutan mengenai adalah tentang situs agregator dan mekanisme penulisan di situs tersebut.

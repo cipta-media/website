@@ -3,8 +3,10 @@ title: Tujuan Siaran Pers - Koalisi Penanganan Kasus Dugaan Penyiksaan Di Lembag
 date: 2012-06-06
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![Juni_06_2012_Siaran_Pers_Koalisi_LSM_HAM_untuk_Kasus_LP_Abepura.jpg](/uploads/Juni_06_2012_Siaran_Pers_Koalisi_LSM_HAM_untuk_Kasus_LP_Abepura.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Tujuan	Siaran Pers - Koalisi Penanganan Kasus Dugaan Penyiksaan Di Lembaga Pemasyarakatan Klas II A Abepura

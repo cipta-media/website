@@ -3,6 +3,7 @@ title: Special Presentasi & Diskusi ISAD
 date: 2012-09-30
 categories:
 - laporan
+- CMS
 - Indonesian Street Art Database
 ---
 

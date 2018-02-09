@@ -3,8 +3,10 @@ title: Liputan Khusus kondisi Distrik Bonggo
 date: 2013-02-23
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_23-27_2013_Liputan_Khusus_Distrik_Bonggo.jpg](/uploads/200px-Februari_23-27_2013_Liputan_Khusus_Distrik_Bonggo.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus kondisi Distrik Bonggo

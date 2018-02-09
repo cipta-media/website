@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-09-17
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-September_17_2012_NextGeneration_AlMumin1.JPG](/uploads/200px-September_17_2012_NextGeneration_AlMumin1.JPG){: .img-responsive .center-block }
 

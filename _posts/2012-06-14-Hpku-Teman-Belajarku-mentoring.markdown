@@ -4,6 +4,7 @@ date: 2012-06-14
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
@@ -52,4 +53,4 @@ Dalam konteks programnya mas Ali, workshopnya untuk pembuatan materi video pembe
 
 Hal lain dengan banyaknya sosialisasi, apakah ada perubahan kebijakan yang berhasil diubah? Minimal di tingkat sekolah khususnya mengenai penggunaan ponsel?
 
-Saya lihat ke situsnya tapi belum banyak yang bisa di klik Btw, target penerima program ini setingkat SMA atau sampai menyentuh tingkat SD? menurut saya sebaiknya mas Ali bisa lebih fokus ke mana target penerimanya, sehingga akan ada capaian yang bisa lebih terukur ketimbang hanya jumlah training atau workshop yang dihasilkan 
+Saya lihat ke situsnya tapi belum banyak yang bisa di klik Btw, target penerima program ini setingkat SMA atau sampai menyentuh tingkat SD? menurut saya sebaiknya mas Ali bisa lebih fokus ke mana target penerimanya, sehingga akan ada capaian yang bisa lebih terukur ketimbang hanya jumlah training atau workshop yang dihasilkan

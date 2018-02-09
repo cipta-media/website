@@ -4,6 +4,7 @@ date: 2013-02-02
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
@@ -48,4 +49,3 @@ laksanakan diperbatasan, yaitu di Kampung Aruk, Kabupaten Sambas.
 lembaga terhadap project yang dilaksanakan.
 
 Demikian Mbak yang bisa saya informasikan. Detilnya akan saya buat dalam laporan kelak.
-

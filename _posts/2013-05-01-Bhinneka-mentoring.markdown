@@ -4,6 +4,7 @@ date: 2013-05-01
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
@@ -16,4 +17,4 @@ Jawaban dari Phebe
 
 Sama-sama mbak Ivonne. Laporan keuangan Bhinneka-CMB 2012 sudah final.
 
-Cheers, Phebe 
+Cheers, Phebe

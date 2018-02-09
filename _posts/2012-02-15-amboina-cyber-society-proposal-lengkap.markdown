@@ -1,8 +1,9 @@
 ---
 title: Amboina Cyber Society - Proposal Lengkap
-date: 2012-02-15 17:50:00 +07:00
+date: 2012-02-15 17:50:00+07:00
 categories:
 - laporan
+- CMS
 - Amboina Cyber Society
 ---
 

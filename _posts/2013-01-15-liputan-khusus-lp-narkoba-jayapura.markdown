@@ -3,8 +3,10 @@ title: Liputan Khusus LP Narkoba Jayapura
 date: 2013-01-15
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Januari_15_2013_Liputan_Khusus_LP_Narkoba.jpg](/uploads/200px-Januari_15_2013_Liputan_Khusus_LP_Narkoba.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus LP Narkoba Jayapura

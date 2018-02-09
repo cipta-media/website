@@ -4,10 +4,11 @@ date: 2012-09-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Amboina Cyber Society
 ---
 
-     Dari Heru Tjatur kepada Benhard Ricardo E. Mattheis dan Tim Amboina Cyber Society
+Dari Heru Tjatur kepada Benhard Ricardo E. Mattheis dan Tim Amboina Cyber Society
 
 Dear Bung Benhard,
 
@@ -47,4 +48,3 @@ Okay Bung Benhard, saya tunggu updatenya, yaa...
 Regards,
 Heru Tjatur
 ICT Watch.
-

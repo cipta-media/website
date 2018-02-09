@@ -3,8 +3,10 @@ title: Distribusi Perangkat Kerja Tahap 2
 date: 2014-10-01
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![448px-October_01_2014_Jubi_Distribusi_perangkat.JPG](/uploads/448px-October_01_2014_Jubi_Distribusi_perangkat.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Distribusi Perangkat Kerja Tahap 2

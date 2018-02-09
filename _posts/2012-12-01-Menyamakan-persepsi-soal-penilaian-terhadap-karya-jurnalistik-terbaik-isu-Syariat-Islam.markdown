@@ -3,6 +3,7 @@ title: Menyamakan persepsi soal penilaian terhadap karya jurnalistik terbaik isu
 date: 2012-12-01
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

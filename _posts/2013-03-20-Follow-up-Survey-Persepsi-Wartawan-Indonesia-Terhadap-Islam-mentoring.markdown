@@ -4,6 +4,7 @@ date: 2013-03-20
 categories:
 - laporan
 - mentoring
+- CMS
 - Pantau
 ---
 
@@ -20,4 +21,4 @@ Kami tunggu laporannya.
 Salam,
 
 -- 
-Siska Doviana 
+Siska Doviana

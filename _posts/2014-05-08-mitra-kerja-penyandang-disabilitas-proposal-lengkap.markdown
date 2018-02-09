@@ -3,6 +3,7 @@ title: Mitra Kerja Penyandang Disabilitas - Proposal Lengkap
 date: 2014-05-08
 categories:
 - laporan
+- CMS
 - Kerjabilitas
 ---
 
@@ -112,5 +113,3 @@ Diakhir proyek ini beberapa hasil ini akan dicapai;
   Dana yang diajukan ke Cipta Media Bersama :
 
   Sumber dana lainnya:
-  
- 

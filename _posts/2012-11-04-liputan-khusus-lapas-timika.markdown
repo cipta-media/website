@@ -3,8 +3,10 @@ title: Liputan Khusus LAPAS Timika
 date: 2012-11-04
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-November_04-05_2012_Liputan_Khusus_LAPAS_Timika.jpg](/uploads/200px-November_04-05_2012_Liputan_Khusus_LAPAS_Timika.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus LAPAS Timika

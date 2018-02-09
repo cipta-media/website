@@ -3,8 +3,10 @@ title: Melakukan koordinasi dan diskusi dengan yayasan air putih
 date: 2012-07-20
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juli_20-27_2012_Praktek_Frontline_SMS.jpg](/uploads/200px-Juli_20-27_2012_Praktek_Frontline_SMS.jpg){: .img-responsive .center-block }
 
 **Tujuan** : 	Melakukan koordinasi dan diskusi dengan yayasan air putih

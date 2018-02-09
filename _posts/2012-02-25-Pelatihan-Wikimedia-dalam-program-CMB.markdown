@@ -3,6 +3,7 @@ title: Pelatihan Wikimedia dalam program CMB
 date: 2012-02-25
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
 

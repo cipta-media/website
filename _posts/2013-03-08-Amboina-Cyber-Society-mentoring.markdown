@@ -4,6 +4,7 @@ date: 2013-03-08
 categories:
 - laporan
 - mentoring
+- CMS
 - Amboina Cyber Society
 ---
 

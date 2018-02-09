@@ -1,8 +1,9 @@
 ---
 title: Akumassa - Laporan Narasi Pertanggung Jawaban Hibah Termin II
-date: 2013-05-28 16:58:00 +07:00
+date: 2013-05-28 16:58:00+07:00
 categories:
 - laporan
+- CMS
 - AKUMASSA.ORG
 ---
 

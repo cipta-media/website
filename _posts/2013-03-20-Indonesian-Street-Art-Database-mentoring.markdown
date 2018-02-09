@@ -4,6 +4,7 @@ date: 2013-03-20
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
@@ -17,4 +18,4 @@ Sedangkan untuk revisi laporan anggoran keuangan sedang dikerjakan oleh Mba Maya
 
 Terima Kasih
 
-Andi 
+Andi

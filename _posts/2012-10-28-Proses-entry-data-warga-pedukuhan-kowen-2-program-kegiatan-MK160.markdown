@@ -3,6 +3,7 @@ title: Proses entry data warga pedukuhan kowen 2 program kegiatan MK160
 date: 2012-10-28
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

@@ -4,10 +4,11 @@ date: 2012-09-13
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
-     Oleh Idaman Andarmosoko dan Soe Tjen - Phebe, Sekertariat bersama Bhinneka-Kontras Surabaya, Jalan Darmo Surabaya. Pukul 08:00 sampai 19:00 
+Oleh Idaman Andarmosoko dan Soe Tjen - Phebe, Sekertariat bersama Bhinneka-Kontras Surabaya, Jalan Darmo Surabaya. Pukul 08:00 sampai 19:00 
 
 Telah dijelaskan kepada Bhinneka tentang pentingnya perencanaan capaian yang koheren, dan membantu memahami cara perencanaan itu. Juga Bhinneka telah diminta untuk menyusun ulang perencanaan proposal secara koheren, supaya tidak terulang lagi perubahan-perubahan di lapangan. Bhinneka telah merevisi ulang rencana mereka sementara dan telah dikirimkan. Berikut adalah catatan pelatihan di Bhinneka.
 Pelatihan

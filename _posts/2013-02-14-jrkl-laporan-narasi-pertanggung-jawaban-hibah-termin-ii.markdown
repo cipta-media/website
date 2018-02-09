@@ -1,13 +1,14 @@
 ---
 title: JRKL - Laporan Narasi Pertanggung Jawaban Hibah Termin II
-date: 2013-02-14 14:26:00 +07:00
+date: 2013-02-14 14:26:00+07:00
 categories:
 - laporan
+- CMS
 - JRKL
 permalink: /laporan-termin-2/jrkl/
 ---
 
-      LAPORAN DALAM PENINJAUAN PER 14 FEBRUARI 2013
+LAPORAN DALAM PENINJAUAN PER 14 FEBRUARI 2013
 
 **Jaringan Radio Komunitas Lampung**
 
@@ -129,5 +130,3 @@ F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijak
 Tertanda: Lokasi dan tanggal:
 
 XXXXX
-
-

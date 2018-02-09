@@ -3,8 +3,10 @@ title: Surat Terbuka Untuk Menko Polhukam Terkait Kunjungan Ke Papua
 date: 2012-06-19
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juni_19_2012_Surat_Terbuka_kepada_Menkopolhukan.jpg](/uploads/200px-Juni_19_2012_Surat_Terbuka_kepada_Menkopolhukan.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Tujuan	Surat Terbuka Untuk Menko Polhukam Terkait Kunjungan Ke Papua :“Akhiri Kekerasan dan Percepat Dialog”

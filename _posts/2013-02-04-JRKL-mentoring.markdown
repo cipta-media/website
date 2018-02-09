@@ -4,9 +4,10 @@ date: 2013-02-04
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
      Melalui surel dari Rifky Indrawan ditujukan pada Siska 
 
-Mbak Siska, Ini kami sampaikan pemberitahuan JRKL tentang program CMB. Informasi lengkapnya dapat dilihat di lampiran. 
+Mbak Siska, Ini kami sampaikan pemberitahuan JRKL tentang program CMB. Informasi lengkapnya dapat dilihat di lampiran.

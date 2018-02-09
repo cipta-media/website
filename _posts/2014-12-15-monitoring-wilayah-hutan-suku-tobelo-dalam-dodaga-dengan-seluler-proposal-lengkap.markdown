@@ -3,6 +3,7 @@ title: Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler - Propos
 date: 2014-12-15
 categories:
 - laporan
+- CMS
 - Monitoring Hutan Tobelo
 ---
 
@@ -291,4 +292,3 @@ Masyarakat Tobelo memiliki cara tersendiri memperlakukan alam, khususnya hutan. 
  **Sumber dana lainnya:**
   
   Tidak ada
- 

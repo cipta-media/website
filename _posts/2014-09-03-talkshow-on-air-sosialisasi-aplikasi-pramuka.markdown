@@ -3,8 +3,10 @@ title: Talkshow On Air Sosialisasi Aplikasi Pramuka
 date: 2014-09-03
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-September_03_2014_Talshow-1.png](/uploads/200px-September_03_2014_Talshow-1.png){: .img-responsive .center-block }
 ![200px-September_03_2014_Talshow-2.png](/uploads/200px-September_03_2014_Talshow-2.png){: .img-responsive .center-block }
 

@@ -4,6 +4,7 @@ date: 2013-02-11
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
@@ -19,4 +20,4 @@ Kami memaklumi apabila permintaan penggunaan sistem terbuka (linux/ open source)
 
 Saya sarankan bahwa KKI Warsi menganggarkan perdiem dan perjalanan pelatih dari luar Jambi untuk datang ke Jambi tahun 2013 sebesar Rp. 30 juta rupiah, untuk melakukan pelatihan minimum 3 hari per bulan untuk 3 bulan. Gaji Rp. 4 juta rupiah/ bulan setelah dipotong pajak untuk minimum enam bulan (total Rp. 24 juta rupiah).
 
-Pak Onno dan saya akan membantu mencarikan sumber daya manusia baik dari komunitas Radio Amatir maupun Komunitas Open Source yang dapat mengaplikasikan hal ini di KKI Warsi (Jambi) ataupun di kantor lapangannya. 
+Pak Onno dan saya akan membantu mencarikan sumber daya manusia baik dari komunitas Radio Amatir maupun Komunitas Open Source yang dapat mengaplikasikan hal ini di KKI Warsi (Jambi) ataupun di kantor lapangannya.

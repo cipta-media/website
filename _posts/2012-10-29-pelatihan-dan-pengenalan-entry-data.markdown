@@ -3,6 +3,7 @@ title: pelatihan dan pengenalan entry data warga pedukuhan kowen 2 program kegia
 date: 2012-10-29
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

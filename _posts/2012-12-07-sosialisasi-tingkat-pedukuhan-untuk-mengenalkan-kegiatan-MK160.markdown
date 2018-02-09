@@ -3,6 +3,7 @@ title: sosialisasi tingkat pedukuhan untuk mengenalkan kegiatan MK160
 date: 2012-12-07
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

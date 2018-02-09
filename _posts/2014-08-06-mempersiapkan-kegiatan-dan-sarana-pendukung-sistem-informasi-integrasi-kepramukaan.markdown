@@ -3,8 +3,10 @@ title: Mempersiapkan kegiatan dan sarana pendukung Sistem Informasi Integrasi Ke
 date: 2014-08-06
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-Agustus_06_2014_SIIK_RapatKoordinasi-2.JPG](/uploads/200px-Agustus_06_2014_SIIK_RapatKoordinasi-2.JPG){: .img-responsive .center-block }
 ![200px-Agustus_06_2014_SIIK_RapatKoordinasi-1.JPG](/uploads/200px-Agustus_06_2014_SIIK_RapatKoordinasi-1.JPG){: .img-responsive .center-block }
 

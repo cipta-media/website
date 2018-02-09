@@ -3,8 +3,10 @@ title: Rapat Koordinasi TIM
 date: 2014-10-07
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![300px-Oktober_07_2014_SIIK_Rapat_Koordinasi.JPG](/uploads/300px-Oktober_07_2014_SIIK_Rapat_Koordinasi.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Rapat Koordinasi TIM

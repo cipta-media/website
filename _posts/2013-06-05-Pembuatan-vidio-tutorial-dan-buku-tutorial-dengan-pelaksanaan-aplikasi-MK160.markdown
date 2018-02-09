@@ -3,9 +3,9 @@ title: Pembuatan vidio tutorial dan buku tutorial dengan pelaksanaan aplikasi MK
 date: 2013-06-05
 categories:
 - laporan
+- CMS
 - MK-160
 ---
-
 
 **Tujuan** : Pembuatan vidio tutorial dan buku tutorial dengan pelaksanaan aplikasi MK160
 
