@@ -3,10 +3,11 @@ title: Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
 date: 2012-06-26
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG](/uploads/200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
@@ -44,4 +45,3 @@ layout: laporancmb
 *	Mengenai dampak iklan, kelompok 3 ini berpendapat bahwa iklan akan berdampak buruk pastinya kepada anak-anak khususnya akan menanamkan budaya belanja(membeli barang yang menjadi iklan tersebut).
 *	Setelah seluruh kelompok mempresentasikan hasil diskusinya, fasilitator menekankan bahwa ketika tayangan TV tidak baik kita meski segera menyikapinya dengan memindahkan,mematikan dan melaporkan tayangan tersebut ke KPID dan JRKL melalui SMS atau cukup menuliskan keluhannya didalam formulir pengaduan.
 *	Diskusi diakhiri dengan fasilitator membagikan lembar formulir pengaduan, yang mana formulir tersebut dapat diisi tentang tayangan TV yang tidak baik setelah itu mengumpulkannya kepada kelompok Pantau TV atau ke pegiat radio.
-

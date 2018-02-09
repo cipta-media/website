@@ -4,6 +4,7 @@ date: 2012-10-29
 categories:
 - laporan
 - mentoring
+- CMB
 - Video untuk Perdamaian
 layout: laporancmb
 ---
@@ -19,4 +20,4 @@ Bila ada yang kurang jelas dapat menghubungi saya.
 
 Teriring salam dan terima kasih,
 
-Adyani Hapsari Widowati 
+Adyani Hapsari Widowati

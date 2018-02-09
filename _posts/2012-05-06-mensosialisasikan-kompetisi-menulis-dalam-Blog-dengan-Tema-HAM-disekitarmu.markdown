@@ -3,10 +3,10 @@ title: mensosialisasikan kompetisi menulis dalam Blog dengan Tema HAM disekitarm
 date: 2012-05-06
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![Mei_6_2012_IMDLN_Konferensi_Pers_IHRBA.jpg](/uploads/Mei_6_2012_IMDLN_Konferensi_Pers_IHRBA.jpg){: .img-responsive .center-block }
 

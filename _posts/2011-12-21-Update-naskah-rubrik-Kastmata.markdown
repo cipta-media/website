@@ -3,6 +3,7 @@ title: Update naskah rubrik Kasatmata
 date: 2011-12-21
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

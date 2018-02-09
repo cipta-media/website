@@ -3,6 +3,7 @@ title: Sosialisasi program BBM di Ketungau Tengah, Kabupaten Sintang
 date: 2012-01-22
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -31,4 +32,3 @@ layout: laporancmb
 * Dengan keras, mereka  menyampaikan kekecewaan mereka pada kebijakan  pemerintah yang  ‘memperdaya’ masyarakat kampung untuk menyerahkan  tanah air mereka kepada para pemodal. Akibatnya air sungai telah menjadi  keruh, lahan dan hutan mereka habis berubah menjadi perkebunan kelapa  sawit.
 * Karena itu mereka sangat menyambut baik program ini supaya mereka  bisa menyampaikan langsung masalah mereka kepada publik. 
 * Kegiatan ditutup dengan photo bersama, makan bersama.
-

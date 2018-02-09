@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-11-20
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda "26 – 29 November 2012, Sumbawa Barat – Pelatihan Jurnalistik “Menulis untuk Kesederajatan (V)" (Penulis - Redaksi)
 

@@ -3,6 +3,7 @@ title: Sosialisasi lanjutan- kepada SKPD Kapuas Hulu dan Pelatihan Jurnalisme Ka
 date: 2012-02-14
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -33,5 +34,3 @@ layout: laporancmb
 * Sesi photography dan videography sederhana menggunakan HP oleh Bas Andreas, Redaktur Pontianak Post dan juga photographer.
 * Diskusi kelompok, simulasi rapat redaksi, dan membuat rencana liputan. 
 * Kegiatan hari Pertama ditutup dengan review yang disampaikan oleh salah satu peserta pelatihan.
-
-

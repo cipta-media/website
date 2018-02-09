@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-08-08
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda "10 Agustus 2012, Jakarta – Bincang Buku “Perjalanan ke Atap Dunia”" (Penulis - Admin)
 

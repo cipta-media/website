@@ -3,10 +3,10 @@ title: Rubrik Hak dan Hukum
 date: 2012-09-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_07_2012_-_hak_dan_hukum_1.jpg](/uploads/200px-September_07_2012_-_hak_dan_hukum_1.jpg){: .img-responsive .center-block }
 
@@ -27,4 +27,4 @@ layout: laporancmb
 * [Rosid](http://wiki.ciptamedia.org/wiki/Rosid)
 
 **Ringkasan**  
-* Rubrik Hak dan Hukum kali ini menghadirkan pembicara Rosid, Sekjen SBTPI tentang kontrak 
+* Rubrik Hak dan Hukum kali ini menghadirkan pembicara Rosid, Sekjen SBTPI tentang kontrak

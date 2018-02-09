@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-04-27
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala, "Antara Magnis-Suseno dan Sulastomo" (Penulis - Martin Aleida)
 

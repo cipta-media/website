@@ -3,10 +3,11 @@ title: Akumassa menunjukkan kematangan organisasi proyek
 date: 2012-06-27
 categories:
 - laporan
+- CMB
 - AKUMASSA.ORG
 layout: laporancmb
 ---
-	
+
 **Tujuan** :	Akumassa menunjukkan kematangan organisasi proyek
 
 **Lokasi** :	Jakarta 

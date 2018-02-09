@@ -3,10 +3,10 @@ title: Update naskah rubrik LenteraTV
 date: 2012-02-18
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik LenteraTV, "Samarinda Meradang" (Penulis - Christopel Paino)
 

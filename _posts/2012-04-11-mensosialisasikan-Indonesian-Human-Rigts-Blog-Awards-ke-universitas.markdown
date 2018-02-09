@@ -3,10 +3,10 @@ title: mensosialisasikan Indonesian Human Rigts Blog Awards ke universitas
 date: 2012-04-11
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-April_2012_IMDLN_Poster_Sosialisasi_IHRBA.JPG](/uploads/250px-April_2012_IMDLN_Poster_Sosialisasi_IHRBA.JPG){: .img-responsive .center-block }
 

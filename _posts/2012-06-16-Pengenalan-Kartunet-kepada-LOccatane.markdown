@@ -3,10 +3,10 @@ title: Pengenalan Kartunet kepada LOccatane
 date: 2012-06-16
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
-
 
 ![200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG](/uploads/200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG){: .img-responsive .center-block }
 

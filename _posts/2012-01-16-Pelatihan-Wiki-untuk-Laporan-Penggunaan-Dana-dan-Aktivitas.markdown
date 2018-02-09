@@ -3,10 +3,10 @@ title: Pelatihan Wiki untuk Laporan Penggunaan Dana dan Aktivitas
 date: 2012-01-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur.jpg](/uploads/200px-Januari_16_2012_LenteraTimur.com_Pelatihan_Wiki_di_Markas_Lentera_Timur.jpg){: .img-responsive .center-block }
 
@@ -34,4 +34,3 @@ dana dan aktivitas di situs Wiki Cipta Media Bersama.
 sejak Desember 2011 hingga pertengahan Januari 2012.
 * Mengisi [jadwal kegiatan Pelatihan Jurnalistik "Menulis untuk Kesederajatan" di
 lima kota.](http://wiki.ciptamedia.org/wiki/LenteraTimur.com/Jadwal_acara)
-

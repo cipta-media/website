@@ -3,6 +3,7 @@ title: Next Generation - Proposal Lengkap
 date: 2012-02-15 17:19:00 +07:00
 categories:
 - laporan
+- CMB
 - Next Generation
 layout: laporancmb
 ---

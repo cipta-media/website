@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Data Radio Komunitas Gita Swara FM
 date: 2012-12-01
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_1_2012_PRC_Wawancara_Pengelola_Rakom_Gita_Swara_FM_Marjadi_OK.jpg](/uploads/200px-Desember_1_2012_PRC_Wawancara_Pengelola_Rakom_Gita_Swara_FM_Marjadi_OK.jpg){: .img-responsive .center-block }
 

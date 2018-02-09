@@ -3,6 +3,7 @@ title: Update naskah rubrik Sastra
 date: 2012-09-15
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

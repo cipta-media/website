@@ -3,10 +3,10 @@ title: Rubrik Anti galau
 date: 2012-11-29
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-November_29_-_ani_idrus.jpg](/uploads/200px-November_29_-_ani_idrus.jpg){: .img-responsive .center-block }
 

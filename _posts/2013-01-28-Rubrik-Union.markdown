@@ -3,10 +3,10 @@ title: Rubrik Union
 date: 2013-01-28
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_28_-_union_1.jpg](/uploads/200px-Januari_28_-_union_1.jpg){: .img-responsive .center-block }
 

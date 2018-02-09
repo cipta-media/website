@@ -3,10 +3,10 @@ title: Rubrik boliwood hits
 date: 2012-12-18
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_21_-_dangdut_asiiik.jpg](/uploads/200px-Des_21_-_dangdut_asiiik.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Nana Kajol](http://wiki.ciptamedia.org/wiki/Nana_Kajol)
 
 **Ringkasan**  
-* rubrik boliwood hits tiap senin jam 8 - 10 malam 
+* rubrik boliwood hits tiap senin jam 8 - 10 malam

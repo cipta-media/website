@@ -3,10 +3,10 @@ title: Tembang Kenangan edisi I
 date: 2012-06-03
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_03_2012_Tembang_Kenangan_1.jpg](/uploads/200px-Juni_03_2012_Tembang_Kenangan_1.jpg){: .img-responsive .center-block }
 

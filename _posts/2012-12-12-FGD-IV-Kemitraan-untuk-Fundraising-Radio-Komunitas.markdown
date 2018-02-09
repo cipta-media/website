@@ -3,10 +3,10 @@ title: FGD IV Kemitraan untuk Fundraising Radio Komunitas.
 date: 2012-12-12
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_12_12_PRC_FGD_IV_Kemitraan_Rakom.jpg](/uploads/200px-Desember_12_12_PRC_FGD_IV_Kemitraan_Rakom.jpg){: .img-responsive .center-block }
 

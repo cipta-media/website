@@ -3,10 +3,10 @@ title: Rapat Koordinasi
 date: 2012-08-27
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :   Rapat Koordinasi 
 
@@ -22,4 +22,3 @@ layout: laporancmb
 **Ringkasan** :
 * Rapat koordinasi pembentukan panitia buku, mulai  dari yang  mengumpulkan bahan, menyeleksi  tulisan, editorial, dan yang  mempersiapkan launching
 * Menyikapi permintaan pelatihan jurnalisme kampung di Kampung Loncek, maka ditunjuklah koordinator Laurensius Edi (Volunteer  Mata Enggang) untuk berkoordniasi dengan KTM PPB  di Loncek
-

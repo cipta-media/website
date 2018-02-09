@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-07-06
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala, "Bernala Di Pangkuan Benua" (Penulis - Martin Aleida)
 

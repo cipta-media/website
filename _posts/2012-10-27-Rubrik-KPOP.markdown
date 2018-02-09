@@ -3,10 +3,10 @@ title: Rubrik KPOP
 date: 2012-10-27
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-27_Oktober_KPOP.jpg](/uploads/200px-27_Oktober_KPOP.jpg){: .img-responsive .center-block }
 

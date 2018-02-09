@@ -3,6 +3,7 @@ title: Latihan menulis ala jurnalisme kampung dan membuat webblog
 date: 2012-2-1
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -40,4 +41,3 @@ layout: laporancmb
 * Sesi I, yang dimulai pada pukul 08.00 WIB hingga pukul 16.00 WIB  diisi dengan latihan dan praktik pembuatan dann pengisian web blog.  Materi ini dipandu oleh Asriyadi Alexander Mering dan dibantu seluruh narasumber pelatihan.
 * Sesi I diakhiri dengan materi listing atau inventarisasi tema  penulisan. Materi ini dipandu Jurnalis Media Indonesia Aries Munandar.
 * Sesi II berlangsung pada pukul 20.15 WIB hingga sekira pukul 24.00  WIB. Sesi ini bersifat mandiri. Setiap peserta diminta memperbanyak  materi tulisan untuk diposting di web blog masing-masing.
-

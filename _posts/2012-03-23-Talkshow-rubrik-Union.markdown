@@ -3,10 +3,10 @@ title: Talkshow rubrik Union
 date: 2012-03-23
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Maret_23_2012_-_Lembur_tidak_dibayar_-_rubrik_hak_dan_hukum.jpg](/uploads/200px-Maret_23_2012_-_Lembur_tidak_dibayar_-_rubrik_hak_dan_hukum.jpg){: .img-responsive .center-block }
 

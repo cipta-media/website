@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-10-23
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak "Jejak Sang Panglima, dari Pasai Hingga Deli" (Kontributor - Tengku Muhammad Dicky)
 

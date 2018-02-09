@@ -3,10 +3,11 @@ title: Lomba Prosa liris bertema "korban kekerasan agama"
 date: 2012-04-28
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-April_28_2012_Bhinneka_Lomba_prosa_liris.JPG](/uploads/200px-April_28_2012_Bhinneka_Lomba_prosa_liris.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Lomba Prosa liris bertema "korban kekerasan agama"

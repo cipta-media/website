@@ -3,6 +3,7 @@ title: Sosialisasi tentang program BBM di Kabupaten Kapuas Hulu
 date: 2012-01-23
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -27,4 +28,3 @@ layout: laporancmb
 * Sosialisasi digelar pada 23 Januari 2012 di sebuah rumah sederhana warga di Desa Badau, Kecamatan Badau.&nbsp;
 * Di desa ini terdapat Pos Pemeriksaan Lintas Batas (PPLB) Badau yang  menghubungkan wilayah Lubok Antu, wilayah Sarawak, Malaysia Timur.  Warga mengatakan, kehidupan perekonomian mereka sangat terpengaruh oleh  Malaysia, terbukti dengan luasnya beredar barang-barang kelontong sampai  kendaraan berplat asing.&nbsp;
 * Manajer Program BBM Asriyadi Alexander Mering  mengatakan, informasi seputar batas Negara perlu disuarakan dengan cara  sederhana yang bisa dilakukan warga, yakni dengan menerapkan jurnalisme  kampung dan memanfaatkan jejaring media, salah satunya blog.&nbsp;
-

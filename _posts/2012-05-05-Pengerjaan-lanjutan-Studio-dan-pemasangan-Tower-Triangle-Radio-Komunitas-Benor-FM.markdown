@@ -3,6 +3,7 @@ title: Pengerjaan lanjutan Studio dan pemasangan Tower Triangle Radio Komunitas 
 date: 2012-05-05
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---

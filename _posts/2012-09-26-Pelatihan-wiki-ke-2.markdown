@@ -3,10 +3,11 @@ title: Pelatihan wiki ke-2
 date: 2012-09-26
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-September_26_2012_Benor_FM_Pelatihan_Wiki-2.jpg](/uploads/200px-September_26_2012_Benor_FM_Pelatihan_Wiki-2.jpg){: .img-responsive .center-block }	
 ![200px-September_26_2012_Benor_FM_Pelatihan_Wiki-2-b.jpg](/uploads/200px-September_26_2012_Benor_FM_Pelatihan_Wiki-2-b.jpg){: .img-responsive .center-block }	
 	

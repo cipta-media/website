@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-10-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata "MIFEE Datang Tanah Pun Hilang" (Penulis - Fajar Riadi)
 

@@ -3,10 +3,11 @@ title: Mempererat para anggota Bhinneka di wilayah Jakarta
 date: 2012-11-15
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-November_15_2012_Bhinneka_Diskusi_Jakarta.jpg](/uploads/200px-November_15_2012_Bhinneka_Diskusi_Jakarta.jpg){: .img-responsive .center-block }	
 ![200px-November_15_2012_Bhinneka_Diskusi_Jakarta_1.jpg](/uploads/200px-November_15_2012_Bhinneka_Diskusi_Jakarta_1.jpg){: .img-responsive .center-block }	
 ![200px-November_15_2012_Bhinneka_Diskusi_Jakarta_2.jpg](/uploads/200px-November_15_2012_Bhinneka_Diskusi_Jakarta_2.jpg){: .img-responsive .center-block }	
@@ -55,4 +56,4 @@ Respon SMS
 * BNK\|Jakarta Agak sulit bernafas, terlalu banyak asap rokok. Diskusi pluralisme? Saya rasa bukan. Lebih kepada menertawakan bersama orang-orang yang beragama, karena agama dianggap sebagai kebodohan massal. 
 * BNK\|TANGERANG Diskusi Bhineka menarik. Tapi lbh menarik kalau mengundang narsum yg sedikit berseberangan agar diskusi lbh dinamis dan dialektis. 
 * BNK\|Jakarta forum ini sangat bagus, sy harapkn agar d laksanakan scara rutin agar smakin byk wawasan manusia terbuka dgn yg namanya perbedaan.. 
-* BNK\|AnyaJakarta Agak sulit bernafas, terlalu banyak asap rokok. Diskusi pluralisme? Saya rasa bukan. Lebih kepada menertawakan bersama orang-orang yang beragama, karena agama dianggap sebagai kebodohan massal. 
+* BNK\|AnyaJakarta Agak sulit bernafas, terlalu banyak asap rokok. Diskusi pluralisme? Saya rasa bukan. Lebih kepada menertawakan bersama orang-orang yang beragama, karena agama dianggap sebagai kebodohan massal.

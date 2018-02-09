@@ -3,10 +3,10 @@ title: Pengambilan Data dan Dokumentasi Radekka
 date: 2012-10-31
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_31_2012_PRC_Pengambilan_data_rakom_Redekka.png](/uploads/200px-Oktober_31_2012_PRC_Pengambilan_data_rakom_Redekka.png){: .img-responsive .center-block }
 

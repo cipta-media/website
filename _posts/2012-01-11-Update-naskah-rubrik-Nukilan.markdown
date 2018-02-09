@@ -3,6 +3,7 @@ title: Update naskah rubrik Nukilan
 date: 2012-01-11
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

@@ -3,10 +3,11 @@ title: Menumbuhkan motivasi belajar dan pemanfaatan media (Hp) yang sehat
 date: 2012-03-10
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![250px-Maret_10_2012_1000guru_Sosisalisasi_di_SMAN_4_Kota_Kediri.jpg](/uploads/250px-Maret_10_2012_1000guru_Sosisalisasi_di_SMAN_4_Kota_Kediri.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Menumbuhkan motivasi belajar dan pemanfaatan media (Hp) yang sehat

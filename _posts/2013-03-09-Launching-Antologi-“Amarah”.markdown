@@ -3,10 +3,11 @@ title: Launching Antologi "Amarah"
 date: 2013-03-09
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_9_2013_Launching_Buku.jpg](/uploads/200px-Maret_9_2013_Launching_Buku.jpg){: .img-responsive .center-block }
 ![200px-Maret_9_2013_Launching_Buku_1.jpg](/uploads/200px-Maret_9_2013_Launching_Buku_1.jpg){: .img-responsive .center-block }	
 	

@@ -3,10 +3,10 @@ title: Rubrik Union
 date: 2012-06-18
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_18_2012_-_buruh_melawan_sistem_kontrak_dan_outsourcing.jpg](/uploads/200px-Juni_18_2012_-_buruh_melawan_sistem_kontrak_dan_outsourcing.jpg){: .img-responsive .center-block }
 

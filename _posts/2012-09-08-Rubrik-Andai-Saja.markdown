@@ -3,10 +3,10 @@ title: Rubrik Andai Saja
 date: 2012-09-08
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Septemper_08_2012.jpg](/uploads/200px-Septemper_08_2012.jpg){: .img-responsive .center-block }
 

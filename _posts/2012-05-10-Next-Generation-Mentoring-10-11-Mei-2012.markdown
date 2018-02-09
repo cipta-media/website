@@ -4,6 +4,7 @@ date: 2012-05-10
 categories:
 - laporan
 - mentoring
+- CMB
 - Next Generation
 layout: laporancmb
 ---
@@ -24,4 +25,4 @@ Iqbal juga mengutarakan bahwa penerbitan Khazanah Intern (tempatnya bekerja kini
 
 * Oleh JJ di Mac Donald Simpang untuk pelatihan situs web.
 
-Perbaikan situs web dilakukan dengan JJ, penambahan Creative Commons, pengkategorian, [tentang kami](http://www.nxgindonesia.org/komunitas/) ditambah mengenai anggota tim siapa, [Daftar video game](http://www.nxgindonesia.org/daftar-video-game/) akan dikembangkan menjadi index alphabetis apabila telah banyak video yang dirating, [proses rating](http://www.nxgindonesia.org/sistem-rating/proses-rating/) akan diisi dengan tulisan mengenai metodologi rating yang digunakan dengan satu contoh video game, [Berita](http://www.nxgindonesia.org/berita/) akan diisi mengenai aktivitas next gen, diskusi, dan sosialisasi, [kontak](http://www.nxgindonesia.org/kontak/) akan diisi dengan kontak next gen, dan [menyumbang](http://www.nxgindonesia.org/menyumbang/) akan diisi dengan informasi rekening Next Gen dimana publik dapat menyumbang. 
+Perbaikan situs web dilakukan dengan JJ, penambahan Creative Commons, pengkategorian, [tentang kami](http://www.nxgindonesia.org/komunitas/) ditambah mengenai anggota tim siapa, [Daftar video game](http://www.nxgindonesia.org/daftar-video-game/) akan dikembangkan menjadi index alphabetis apabila telah banyak video yang dirating, [proses rating](http://www.nxgindonesia.org/sistem-rating/proses-rating/) akan diisi dengan tulisan mengenai metodologi rating yang digunakan dengan satu contoh video game, [Berita](http://www.nxgindonesia.org/berita/) akan diisi mengenai aktivitas next gen, diskusi, dan sosialisasi, [kontak](http://www.nxgindonesia.org/kontak/) akan diisi dengan kontak next gen, dan [menyumbang](http://www.nxgindonesia.org/menyumbang/) akan diisi dengan informasi rekening Next Gen dimana publik dapat menyumbang.

@@ -3,10 +3,10 @@ title: Pemanfaatan TIK untuk Fundraising Rakom
 date: 2012-11-29
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_29_2012_PRC_FGD_3_Pemanfaatan_IT_untuk_Fundraising_Rakom.JPG](/uploads/200px-Nopember_29_2012_PRC_FGD_3_Pemanfaatan_IT_untuk_Fundraising_Rakom.JPG){: .img-responsive .center-block }
 

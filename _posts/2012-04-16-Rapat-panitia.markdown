@@ -3,10 +3,10 @@ title: Rapat panitia
 date: 2012-04-16
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-April_16_2012_Rapat_Launching_dan_Diskusi_Publik_Cermin.jpg](/uploads/200px-April_16_2012_Rapat_Launching_dan_Diskusi_Publik_Cermin.jpg){: .img-responsive .center-block }
 

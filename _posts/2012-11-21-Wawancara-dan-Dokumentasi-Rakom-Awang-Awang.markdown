@@ -3,10 +3,10 @@ title: Wawancara dan Dokumentasi Rakom Awang-Awang
 date: 2012-11-21
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 **Tujuan** : Wawancara dan Dokumentasi Rakom Awang-Awang 
 

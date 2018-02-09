@@ -3,10 +3,10 @@ title: Update naskah rubrik Eksklusif
 date: 2012-07-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Eksklusif, "Kala Orang Minang Berganti Nama" (Kontributor - Arif Budiman)
 

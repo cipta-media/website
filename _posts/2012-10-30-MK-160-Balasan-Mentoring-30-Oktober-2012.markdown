@@ -4,6 +4,7 @@ date: 2012-10-30
 categories:
 - laporan
 - mentoring
+- CMB
 - MK-160
 layout: laporancmb
 ---
@@ -62,4 +63,4 @@ Jadi apabila ada apa-apa dengan programnya, banyak yang bisa membantu, daripada 
 
 MK160 disarankan membuat kebijakan TERTULIS akan perlindungan data, siapa yang dapat mengakses, siapa yang dapat menggunakan, siapa yang dapat merubah, berapa orang, dan apakah data data ini bebas kepentingan. Selama ini walaupun MK160 menyatakan "netral" tetapi tidak terdefinisi netralnya seperti apa dan hanya janji lisan yang tidak terpublikasi. Aturan tertulis dan terpublikasi pada umum dapat meningkatkan kepercayaan publik dan pada saat yang sama dapat "diperbaiki" apabila sudah ada.
 
-MK160 telah mengidentifikasi potensi mengenai keamanan data dimana hal ini memang telah menjadi perhatian utama. Meski belum ada kebijakan tertulis, pengetahuan untuk menjaga keamanan data tersebut telah dibagi. Rencana membuat kebijakan tertulis ini telah masuk dalam prioritas rencana kegiatan, namun sekarang MK160 masih fokus pada pengembangan program dan input database, maka rencana ini belum sempat dilaksanakan 
+MK160 telah mengidentifikasi potensi mengenai keamanan data dimana hal ini memang telah menjadi perhatian utama. Meski belum ada kebijakan tertulis, pengetahuan untuk menjaga keamanan data tersebut telah dibagi. Rencana membuat kebijakan tertulis ini telah masuk dalam prioritas rencana kegiatan, namun sekarang MK160 masih fokus pada pengembangan program dan input database, maka rencana ini belum sempat dilaksanakan

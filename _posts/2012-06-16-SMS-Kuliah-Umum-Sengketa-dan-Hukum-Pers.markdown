@@ -4,6 +4,7 @@ date: 2012-06-16
 categories:
 - laporan
 - sms
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -15,4 +16,4 @@ layout: laporancmb
 ---
 
 **Isi Laporan:**
-* Msa|mas anggara sedang mengisi kuliah umum sengketa dan hukum pers di sekolah jurnalistik mjc AJI Banda Aceh. 
+* Msa|mas anggara sedang mengisi kuliah umum sengketa dan hukum pers di sekolah jurnalistik mjc AJI Banda Aceh.

@@ -4,6 +4,7 @@ date: 2012-07-10
 categories:
 - laporan
 - mentoring
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
@@ -20,4 +21,4 @@ Demikian respon dari kami sementara ini. Saya cc-kan juga email ini juga pada re
 
 Salam,
 
-Eva 
+Eva

@@ -3,10 +3,10 @@ title: rubrik tembang kenangan
 date: 2012-07-19
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-JUli_19_2012_-_perempuan_pelita_1.jpg](/uploads/200px-JUli_19_2012_-_perempuan_pelita_1.jpg){: .img-responsive .center-block }
 

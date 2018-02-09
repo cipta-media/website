@@ -3,10 +3,10 @@ title: Rubrik Hak dan Hukum
 date: 2012-12-08
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Desember_08_-_hak_dan_hukum.jpg](/uploads/200px-Desember_08_-_hak_dan_hukum.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Dona](http://wiki.ciptamedia.org/wiki/Dona)
 
 **Ringkasan**  
-* Hak dan hukum, tiap jumat dua minggu sekali 
+* Hak dan hukum, tiap jumat dua minggu sekali

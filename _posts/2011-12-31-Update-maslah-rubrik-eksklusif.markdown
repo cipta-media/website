@@ -3,6 +3,7 @@ title: Update naskah rubrik Eksklusif
 date: 2011-12-31
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

@@ -3,10 +3,10 @@ title: Pengambilan Data dan Pendokumentasian
 date: 2012-11-05
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_5_2012_PRC_Mas_Bangun_Simponi.jpg](/uploads/200px-Nopember_5_2012_PRC_Mas_Bangun_Simponi.jpg){: .img-responsive .center-block }
 

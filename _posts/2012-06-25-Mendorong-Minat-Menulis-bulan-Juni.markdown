@@ -3,10 +3,11 @@ title: Mendorong Minat Menulis bulan Juni
 date: 2012-06-25
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG](/uploads/200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Mendorong Minat Menulis bulan Juni
@@ -21,4 +22,4 @@ layout: laporancmb
 *	Shinta Miranda (juri)
 *	Peserta kurang lebih 80 orangta Miranda
 
-**Ringkasan** :	
+**Ringkasan** :

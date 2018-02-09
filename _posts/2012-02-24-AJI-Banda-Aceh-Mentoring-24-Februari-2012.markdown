@@ -4,6 +4,7 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -20,4 +21,4 @@ Kegiatan yang telah dilakukan adalah:
 
 **Catatan**
 
-Agar pelaku pemantauan dan pelaku analisis dilakukan oleh Anggota AJI, sebaiknya juga dipantau adalah berita yang dihasilkan oleh non anggota AJI. Agar independensi tetap terjaga disarankan untuk melibatkan pihak ketiga yang bukan anggota AJI saat melakukan pemantauan terhadap berita yang dihasilkan oleh Anggota AJI sehingga pada satu proses peningkatan kapasitas anggota AJI meningkat juga sebagai media evaluasi ketaatan anggota AJI terhadap KEJ 
+Agar pelaku pemantauan dan pelaku analisis dilakukan oleh Anggota AJI, sebaiknya juga dipantau adalah berita yang dihasilkan oleh non anggota AJI. Agar independensi tetap terjaga disarankan untuk melibatkan pihak ketiga yang bukan anggota AJI saat melakukan pemantauan terhadap berita yang dihasilkan oleh Anggota AJI sehingga pada satu proses peningkatan kapasitas anggota AJI meningkat juga sebagai media evaluasi ketaatan anggota AJI terhadap KEJ

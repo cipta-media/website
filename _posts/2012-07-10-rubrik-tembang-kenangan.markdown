@@ -3,10 +3,10 @@ title: rubrik tembang kenangan
 date: 2012-07-10
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_10_-_tembang_kenangan_1.jpg](/uploads/200px-Juli_10_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 

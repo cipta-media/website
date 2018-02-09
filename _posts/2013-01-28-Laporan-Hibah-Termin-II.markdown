@@ -3,10 +3,11 @@ title: Laporan Hibah Termin II
 date: 2013-01-28
 categories:
 - laporan
+- CMB
 - AKUMASSA.ORG
 layout: laporancmb
 ---
-	
+
 **Tujuan** :	Dari Andang Kelana kepada Siska Doviana, Laporan Hibah Termin II
 	
 **Lokasi** :	Jakarta 

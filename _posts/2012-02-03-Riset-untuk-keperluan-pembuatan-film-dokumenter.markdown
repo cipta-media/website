@@ -3,10 +3,10 @@ title: Riset untuk keperluan pembuatan film dokumenter
 date: 2012-02-03
 categories:
 - laporan
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
-
 
 ![200px-Feb_03_2012_UcuAgustin_RisetVisual&CapturingMoment_Dewan_PersLaunchingPeraturanUntukMedia_Siber_BagirMananKetuaDewanPers.jpg](/uploads/200px-Feb_03_2012_UcuAgustin_RisetVisual&CapturingMoment_Dewan_PersLaunchingPeraturanUntukMedia_Siber_BagirMananKetuaDewanPers.jpg)
 ![200px-Feb_03_UcuAgustin_RisetvisualInterviewCapturingmoment_DewanPers_PengesahanPedomanMediaSiber_1.jpg](/uploads/200px-Feb_03_UcuAgustin_RisetvisualInterviewCapturingmoment_DewanPers_PengesahanPedomanMediaSiber_1.jpg)

@@ -3,9 +3,11 @@ title: Rapat Kerjasama
 date: 2012-04-14
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
+
 ![200px-April_14_2012_Kartunet_Meeting_dengan_Rumah_Kenari_dan_Kebukit.JPG](/uploads/200px-April_14_2012_Kartunet_Meeting_dengan_Rumah_Kenari_dan_Kebukit.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Rapat Kerjasama

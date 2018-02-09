@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Gambar
 date: 2012-11-25
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_25_2012_PRC_Interview_Akademisi_Unitomo.JPG](/uploads/200px-Nopember_25_2012_PRC_Interview_Akademisi_Unitomo.JPG){: .img-responsive .center-block }
 

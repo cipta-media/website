@@ -3,10 +3,10 @@ title: Rubrik Union
 date: 2012-11-04
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-November_04_-_union_1.jpg](/uploads/200px-November_04_-_union_1.jpg){: .img-responsive .center-block }
 
@@ -28,4 +28,4 @@ layout: laporancmb
 * [Dadang](http://wiki.ciptamedia.org/wiki/Dadang)
 
 **Ringkasan**  
-* Rubrik Union kali ini bertemakan SPSI PT. Nippon Paint melawan PHK dengan pembicara Dadang, Ketua SPSI KEP PT. Nippon Paint 
+* Rubrik Union kali ini bertemakan SPSI PT. Nippon Paint melawan PHK dengan pembicara Dadang, Ketua SPSI KEP PT. Nippon Paint

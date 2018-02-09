@@ -3,10 +3,10 @@ title: Pelatihan wiki untuk pelaporan aktivitas
 date: 2012-04-16
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-April-16-2012-IMDLN-Pelatihan_wiki_untuk_aktivitas_program-1.JPG](/uploads/250px-April-16-2012-IMDLN-Pelatihan_wiki_untuk_aktivitas_program-1.JPG){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Hari ke-2 Pelatihan Jurnalistik
 date: 2012-01-26
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_26_2012_LenteraTimur.com_Tengku_Dhani_Iqbal_mempertegas_paparan_soal_lokalitas_dengan_visualisasi_pada_tayangan.jpg](/uploads/200px-Januari_26_2012_LenteraTimur.com_Tengku_Dhani_Iqbal_mempertegas_paparan_soal_lokalitas_dengan_visualisasi_pada_tayangan.jpg){: .img-responsive .center-block }
 

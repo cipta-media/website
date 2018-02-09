@@ -3,6 +3,7 @@ title: Sosialisasi Radio Komunitas Benor FM di balai desa Bukit Suban Kec. Air H
 date: 2012-01-30
 categories:
 - laporan
+- CMB
 - Aldepe.com
 layout: laporancmb
 ---

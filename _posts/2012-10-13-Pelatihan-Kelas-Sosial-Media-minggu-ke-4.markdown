@@ -3,10 +3,10 @@ title: Pelatihan Kelas Sosial Media minggu ke 4
 date: 2012-10-13
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_13_2012_Kartunet_Pelatihan_Sosial_media.jpg](/uploads/200px-Oktober_13_2012_Kartunet_Pelatihan_Sosial_media.jpg){: .img-responsive .center-block }
 

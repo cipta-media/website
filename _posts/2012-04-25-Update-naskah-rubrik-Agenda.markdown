@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-04-25
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda, "27 April 2012, Jakarta – Diskusi Novel Pramoedya Ananta Toer “Bukan Pasar Malam”" (Penulis - Redaksi)
 

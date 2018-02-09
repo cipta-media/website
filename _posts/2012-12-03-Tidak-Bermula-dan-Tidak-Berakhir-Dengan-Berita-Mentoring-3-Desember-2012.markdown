@@ -4,8 +4,9 @@ date: 2012-12-03
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
 
-Preview Rough cut II (habis) di Kantor Ford Foundation 
+Preview Rough cut II (habis) di Kantor Ford Foundation

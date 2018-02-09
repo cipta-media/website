@@ -3,10 +3,10 @@ title: Pelatihan Sistem Pelaporan
 date: 2012-10-02
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_2_2012_PRC_Pelatihan_Ushaidi.jpg](/uploads/200px-Oktober_2_2012_PRC_Pelatihan_Ushaidi.jpg){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Hari ke-1 Pelatihan Jurnalistik
 date: 2012-03-19
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Maret_19_2012_LenteraTimur.com_Suasana_pelatihan_hari_pertama_di_Gorontalo.jpg](/uploads/200px-Maret_19_2012_LenteraTimur.com_Suasana_pelatihan_hari_pertama_di_Gorontalo.jpg){: .img-responsive .center-block }
 

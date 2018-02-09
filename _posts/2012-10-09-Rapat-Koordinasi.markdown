@@ -3,10 +3,10 @@ title: Rapat Koordinasi
 date: 2012-10-09
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :   Rapat Koordinasi 
 
@@ -21,4 +21,3 @@ layout: laporancmb
 
 **Ringkasan** :
 * Rapat rutin
-

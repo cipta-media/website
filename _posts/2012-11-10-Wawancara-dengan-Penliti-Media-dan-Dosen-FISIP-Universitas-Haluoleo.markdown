@@ -3,10 +3,10 @@ title: Wawancara dengan Peneliti Media dan Dosen FISIP Universitas Haluoleo
 date: 2012-11-10
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_10_2012_PRC_Wawancara_Aswan_Pengamat_Rakom_Kendari.png(/uploads/200px-Nopember_10_2012_PRC_Wawancara_Aswan_Pengamat_Rakom_Kendari.png){: .img-responsive .center-block }
 

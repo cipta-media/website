@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita
 date: 2012-12-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_21_-_perempuan_pelita_1.jpg](/uploads/200px-Des_21_-_perempuan_pelita_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [roy](http://wiki.ciptamedia.org/wiki/roy)
 
 **Ringkasan**  
-* rubrik perempuan pelita tiap kamis jam 7 -8 malam 
+* rubrik perempuan pelita tiap kamis jam 7 -8 malam

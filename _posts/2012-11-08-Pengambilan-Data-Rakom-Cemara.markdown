@@ -3,10 +3,10 @@ title: Pengambilan Data Rakom Cemara
 date: 2012-11-08
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_8_2012_Rakom_Cemara.png](/uploads/200px-Nopember_8_2012_Rakom_Cemara.png){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 
 
 **Ringkasan**  
-* Radio Komunitas Cemara memiliki kekuatan untuk menjaga hutan lindung di kawasan tersebut. Sebelum ada radio, penebangan liar sangat banyak terjadi dan merusak lingkungan. Akhirnya ada kesadaran masyarakat untuk menjaga hutan mereka dengan membuat sosialisasi lewat radio komunitas. Berkerjasama dengan dinas kehutanan untuk kampanye penyalamatan hutan di Kolaka. 
+* Radio Komunitas Cemara memiliki kekuatan untuk menjaga hutan lindung di kawasan tersebut. Sebelum ada radio, penebangan liar sangat banyak terjadi dan merusak lingkungan. Akhirnya ada kesadaran masyarakat untuk menjaga hutan mereka dengan membuat sosialisasi lewat radio komunitas. Berkerjasama dengan dinas kehutanan untuk kampanye penyalamatan hutan di Kolaka.

@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-09-11
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata "Indonesia dan Australia Mengapungkan Nasib “Anak-anak Perahu”" (Penulis - TM Dhani Iqbal)
 

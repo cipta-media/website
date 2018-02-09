@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-04-10
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Dari Kolong Rumah Panggung" (Kontributor - Rivon Paino)
 

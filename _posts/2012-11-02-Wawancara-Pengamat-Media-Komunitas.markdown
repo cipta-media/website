@@ -3,10 +3,10 @@ title: Wawancara Pengamat Media Komunitas
 date: 2012-11-02
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-November_2_2012_PRC_Wawancara_dengan_Mart_Widarto_Combine_Yogya.png](/uploads/200px-November_2_2012_PRC_Wawancara_dengan_Mart_Widarto_Combine_Yogya.png){: .img-responsive .center-block }
 

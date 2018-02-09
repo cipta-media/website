@@ -3,10 +3,10 @@ title: Rapat Studi
 date: 2012-09-25
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-September_25_2012_PRC_Rapat_Riset_Skema_Pembiayaan_Radio_Komunitas.jpg](/uploads/200px-September_25_2012_PRC_Rapat_Riset_Skema_Pembiayaan_Radio_Komunitas.jpg){: .img-responsive .center-block }
 

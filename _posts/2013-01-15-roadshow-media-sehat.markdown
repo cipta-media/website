@@ -4,6 +4,7 @@ date: 2013-01-15
 categories:
 - laporan
 - sms
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---

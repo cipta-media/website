@@ -3,10 +3,10 @@ title: Pelatihan Jurnalistik dan Gender
 date: 2012-03-03
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_26_2012_pelatihan_jurnalistik_II-1.jpg](/uploads/200px-Februari_26_2012_pelatihan_jurnalistik_II-1.jpg){: .img-responsive .center-block }
 

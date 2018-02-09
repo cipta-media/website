@@ -4,7 +4,8 @@ date: 2012-07-12
 categories:
 - laporan
 - sms
-- Kartunet.com 
+- CMB
+- Kartunet.com
 layout: laporancmb
 ---
 
@@ -30,6 +31,4 @@ layout: laporancmb
   * Ktn|mariana pondok labu harapan saya agar disabilitas lbh diperhatikan dlm hal transportasi, kesehatan, pendidikan dan lapangan krj 
   * KTN|JP cikeas kami ingin banjirnya gak ada lagi. Okeeeeeee. Terutama di rumah saya. 
   * KTN|JANE Kami ingin Jakarta bebas macet& punya birokrasi yg jujur dan mudah 
-  * Ktn|jakarta mmari gabung dgn gerakan jangan pilih pemimpin jakarta tak peduli disabilitas #JakartaForAll 
- 
-  
+  * Ktn|jakarta mmari gabung dgn gerakan jangan pilih pemimpin jakarta tak peduli disabilitas #JakartaForAll

@@ -3,10 +3,10 @@ title: Rubrik Bollywood Hits
 date: 2012-10-29
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_29_-_Bollywood_Hits_1.jpg](/uploads/200px-Oktober_29_-_Bollywood_Hits_1.jpg){: .img-responsive .center-block }
 

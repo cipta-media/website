@@ -3,10 +3,10 @@ title: Rapat Rencana Penelitian
 date: 2012-09-06
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-September_6_2012_PRC_Rapat_Penelitian_Rakom.jpg](/uploads/200px-September_6_2012_PRC_Rapat_Penelitian_Rakom.jpg){: .img-responsive .center-block }
 
@@ -27,4 +27,4 @@ layout: laporancmb
 * Yusuf Yudapraja
 
 **Ringkasan**  
-* Penelitian untuk Radio Komunitas ke seluruh Indonesia akan dilaksanakan di 6 propinsi, Tim Peneliti Sekolah Fundraising PIRAC akan diturunkan akhir September atau awal Oktober 2012. Kepastian disesuaikan dengan kondisi. 
+* Penelitian untuk Radio Komunitas ke seluruh Indonesia akan dilaksanakan di 6 propinsi, Tim Peneliti Sekolah Fundraising PIRAC akan diturunkan akhir September atau awal Oktober 2012. Kepastian disesuaikan dengan kondisi.

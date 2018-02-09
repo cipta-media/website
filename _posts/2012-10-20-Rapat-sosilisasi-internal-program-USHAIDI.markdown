@@ -3,10 +3,10 @@ title: Rapat sosilisasi internal program USHAIDI
 date: 2012-10-20
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :   Rapat sosilisasi internal program USHAIDI 
 
@@ -22,4 +22,3 @@ layout: laporancmb
 **Ringkasan** :
 * Asriyadi Alexander Mering melakukan sosialisasi internal tentang hasil pelatihan program USHAIDI
 * Merumuskan metode yang dipakai untuk melakukan sosialisasi program  ke daerah-daerah, baik langsung ke lapangan maupun via telepon, khusus  untuk wilayah yang jauh
-

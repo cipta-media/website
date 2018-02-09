@@ -3,10 +3,10 @@ title: Pelatihan Kelas Sosial Media
 date: 2012-09-22
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
-
 
 ![200px-September_22_2012_Kartunet_Kelas_Training_Bloging.jpg](/uploads/200px-September_22_2012_Kartunet_Kelas_Training_Bloging.jpg){: .img-responsive .center-block }
 

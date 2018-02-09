@@ -3,6 +3,7 @@ title: Update naskah rubrik Kasatmata
 date: 2012-03-02
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

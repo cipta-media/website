@@ -3,10 +3,11 @@ title: Kopdar Lembaga Bhinneka di Bandung
 date: 2012-09-08
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-September_8_2012_Bhinneka_Kopdar_Bandung.JPG](/uploads/200px-September_8_2012_Bhinneka_Kopdar_Bandung.JPG){: .img-responsive .center-block }	
 ![200px-September_8_2012_Bhinneka_Kopdar_Bandung-1.JPG](/uploads/200px-September_8_2012_Bhinneka_Kopdar_Bandung-1.JPG){: .img-responsive .center-block }	
 ![200px-September_8_2012_Bhinneka_Kopdar_Bandung_2.jpg](/uploads/200px-September_8_2012_Bhinneka_Kopdar_Bandung_2.JPG){: .img-responsive .center-block }	

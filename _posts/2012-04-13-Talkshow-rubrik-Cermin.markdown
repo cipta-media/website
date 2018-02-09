@@ -3,10 +3,10 @@ title: Talkshow rubrik Cermin
 date: 2012-04-13
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-April_13_2012_-_satgas_anti_pornografi_dan_pornoaksi-_rubrik_cermin.jpg](/uploads/200px-April_13_2012_-_satgas_anti_pornografi_dan_pornoaksi-_rubrik_cermin.jpg){: .img-responsive .center-block }
 

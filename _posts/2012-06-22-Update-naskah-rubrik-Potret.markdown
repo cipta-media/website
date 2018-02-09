@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-06-22
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret, "Bahtera Laju Ke Utara" (Penulis - Redaksi)
 

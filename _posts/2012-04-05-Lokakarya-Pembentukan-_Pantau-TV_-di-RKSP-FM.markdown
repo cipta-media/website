@@ -3,10 +3,11 @@ title: Lokakarya Pembentukan "Pantau TV" di RKSP FM
 date: 2012-04-05
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-April_5_2012_JRKL_Lokakarya_Pembentukan_Pantau_T-_di_RKSP_FM.JPG](/uploads/200px-April_5_2012_JRKL_Lokakarya_Pembentukan_Pantau_T-_di_RKSP_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Lokakarya Pembentukan "Pantau TV" di RKSP FM

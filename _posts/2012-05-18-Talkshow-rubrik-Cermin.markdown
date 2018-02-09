@@ -3,10 +3,10 @@ title: Talkshow rubrik Cermin
 date: 2012-05-18
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Mei_18_2012_-_papsmear_untuk_mencegah_kanker_serviks_1.jpg](/uploads/200px-Mei_18_2012_-_papsmear_untuk_mencegah_kanker_serviks_1.jpg){: .img-responsive .center-block }
 

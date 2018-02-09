@@ -3,10 +3,10 @@ title: mensosialisasikan kompetisi Indonesian Human Rigts Blog Awards
 date: 2012-03-17
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Maret_17_2012_IMDLN_Sosialisasi_IHRBA_di_Palembang.jpg](/uploads/250px-Maret_17_2012_IMDLN_Sosialisasi_IHRBA_di_Palembang.jpg){: .img-responsive .center-block }
 

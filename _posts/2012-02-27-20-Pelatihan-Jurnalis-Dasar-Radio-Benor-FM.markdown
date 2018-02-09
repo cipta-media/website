@@ -3,6 +3,7 @@ title: Pelatihan Jurnalis Dasar Radio Benor FM di Kantor Lapangan KKI WARSI Desa
 date: 2012-02-06-10
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -33,4 +34,3 @@ layout: laporancmb
 *	Mendapatkan Dukungan atas keberadaan rakom di desa Bukit Suban
 *	Tumbuhnya rasa memiliki akan keberadaan radio komunitas
 *	Diterimanya radio sebagai media informasi alternatif di lingkungan masyarakat desa Bukit Suban
-

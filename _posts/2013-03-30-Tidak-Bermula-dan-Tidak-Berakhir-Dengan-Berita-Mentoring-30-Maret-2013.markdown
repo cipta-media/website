@@ -4,6 +4,7 @@ date: 2013-03-30
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
@@ -42,5 +43,4 @@ Email dari Anda telah masuk, dan sudah kami list dalam permintaan pemutaran. Kam
 Selain mengucapkan terima kasih dan mengabarkan bahwa email Anda telah kami masukkan dalam list kami—dalam email ini, kami juga ingin memberitahukan update yang sedang terjadi dan berkenaan dengan film “Di Balik Frekuensi” (yang kemudian kita singkat menjadi DBF). Sebagaimana yang diketahui, DBF adalah bagian dari project Cipta Media Bersama, yang merupakan inisiatif dari gabungan organisasi non-profit, yang memiliki concern terhadap media: Wikimedia, AJI, dan ICT-Watch, yang di-support penuh oleh Ford Foundation. 
 Dalam schdule besar kami untuk DBF sebagai sebuah project Cipta Media Bersama, roadshow (pemutaran keliling film DBF), merupakan rangkaian kegiatan terakhir yang harus kami lakukan dan selesaikan per awal April 2013. Demikian juga dengan laporan kegiatan, dan lain-lainnya. Padahal, sebagai project yang awalnya adalah inisiatif individu sutradara kami, Ucu Agustin, DBF sebagaimana mulanya, pada akhirnya—setelah produksi film selesai dan premiere dilakukan—memang hanyalah sebuah tim kecil yang terdiri dari pribadi Ucu Agustin (inisiatif project, produser, sutradara), Ursula Tumiwa (co-inisiatif, produser), dan dibantu seorang volunteer admin distribusi saja. 
 Menghadapi respon positif dari para penonton dan peminat yang meminta pemutaran atas film kami—yang ternyata membludak di luar dugaan—tentu saja, kami dari tim kecil DBF merasa senang, dan bersyukur, serta berterima kasih atas apresiasinya. Tapi di sisi lain, kami memiliki kendala keterbatasan sumber daya. Oleh sebab itu, kami dari tim DBF untuk saat ini, terpaksa harus membuat prioritas karena keterbatasan tersebut.
-Sebagai informasi, selama dua bulan setelah film ini diluncurkan ke publik—per tanggal 24 Januari 2013, hampir 100 permintaan pemutaran masuk dalam email kami : behindthefrequencyfilm@gmail.com. 
-
+Sebagai informasi, selama dua bulan setelah film ini diluncurkan ke publik—per tanggal 24 Januari 2013, hampir 100 permintaan pemutaran masuk dalam email kami : behindthefrequencyfilm@gmail.com.

@@ -4,6 +4,7 @@ date: 2012-10-30
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---

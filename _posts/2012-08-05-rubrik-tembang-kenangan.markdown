@@ -3,10 +3,10 @@ title: rubrik tembang kenangan
 date: 2012-08-05
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Agustus_5_2012_-_Tembang_kenangan_1.jpg](/uploads/200px-Agustus_5_2012_-_Tembang_kenangan_1.jpg){: .img-responsive .center-block }
 
@@ -23,4 +23,4 @@ layout: laporancmb
 * [Olief](http://wiki.ciptamedia.org/wiki/Olief)
 
 **Ringkasan**  
-* Tembang kenangan kali ini, Olief sedang tidak ditemani oleh Thin Kusna tapi tetap semangat 
+* Tembang kenangan kali ini, Olief sedang tidak ditemani oleh Thin Kusna tapi tetap semangat

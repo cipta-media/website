@@ -3,10 +3,10 @@ title: Undangan ASEAN BLOGGERUndangan ASEAN BLOGGER
 date: 2012-06-16
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
-
 
 ![200px-13_Oktober_2012_ASEAN_Blogger.jpg](/uploads/200px-13_Oktober_2012_ASEAN_Blogger.jpg){: .img-responsive .center-block }
 

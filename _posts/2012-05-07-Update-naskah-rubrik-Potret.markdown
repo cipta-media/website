@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-05-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret, "Api Suci dari Dua Candi" (Kontributor - Rizky Januar)
 

@@ -3,10 +3,10 @@ title: Rapat Kordinasi Antar lembaga
 date: 2012-01-01
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :  Rapat Kordinasi Antar lembaga 
 
@@ -25,4 +25,3 @@ layout: laporancmb
 
 **Ringkasan** :
 * Pertemuan antara lembaga Mata enggang dan Borneo Blogger Community dalam rangka persiapan pelaksanaan program BBM
-

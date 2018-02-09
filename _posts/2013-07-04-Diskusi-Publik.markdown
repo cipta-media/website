@@ -3,10 +3,10 @@ title: Diskusi Publik
 date: 2013-07-04
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Juli_4_2013_PRC_pemaparan.jpg](/uploads/200px-Juli_4_2013_PRC_pemaparan.jpg){: .img-responsive .center-block }
 

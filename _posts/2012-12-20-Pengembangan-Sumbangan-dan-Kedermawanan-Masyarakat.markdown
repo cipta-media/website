@@ -3,10 +3,10 @@ title: Pengembangan Sumbangan dan Kedermawanan Masyarakat
 date: 2012-12-20
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_20_2012_PRC_FGD_V_Rakom_sumbangan_masyarakat.jpg](/uploads/200px-Desember_20_2012_PRC_FGD_V_Rakom_sumbangan_masyarakat.jpg){: .img-responsive .center-block }
 

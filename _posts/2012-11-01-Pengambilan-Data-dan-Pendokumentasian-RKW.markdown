@@ -3,10 +3,10 @@ title: Pengambilan Data dan Pendokumentasian RKW
 date: 2012-11-01
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-November_1_2012_PRC_pengambilan_data_RakomWiladegSukoco.png](/uploads/200px-November_1_2012_PRC_pengambilan_data_RakomWiladegSukoco.png){: .img-responsive .center-block }
 

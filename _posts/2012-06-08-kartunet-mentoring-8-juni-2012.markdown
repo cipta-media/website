@@ -4,6 +4,7 @@ date: 2012-06-08
 categories:
 - laporan
 - mentoring
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
@@ -49,4 +50,4 @@ Tidak ada saran
 
 **Saran umum:**
 
-Kartunet harus mulai membuat rencana kerja yang terarah dengan monitoring dan evaluasi internal yang lebih baik lagi, agar capaian program dapat sesuai dengan usulan semula 
+Kartunet harus mulai membuat rencana kerja yang terarah dengan monitoring dan evaluasi internal yang lebih baik lagi, agar capaian program dapat sesuai dengan usulan semula

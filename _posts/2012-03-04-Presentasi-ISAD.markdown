@@ -3,6 +3,7 @@ title: Presentasi ISAD, Temu Komunitas Street Art dan Perekaman Street Art di Ko
 date: 2012-03-04
 categories:
 - laporan
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---

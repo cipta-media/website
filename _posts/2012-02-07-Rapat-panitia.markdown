@@ -3,10 +3,10 @@ title: Rapat panitia
 date: 2012-02-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_07_2012_FBLP_rapat_panitia_diskusi_publik_cermin.jpg](/uploads/200px-Februari_07_2012_FBLP_rapat_panitia_diskusi_publik_cermin.jpg){: .img-responsive .center-block }
 
@@ -31,4 +31,4 @@ layout: laporancmb
 
 **Ringkasan**  
 * Dalam rapat tersebut diebntuk panitia Diskusi Publik dengan ketua Panitia Richi Minarta 
-* Penentuan tempat diskusi publik, pemesanan logistik, cetak poster, undangan dll 
+* Penentuan tempat diskusi publik, pemesanan logistik, cetak poster, undangan dll

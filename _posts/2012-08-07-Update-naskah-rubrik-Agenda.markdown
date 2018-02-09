@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-08-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda, "9 Agustus 2012, Jakarta – Bincang Buku “The Angle of Vision”" (Penulis - Admin)
 

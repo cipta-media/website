@@ -4,6 +4,7 @@ date: 2013-02-15
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -28,4 +29,4 @@ Banda Aceh, 15 Februari 2013
 
 Hormat saya
 Mukhtaruddin Yakob
-Manajer Program 
+Manajer Program

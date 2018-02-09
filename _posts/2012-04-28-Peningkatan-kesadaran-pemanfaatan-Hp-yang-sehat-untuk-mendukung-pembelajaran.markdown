@@ -3,10 +3,11 @@ title: Peningkatan kesadaran pemanfaatan Hp yang sehat untuk mendukung pembelaja
 date: 2012-04-28
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![250px-April_28_2012_Hpku_di_SMKN_1_Kediri.jpg](/uploads/250px-April_28_2012_Hpku_di_SMKN_1_Kediri.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Peningkatan kesadaran pemanfaatan Hp yang sehat untuk mendukung pembelajaran

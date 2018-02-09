@@ -3,10 +3,10 @@ title: rubrik Perempuan Pelita edisi 11
 date: 2012-08-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Agustus_09_2012_-_Perempuan_Pelita_1.jpg](/uploads/200px-Agustus_09_2012_-_Perempuan_Pelita_1.jpg){: .img-responsive .center-block }
 

@@ -3,10 +3,11 @@ title: Bedah buku Antologi "Sepasang Ballerina"
 date: 2013-03-09
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_7_2013_Bedah_Buku.jpg](/uploads/200px-Maret_7_2013_Bedah_Buku.jpg){: .img-responsive .center-block }	
 ![200px-Maret_7_2013_Bedah_Buku_1.jpg](/uploads/200px-Maret_7_2013_Bedah_Buku_1.jpg){: .img-responsive .center-block }	
 ![200px-Maret_7_2013_Bedah_Buku_2.jpg](/uploads/200px-Maret_7_2013_Bedah_Buku_2.jpg){: .img-responsive .center-block }	

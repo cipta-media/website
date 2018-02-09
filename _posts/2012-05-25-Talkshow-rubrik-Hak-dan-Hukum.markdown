@@ -3,10 +3,10 @@ title: Talkshow rubrik Hak dan Hukum
 date: 2012-05-25
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Mei_25_2012_-_PKWT_1.jpg](/uploads/200px-Mei_25_2012_-_PKWT_1.jpg)
 ![200px-Mei_25_2012_-_PKWT_2.jpg](/uploads/200px-Mei_25_2012_-_PKWT_2.jpg)

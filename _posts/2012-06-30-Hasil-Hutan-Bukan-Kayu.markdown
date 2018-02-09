@@ -3,10 +3,11 @@ title: Hasil Hutan Bukan Kayu (HHBK) Orang Rimba Selatan TNBD
 date: 2012-06-30
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-Juni_30_2012_Benor_Fm_HHBK_Orang_Rimba_Selatan_TNBD_.JPG](/uploads/200px-Juni_30_2012_Benor_Fm_HHBK_Orang_Rimba_Selatan_TNBD_.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** : Hasil Hutan Bukan Kayu (HHBK) Orang Rimba Selatan TNBD

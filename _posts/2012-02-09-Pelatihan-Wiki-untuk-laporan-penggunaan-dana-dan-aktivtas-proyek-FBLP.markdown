@@ -3,10 +3,10 @@ title: Pelatihan Wiki untuk laporan penggunaan dana dan aktivtas proyek FBLP
 date: 2012-02-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_09_2012_FBLP_pelatihan_wiki.jpg](/uploads/200px-Februari_09_2012_FBLP_pelatihan_wiki.jpg){: .img-responsive .center-block }
 

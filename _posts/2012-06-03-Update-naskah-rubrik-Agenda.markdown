@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-06-03
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda, "4 Juni 2012, Banda Aceh – Diskusi Publik Seri I “Review Buku Aceh di Mata Dunia”" (Penulis - Admin)
 

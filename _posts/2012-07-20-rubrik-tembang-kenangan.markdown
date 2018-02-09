@@ -3,10 +3,10 @@ title: rubrik tembang kenangan
 date: 2012-07-20
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_20_2012_-_hak_dan_hukum.jpg](/uploads/200px-Juli_20_2012_-_hak_dan_hukum.jpg){: .img-responsive .center-block }
 

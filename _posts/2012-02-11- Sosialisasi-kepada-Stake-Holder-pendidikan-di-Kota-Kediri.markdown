@@ -3,10 +3,11 @@ title: Sosialisasi kepada Stake Holder pendidikan di Kota Kedir
 date: 2012-02-11
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![150px-Pebruari_11_2012_1000guru_Sosialisasi_Hpku_di_telkom.jpg](/uploads/150px-Pebruari_11_2012_1000guru_Sosialisasi_Hpku_di_telkom.jpg){: .img-responsive .center-block }	
 ![150px-Pebruari_11_2012_1000guru_Sosialisasi_Hpku_di_telkom (1).jpg](/uploads/150px-Pebruari_11_2012_1000guru_Sosialisasi_Hpku_di_telkom (1).jpg){: .img-responsive .center-block }
 ![150px-Pebruari_11_2012_1000guru_P_Imron_Menggambarkan_perubahan_di_Sosialisasi_Hp_untuk_belajar.jpg](/uploads/150px-Pebruari_11_2012_1000guru_P_Imron_Menggambarkan_perubahan_di_Sosialisasi_Hp_untuk_belajar.jpg){: .img-responsive .center-block }

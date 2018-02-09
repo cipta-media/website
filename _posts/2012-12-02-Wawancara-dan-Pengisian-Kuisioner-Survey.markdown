@@ -3,10 +3,10 @@ title: Wawancara dan Pengisian Kuisioner Survey
 date: 2012-12-02
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_2_2013_PRC_Wawancara_&_Pengisian_Kuesioner_Survei_Fundraising_Rakom_OK.jpg](/uploads/200px-Desember_2_2013_PRC_Wawancara_&_Pengisian_Kuesioner_Survei_Fundraising_Rakom_OK.jpg){: .img-responsive .center-block }
 

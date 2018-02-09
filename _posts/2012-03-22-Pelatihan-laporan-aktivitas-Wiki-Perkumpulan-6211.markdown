@@ -3,10 +3,10 @@ title: Pelatihan laporan aktivitas Wiki Perkumpulan 6211
 date: 2012-03-22
 categories:
 - laporan
+- CMB
 - Video untuk Perdamaian
 layout: laporancmb
 ---
-
 
 ![200px-Maret_22_2012_6211_Training_Wiki_Part_1.jpg](/uploads/200px-Maret_22_2012_6211_Training_Wiki_Part_1.jpg){: .img-responsive .center-block }
 
@@ -32,4 +32,4 @@ layout: laporancmb
 
 **Ringkasan** 
 * Pelatihan ini dilakukan untuk menyamakan format laporan kegiatan dan keuangan para penerima hibah Cipta Media Bersama dan juga cara memasukan laporan aktivitas ke situs wiki Cipta Media Bersama.
-* Pelatihan dilakukan bersama dengan Yayasan Pantau. 
+* Pelatihan dilakukan bersama dengan Yayasan Pantau.

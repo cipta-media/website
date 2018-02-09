@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-07-05
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "100 Tahun Istana Lima Laras" (Kontributor - Setiadi R. Saleh)
 

@@ -3,10 +3,11 @@ title: Dari Siska ditujukan ke Otty Widasari
 date: 2013-01-23
 categories:
 - laporan
+- CMB
 - AKUMASSA.ORG
 layout: laporancmb
 ---
-		
+
 **Tujuan** :	Dari Siska ditujukan ke Otty Widasari
 	
 **Lokasi** :	Jakarta 

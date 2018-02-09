@@ -3,10 +3,10 @@ title: Malam Penganugerahan IHRBA
 date: 2012-06-18
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Juni_18_2012_IMDLN_Rapat_Teknis_di_Museum_Nasional.JPG](/uploads/250px-Juni_18_2012_IMDLN_Rapat_Teknis_di_Museum_Nasional.JPG){: .img-responsive .center-block }
 

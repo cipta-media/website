@@ -3,10 +3,11 @@ title: Kopdar Lembaga Bhinneka di Yogya
 date: 2012-10-04
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Oktober_4_2012_Bhinneka_kopdar_Yogya.JPG](/uploads/200px-Oktober_4_2012_Bhinneka_kopdar_Yogya.JPG){: .img-responsive .center-block }	
 ![200px-Oktober_4_2012_Bhinneka_kopdar_Yogya_2.JPG](/uploads/200px-Oktober_4_2012_Bhinneka_kopdar_Yogya_2.JPG){: .img-responsive .center-block }	
 ![200px-Oktober_4_2012_Bhinneka_kopdar_Yogya_3.JPG](/uploads/200px-Oktober_4_2012_Bhinneka_kopdar_Yogya_3.JPG){: .img-responsive .center-block }	

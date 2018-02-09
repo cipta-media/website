@@ -3,10 +3,10 @@ title: Sosialisasi Indonesia Human Rights Blogg Award
 date: 2012-04-15
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![April_15_2012_IMDLN_Sosialisasi_IHRBA_di_RM.Kawali_Tangerang.jpg](/uploads/April_15_2012_IMDLN_Sosialisasi_IHRBA_di_RM.Kawali_Tangerang.jpg){: .img-responsive .center-block }
 

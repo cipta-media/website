@@ -3,6 +3,7 @@ title: Kartunet - Proposal Lengkap
 date: 2012-01-08 12:52:00 +07:00
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---

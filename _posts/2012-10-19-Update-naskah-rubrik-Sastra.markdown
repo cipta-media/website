@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-10-19
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra "Ketabo, Kita Berangkat!" (Kontributor - Setiadi R. Saleh)
 

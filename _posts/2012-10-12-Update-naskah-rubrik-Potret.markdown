@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-10-12
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret "Di Bawah Bendera Marawa" (Kontributor - Arif Budiman)
 

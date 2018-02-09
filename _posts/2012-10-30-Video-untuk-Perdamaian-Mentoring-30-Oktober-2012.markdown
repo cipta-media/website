@@ -4,6 +4,7 @@ date: 2012-10-30
 categories:
 - laporan
 - mentoring
+- CMB
 - Video untuk Perdamaian
 layout: laporancmb
 ---
@@ -36,4 +37,4 @@ Jangan lupa juga untuk submit laporan narasinya.
 
 Salam hangat,
 
-Adyani 
+Adyani

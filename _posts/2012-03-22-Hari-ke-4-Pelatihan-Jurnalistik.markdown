@@ -3,10 +3,10 @@ title: Hari ke-4 Pelatihan Jurnalistik
 date: 2012-03-22
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Maret_22_2012_LenteraTimur.com_Pemateri_memandu_pembahasan_rencana_peliputan_peserta.jpg](/uploads/200px-Maret_22_2012_LenteraTimur.com_Pemateri_memandu_pembahasan_rencana_peliputan_peserta.jpg){: .img-responsive .center-block }
 

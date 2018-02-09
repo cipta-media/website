@@ -3,10 +3,10 @@ title: Hari ke-3 Pelatihan Jurnalistik
 date: 2012-01-27
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_27_2012_LenteraTimur.com_Review_praktik_penulisan_oleh_Martin_Aleida.jpg](/uploads/200px-Januari_27_2012_LenteraTimur.com_Review_praktik_penulisan_oleh_Martin_Aleida.jpg){: .img-responsive .center-block }
 

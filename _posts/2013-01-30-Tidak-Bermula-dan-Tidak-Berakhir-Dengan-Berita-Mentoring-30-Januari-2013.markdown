@@ -4,6 +4,7 @@ date: 2013-01-30
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
@@ -31,4 +32,4 @@ KEDUA: Laporan naratif dan laporan keuangan yang kedua tanggalnya sama tenggatny
 
 KETIGA: (ketinggalan) Roadshow itu masih dalam proposal permintaan dana awal (upayanya), jadi untuk kita itu bukan dana sisa tapi masih bagian proyek, tanggalnya manut di point yang kedua. Kalau masih ada sisa setelah roadshow, nah sisanya berapa kan baru tahu kemudian, itu mah nyatakan saja pada tanggal 20 Juni 2013 (misalnya) kita baru tahu sisanya berapa (asumsinya laporan keuangan dan laporan naratif kan sudah selesai) dan akan melampirkan anggaran untuk dana sisa tersebut
 
-AMIN, Siska Doviana 
+AMIN, Siska Doviana

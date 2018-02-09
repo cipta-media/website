@@ -3,10 +3,11 @@ title: Pembentukan Forum Pemantau Media di RGL FM
 date: 2012-02-23
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_23_2012_JRKL_Pembentukan_FPM.JPG](/uploads/200px-Maret_23_2012_JRKL_Pembentukan_FPM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pembentukan Forum Pemantau Media di RGL FM

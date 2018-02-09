@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita edisi XIII
 date: 2012-09-06
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_06_2012_-_perempuan_pelita.jpg](/uploads/200px-September_06_2012_-_perempuan_pelita.jpg){: .img-responsive .center-block }
 

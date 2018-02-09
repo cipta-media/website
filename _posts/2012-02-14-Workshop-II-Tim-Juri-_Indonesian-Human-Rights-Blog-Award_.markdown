@@ -3,10 +3,10 @@ title: Workshop II Tim Juri "Indonesian Human Rights Blog Award"
 date: 2012-02-14
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![150px-Februari_14_2012_IMDLN_Workshop_II_Tim_Juri-1.JPG](/uploads/150px-Februari_14_2012_IMDLN_Workshop_II_Tim_Juri-1.JPG){: .img-responsive .center-block }
 

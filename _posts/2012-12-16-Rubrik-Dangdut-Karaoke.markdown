@@ -3,10 +3,10 @@ title: Rubrik Dangdut Karaoke
 date: 2012-12-16
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_16_2012_-_dangdut_karaoke_1.jpg](/uploads/200px-Des_16_2012_-_dangdut_karaoke_1.jpg){: .img-responsive .center-block }
 

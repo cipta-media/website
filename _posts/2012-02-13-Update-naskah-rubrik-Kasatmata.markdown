@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-02-13
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Nazar yang Tak Mengakar" (Kontributor - Arman Dhani)
 

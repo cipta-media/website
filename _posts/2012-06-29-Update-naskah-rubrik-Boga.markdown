@@ -3,10 +3,10 @@ title: Update naskah rubrik Boga
 date: 2012-06-29
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Boga, "Kapah Itu Bapaknya Tudai" (Kontributor: Fadil Sumarwan) 
 

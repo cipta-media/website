@@ -3,6 +3,7 @@ title: Workshop Pendidikan Orang Rimba di Kantor Lapangan KKI WARSI
 date: 2012-04-15
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---

@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-07-01
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Kalimantan Barat di Antara Jepang dan Indonesia" (Kontributor - Anshari Dimyati)
 

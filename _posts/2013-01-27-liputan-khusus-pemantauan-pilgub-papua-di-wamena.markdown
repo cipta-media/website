@@ -3,6 +3,7 @@ title: Liputan Khusus Pemantauan Pilgub Papua di Wamena
 date: 2013-01-27
 categories:
 - laporan
+- CMB
 - Aldepe.com
 layout: laporancmb
 ---

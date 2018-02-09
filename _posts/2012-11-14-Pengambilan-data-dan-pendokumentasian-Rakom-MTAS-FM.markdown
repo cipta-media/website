@@ -3,10 +3,10 @@ title: Pengambilan data dan pendokumentasian Rakom MTAS FM
 date: 2012-11-14
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_14_2012_PRC_Pengambilan_Data_Rakom_MTAS.jpg](/uploads/200px-Nopember_14_2012_PRC_Pengambilan_Data_Rakom_MTAS.jpg){: .img-responsive .center-block }
 

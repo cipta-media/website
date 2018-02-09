@@ -3,10 +3,11 @@ title: Launching Antologi LGBT "Sepasang Ballerina"
 date: 2013-02-27
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Febuari_27_2013_Bedah_Buku.jpg](/uploads/200px-Febuari_27_2013_Bedah_Buku.jpg){: .img-responsive .center-block }	
 ![200px-Febuari_27_2013_Bedah_Buku_1.JPG](/uploads/200px-Febuari_27_2013_Bedah_Buku_1.JPG){: .img-responsive .center-block }	
 	

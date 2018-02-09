@@ -3,6 +3,7 @@ title: Sosialisasi program Border Blogger Movement di Paloh, Sambas.
 date: 2012-01-16
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -26,4 +27,3 @@ layout: laporancmb
 **Ringkasan** :
 * Sosialisasi dimulai dengan kata pengantar oleh Manager Program BBM Asriyadi Alexander Mering. Ia memaparkan dan menjelaskan gambaran umum, teknis serta manfaat program.
 * Sesi berikutnya, kata pengantar dari tokoh pemuda setempat Hendro  Susanto. Pekerja konservasi ini berharap program BBM dapat meningkatkan  kapasitas warga. Terutama dalam bidang menulis dan teknologi informasi.
-

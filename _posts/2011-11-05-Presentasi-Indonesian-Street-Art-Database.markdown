@@ -3,10 +3,11 @@ title: Presentasi Indonesian Street Art Database, bersama Tanggerang Street Art 
 date: 2011-11-05
 categories:
 - laporan
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---
-	
+
 ![250px-November_5_2011_Presentasi_ISAA_dan_ISAD_di_Komunitas_Anak_Langit_bersama_Street_Art_Tanggerang_Forum_Tanggerang_2011_(9).JPG](/uploads/250px-November_5_2011_Presentasi_ISAA_dan_ISAD_di_Komunitas_Anak_Langit_bersama_Street_Art_Tanggerang_Forum_Tanggerang_2011_(9).JPG.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Presentasi Indonesian Street Art Database, bersama Tanggerang Street Art Forum di komunitas Keluarga Anak Langit pada tanggal 5 november 2011 yang melibatkan kelompok dan individu pelaku street art Tanggerang.

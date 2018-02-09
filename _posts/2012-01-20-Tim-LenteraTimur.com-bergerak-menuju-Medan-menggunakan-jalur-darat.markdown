@@ -3,10 +3,10 @@ title: Tim LenteraTimur.com bergerak menuju Medan menggunakan jalur darat.
 date: 2012-01-20
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_20_2012_LenteraTimur.com_Menempuh_jalur_darat_Jakarta-Medan_selama_4_hari_4_malam.jpg](/uploads/200px-Januari_20_2012_LenteraTimur.com_Menempuh_jalur_darat_Jakarta-Medan_selama_4_hari_4_malam.jpg){: .img-responsive .center-block }
 

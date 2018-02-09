@@ -3,6 +3,7 @@ title: Sosialisasi program BBM di Kabupaten Sintang.
 date: 2012-01-15
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -26,5 +27,4 @@ layout: laporancmb
 * Manajer Program BBM Asriyadi Alexander Mering menjelaskan tujuan  program BBM, antara lain sebagai upaya memutus birokrasi informasi yang  didominasi oleh pekerja media dengan sudut pandang media tersebut.   Sementara orang kampung hanya menjadi object yang setiap hari dijejali  informasi dari pusat, tanpa pernah diberi kesempatan bersuara.   Akibatnya banyak  informasi yang sebenarnya penting namun jarang  tersentuh yang terjadi di kawasan perbatasan Negara.  Apalagi kabupaten  Sintang,  khususnya Ketungau Hulu dan Ketungau Tengah,  berbatasan  langsung dengan wilayah Sarawak, Malaysia Timur.
 * Mereka menyambut baik program ini karena selama ini mereka tidak  memili ruang  aatau media untuk bersuara. Harapan mereka, dengan  memiliki media sendiri yang murah meriah, mere bisa menyampaikan  aspirasinya secara langsung tanpa dipolitisir.
 * Mering mempromosikan Jurnalisme Kampung dan pentingnya media social, untuk  mempublikasikan  persoalan-persoalan di perbatasan.
-* Kegiatan ditutup dengan makan bersama 
-
+* Kegiatan ditutup dengan makan bersama

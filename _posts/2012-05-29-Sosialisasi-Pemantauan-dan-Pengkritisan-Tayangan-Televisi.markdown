@@ -3,10 +3,11 @@ title: Sosialisasi Pemantauan dan Pengkritisan Tayangan Televisi
 date: 2012-05-29
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![00px-Mei_29_2012_JRKL_Sosialisasi_Pemantauan_dan_Pengkritisan_Tayangan_Televisi_di_Madrasah_Sunan_Muria_Hurun_Pesawaran.jpg](/uploads/00px-Mei_29_2012_JRKL_Sosialisasi_Pemantauan_dan_Pengkritisan_Tayangan_Televisi_di_Madrasah_Sunan_Muria_Hurun_Pesawaran.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Sosialisasi Pemantauan dan Pengkritisan Tayangan Televisi

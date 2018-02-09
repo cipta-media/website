@@ -3,6 +3,7 @@ title: Penyerahan hadiah syaembara blog dan launching buku Suara Dari Batas Nega
 date: 2013-02-10
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -29,4 +30,3 @@ Asriyadi Alexander Mering, Basilius  Andreas Gas, Budi Miank,  Servianus Endi, A
 * Kegiatan berikutnya adalah pengumuman pemenang sekaligus penyerahan  hadiah kepada 6 blogger perbatasan Kalimantan Barat-Sarawak, Malaysia.
 * Acara terakhir adalah Launching buku Suara dari Batas Negara yang  karya para Blogger Kalimantan Barat serta malam sastra antar bangsa.
 * Setiap sesi kegiatan diselengi dengan pertunjukan musikalisasi  puisi  karya para sastrawan dari kedua negara. Berikut ini adalah link  publikasi terkait dengan berita tersebut.
-

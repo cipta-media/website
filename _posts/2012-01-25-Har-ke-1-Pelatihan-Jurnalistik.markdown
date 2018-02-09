@@ -3,10 +3,10 @@ title: Hari ke-1 Pelatihan Jurnalistik
 date: 2012-01-25
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_25_2012_LenteraTimur.com_Suasana_registrasi_peserta.jpg](/uploads/200px-Januari_25_2012_LenteraTimur.com_Suasana_registrasi_peserta.jpg){: .img-responsive .center-block }
 

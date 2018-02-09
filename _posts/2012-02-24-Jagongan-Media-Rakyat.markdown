@@ -3,10 +3,11 @@ title: Jagongan Media Rakyat
 date: 2012-02-24
 categories:
 - laporan
+- CMB
 - AKUMASSA.ORG
 layout: laporancmb
 ---
-	
+
 **Tujuan** :	Jagongan Media Rakyat
 	
 **Lokasi** :	Yogyakarta

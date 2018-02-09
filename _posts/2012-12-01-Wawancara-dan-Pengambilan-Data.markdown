@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Data
 date: 2012-12-01
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_1_2012_PRC_Wawancara_pengelola_Rakom_Primadona_FM_OK.jpg](/uploads/200px-Desember_1_2012_PRC_Wawancara_pengelola_Rakom_Primadona_FM_OK.jpg){: .img-responsive .center-block }
 

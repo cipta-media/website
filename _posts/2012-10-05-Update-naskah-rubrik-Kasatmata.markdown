@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-10-05
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata "“Televisi Seperti Ngomong Sendiri”" (Penulis - Fajar Riadi)
 

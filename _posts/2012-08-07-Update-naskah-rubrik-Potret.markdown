@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-08-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret "Merapi Setelah Gempa" (Kontributor - Rizky Januar)
 

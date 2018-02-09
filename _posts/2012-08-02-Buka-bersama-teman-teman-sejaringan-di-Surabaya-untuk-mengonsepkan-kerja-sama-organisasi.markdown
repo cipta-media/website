@@ -3,10 +3,11 @@ title: Buka bersama teman-teman sejaringan di Surabaya untuk mengonsepkan kerja 
 date: 2012-08-02
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-2_Agustus_2012_Buka_Bersama_01.jpg](/uploads/200px-2_Agustus_2012_Buka_Bersama_01.jpg){: .img-responsive .center-block }	
 ![200px-2_Agustus_2012_Buka_Bersama_02.jpg](/uploads/200px-2_Agustus_2012_Buka_Bersama_02.jpg){: .img-responsive .center-block }	
 	
@@ -24,4 +25,3 @@ layout: laporancmb
 **Ringkasan** :	
 *	Buka bersama
 *	Diskusi dan pengonsepan kerja sama antar organisasi di Surabaya dan sekitarnya
-

@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-08-02
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda, "3 Agustus 2012, Jakarta – Dialog “Identitas dalam Demokrasi”" (Penulis - Admin)
 

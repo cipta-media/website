@@ -3,6 +3,7 @@ title: Melatih Blogger dan calon blogger di Puring Kencana
 date: 2012-02-25
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -30,4 +31,3 @@ layout: laporancmb
 * Kegiatan dilanjutkan pada keesokan  harinya,  dengan  pre test,  pengenalan jurnalisme kampung,  photography dan video graphy sederhana  kepada peserta  Severianus Endi dan A. Alexander Mering
 * Pelatihan blog tidak dapat dilakukan secara online, karena signal  provier indonesia belum ada. Team berusaha menggunakan network maxis  Malaysia, itu pun hanya bisa sesekali saja terkoneksi ke internet,  karena signalnya juga sangat terbatas  dan mahal sekali (roaming). 
 * Hujan yang turun dan jalan rusak, menyebabkan team  hampir tidak  dapat keluar dari Kecamatan Puring Kencana dan menunggu jalan kering.  Team terpaksa menyeberang  sungai dengai dengan mobil hilux sewaan.
-

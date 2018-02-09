@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita
 date: 2013-02-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_08_2013_-_perempuan_pelita_1.jpg](/uploads/200px-Februari_08_2013_-_perempuan_pelita_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Memey](http://wiki.ciptamedia.org/wiki/Memey)
 
 **Ringkasan**  
-* perempuan pelita tiap kamis jam 7 - 8 malam 
+* perempuan pelita tiap kamis jam 7 - 8 malam

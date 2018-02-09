@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Data
 date: 2012-11-24
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_24_2012_PRC_Interview_Pengelola_Rakom_Suara_Budi_Luhur_Jombang.JPG](/uploads/200px-Nopember_24_2012_PRC_Interview_Pengelola_Rakom_Suara_Budi_Luhur_Jombang.JPG){: .img-responsive .center-block }
 

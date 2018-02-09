@@ -3,10 +3,11 @@ title: Pelatihan WIKI untuk Pelaporan Keuangan CMB
 date: 2012-10-24
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Oktober_24_2012_Pelatihan_WIKI_II.jpg](/uploads/200px-Oktober_24_2012_Pelatihan_WIKI_II.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pelatihan WIKI untuk Pelaporan Keuangan CMB

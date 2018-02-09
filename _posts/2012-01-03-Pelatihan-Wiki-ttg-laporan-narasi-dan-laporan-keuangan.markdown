@@ -3,6 +3,7 @@ title: Pelatihan Wiki ttg laporan narasi dan laporan keuangan
 date: 2012-01-03
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -26,8 +27,3 @@ layout: laporancmb
 
 **Ringkasan** : 
 * Pelatihan Wiki untuk Benor FM pembuatan laporan aktivitas dan laporan keuangan.
-
-
-			
-
-

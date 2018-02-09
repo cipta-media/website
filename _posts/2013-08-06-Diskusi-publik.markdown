@@ -3,10 +3,10 @@ title: Diskusi publik
 date: 2013-08-06
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Agustus_6_2013_PRC_Diseminasi_Hasil_Studi_Aceh_1.jpg](/uploads/200px-Agustus_6_2013_PRC_Diseminasi_Hasil_Studi_Aceh_1.jpg){: .img-responsive .center-block }
 

@@ -4,8 +4,9 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
 
-* Jagongan Media Rakyat, Yogyakarta 
+* Jagongan Media Rakyat, Yogyakarta

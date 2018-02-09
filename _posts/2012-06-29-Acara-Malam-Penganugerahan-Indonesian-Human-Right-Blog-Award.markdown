@@ -3,10 +3,10 @@ title: Acara Malam Penganugerahan Indonesian Human Right Blog Award
 date: 2012-06-29
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Juni_29_2012_IMDLN_Acara_Malam_Penganugerahan_IHRBA-1.JPG](/uploads/250px-Juni_29_2012_IMDLN_Acara_Malam_Penganugerahan_IHRBA-1.JPG){: .img-responsive .center-block }
 

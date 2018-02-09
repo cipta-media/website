@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-07-02
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret, "Sampah Mereka Kampung Kami" (Kontributor - Rizky Januar)
 

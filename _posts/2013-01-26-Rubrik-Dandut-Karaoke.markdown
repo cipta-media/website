@@ -3,10 +3,10 @@ title: Rubrik Dangdut Karaoke
 date: 2013-01-26
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_16_2013_-_dangdut_karaoke_1.jpg](/uploads/200px-Januari_16_2013_-_dangdut_karaoke_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Mimi](http://wiki.ciptamedia.org/wiki/Mimi)
 
 **Ringkasan**  
-* Dangdut karaoke tiap sabtu jam 16 - 18 
+* Dangdut karaoke tiap sabtu jam 16 - 18

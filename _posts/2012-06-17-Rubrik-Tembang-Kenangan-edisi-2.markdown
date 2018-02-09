@@ -3,10 +3,10 @@ title: Rubrik Tembang Kenangan edisi 2
 date: 2012-06-17
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_17_2012_-_tembang_kenangan_1.jpg](/uploads/200px-Juni_17_2012_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 

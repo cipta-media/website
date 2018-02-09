@@ -3,10 +3,10 @@ title: Rubrik KPOP
 date: 2012-12-22
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Desember_22_2012_-_kpop_1.jpg](/uploads/200px-Desember_22_2012_-_kpop_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [juma](http://wiki.ciptamedia.org/wiki/juma)
 
 **Ringkasan**  
-* rubrik kpop tiap sabtu jam 8 - 10 malam 
+* rubrik kpop tiap sabtu jam 8 - 10 malam

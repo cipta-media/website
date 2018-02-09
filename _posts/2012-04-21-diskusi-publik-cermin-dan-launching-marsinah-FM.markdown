@@ -3,10 +3,10 @@ title: diskusi publik cermin dan launching marsinah FM
 date: 2012-04-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-April_21_2012_-_Diskusi_publik_cermin_II_dan_launching_marsinah_FM_-1.jpg](/uploads/200px-April_21_2012_-_Diskusi_publik_cermin_II_dan_launching_marsinah_FM_-1.jpg)
 ![200px-April_21_2012_-_Diskusi_publik_cermin_II_dan_launching_marsinah_FM_-2.jpg](/uploads/200px-April_21_2012_-_Diskusi_publik_cermin_II_dan_launching_marsinah_FM_-2.jpg)

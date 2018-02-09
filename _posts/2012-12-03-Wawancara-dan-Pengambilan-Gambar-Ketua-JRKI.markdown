@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Gambar Ketua JRKI
 date: 2012-12-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_3_2012_PRC_Wawancara_&_pengambilan_Gambar_ketua_JRK_NTB_drs._Rasidi_OK.jpg](/uploads/200px-Desember_3_2012_PRC_Wawancara_&_pengambilan_Gambar_ketua_JRK_NTB_drs._Rasidi_OK.jpg){: .img-responsive .center-block }
 

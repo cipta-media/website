@@ -3,10 +3,11 @@ title: Pelatihan Wiki untuk Pelaporan Penggunaan Dana dan Aktivitas
 date: 2012-03-30
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_29_2012_JRKL_Pelatihan_Wiki.jpg](/uploads/200px-Maret_29_2012_JRKL_Pelatihan_Wiki.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pelatihan Wiki untuk Pelaporan Penggunaan Dana dan Aktivitas

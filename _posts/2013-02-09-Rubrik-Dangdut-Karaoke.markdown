@@ -3,10 +3,10 @@ title: Rubrik Dangdut Karaoke
 date: 2013-02-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_09_2013_-_dangdut_karaoke_1.jpg](/uploads/200px-Februari_09_2013_-_dangdut_karaoke_1.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * [Ocha](http://wiki.ciptamedia.org/wiki/Ocha)
 
 **Ringkasan**  
-* Dangdut Karaoke tiap sabtu jam 4 - 6 sore 
+* Dangdut Karaoke tiap sabtu jam 4 - 6 sore

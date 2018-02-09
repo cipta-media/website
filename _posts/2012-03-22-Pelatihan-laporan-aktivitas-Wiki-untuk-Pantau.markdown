@@ -3,10 +3,11 @@ title: Pelatihan laporan aktivitas Wiki untuk Pantau
 date: 2012-03-22
 categories:
 - laporan
+- CMB
 - Pantau
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_22_2012_6211_Training_Wiki_Part_1.jpg](/uploads/200px-Maret_22_2012_6211_Training_Wiki_Part_1.jpg){: .img-responsive .center-block }	
 ![200px-Maret_22_2012_6211_Training_Wiki_Part_1-2.jpg](/uploads/200px-Maret_22_2012_6211_Training_Wiki_Part_1-2.jpg){: .img-responsive .center-block }
 

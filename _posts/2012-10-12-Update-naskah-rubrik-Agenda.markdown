@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-10-12
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda "13 Oktober 2012, Jakarta – Putar Film “Warriors of the Rainbow: Seediq Bale”" (Penulis - Admin)
 

@@ -3,6 +3,7 @@ title: Update naskah rubrik Boga
 date: 2012-10-25
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

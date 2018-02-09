@@ -3,10 +3,10 @@ title: Wawancara Pengiklan Lokal
 date: 2012-11-22
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_22_2012_PRC_Interview_Pengiklan_Lokal_Service_Kompor_Gas_LPG.JPG](/uploads/200px-Nopember_22_2012_PRC_Interview_Pengiklan_Lokal_Service_Kompor_Gas_LPG.JPG){: .img-responsive .center-block }
 

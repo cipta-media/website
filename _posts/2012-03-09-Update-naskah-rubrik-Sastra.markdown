@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-03-09
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Okky Tirto" (Kontributor - Okky Tirto)
 

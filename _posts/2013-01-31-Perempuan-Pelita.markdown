@@ -3,10 +3,10 @@ title: Perempuan Pelita
 date: 2013-01-31
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_31_-_perempuan_pelita_1.jpg](/uploads/200px-Januari_31_-_perempuan_pelita_1.jpg){: .img-responsive .center-block }
 

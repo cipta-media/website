@@ -3,10 +3,10 @@ title: Hari ke-2 Pelatihan Jurnalistik
 date: 2012-03-20
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Maret_20_2012_LenteraTimur.com_Suasana_pelatihan_hari_kedua_di_Gorontalo.jpg](/uploads/200px-Maret_20_2012_LenteraTimur.com_Suasana_pelatihan_hari_kedua_di_Gorontalo.jpg){: .img-responsive .center-block }
 

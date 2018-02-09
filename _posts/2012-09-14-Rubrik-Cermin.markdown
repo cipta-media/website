@@ -3,10 +3,10 @@ title: Rubrik Cermin
 date: 2012-09-14
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_14_cermin_-1.jpg](/uploads/200px-September_14_cermin_-1.jpg){: .img-responsive .center-block }
 

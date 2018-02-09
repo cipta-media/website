@@ -3,10 +3,10 @@ title: Diskusi Publik dan Desiminasi Hasil Studi
 date: 2013-07-21
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Juli_21_2013_PRC_Desiminasi_hasil_studi_Rakom_Kendari.jpg](/uploads/200px-Juli_21_2013_PRC_Desiminasi_hasil_studi_Rakom_Kendari.jpg){: .img-responsive .center-block }
 

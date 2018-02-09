@@ -4,6 +4,7 @@ date: 2012-07-09
 categories:
 - laporan
 - sms
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -15,4 +16,4 @@ layout: laporancmb
 ---
 
 **Isi Laporan:**
-  * bfm|dialog interaktif (on air) ttg Pendidikan Bagi Orang Rimba di RRI Pro 1 Jambi, pkl.08.00-09.00 bersama 2 org Kader Pendidikan Orang Rimba B.12 
+  * bfm|dialog interaktif (on air) ttg Pendidikan Bagi Orang Rimba di RRI Pro 1 Jambi, pkl.08.00-09.00 bersama 2 org Kader Pendidikan Orang Rimba B.12

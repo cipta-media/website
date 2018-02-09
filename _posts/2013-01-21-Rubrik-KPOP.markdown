@@ -3,10 +3,10 @@ title: Rubrik KPOP
 date: 2013-01-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_26_-_kpop1.jpg](/uploads/200px-Januari_26_-_kpop1.jpg){: .img-responsive .center-block }
 

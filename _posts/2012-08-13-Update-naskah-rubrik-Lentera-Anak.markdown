@@ -3,10 +3,10 @@ title: Update naskah rubrik Lentera Anak
 date: 2012-08-13
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Lentera Anak "Inilah Peta Sumateraku" (Kontributor - Maula Mazin)
 

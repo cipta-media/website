@@ -3,10 +3,11 @@ title: Pelatihan untuk mahasiswa dari berbagai latar belakang untuk mendorong me
 date: 2012-10-07
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG](/uploads/200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG){: .img-responsive .center-block }	
 ![200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman_2.JPG](/uploads/200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG){: .img-responsive .center-block }	
 ![200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman_3.JPG](/uploads/200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman_3.JPG){: .img-responsive .center-block }	

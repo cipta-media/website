@@ -4,6 +4,7 @@ date: 2012-10-22
 categories:
 - laporan
 - mentoring
+- CMB
 - MK-160
 layout: laporancmb
 ---

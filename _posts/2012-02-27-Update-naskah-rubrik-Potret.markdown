@@ -3,10 +3,10 @@ title: Update naskah rubrik Potret
 date: 2012-02-27
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Potret, "Menguras Perut Bumi Hulondhalo" (Penulis - Christopel Paino)
 

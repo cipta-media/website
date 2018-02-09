@@ -3,10 +3,10 @@ title: Rubrik Andai Saja
 date: 2013-01-26
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_26_-_andai_saja_1.jpg](/uploads/200px-Januari_26_-_andai_saja_1.jpg){: .img-responsive .center-block }
 

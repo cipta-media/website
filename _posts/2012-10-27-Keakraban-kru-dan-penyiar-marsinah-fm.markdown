@@ -3,10 +3,10 @@ title: Keakraban kru dan penyiar marsinah fm
 date: 2012-10-27
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_27_-_ragunan_1.jpg](/uploads/200px-Oktober_27_-_ragunan_1.jpg){: .img-responsive .center-block }
 

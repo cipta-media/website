@@ -4,6 +4,7 @@ date: 2012-07-17
 categories:
 - laporan
 - mentoring
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
@@ -19,4 +20,4 @@ Halo, Ibu Eva. Maaf telat membalas emailnya. Sebab kami harus berkoordinasi dulu
 5. Terimakasih Ibu Eva dan rekan-rekan.
 6. Oya. Kami baru melihat format pelaporan naratif dari Ibu Siska. Kami akan mengikuti struktur format itu untuk pelaporan naratif di Tarakan karena tampaknya lebih sederhana ketimbang tulisan panjang.
 
-Salam, Iqbal 
+Salam, Iqbal

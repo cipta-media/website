@@ -3,10 +3,10 @@ title: Memberikan Informasi mengenai Indonesian Human Rights Blog Award
 date: 2012-02-01
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Februari_1_2012_IMDLN_website_IHRBA.JPG](/uploads/250px-Februari_1_2012_IMDLN_website_IHRBA.JPG){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-04-03
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Jurnalisme dan Trubadur dari Gorontalo" (Penulis - Martin Aleida)
 

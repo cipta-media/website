@@ -3,10 +3,10 @@ title: Talkshow rubrik Union
 date: 2012-04-06
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-April_06_2012_-_Aksi_buruh_anarkis-_rubrik_union.jpg](/uploads/200px-April_06_2012_-_Aksi_buruh_anarkis-_rubrik_union.jpg){: .img-responsive .center-block }
 

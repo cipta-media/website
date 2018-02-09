@@ -3,10 +3,10 @@ title: rubrik Perempuan Pelita
 date: 2012-07-26
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_26_2012_Perempuan_Pelita_Huda_1.jpg](/uploads/200px-Juli_26_2012_Perempuan_Pelita_Huda_1.jpg){: .img-responsive .center-block }
 
@@ -27,4 +27,4 @@ layout: laporancmb
 * [Memey](http://wiki.ciptamedia.org/wiki/Memey)
 
 **Ringkasan**  
-* Rubrik Perempuan Pelita, kali ini tentang Huda Al Saarawi, aktivis Feminis Mesir yang berjuang untuk kemerdekaan perempuan dan Mesir. 
+* Rubrik Perempuan Pelita, kali ini tentang Huda Al Saarawi, aktivis Feminis Mesir yang berjuang untuk kemerdekaan perempuan dan Mesir.

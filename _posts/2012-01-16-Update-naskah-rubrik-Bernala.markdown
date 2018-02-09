@@ -3,6 +3,7 @@ title: Update naskah rubrik Bernala
 date: 2012-01-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

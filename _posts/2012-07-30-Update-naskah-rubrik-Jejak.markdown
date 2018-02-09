@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-07-30
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Sayupnya Raung Harimau Sumatera" (Kontributor - Setiadi R. Saleh)
 

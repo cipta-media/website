@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-10-01
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda "2 – 5 Oktober 2012, Yogyakarta – Pameran Seni Rupa & Pentas Seni Tradisi Minangkabau “SPIRIT Us”" (Penulis - Admin)
 

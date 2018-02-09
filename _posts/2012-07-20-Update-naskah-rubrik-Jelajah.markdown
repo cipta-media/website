@@ -3,10 +3,10 @@ title: Update naskah rubrik Jelajah
 date: 2012-07-20
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jelajah, "Setapak Surabaya" (Kontributor - Ester Pandiangan)
 

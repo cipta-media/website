@@ -4,8 +4,9 @@ date: 2012-05-25
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
 
-Sesi mentoring dengan Nia Dinata. 
+Sesi mentoring dengan Nia Dinata.

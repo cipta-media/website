@@ -3,6 +3,7 @@ title: Deteksi dini kasus kurang / gizi buruk di Kelompok Orang Rimba Sungai Ter
 date: 2012-03-27
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -29,5 +30,3 @@ layout: laporancmb
 * Tindak lanjut advokasi kesehatan Orang Rimba Tentang kurang Gizi / Gizi Buruk
 * Setelah kunjungan tersebut Dinas Kesehatan berjanji akan melakukan kunjungan pengobatan ke kelompok Orang Rimba Terap (Timur TNBD) setiap 3 bulan sekali
 * Orang Rimba berharap adanya perhatian yang lebih intensif dari Dinas Kesehatan pada mereka (kunjungan rutin ke kelompok Orang rimba Terap)
-
-

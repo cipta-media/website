@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-03-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Ekonomi dan Tata Negara Soematera Timoer" (Kontributor - Tengku Mansoer Adil Mansoer)	
 

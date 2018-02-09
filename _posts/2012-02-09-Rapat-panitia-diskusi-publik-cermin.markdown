@@ -3,10 +3,10 @@ title: Rapat panitia diskusi publik cermin
 date: 2012-02-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_09_2012_FBLP_rapat_panitia_diskusi_publik_cermin-1.jpg](/uploads/200px-Februari_09_2012_FBLP_rapat_panitia_diskusi_publik_cermin-1.jpg){: .img-responsive .center-block }
 

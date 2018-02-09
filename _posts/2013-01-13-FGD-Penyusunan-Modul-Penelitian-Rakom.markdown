@@ -3,10 +3,10 @@ title: FGD Penyusunan Modul Pelatihan Rakom
 date: 2013-01-13
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Januari_13_2013_PRC_Rapat_dengan_JRKI.JPG](/uploads/200px-Januari_13_2013_PRC_Rapat_dengan_JRKI.JPG){: .img-responsive .center-block }
 

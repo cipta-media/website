@@ -3,10 +3,10 @@ title: Rubrik Ceritaku
 date: 2012-09-12
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_11_2012_Ceritaku_1.jpg](/uploads/200px-September_11_2012_Ceritaku_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Richi](http://wiki.ciptamedia.org/wiki/Richi)
 
 **Ringkasan**  
-* rubrik ceritaku ini dipandu oleh Vivi, berkisah tentang curhat dari para pendengar. 
+* rubrik ceritaku ini dipandu oleh Vivi, berkisah tentang curhat dari para pendengar.
