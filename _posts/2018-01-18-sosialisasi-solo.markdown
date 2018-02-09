@@ -5,10 +5,9 @@ categories:
 - CME
 - Acara
 tags:
-- CMS
+- Cipta Media Ekspresi
 - Solo
 - Sosialisasi
-- Januari2018
 author: siska
 comments: true
 img: "/uploads/poster-solo.jpg"
