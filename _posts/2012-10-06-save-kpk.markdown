@@ -1,11 +1,11 @@
----	
+---
 title: Save KPK
 date: 2012-10-06
-categories:	
+categories:
 - laporan
 - sms
 - Indonesian Street Art Database
-layout: laporancmb	
+layout: laporancmb
 ---
 
 ![472_1_1349697768.jpg](/uploads/472_1_1349697768.jpg){: .img-responsive .center-block }

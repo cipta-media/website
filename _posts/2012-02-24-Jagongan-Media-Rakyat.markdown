@@ -1,11 +1,11 @@
----	
-title: 	Jagongan Media Rakyat
-date: 	2012-02-24
-categories:	
-- laporan	
+---
+title: Jagongan Media Rakyat
+date: 2012-02-24
+categories:
+- laporan
 - AKUMASSA.ORG
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 **Tujuan** :	Jagongan Media Rakyat
 	

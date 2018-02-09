@@ -1,6 +1,6 @@
 ---
 title: Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2015-03-18 
+date: 2015-03-18
 categories:
 - laporan
 - Pandu App  

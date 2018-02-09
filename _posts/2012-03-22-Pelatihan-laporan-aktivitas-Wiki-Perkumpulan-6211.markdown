@@ -1,5 +1,5 @@
 ---
-title: Pelatihan laporan aktivitas Wiki Perkumpulan 6211 
+title: Pelatihan laporan aktivitas Wiki Perkumpulan 6211
 date: 2012-03-22
 categories:
 - laporan

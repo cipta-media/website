@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 28 Juni 2012 
+title: Bhinneka - Mentoring 28 Juni 2012
 date: 2012-06-28
 categories:
 - laporan

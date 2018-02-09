@@ -1,12 +1,12 @@
----	
+---
 title: Rekomendasi FGD YANKESMAS dinkes Sarolangun Jambi
 date: 2012-06-30
-categories:	
+categories:
 - laporan
 - sms
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 Rekomendasi FGD YANKESMAS (Layanan Kesehatan Masyarakat) di Dinkes Sarolangun Jambi, 29 November 2012 :
 1. Kunjungan YANKESMAS bagi Orang Rimba Selatan TNBD akan rutin dilakukan oleh Puskesmas Pematang Kabau, Puskesmas Air Hitam, Puskesmas Pauh 1 X/ 2 bulan.

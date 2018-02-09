@@ -1,6 +1,6 @@
 ---
 title: Situs Laporan Warga Papua Berbasis SMS - Proposal Lengkap
-date: 2014-06-16 
+date: 2014-06-16
 categories:
 - laporan
 - Situs Laporan JUBI

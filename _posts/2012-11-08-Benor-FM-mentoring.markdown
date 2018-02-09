@@ -1,5 +1,5 @@
 ---
-title: Benor FM - Mentoring 8 November 2012 
+title: Benor FM - Mentoring 8 November 2012
 date: 2012-11-08
 categories:
 - laporan

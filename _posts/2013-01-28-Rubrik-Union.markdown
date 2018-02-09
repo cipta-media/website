@@ -1,5 +1,5 @@
 ---
-title: Rubrik Union 
+title: Rubrik Union
 date: 2013-01-28
 categories:
 - laporan

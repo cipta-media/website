@@ -1,11 +1,11 @@
----	
-title: 	Persiapan Kopdar Lembaga Bhinneka di Jakarta
-date: 	2012-10-12
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Persiapan Kopdar Lembaga Bhinneka di Jakarta
+date: 2012-10-12
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Oktober_12_2012_Bhinneka_persiapan_Kopdar_Jakarta.jpg](/uploads/200px-Oktober_12_2012_Bhinneka_persiapan_Kopdar_Jakarta.jpg){: .img-responsive .center-block }	
 ![200px-Oktober_12_2012_Bhinneka_persiapan_Kopdar_Jakarta_1.jpg](/uploads/200px-Oktober_12_2012_Bhinneka_persiapan_Kopdar_Jakarta_1.jpg){: .img-responsive .center-block }	

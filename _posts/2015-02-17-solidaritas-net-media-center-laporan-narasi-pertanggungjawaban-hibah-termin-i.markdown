@@ -1,6 +1,6 @@
 ---
 title: Solidaritas.net Media Center - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2015-02-17 
+date: 2015-02-17
 categories:
 - laporan
 - solidaritas.net  

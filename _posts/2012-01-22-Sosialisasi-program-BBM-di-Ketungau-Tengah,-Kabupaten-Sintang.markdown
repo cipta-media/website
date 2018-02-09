@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi program BBM di Ketungau Tengah, Kabupaten Sintang 
+title: Sosialisasi program BBM di Ketungau Tengah, Kabupaten Sintang
 date: 2012-01-22
 categories:
 - laporan

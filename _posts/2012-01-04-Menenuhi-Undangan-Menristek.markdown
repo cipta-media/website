@@ -1,6 +1,6 @@
 ---
 title: Menenuhi Undangan Menristek tentang visi dan misi kartunet untuk perkembangan teknologi indonesia
-date: 2012-01-04 
+date: 2012-01-04
 categories:
 - laporan
 - Kartunet.com

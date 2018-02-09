@@ -1,5 +1,5 @@
 ---
-title: Worshop jurnalis lanjutan soal Etika Peliputan dan Pemberitaan 
+title: Worshop jurnalis lanjutan soal Etika Peliputan dan Pemberitaan
 date: 2013-04-27
 categories:
 - laporan

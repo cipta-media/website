@@ -1,5 +1,5 @@
 ---
-title:  Rapat persiapan pelatihan Jurnalisme di Bengkayang 
+title: Rapat persiapan pelatihan Jurnalisme di Bengkayang
 date: 2012-01-11
 categories:
 - laporan

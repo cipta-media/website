@@ -1,11 +1,11 @@
----	
-title: 	Buka bersama teman-teman sejaringan di Surabaya untuk mengonsepkan kerja sama organisasi
-date: 	2012-08-02
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Buka bersama teman-teman sejaringan di Surabaya untuk mengonsepkan kerja sama organisasi
+date: 2012-08-02
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-2_Agustus_2012_Buka_Bersama_01.jpg](/uploads/200px-2_Agustus_2012_Buka_Bersama_01.jpg){: .img-responsive .center-block }	
 ![200px-2_Agustus_2012_Buka_Bersama_02.jpg](/uploads/200px-2_Agustus_2012_Buka_Bersama_02.jpg){: .img-responsive .center-block }	

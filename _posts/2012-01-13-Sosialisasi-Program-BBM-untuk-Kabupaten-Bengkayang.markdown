@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi Program BBM untuk Kabupaten Bengkayang 
+title: Sosialisasi Program BBM untuk Kabupaten Bengkayang
 date: 2012-01-13
 categories:
 - laporan

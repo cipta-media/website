@@ -1,11 +1,11 @@
----	
-title: 	Mempererat kebersamaan remaja rimba dan desa dengan semangat Sumpah Pemuda 2012
-date: 	2012-10-17
-categories:	
-- laporan	
+---
+title: Mempererat kebersamaan remaja rimba dan desa dengan semangat Sumpah Pemuda 2012
+date: 2012-10-17
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-Oktober_17_2012_Benor_Fm_Lomba_ketangkasan_Memperingati_Hari_Sumpah_Pemuda.jpg](/uploads/200px-Oktober_17_2012_Benor_Fm_Lomba_ketangkasan_Memperingati_Hari_Sumpah_Pemuda.jpg){: .img-responsive .center-block }	
 ![200px-Oktober_17_2012_Benor_Fm_Lomba_ketangkasan_Memperingati_Hari_Sumpah_Pemuda.2.jpg](/uploads/200px-Oktober_17_2012_Benor_Fm_Lomba_ketangkasan_Memperingati_Hari_Sumpah_Pemuda.2.jpg){: .img-responsive .center-block }	

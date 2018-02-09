@@ -1,5 +1,5 @@
 ---
-title: Dangdut asiiik 
+title: Dangdut asiiik
 date: 2013-01-31
 categories:
 - laporan

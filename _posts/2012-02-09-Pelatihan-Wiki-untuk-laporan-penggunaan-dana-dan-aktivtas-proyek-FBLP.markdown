@@ -1,5 +1,5 @@
 ---
-title: Pelatihan Wiki untuk laporan penggunaan dana dan aktivtas proyek FBLP	
+title: Pelatihan Wiki untuk laporan penggunaan dana dan aktivtas proyek FBLP
 date: 2012-02-09
 categories:
 - laporan

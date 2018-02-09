@@ -1,11 +1,11 @@
----	
-title: 	Mendorong Minat Menulis bulan Juni 
-date: 	2012-06-25
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Mendorong Minat Menulis bulan Juni
+date: 2012-06-25
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG](/uploads/200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG){: .img-responsive .center-block }	
 	

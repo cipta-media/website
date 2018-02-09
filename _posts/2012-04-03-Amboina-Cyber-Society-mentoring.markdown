@@ -1,5 +1,5 @@
 ---
-title: Amboina Cyber Society - Mentoring 3 April 2012 
+title: Amboina Cyber Society - Mentoring 3 April 2012
 date: 2012-04-03
 categories:
 - laporan

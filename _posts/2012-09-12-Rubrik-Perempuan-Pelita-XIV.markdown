@@ -1,5 +1,5 @@
 ---
-title: Rubrik Perempuan Pelita XIV 
+title: Rubrik Perempuan Pelita XIV
 date: 2012-09-12
 categories:
 - laporan

@@ -1,11 +1,11 @@
----	
-title: 	Lomba menulis artikel Opini
-date: 	2012-09-10
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Lomba menulis artikel Opini
+date: 2012-09-10
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-September_10_2012_Bhinneka_Lomba_artikel_opini.JPG](/uploads/200px-September_10_2012_Bhinneka_Lomba_artikel_opini.JPG){: .img-responsive .center-block }	
 	

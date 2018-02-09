@@ -1,11 +1,11 @@
----	
-title: 	Komfirmasi proses perizinan Benor FM di KPID Jambi
-date: 	2012-10-15
-categories:	
-- laporan	
+---
+title: Komfirmasi proses perizinan Benor FM di KPID Jambi
+date: 2012-10-15
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 **Tujuan** :	Komfirmasi proses perizinan Benor FM di KPID Jambi
 	

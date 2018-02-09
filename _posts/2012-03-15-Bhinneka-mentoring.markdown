@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 15 Maret 2012 
+title: Bhinneka - Mentoring 15 Maret 2012
 date: 2012-03-15
 categories:
 - laporan

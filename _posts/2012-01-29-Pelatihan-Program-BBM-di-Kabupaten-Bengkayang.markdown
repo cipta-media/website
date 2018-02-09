@@ -1,5 +1,5 @@
 ---
-title:  Pelatihan Program BBM di Kabupaten Bengkayang 
+title: Pelatihan Program BBM di Kabupaten Bengkayang
 date: 2012-01-29
 categories:
 - laporan

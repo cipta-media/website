@@ -1,5 +1,5 @@
 ---
-title:  Melatih blogger dan calon blogger di Badau 
+title: Melatih blogger dan calon blogger di Badau
 date: 2012-02-23
 categories:
 - laporan

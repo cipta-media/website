@@ -1,5 +1,5 @@
 ---
-title:  Rapat Kordinasi Antar lembaga 
+title: Rapat Kordinasi Antar lembaga
 date: 2012-01-01
 categories:
 - laporan

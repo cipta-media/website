@@ -1,5 +1,5 @@
 ---
-title: Amboina Cyber Society - Mentoring 1 Juni 2012 
+title: Amboina Cyber Society - Mentoring 1 Juni 2012
 date: 2012-06-01
 categories:
 - laporan

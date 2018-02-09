@@ -1,5 +1,5 @@
 ---
-title: Benor FM - Mentoring 24 - 26 Mei 2012 
+title: Benor FM - Mentoring 24 - 26 Mei 2012
 date: 2012-05-24
 categories:
 - laporan

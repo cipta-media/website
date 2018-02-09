@@ -1,6 +1,6 @@
 ---
 title: Peta Persampahan Bandung - Laporan Narasi Pertanggung Jawaban Hibah Termin II
-date: 2015-12-09 
+date: 2015-12-09
 categories:
 - laporan
 - bebassampah.id

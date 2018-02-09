@@ -1,11 +1,11 @@
----	
+---
 title: Grafitti Propaganda Pilkada DKI Jakarta
 date: 2012-09-19
-categories:	
+categories:
 - laporan
 - sms
 - Indonesian Street Art Database
-layout: laporancmb	
+layout: laporancmb
 ---
 
 ![351_1_1349156244.jpg](/uploads/351_1_1349156244.jpg){: .img-responsive .center-block }

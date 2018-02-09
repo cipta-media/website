@@ -1,5 +1,5 @@
 ---
-title: Pengambilan Data Rakom Rajawali 
+title: Pengambilan Data Rakom Rajawali
 date: 2012-11-07
 categories:
 - laporan

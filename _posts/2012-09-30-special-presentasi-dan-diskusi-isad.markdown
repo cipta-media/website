@@ -3,7 +3,7 @@ title: Special Presentasi & Diskusi ISAD
 date: 2012-09-30
 categories:
 - laporan
-- Indonesian Street Art Database 
+- Indonesian Street Art Database
 ---
 
 Pembicara: 

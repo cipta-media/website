@@ -1,5 +1,5 @@
 ---
-title: Pelatihan Kelas Sosial Media	
+title: Pelatihan Kelas Sosial Media
 date: 2012-09-15
 categories:
 - laporan

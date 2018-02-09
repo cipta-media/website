@@ -1,11 +1,11 @@
----	
-title: 	Diskusi Kelompok Terarah Pemantauan Tayangan Televisi di RKSP FM
-date: 	2012-02-26
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Diskusi Kelompok Terarah Pemantauan Tayangan Televisi di RKSP FM
+date: 2012-02-26
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Februari_26_2012_FGD_RKSP_FM.JPG](/uploads/200px-Februari_26_2012_FGD_RKSP_FM.JPG){: .img-responsive .center-block }	
 	

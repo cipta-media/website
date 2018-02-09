@@ -1,5 +1,5 @@
 ---
-title: Rubrik Lagu nusantara 
+title: Rubrik Lagu nusantara
 date: 2013-01-18
 categories:
 - laporan

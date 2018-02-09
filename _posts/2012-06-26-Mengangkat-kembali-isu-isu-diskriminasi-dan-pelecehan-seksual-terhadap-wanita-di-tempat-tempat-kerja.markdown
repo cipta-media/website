@@ -1,10 +1,10 @@
 ---		
-title: 	Mengangkat kembali isu-isu diskriminasi dan pelecehan seksual terhadap wanita di tempat-tempat kerja
-date: 	2012-06-26
-categories:		
-- laporan		
-- Bhinneka		
-layout: laporancmb		
+title: Mengangkat kembali isu-isu diskriminasi dan pelecehan seksual terhadap wanita di tempat-tempat kerja
+date: 2012-06-26
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
 ---			
 		
 **Tujuan** :	Mengangkat kembali isu-isu diskriminasi dan pelecehan seksual terhadap wanita di tempat-tempat kerja melalui bercermin pada kasus pelecehan buruh tambang di Minnesota, Amerika Serikat, di tahun 70-an.	

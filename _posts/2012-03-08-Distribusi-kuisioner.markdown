@@ -1,11 +1,11 @@
----	
-title: 	Distribusi kuisioner
-date: 	2012-03-08
-categories:	
-- laporan	
-- Pantau	
-layout: laporancmb	
----	
+---
+title: Distribusi kuisioner
+date: 2012-03-08
+categories:
+- laporan
+- Pantau
+layout: laporancmb
+---
 
 **Tujuan** :	Distribusi kuisioner
 	

@@ -1,5 +1,5 @@
 ---
-title: Ibu  Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi  Perempuan dan Pemenuhan Kebutuhan Informasi - Mentoring 4 Februari 2013 
+title: Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningkatan Partisipasi Perempuan dan Pemenuhan Kebutuhan Informasi - Mentoring 4 Februari 2013
 date: 2013-02-04
 categories:
 - laporan

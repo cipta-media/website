@@ -1,11 +1,11 @@
----	
+---
 title: Konsultasi Tim Benor untuk perubahan Lembaga Penyiaran Komunitas (LPK) menjadi Lembaga Penyiaran Swasta (LPS)
-date: 2012-04-18	
+date: 2012-04-18
 categories:
-- laporan	
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-1.jpg](/uploads/200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-1.jpg){: .img-responsive .center-block }	
 ![200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-2.jpg](/uploads/200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-2.jpg){: .img-responsive .center-block }	

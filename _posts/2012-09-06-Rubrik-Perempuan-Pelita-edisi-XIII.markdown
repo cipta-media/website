@@ -1,5 +1,5 @@
 ---
-title: Rubrik Perempuan Pelita edisi XIII 
+title: Rubrik Perempuan Pelita edisi XIII
 date: 2012-09-06
 categories:
 - laporan

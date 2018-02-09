@@ -1,5 +1,5 @@
 ---
-title: Tujuan	pendampingan tapol atas nama Jafrai Murib untuk koordinasi penanganan medis
+title: Tujuan pendampingan tapol atas nama Jafrai Murib untuk koordinasi penanganan medis
 date: 2012-06-13
 categories:
 - laporan

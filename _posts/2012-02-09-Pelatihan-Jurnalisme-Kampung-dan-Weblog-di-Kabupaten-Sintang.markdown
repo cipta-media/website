@@ -1,5 +1,5 @@
 ---
-title:  Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sintang. 
+title: Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sintang.
 date: 2012-02-09
 categories:
 - laporan

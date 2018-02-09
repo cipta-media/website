@@ -1,6 +1,6 @@
 ---
 title: Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Seluler - Laporan Narasi Pertanggungjawaban Hibah Termin I
-date: 2015-06-02 
+date: 2015-06-02
 categories:
 - laporan
 - Monitoring Hutan Tobelo

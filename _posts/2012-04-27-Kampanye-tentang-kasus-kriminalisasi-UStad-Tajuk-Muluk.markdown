@@ -1,10 +1,10 @@
 ---		
-title: 	Kampanye tentang kasus kriminalisasi UStad Tajuk Muluk, korban kekerasan atas nama agama di Sampang.	
-date: 	2012-04-27
-categories:		
-- laporan		
-- Bhinneka		
-layout: laporancmb		
+title: Kampanye tentang kasus kriminalisasi UStad Tajuk Muluk, korban kekerasan atas nama agama di Sampang.
+date: 2012-04-27
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
 ---			
 		
 **Tujuan** :	Kampanye tentang kasus kriminalisasi UStad Tajuk Muluk, korban kekerasan atas nama agama di Sampang.	

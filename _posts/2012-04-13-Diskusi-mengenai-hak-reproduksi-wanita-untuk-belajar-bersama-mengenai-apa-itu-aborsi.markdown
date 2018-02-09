@@ -1,11 +1,11 @@
----	
-title: 	Diskusi mengenai hak reproduksi wanita untuk belajar bersama mengenai apa itu aborsi, norma dan hukum mengenai aborsi yang sekarang berlaku di Indonesia, kenyataan yang sebenarnya terjadi, dan hak-hak wanita.
-date: 	2012-04-13 
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Diskusi mengenai hak reproduksi wanita untuk belajar bersama mengenai apa itu aborsi, norma dan hukum mengenai aborsi yang sekarang berlaku di Indonesia, kenyataan yang sebenarnya terjadi, dan hak-hak wanita.
+date: 2012-04-13
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-April_13_2012_Nobar_If_These_Walls_Could_Talk_(1996).jpg](/uploads/200px-April_13_2012_Nobar_If_These_Walls_Could_Talk_(1996).jpg){: .img-responsive .center-block }	
 	

@@ -1,12 +1,12 @@
----	
+---
 title: Aksi Kolaborasi Memperingati Hari Sumpah Pemuda
 date: 2012-10-16
-categories:	
+categories:
 - laporan
 - sms
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 Dalam rangka memperingati Hari Sumpah Pemuda.
 Radio Komunitas Benor FM bekerjasama dengan Koperasi Orang Rimba Kembang Bungo melaksanakan berbagai lomba ketangkasan tradisional, Cerdas Cermat siaran radio.

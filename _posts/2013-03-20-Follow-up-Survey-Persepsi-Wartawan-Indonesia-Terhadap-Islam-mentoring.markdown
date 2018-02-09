@@ -1,5 +1,5 @@
 ---
-title: Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam - Mentoring 20 Maret 2013 
+title: Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam - Mentoring 20 Maret 2013
 date: 2013-03-20
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Pengambilan Data Rakom Cemara 
+title: Pengambilan Data Rakom Cemara
 date: 2012-11-08
 categories:
 - laporan

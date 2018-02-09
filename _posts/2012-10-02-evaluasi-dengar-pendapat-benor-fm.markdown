@@ -1,11 +1,11 @@
----	
-title: 	Evaluasi dengar Pendapat (EDP) Benor FM
-date: 	2012-10-02
-categories:	
-- laporan	
+---
+title: Evaluasi dengar Pendapat (EDP) Benor FM
+date: 2012-10-02
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-November_02_2012_Benor_FM_EDP_KPID_Jambi.jpg](/uploads/200px-November_02_2012_Benor_FM_EDP_KPID_Jambi.jpg){: .img-responsive .center-block }	
 ![200px-November_02_2012_Benor_FM_EDP_KPID_Jambi.2.jpg](/uploads/200px-November_02_2012_Benor_FM_EDP_KPID_Jambi.2.jpg){: .img-responsive .center-block }	

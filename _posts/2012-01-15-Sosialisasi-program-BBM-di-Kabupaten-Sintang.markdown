@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi program BBM di Kabupaten Sintang. 
+title: Sosialisasi program BBM di Kabupaten Sintang.
 date: 2012-01-15
 categories:
 - laporan

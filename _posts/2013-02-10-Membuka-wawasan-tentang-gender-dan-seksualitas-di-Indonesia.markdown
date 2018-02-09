@@ -1,11 +1,11 @@
----	
-title: 	Membuka wawasan tentang gender dan seksualitas di Indonesia
-date: 	2013-02-10
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Membuka wawasan tentang gender dan seksualitas di Indonesia
+date: 2013-02-10
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Febuari_10_2013_Terbit_Buku.JPG](/uploads/200px-Febuari_10_2013_Terbit_Buku.JPG){: .img-responsive .center-block }	
 	

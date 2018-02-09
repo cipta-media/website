@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi program Border Blogger Movement di Paloh, Sambas. 
+title: Sosialisasi program Border Blogger Movement di Paloh, Sambas.
 date: 2012-01-16
 categories:
 - laporan

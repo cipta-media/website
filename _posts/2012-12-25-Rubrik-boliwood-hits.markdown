@@ -1,5 +1,5 @@
 ---
-title: Rubrik boliwood Hits 
+title: Rubrik boliwood Hits
 date: 2012-12-25
 categories:
 - laporan

@@ -1,11 +1,11 @@
----	
-title: 	Pengumuman Lomba Puisi bertema Kemerdekaan
-date: 	2012-08-18
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Pengumuman Lomba Puisi bertema Kemerdekaan
+date: 2012-08-18
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Agustus_18_2012_Bhinneka_Lomba_Puisi_Kemerdekaan.JPG](/uploads/200px-Agustus_18_2012_Bhinneka_Lomba_Puisi_Kemerdekaan.JPG){: .img-responsive .center-block }	
 	

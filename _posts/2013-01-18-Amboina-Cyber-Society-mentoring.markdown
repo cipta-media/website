@@ -1,5 +1,5 @@
 ---
-title: Amboina Cyber Society - Mentoring 18 Januari 2013 
+title: Amboina Cyber Society - Mentoring 18 Januari 2013
 date: 2013-01-18
 categories:
 - laporan

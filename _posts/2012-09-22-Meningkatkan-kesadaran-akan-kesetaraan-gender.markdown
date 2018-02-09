@@ -1,11 +1,11 @@
----	
-title: 	Meningkatkan kesadaran akan kesetaraan gender
-date: 	2012-09-22
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Meningkatkan kesadaran akan kesetaraan gender
+date: 2012-09-22
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-September_22_2012_Lomba_opini_mini.jpg](/uploads/200px-September_22_2012_Lomba_opini_mini.jpg){: .img-responsive .center-block }	
 	

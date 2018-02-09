@@ -1,5 +1,5 @@
 title: Marsinah FM - Mentoring 8 Mei 2015
-date: 2015-05-08 
+date: 2015-05-08
 categories:
 - laporan
 - mentoring

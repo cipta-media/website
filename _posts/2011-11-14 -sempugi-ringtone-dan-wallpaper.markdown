@@ -1,6 +1,6 @@
 ---
 title: "Sempugi: Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hibah Termin I"
-date: 2011-11-14 
+date: 2011-11-14
 categories:
 - laporan
 - Sempugi

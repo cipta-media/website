@@ -1,6 +1,6 @@
 ---
 title: Pelatihan Wiki Untuk Laporan Penggunaan Dana dan Aktivitas Proyek Kartunet
-date: 2012-02-11 
+date: 2012-02-11
 categories:
 - laporan
 - Kartunet.com

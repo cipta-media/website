@@ -1,11 +1,11 @@
----	
-title: 	Pemanfaatan Teknologi dalam Pembelajaran Khususnya Hp
-date: 	2012-05-29
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+---
+title: Pemanfaatan Teknologi dalam Pembelajaran Khususnya Hp
+date: 2012-05-29
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![250px-Hp_untuk_belajar.jpg](/uploads/250px-Hp_untuk_belajar.jpg){: .img-responsive .center-block }	
 ![250px-Mei_29_2012_1000guru_MGMP_Bahasa_Ind_Kota_Kediri_Snapshot.jpg](/uploads/250px-Mei_29_2012_1000guru_MGMP_Bahasa_Ind_Kota_Kediri_Snapshot.jpg){: .img-responsive .center-block }	

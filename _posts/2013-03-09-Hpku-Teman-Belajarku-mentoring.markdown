@@ -1,5 +1,5 @@
 ---
-title: Hpku-Teman Belajarku - Mentoring 9 Maret 2013 
+title: Hpku-Teman Belajarku - Mentoring 9 Maret 2013
 date: 2013-03-09
 categories:
 - laporan

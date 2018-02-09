@@ -1,11 +1,11 @@
----	
-title: 	Laporan Hibah Termin II
-date: 	2013-01-28
-categories:	
-- laporan	
+---
+title: Laporan Hibah Termin II
+date: 2013-01-28
+categories:
+- laporan
 - AKUMASSA.ORG
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 **Tujuan** :	Dari Andang Kelana kepada Siska Doviana, Laporan Hibah Termin II
 	

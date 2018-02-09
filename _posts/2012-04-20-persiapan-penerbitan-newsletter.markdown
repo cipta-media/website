@@ -1,12 +1,12 @@
----	
+---
 title: Persiapan Penerbitan Newsletter
 date: 2012-04-20
-categories:	
+categories:
 - laporan
 - sms
 - AJI Banda Aceh
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 msa\| Pada pukul 10.00 WIB s.d pukul 12.30 WIB berlangsung pertemuan lanjutan persiapan penulisan dan penerbitan Newsletter Sharia News Watch. Rapat dihadiri Program Manager, Mukhtaruddin Yacob, Manager Keuangan, Abdul Munar, Manager Administrasi, Reza Fahlevi, Penulis Analisis Media, Maimun Saleh, Daspriani Yuli Zamzami, dan Riza Nasser, Editor, Nurdin Hasan dan Adi Warsidi. Tiga coder, Alaidin Ikrami, Salman Mardira, Zulkarnaini Muchtar. 
 

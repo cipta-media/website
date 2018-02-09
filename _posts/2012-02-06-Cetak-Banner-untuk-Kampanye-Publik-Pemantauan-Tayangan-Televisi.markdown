@@ -1,11 +1,11 @@
----	
-title: 	Cetak Banner untuk Kampanye Publik Pemantauan Tayangan Televisi
-date: 	2012-02-06
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Cetak Banner untuk Kampanye Publik Pemantauan Tayangan Televisi
+date: 2012-02-06
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Februari_6_2012_JRKL_Cetak_Banner_Sosialisasi.JPG](/uploads/200px-Februari_6_2012_JRKL_Cetak_Banner_Sosialisasi.JPG){: .img-responsive .center-block }	
 	

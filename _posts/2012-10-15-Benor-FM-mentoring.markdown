@@ -1,5 +1,5 @@
 ---
-title: Benor FM - Mentoring 15 Oktober 2012 
+title: Benor FM - Mentoring 15 Oktober 2012
 date: 2012-10-15
 categories:
 - laporan

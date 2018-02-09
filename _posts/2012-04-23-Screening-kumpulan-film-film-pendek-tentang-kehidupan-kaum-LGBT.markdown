@@ -1,11 +1,11 @@
----	
-title: 	Screening kumpulan film-film pendek tentang kehidupan kaum LGBT di Jakarta dengan tujuan mengajak khalayak umum untuk bisa mengenal dan memanusiakan kaum LGBT.
-date: 	2012-04-23
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Screening kumpulan film-film pendek tentang kehidupan kaum LGBT di Jakarta dengan tujuan mengajak khalayak umum untuk bisa mengenal dan memanusiakan kaum LGBT.
+date: 2012-04-23
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-April_23_2012_Sanubari_Jakarta_1.jpg](/uploads/200px-April_23_2012_Sanubari_Jakarta_1.jpg){: .img-responsive .center-block }	
 ![200px-April_23_2012_Sanubari_Jakarta_2.jpg](/uploads/200px-April_23_2012_Sanubari_Jakarta_2.jpg){: .img-responsive .center-block }	

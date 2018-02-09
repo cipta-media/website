@@ -1,11 +1,11 @@
----	
-title: 	Aksi tanam pohon sebagai dukungan bagi warga Waduk Sepat, Lidah Kulon.
-date: 	2012-01-08
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Aksi tanam pohon sebagai dukungan bagi warga Waduk Sepat, Lidah Kulon.
+date: 2012-01-08
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat1.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat1.jpg){: .img-responsive .center-block }	
 ![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat2.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat2.jpg){: .img-responsive .center-block }	

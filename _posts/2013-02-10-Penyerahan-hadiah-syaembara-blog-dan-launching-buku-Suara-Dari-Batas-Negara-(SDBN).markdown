@@ -1,5 +1,5 @@
 ---
-title:  Penyerahan hadiah syaembara blog  dan launching buku Suara Dari Batas Negara (SDBN) 
+title: Penyerahan hadiah syaembara blog dan launching buku Suara Dari Batas Negara (SDBN)
 date: 2013-02-10
 categories:
 - laporan

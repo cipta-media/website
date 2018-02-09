@@ -1,12 +1,12 @@
----	
+---
 title: The Orang Rimba Education Hero
 date: 2013-04-03
-categories:	
+categories:
 - laporan
 - sms
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 Dalam rangka memperingati Perjuangan para perintis Pendidikan Orang Rimba di Taman Nasional Bukit Duabelas dan sekitarnya, KKI WARSI melakukan serangkaian kegiatan pada :
 Hari Rabu, 3 April 2013, Pkl : 09.00-12.30, dengan agenda :

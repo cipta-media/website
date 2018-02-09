@@ -1,5 +1,5 @@
 ---
-title: Aldepe.com - Mentoring 2 Januari 2013 
+title: Aldepe.com - Mentoring 2 Januari 2013
 date: 2013-01-02
 categories:
 - laporan

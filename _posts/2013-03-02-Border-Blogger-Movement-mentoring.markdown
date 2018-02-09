@@ -1,5 +1,5 @@
 ---
-title: Border Blogger Movement - Mentoring 2 Maret 2013 
+title: Border Blogger Movement - Mentoring 2 Maret 2013
 date: 2013-03-02
 categories:
 - laporan

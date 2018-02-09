@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring Hasil pertemuan Bhinneka 12 - 15 November 2012 
+title: Bhinneka - Mentoring Hasil pertemuan Bhinneka 12 - 15 November 2012
 date: 2012-11-12
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 19 November 2012 
+title: Bhinneka - Mentoring 19 November 2012
 date: 2012-11-19
 categories:
 - laporan

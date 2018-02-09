@@ -1,5 +1,5 @@
 ---
-title: Rubrik Layar 
+title: Rubrik Layar
 date: 2012-12-07
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Dokumentasi Rakom Awang-Awang 
+title: Wawancara dan Dokumentasi Rakom Awang-Awang
 date: 2012-11-21
 categories:
 - laporan

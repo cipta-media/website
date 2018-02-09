@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi tentang program BBM di Kabupaten Kapuas Hulu 
+title: Sosialisasi tentang program BBM di Kabupaten Kapuas Hulu
 date: 2012-01-23
 categories:
 - laporan

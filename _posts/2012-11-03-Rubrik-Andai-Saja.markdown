@@ -1,5 +1,5 @@
 ---
-title: Rubrik Andai Saja 
+title: Rubrik Andai Saja
 date: 2012-11-03
 categories:
 - laporan

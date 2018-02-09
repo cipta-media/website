@@ -1,11 +1,11 @@
----	
-title: 	Akumassa menunjukkan kematangan organisasi proyek
-date: 	2012-06-27
-categories:	
-- laporan	
-- AKUMASSA.ORG	
-layout: laporancmb	
----	
+---
+title: Akumassa menunjukkan kematangan organisasi proyek
+date: 2012-06-27
+categories:
+- laporan
+- AKUMASSA.ORG
+layout: laporancmb
+---
 	
 **Tujuan** :	Akumassa menunjukkan kematangan organisasi proyek
 

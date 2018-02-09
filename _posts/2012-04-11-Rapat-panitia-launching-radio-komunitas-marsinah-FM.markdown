@@ -1,5 +1,5 @@
 ---
-title: Rapat panitia launching radio komunitas marsinah FM	
+title: Rapat panitia launching radio komunitas marsinah FM
 date: 2012-04-11
 categories:
 - laporan

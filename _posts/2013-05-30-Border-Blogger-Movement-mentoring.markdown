@@ -1,5 +1,5 @@
 ---
-title: Border Blogger Movement - Mentoring 30 Mei 2013 
+title: Border Blogger Movement - Mentoring 30 Mei 2013
 date: 2013-05-30
 categories:
 - laporan

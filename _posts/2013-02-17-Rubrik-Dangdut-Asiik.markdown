@@ -1,5 +1,5 @@
 ---
-title: Rubrik Dangdut asiik 
+title: Rubrik Dangdut asiik
 date: 2013-02-17
 categories:
 - laporan

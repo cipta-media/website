@@ -1,11 +1,11 @@
----	
-title:  Cetak Sticker untuk Kampanye Publik Pemantauan Tayangan Televisi
-date: 	2012-01-22
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Cetak Sticker untuk Kampanye Publik Pemantauan Tayangan Televisi
+date: 2012-01-22
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Januari_22_2012_JRKL_Cetak_Sticker.JPG](/uploads/200px-Januari_22_2012_JRKL_Cetak_Sticker.JPG){: .img-responsive .center-block }	
 	

@@ -1,5 +1,5 @@
 ---
-title: Border Blogger Movement - Mentoring 23 Januari 2013 
+title: Border Blogger Movement - Mentoring 23 Januari 2013
 date: 2013-01-23
 categories:
 - laporan

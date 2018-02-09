@@ -1,11 +1,11 @@
----	
-title: 	Sosialisasi kepada Mahasiswa UIN Malang yang PPL di MAN 2 Kediri
-date: 	2012-02-22
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+---
+title: Sosialisasi kepada Mahasiswa UIN Malang yang PPL di MAN 2 Kediri
+date: 2012-02-22
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![250px-Pebruari_22_2012_Sosialisasi_Ke_Mahasiswa_PPL_UIN_Malang3.jpg](/uploads/
 250px-Pebruari_22_2012_Sosialisasi_Ke_Mahasiswa_PPL_UIN_Malang3.jpg){: .img-responsive .center-block }	

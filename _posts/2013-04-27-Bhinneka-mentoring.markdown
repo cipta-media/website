@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 27 April 2013 
+title: Bhinneka - Mentoring 27 April 2013
 date: 2013-04-27
 categories:
 - laporan

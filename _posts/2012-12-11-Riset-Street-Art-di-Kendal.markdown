@@ -3,7 +3,7 @@ title: Riset Street Art di Kendal
 date: 2012-12-11
 categories:
 - laporan
-- Indonesian Street Art Database 
+- Indonesian Street Art Database
 layout: laporancmb
 ---
 

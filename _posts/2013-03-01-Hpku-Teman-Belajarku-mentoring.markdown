@@ -1,5 +1,5 @@
 ---
-title: Hpku-Teman Belajarku - Mentoring 1 Maret 2013 
+title: Hpku-Teman Belajarku - Mentoring 1 Maret 2013
 date: 2013-03-01
 categories:
 - laporan

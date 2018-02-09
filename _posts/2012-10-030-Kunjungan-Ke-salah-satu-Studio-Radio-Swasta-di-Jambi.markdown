@@ -1,11 +1,11 @@
----	
-title: 	Kunjungan Ke salah satu Studio Radio Swasta di Jambi
-date: 	2012-10-030
-categories:	
-- laporan	
+---
+title: Kunjungan Ke salah satu Studio Radio Swasta di Jambi
+date: 2012-10-030
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-Oktober_03_2012_Benor_FM_Kunjungan_Ke_salah_satu_Studio_Radio_Swasta_di_Jambi.jpg](/uploads/200px-Oktober_03_2012_Benor_FM_Kunjungan_Ke_salah_satu_Studio_Radio_Swasta_di_Jambi.jpg){: .img-responsive .center-block }	
 ![200px-Oktober_03_2012_Benor_FM_Kunjungan_Ke_salah_satu_Studio_Radio_Swasta_di_Jambi.-1.jpg](/uploads/200px-Oktober_03_2012_Benor_FM_Kunjungan_Ke_salah_satu_Studio_Radio_Swasta_di_Jambi.-1.jpg){: .img-responsive .center-block }	

@@ -1,11 +1,11 @@
----	
-title: 	Sosialisasi Pemantauan dan Pengkritisan Tayangan Televisi di Sekolah (Pesawaran)
-date: 	2012-07-13
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Sosialisasi Pemantauan dan Pengkritisan Tayangan Televisi di Sekolah (Pesawaran)
+date: 2012-07-13
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Juli_13_JRKL_Sosialisasi_Pemantauan_dan_Pengkritisan_Tayangan_Televisi_di_Sekolah.JPG](/uploads/200px-Juli_13_JRKL_Sosialisasi_Pemantauan_dan_Pengkritisan_Tayangan_Televisi_di_Sekolah.JPG){: .img-responsive .center-block }	
 	

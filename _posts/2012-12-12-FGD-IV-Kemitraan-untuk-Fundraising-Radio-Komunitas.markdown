@@ -1,5 +1,5 @@
 ---
-title: FGD IV Kemitraan untuk Fundraising Radio Komunitas. 
+title: FGD IV Kemitraan untuk Fundraising Radio Komunitas.
 date: 2012-12-12
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Gambar Ketua JRKI 
+title: Wawancara dan Pengambilan Gambar Ketua JRKI
 date: 2012-12-03
 categories:
 - laporan

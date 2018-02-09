@@ -1,11 +1,11 @@
----	
-title: 	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
-date: 	2012-02-17
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
+date: 2012-02-17
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 
 ![!200px-Februari_21_2012_FGD_RGL_FM.JPG](/uploads/!200px-Februari_21_2012_FGD_RGL_FM.JPG){: .img-responsive .center-block }
 

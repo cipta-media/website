@@ -1,6 +1,6 @@
 ---
 title: Sempugi - Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hibah Termin III
-date: 2015-04-06 
+date: 2015-04-06
 categories:
 - laporan
 - Sempugi

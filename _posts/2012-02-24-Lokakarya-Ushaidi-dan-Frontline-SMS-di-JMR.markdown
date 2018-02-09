@@ -1,12 +1,12 @@
----	
+---
 title: Lokakarya "USHAHIDI dan FRONTLINE SMS"
 date: 2012-02-24
-categories:	
+categories:
 - laporan
 - sms
 - LenteraTimur.com
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 **Tujuan**: "USHAHIDI & FRONTLINE SMS"
 	

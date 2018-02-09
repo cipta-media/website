@@ -1,11 +1,11 @@
----	
-title: 	Cinta beda agama bisa terjadi dan semakin sering terjadi. Namun, secara hukum di Indonesia, pernikahan seperti ini tidak bisa disahkan oleh Negara. Jadi, pada surat nikah seringkali mereka menyatakan mempunyai agama yang sama, sekedar untuk mendapat formulir resmi dari Negara. Hukum ini adalah bagian dari politik "Devide et Impera". Karena itulah, lembaga Bhinneka mengadakan diskusi khusus membahas topik ini.
-date: 	2012-02-19
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Cinta beda agama bisa terjadi dan semakin sering terjadi. Namun, secara hukum di Indonesia, pernikahan seperti ini tidak bisa disahkan oleh Negara. Jadi, pada surat nikah seringkali mereka menyatakan mempunyai agama yang sama, sekedar untuk mendapat formulir resmi dari Negara. Hukum ini adalah bagian dari politik "Devide et Impera". Karena itulah, lembaga Bhinneka mengadakan diskusi khusus membahas topik ini.
+date: 2012-02-19
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG){: .img-responsive .center-block }

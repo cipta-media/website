@@ -1,5 +1,5 @@
 ---
-title: Rubrik Dangdut Karaoke 
+title: Rubrik Dangdut Karaoke
 date: 2013-02-09
 categories:
 - laporan

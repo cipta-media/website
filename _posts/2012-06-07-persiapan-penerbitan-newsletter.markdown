@@ -1,12 +1,12 @@
----	
+---
 title: Persiapan Penerbitan Newsletter
 date: 2012-06-07
-categories:	
+categories:
 - laporan
 - sms
 - AJI Banda Aceh
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 ![220_1_1339020796.JPG](/uploads/220_1_1339020796.JPG){: .img-responsive .center-block }
 

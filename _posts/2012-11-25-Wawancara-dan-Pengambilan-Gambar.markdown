@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Gambar 
+title: Wawancara dan Pengambilan Gambar
 date: 2012-11-25
 categories:
 - laporan

@@ -1,10 +1,10 @@
 ---		
-title: 	Sekretariat Lembaga Bhinneka	
-date: 	2012-02-03
-categories:		
-- laporan		
-- Bhinneka		
-layout: laporancmb		
+title: Sekretariat Lembaga Bhinneka
+date: 2012-02-03
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
 ---		
 		
 ![200px-Februari_03_2012_Kopdar_Lapindo_1.jpg](/uploads/200px-Februari_03_2012_Kopdar_Lapindo_1.jpg){: .img-responsive .center-block }	

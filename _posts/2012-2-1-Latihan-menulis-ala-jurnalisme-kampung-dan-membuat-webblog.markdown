@@ -1,5 +1,5 @@
 ---
-title:  Latihan menulis ala jurnalisme kampung dan membuat webblog 
+title: Latihan menulis ala jurnalisme kampung dan membuat webblog
 date: 2012-2-1
 categories:
 - laporan

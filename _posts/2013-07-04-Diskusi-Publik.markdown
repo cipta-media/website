@@ -1,5 +1,5 @@
 ---
-title: Diskusi Publik 
+title: Diskusi Publik
 date: 2013-07-04
 categories:
 - laporan

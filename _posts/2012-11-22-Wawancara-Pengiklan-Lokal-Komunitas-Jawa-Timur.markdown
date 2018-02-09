@@ -1,5 +1,5 @@
 ---
-title: Wawancara Pengiklan Lokal Komunitas Jawa Timur 
+title: Wawancara Pengiklan Lokal Komunitas Jawa Timur
 date: 2012-11-22
 categories:
 - laporan

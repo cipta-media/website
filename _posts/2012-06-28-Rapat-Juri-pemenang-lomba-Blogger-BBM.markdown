@@ -1,5 +1,5 @@
 ---
-title:   Rapat Juri pemenang lomba Blogger BBM 
+title: Rapat Juri pemenang lomba Blogger BBM
 date: 2012-06-28
 categories:
 - laporan

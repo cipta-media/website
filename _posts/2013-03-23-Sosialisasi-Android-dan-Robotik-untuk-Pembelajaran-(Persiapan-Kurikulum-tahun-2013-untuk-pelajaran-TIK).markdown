@@ -1,11 +1,11 @@
----	
-title: 	Sosialisasi Android dan Robotik untuk Pembelajaran (Persiapan Kurikulum tahun 2013 untuk pelajaran TIK)
-date: 	2013-03-23
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+---
+title: Sosialisasi Android dan Robotik untuk Pembelajaran (Persiapan Kurikulum tahun 2013 untuk pelajaran TIK)
+date: 2013-03-23
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![250px-Maret_23_2013_Hpku_Workshop_Android.jpg](/uploads/250px-Maret_23_2013_Hpku_Workshop_Android.jpg){: .img-responsive .center-block }	
 	

@@ -1,5 +1,5 @@
 ---
-title:   Rapat Koordinasi 
+title: Rapat Koordinasi
 date: 2012-08-27
 categories:
 - laporan

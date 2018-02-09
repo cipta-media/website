@@ -1,5 +1,5 @@
 ---
-title: Hpku-Teman Belajarku - Mentoring 14 Juni 2012 
+title: Hpku-Teman Belajarku - Mentoring 14 Juni 2012
 date: 2012-06-14
 categories:
 - laporan

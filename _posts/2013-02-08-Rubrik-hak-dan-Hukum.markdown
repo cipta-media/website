@@ -1,5 +1,5 @@
 ---
-title: Rubrik hak dan hukum 
+title: Rubrik hak dan hukum
 date: 2013-02-08
 categories:
 - laporan

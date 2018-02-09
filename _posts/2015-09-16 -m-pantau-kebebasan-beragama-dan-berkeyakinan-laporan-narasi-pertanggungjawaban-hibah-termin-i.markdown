@@ -1,6 +1,6 @@
 ---
 title: M-Pantau Kebebasan Beragama dan Berkeyakinan - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2015-09-16 
+date: 2015-09-16
 categories:
 - laporan
 - m.Pantau

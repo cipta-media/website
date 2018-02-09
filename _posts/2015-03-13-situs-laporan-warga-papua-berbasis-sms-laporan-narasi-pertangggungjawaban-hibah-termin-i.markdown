@@ -1,6 +1,6 @@
 ---
 title: Situs Laporan Warga Papua Berbasis SMS - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2015-03-13 
+date: 2015-03-13
 categories:
 - laporan
 - Situs Laporan JUBI

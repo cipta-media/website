@@ -1,11 +1,11 @@
----	
-title: 	Mempererat para anggota Bhinneka di wilayah Jakarta
-date: 	2012-11-15
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Mempererat para anggota Bhinneka di wilayah Jakarta
+date: 2012-11-15
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-November_15_2012_Bhinneka_Diskusi_Jakarta.jpg](/uploads/200px-November_15_2012_Bhinneka_Diskusi_Jakarta.jpg){: .img-responsive .center-block }	
 ![200px-November_15_2012_Bhinneka_Diskusi_Jakarta_1.jpg](/uploads/200px-November_15_2012_Bhinneka_Diskusi_Jakarta_1.jpg){: .img-responsive .center-block }	

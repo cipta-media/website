@@ -1,5 +1,5 @@
 ---
-title: FGD Penyusunan Modul Pelatihan Rakom 
+title: FGD Penyusunan Modul Pelatihan Rakom
 date: 2013-01-13
 categories:
 - laporan

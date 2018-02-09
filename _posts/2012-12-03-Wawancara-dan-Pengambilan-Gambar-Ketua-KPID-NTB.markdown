@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Gambar Ketua KPID NTB 
+title: Wawancara dan Pengambilan Gambar Ketua KPID NTB
 date: 2012-12-03
 categories:
 - laporan

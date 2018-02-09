@@ -1,5 +1,5 @@
 ---
-title:  Pelatihan Jurnalisme Kampung di Kabupaten Sanggau 
+title: Pelatihan Jurnalisme Kampung di Kabupaten Sanggau
 date: 2012-02-04
 categories:
 - laporan

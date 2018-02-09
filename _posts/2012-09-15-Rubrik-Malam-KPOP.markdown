@@ -1,5 +1,5 @@
 ---
-title: Rubrik Malam KPOP 
+title: Rubrik Malam KPOP
 date: 2012-09-15
 categories:
 - laporan

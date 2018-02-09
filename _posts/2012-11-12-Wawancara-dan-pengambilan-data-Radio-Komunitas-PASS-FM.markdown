@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan pengambilan data Radio Komunitas PASS FM 
+title: Wawancara dan pengambilan data Radio Komunitas PASS FM
 date: 2012-11-12
 categories:
 - laporan

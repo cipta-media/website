@@ -1,11 +1,11 @@
----	
-title: 	Membuka wawasan tentang dampak fundamentalisme agama melalui cerpen dan puisi
-date: 	2013-01-15
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Membuka wawasan tentang dampak fundamentalisme agama melalui cerpen dan puisi
+date: 2013-01-15
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Januari_15_2013_Penerbitan_buku.jpg.jpg](/uploads/200px-Januari_15_2013_Penerbitan_buku.jpg.jpg){: .img-responsive .center-block }	
 	

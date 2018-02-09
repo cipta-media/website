@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 29 Januari 2013 
+title: Bhinneka - Mentoring 29 Januari 2013
 date: 2013-01-29
 categories:
 - laporan

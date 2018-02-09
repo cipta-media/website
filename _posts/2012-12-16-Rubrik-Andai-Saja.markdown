@@ -1,5 +1,5 @@
 ---
-title: Rubrik Andai saja 
+title: Rubrik Andai saja
 date: 2012-12-16
 categories:
 - laporan

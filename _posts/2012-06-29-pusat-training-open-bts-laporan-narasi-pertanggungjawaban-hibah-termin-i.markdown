@@ -1,6 +1,6 @@
 ---
 title: Pusat Training OpenBTS Wireless Cellular Network OpenBTS - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2012-06-29 
+date: 2012-06-29
 categories:
 - laporan
 - Pusat OpenBTS

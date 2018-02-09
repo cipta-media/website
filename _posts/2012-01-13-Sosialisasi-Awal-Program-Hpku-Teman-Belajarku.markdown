@@ -1,11 +1,11 @@
----	
-title: 	Sosialisasi Awal Program Hpku Teman Belajarku
-date: 	2012-01-13
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+---
+title: Sosialisasi Awal Program Hpku Teman Belajarku
+date: 2012-01-13
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![150px-Januari_13_2011_Gerakan_1000guru_Laouncing_Hpku_di_Pemkot_Kediri.jpg](/uploads/150px-Januari_13_2011_Gerakan_1000guru_Laouncing_Hpku_di_Pemkot_Kediri.jpg){: .img-responsive .center-block }	
 ![150px-Januari_13_2011_Gerakan_1000guru_Laouncing_Hpku_di_Pemkot_Kediri (1).jpg](/uploads/1150px-Januari_13_2011_Gerakan_1000guru_Laouncing_Hpku_di_Pemkot_Kediri (1).jpg){: .img-responsive .center-block }	

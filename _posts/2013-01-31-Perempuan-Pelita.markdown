@@ -1,5 +1,5 @@
 ---
-title: Perempuan Pelita 
+title: Perempuan Pelita
 date: 2013-01-31
 categories:
 - laporan

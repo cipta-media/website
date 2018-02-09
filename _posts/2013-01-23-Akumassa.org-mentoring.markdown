@@ -1,5 +1,5 @@
 ---
-title: Akumassa.org - Mentoring Januari 2013 
+title: Akumassa.org - Mentoring Januari 2013
 date: 2013-01-23
 categories:
 - laporan

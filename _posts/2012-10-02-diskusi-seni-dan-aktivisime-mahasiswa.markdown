@@ -3,7 +3,7 @@ title: Diskusi Seni dan Aktivisme Mahasiswa
 date: 2012-10-02
 categories:
 - laporan
-- Indonesian Street Art Database 
+- Indonesian Street Art Database
 ---
 
 Pameran Karya Visual Mahasiswa Jakarta Ke-5 Jakarta 32ºC

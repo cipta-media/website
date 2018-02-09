@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Data Radio Komunitas Gita Swara FM 
+title: Wawancara dan Pengambilan Data Radio Komunitas Gita Swara FM
 date: 2012-12-01
 categories:
 - laporan

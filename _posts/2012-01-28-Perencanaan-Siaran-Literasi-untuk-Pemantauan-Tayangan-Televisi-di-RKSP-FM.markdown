@@ -1,11 +1,11 @@
----	
-title: 	Perencanaan Siaran Literasi untuk Pemantauan Tayangan Televisi di RKSP FM
-date: 	2012-01-28
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Perencanaan Siaran Literasi untuk Pemantauan Tayangan Televisi di RKSP FM
+date: 2012-01-28
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Januari_28-29_2012_Perencanaan_Siaran_Literasi_untuk_Pemantauan_Tayangan_Televisi_di_RKSP_FM_.jpg](/uploads/200px-Januari_28-29_2012_Perencanaan_Siaran_Literasi_untuk_Pemantauan_Tayangan_Televisi_di_RKSP_FM_.jpg){: .img-responsive .center-block }	
 	

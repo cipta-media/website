@@ -1,11 +1,11 @@
----	
-title: 	Guru bisa merekam pembelajaran didalam kelas dalam bentuk Video 3gp
-date: 	2012-01-14
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+---
+title: Guru bisa merekam pembelajaran didalam kelas dalam bentuk Video 3gp
+date: 2012-01-14
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![300px-Januari_14_2012_1000guru_Pelatihan_Guru_MAN_2_Kediri1.jpg](/uploads/300px-Januari_14_2012_1000guru_Pelatihan_Guru_MAN_2_Kediri1.jpg){: .img-responsive .center-block }
 ![300px-Januari_14_2012_1000guru_Presentasi_Oleh_Ali_Sahbana.jpg](/uploads/300px-Januari_14_2012_1000guru_Presentasi_Oleh_Ali_Sahbana.jpg){: .img-responsive .center-block }	

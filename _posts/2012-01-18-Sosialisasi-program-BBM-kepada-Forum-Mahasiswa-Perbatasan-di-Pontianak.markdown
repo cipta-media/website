@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi program BBM kepada Forum Mahasiswa Perbatasan di Pontianak. 
+title: Sosialisasi program BBM kepada Forum Mahasiswa Perbatasan di Pontianak.
 date: 2012-01-18
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Rubrik Perempuan Pelita edisi XII 
+title: Rubrik Perempuan Pelita edisi XII
 date: 2012-08-29
 categories:
 - laporan

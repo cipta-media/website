@@ -1,5 +1,5 @@
 ---
-title:   Rapat sosilisasi internal program USHAIDI 
+title: Rapat sosilisasi internal program USHAIDI
 date: 2012-10-20
 categories:
 - laporan

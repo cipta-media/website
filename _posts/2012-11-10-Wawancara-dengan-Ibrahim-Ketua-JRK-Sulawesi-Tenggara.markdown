@@ -1,5 +1,5 @@
 ---
-title: Wawancara dengan Ibrahim Ketua JRK Sulawesi Tenggara 
+title: Wawancara dengan Ibrahim Ketua JRK Sulawesi Tenggara
 date: 2012-11-10
 categories:
 - laporan

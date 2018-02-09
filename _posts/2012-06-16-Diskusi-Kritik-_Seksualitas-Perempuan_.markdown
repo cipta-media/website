@@ -1,11 +1,11 @@
----	
-title: 	 Diskusi Kritik "Seksualitas Perempuan"
-date: 	2012-06-16
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Diskusi Kritik "Seksualitas Perempuan"
+date: 2012-06-16
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Juni_16_2012_Bhinneka_Kelas_kritik_sastra.JPG](/uploads/200px-Juni_16_2012_Bhinneka_Kelas_kritik_sastra.JPG){: .img-responsive .center-block }	
 	

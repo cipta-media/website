@@ -1,5 +1,5 @@
 ---
-title: 	Melakukan koordinasi dan diskusi dengan yayasan air putih
+title: Melakukan koordinasi dan diskusi dengan yayasan air putih
 date: 2012-07-20
 categories:
 - laporan

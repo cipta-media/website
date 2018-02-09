@@ -1,5 +1,5 @@
 ---
-title: Rapat Studi 
+title: Rapat Studi
 date: 2012-09-25
 categories:
 - laporan

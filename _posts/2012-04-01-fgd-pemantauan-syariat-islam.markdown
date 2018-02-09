@@ -1,12 +1,12 @@
----	
+---
 title: FGD Pemantauan Syariat Islam
 date: 2012-04-01
-categories:	
+categories:
 - laporan
 - sms
 - AJI Banda Aceh
-layout: laporancmb	
----	
+layout: laporancmb
+---
 
 ![145_1_1333278805.JPG](/uploads/145_1_1333278805.JPG){: .img-responsive .center-block }
 

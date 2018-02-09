@@ -1,11 +1,11 @@
----	
-title: 	Edp 15 lembaga penyiaran tv dan radio oleh kpid jambi
-date: 	2012-10-01
-categories:	
-- laporan	
+---
+title: Edp 15 lembaga penyiaran tv dan radio oleh kpid jambi
+date: 2012-10-01
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-Oktober_01_2012_Benor_FM_Jadwal_EDP_KPID_Jambi_2012.jpg](/uploads/200px-Oktober_01_2012_Benor_FM_Jadwal_EDP_KPID_Jambi_2012.jpg){: .img-responsive .center-block }	
 	

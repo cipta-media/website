@@ -1,5 +1,5 @@
 ---
-title: Pelatihan Sistem Pelaporan 
+title: Pelatihan Sistem Pelaporan
 date: 2012-10-02
 categories:
 - laporan

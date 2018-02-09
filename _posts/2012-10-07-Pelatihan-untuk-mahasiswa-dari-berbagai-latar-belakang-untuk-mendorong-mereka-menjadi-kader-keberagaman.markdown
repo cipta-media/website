@@ -1,11 +1,11 @@
----	
-title: 	Pelatihan untuk mahasiswa dari berbagai latar belakang untuk mendorong mereka menjadi kader keberagaman.
-date: 	2012-10-07
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Pelatihan untuk mahasiswa dari berbagai latar belakang untuk mendorong mereka menjadi kader keberagaman.
+date: 2012-10-07
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG](/uploads/200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG){: .img-responsive .center-block }	
 ![200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman_2.JPG](/uploads/200px-Oktober_7_2012_Bhinneka_Pelatihan_Keberagaman.JPG){: .img-responsive .center-block }	

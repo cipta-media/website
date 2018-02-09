@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan pengambilan gambar Akademisi Pemerhati Radio Komunitas 
+title: Wawancara dan pengambilan gambar Akademisi Pemerhati Radio Komunitas
 date: 2012-12-03
 categories:
 - laporan

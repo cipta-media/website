@@ -1,5 +1,5 @@
 ---
-title: Mengeksploitasi Strategi Fundraising Rakom 
+title: Mengeksploitasi Strategi Fundraising Rakom
 date: 2012-11-08
 categories:
 - laporan

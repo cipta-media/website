@@ -1,11 +1,11 @@
----	
-title: 	Diskusi Cerpen bersama Yonathan Rahardjo
-date: 	2012-08-20
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Diskusi Cerpen bersama Yonathan Rahardjo
+date: 2012-08-20
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg](/uploads/250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg){: .img-responsive .center-block }	
 	

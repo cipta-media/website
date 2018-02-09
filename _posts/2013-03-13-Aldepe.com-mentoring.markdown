@@ -1,5 +1,5 @@
 ---
-title: Aldepe.com - Mentoring 13 Maret 2013 
+title: Aldepe.com - Mentoring 13 Maret 2013
 date: 2013-03-13
 categories:
 - laporan

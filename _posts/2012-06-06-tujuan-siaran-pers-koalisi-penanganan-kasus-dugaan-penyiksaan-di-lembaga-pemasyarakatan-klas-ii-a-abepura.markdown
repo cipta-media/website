@@ -1,5 +1,5 @@
 ---
-title: Tujuan	Siaran Pers - Koalisi Penanganan Kasus Dugaan Penyiksaan Di Lembaga Pemasyarakatan Klas II A Abepura
+title: Tujuan Siaran Pers - Koalisi Penanganan Kasus Dugaan Penyiksaan Di Lembaga Pemasyarakatan Klas II A Abepura
 date: 2012-06-06
 categories:
 - laporan

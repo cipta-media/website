@@ -1,5 +1,5 @@
 ---
-title: Rubrik KPOP 
+title: Rubrik KPOP
 date: 2012-11-24
 categories:
 - laporan

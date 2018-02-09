@@ -1,11 +1,11 @@
----	
-title: 	Diterimanya Berkas Administaratif Lembaga Penyiaran Swasta Radio Benor FM oleh KPID Provinsi Jambi
-date: 	2012-07-23
-categories:	
-- laporan	
+---
+title: Diterimanya Berkas Administaratif Lembaga Penyiaran Swasta Radio Benor FM oleh KPID Provinsi Jambi
+date: 2012-07-23
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-Juli_23_2012_Benor_FM_Tanda_Terima_LPS_Benor.jpg](/uploads/200px-Juli_23_2012_Benor_FM_Tanda_Terima_LPS_Benor.jpg){: .img-responsive .center-block }	
 	

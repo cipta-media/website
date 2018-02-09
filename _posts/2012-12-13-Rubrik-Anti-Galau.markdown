@@ -1,5 +1,5 @@
 ---
-title: Rubrik Anti Galau 
+title: Rubrik Anti Galau
 date: 2012-12-13
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Pengambilan data dan pendokumentasian Rakom MTAS FM 
+title: Pengambilan data dan pendokumentasian Rakom MTAS FM
 date: 2012-11-14
 categories:
 - laporan

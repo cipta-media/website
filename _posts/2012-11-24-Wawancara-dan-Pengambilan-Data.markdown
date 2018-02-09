@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Data 
+title: Wawancara dan Pengambilan Data
 date: 2012-11-24
 categories:
 - laporan

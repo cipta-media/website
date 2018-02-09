@@ -1,10 +1,10 @@
----	
-title: 	Pemutaran Film, Presentasi & Diksusi ISAD bersama UrbanCult dan SindikatCuciOtak, Juga Riset dan Pendokumentasian Street Art di Kota Pekanbaru
-date: 	2012-03-02 
-categories:	
-- laporan	
-- Indonesian Street Art Database	
-layout: laporancmb	
+---
+title: Pemutaran Film, Presentasi & Diksusi ISAD bersama UrbanCult dan SindikatCuciOtak, Juga Riset dan Pendokumentasian Street Art di Kota Pekanbaru
+date: 2012-03-02
+categories:
+- laporan
+- Indonesian Street Art Database
+layout: laporancmb
 ---	  
   
 ![200px-Maret_02_2012_ISAD_Poster_Acara_Pemutaran_Film_dan_Presentasi_ISAD_di_Pekanbaru.jpg](/uploads/200px-Maret_02_2012_ISAD_Poster_Acara_Pemutaran_Film_dan_Presentasi_ISAD_di_Pekanbaru.jpg){: .img-responsive .center-block }	

@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi program BBM di Kabupaten Sanggau. 
+title: Sosialisasi program BBM di Kabupaten Sanggau.
 date: 2012-01-19
 categories:
 - laporan

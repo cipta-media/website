@@ -1,11 +1,11 @@
----	
-title: 	Pra Evaluasi Dengar Pendapat (EDP) Benor FM dan 9 Lembaga Penyiaran (LP) di KPID Jambi
-date: 	2012-10-18
-categories:	
-- laporan	
+---
+title: Pra Evaluasi Dengar Pendapat (EDP) Benor FM dan 9 Lembaga Penyiaran (LP) di KPID Jambi
+date: 2012-10-18
+categories:
+- laporan
 - Benor FM
-layout: laporancmb	
----	
+layout: laporancmb
+---
 	
 ![200px-Oktober18_2012_Benor_FM_Pra_EDP_bersama_sembilan_LP_di_KPID_Jambi.jpg](/uploads/200px-Oktober18_2012_Benor_FM_Pra_EDP_bersama_sembilan_LP_di_KPID_Jambi.jpg){: .img-responsive .center-block }	
 	

@@ -1,5 +1,5 @@
 ---
-title:  Pelatihan Penyegaran Penerima Manfaat Program Border Blogger Movement 
+title: Pelatihan Penyegaran Penerima Manfaat Program Border Blogger Movement
 date: 2012-03-09
 categories:
 - laporan

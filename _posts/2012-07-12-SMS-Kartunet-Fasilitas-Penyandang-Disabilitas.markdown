@@ -1,5 +1,5 @@
 ---
-title: SMS dari Kartunet Mengenai Fasilitas Penyandang 
+title: SMS dari Kartunet Mengenai Fasilitas Penyandang
 date: 2012-07-12
 categories:
 - laporan

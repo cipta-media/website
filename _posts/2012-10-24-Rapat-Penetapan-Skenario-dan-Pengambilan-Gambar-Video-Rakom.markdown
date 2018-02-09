@@ -1,5 +1,5 @@
 ---
-title: Rapat Penetapan Skenario dan Pengambilan Gambar Video Rakom 
+title: Rapat Penetapan Skenario dan Pengambilan Gambar Video Rakom
 date: 2012-10-24
 categories:
 - laporan

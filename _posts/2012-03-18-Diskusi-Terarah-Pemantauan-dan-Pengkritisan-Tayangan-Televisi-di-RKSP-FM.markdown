@@ -1,11 +1,11 @@
----	
-title: 	Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
-date: 	2012-03-18
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
+date: 2012-03-18
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Maret_18_2012_JRKL_Diskusi_Terarah_Kelompok_Pemantau_Tayangan_Televisi_di_RKSP_FM.JPG](/uploads/200px-Maret_18_2012_JRKL_Diskusi_Terarah_Kelompok_Pemantau_Tayangan_Televisi_di_RKSP_FM.JPG){: .img-responsive .center-block }
 	

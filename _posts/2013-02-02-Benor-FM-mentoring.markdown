@@ -1,5 +1,5 @@
 ---
-title: Benor FM - Mentoring 2 dan 3 Februari 2013 
+title: Benor FM - Mentoring 2 dan 3 Februari 2013
 date: 2013-02-02
 categories:
 - laporan

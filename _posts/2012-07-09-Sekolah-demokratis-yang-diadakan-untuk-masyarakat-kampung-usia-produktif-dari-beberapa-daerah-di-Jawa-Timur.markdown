@@ -1,11 +1,11 @@
----	
-title: 	Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif dari beberapa daerah di Jawa Timur
-date: 	2012-07-09
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif dari beberapa daerah di Jawa Timur
+date: 2012-07-09
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-9_Juli_2012_Semar_01.jpg](/uploads/200px-9_Juli_2012_Semar_01.jpg){: .img-responsive .center-block }	
 	

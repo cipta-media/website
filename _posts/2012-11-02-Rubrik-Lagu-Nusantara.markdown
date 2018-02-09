@@ -1,5 +1,5 @@
 ---
-title: Rubrik Lagu Nusantara 
+title: Rubrik Lagu Nusantara
 date: 2012-11-02
 categories:
 - laporan

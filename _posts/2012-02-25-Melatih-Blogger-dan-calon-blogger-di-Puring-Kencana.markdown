@@ -1,5 +1,5 @@
 ---
-title:  Melatih Blogger  dan calon blogger di  Puring Kencana 
+title: Melatih Blogger dan calon blogger di Puring Kencana
 date: 2012-02-25
 categories:
 - laporan

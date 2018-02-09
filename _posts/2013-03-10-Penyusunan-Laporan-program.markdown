@@ -1,5 +1,5 @@
 ---
-title:  Penyusunan Laporan program 
+title: Penyusunan Laporan program
 date: 2013-03-10
 categories:
 - laporan

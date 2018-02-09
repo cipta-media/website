@@ -1,5 +1,5 @@
 ---
-title: Rubrik Perempuan Pelita 
+title: Rubrik Perempuan Pelita
 date: 2012-11-08
 categories:
 - laporan

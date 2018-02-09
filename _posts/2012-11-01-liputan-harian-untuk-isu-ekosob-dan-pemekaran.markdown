@@ -1,5 +1,5 @@
 ---
-title: 	Liputan harian untuk Isu Ekosob dan Pemekaran
+title: Liputan harian untuk Isu Ekosob dan Pemekaran
 date: 2012-11-01
 categories:
 - laporan

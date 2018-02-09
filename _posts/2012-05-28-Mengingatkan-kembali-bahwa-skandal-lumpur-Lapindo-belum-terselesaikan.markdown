@@ -1,11 +1,11 @@
----	
-title: 	Mengingatkan kembali pada masyarakat bahwa skandal lumpur Lapindo masih belum terselesaikan setelah 6 tahun berjalan
-date: 	2012-05-28
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Mengingatkan kembali pada masyarakat bahwa skandal lumpur Lapindo masih belum terselesaikan setelah 6 tahun berjalan
+date: 2012-05-28
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg](/uploads/250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg){: .img-responsive .center-block }	
 	

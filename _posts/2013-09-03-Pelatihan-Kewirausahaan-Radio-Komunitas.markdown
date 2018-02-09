@@ -1,5 +1,5 @@
 ---
-title: Pelatihan Kewirausahaan Radio Komunitas 
+title: Pelatihan Kewirausahaan Radio Komunitas
 date: 2013-09-03
 categories:
 - laporan

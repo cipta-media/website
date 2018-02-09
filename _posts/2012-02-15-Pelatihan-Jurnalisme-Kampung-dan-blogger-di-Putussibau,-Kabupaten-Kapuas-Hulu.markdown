@@ -1,5 +1,5 @@
 ---
-title:  Pelatihan Jurnalisme Kampung dan blogger di Putussibau, Kabupaten Kapuas Hulu. 
+title: Pelatihan Jurnalisme Kampung dan blogger di Putussibau, Kabupaten Kapuas Hulu.
 date: 2012-02-15
 categories:
 - laporan

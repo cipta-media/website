@@ -1,11 +1,11 @@
----	
-title: 	Diskusi Street Art dan Kehidupan Sosial Politik di Ruang Kota
-date: 	2012-01-15
-categories:	
-- laporan	
-- Indonesian Street Art Database	
-layout: laporancmb	
----	
+---
+title: Diskusi Street Art dan Kehidupan Sosial Politik di Ruang Kota
+date: 2012-01-15
+categories:
+- laporan
+- Indonesian Street Art Database
+layout: laporancmb
+---
 	
 ![200px-Januari_15_2012_ISAD_Diskusi_Street_Art_dan_Kehidupan_Sosial_Politik_di_Ruang_Kota-2.jpg](/uploads/200px-Januari_15_2012_ISAD_Diskusi_Street_Art_dan_Kehidupan_Sosial_Politik_di_Ruang_Kota-2.jpg){: .img-responsive .center-block }	
 ![200px-Januari_15_2012_ISAD_Diskusi_Street_Art_dan_Kehidupan_Sosial_Politik_di_Ruang_Kota-1_.jpg](/uploads/200px-Januari_15_2012_ISAD_Diskusi_Street_Art_dan_Kehidupan_Sosial_Politik_di_Ruang_Kota-1_.jpg){: .img-responsive .center-block }	

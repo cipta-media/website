@@ -1,5 +1,5 @@
 ---
-title:   Rapat Rutin Kantor 
+title: Rapat Rutin Kantor
 date: 2012-08-14
 categories:
 - laporan

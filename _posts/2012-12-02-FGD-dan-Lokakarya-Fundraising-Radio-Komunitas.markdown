@@ -1,5 +1,5 @@
 ---
-title: FGD dan Lokakarya Fundraising Radio Komunitas 
+title: FGD dan Lokakarya Fundraising Radio Komunitas
 date: 2012-12-02
 categories:
 - laporan

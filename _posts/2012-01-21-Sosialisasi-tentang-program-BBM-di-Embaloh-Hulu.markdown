@@ -1,5 +1,5 @@
 ---
-title:  Sosialisasi tentang program BBM di Embaloh Hulu, Kabupaten Kapuas Hulu 
+title: Sosialisasi tentang program BBM di Embaloh Hulu, Kabupaten Kapuas Hulu
 date: 2012-01-21
 categories:
 - laporan

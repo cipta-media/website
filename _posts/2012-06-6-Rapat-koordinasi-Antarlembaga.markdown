@@ -1,5 +1,5 @@
 ---
-title:   Rapat koordinasi  Antarlembaga (Mata Enggang dan Borneo Blogger Community) sekaligus Pembentukan Panitia Lomba Blog BBM. 
+title: Rapat koordinasi Antarlembaga (Mata Enggang dan Borneo Blogger Community) sekaligus Pembentukan Panitia Lomba Blog BBM.
 date: 2012-06-6
 categories:
 - laporan

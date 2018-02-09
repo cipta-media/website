@@ -1,5 +1,5 @@
 ---
-title: Bhinneka - Mentoring 1 Mei 2013 
+title: Bhinneka - Mentoring 1 Mei 2013
 date: 2013-05-01
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Hpku-Teman Belajarku - Mentoring 24 Maret 2012 
+title: Hpku-Teman Belajarku - Mentoring 24 Maret 2012
 date: 2012-03-24
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Pertemuan dengan bos Ford 
+title: Pertemuan dengan bos Ford
 date: 2013-02-26
 categories:
 - laporan

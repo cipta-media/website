@@ -1,5 +1,5 @@
 ---
-title: Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam - Mentoring 8 Mei 2012 
+title: Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam - Mentoring 8 Mei 2012
 date: 2012-05-08
 categories:
 - laporan

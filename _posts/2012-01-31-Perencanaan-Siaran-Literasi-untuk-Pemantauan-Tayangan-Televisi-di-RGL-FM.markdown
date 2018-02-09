@@ -1,11 +1,11 @@
----	
-title: 	Perencanaan Siaran Literasi untuk Pemantauan Tayangan Televisi di RGL FM
-date: 	2012-01-31
-categories:	
-- laporan	
-- JRKL	
-layout: laporancmb	
----	
+---
+title: Perencanaan Siaran Literasi untuk Pemantauan Tayangan Televisi di RGL FM
+date: 2012-01-31
+categories:
+- laporan
+- JRKL
+layout: laporancmb
+---
 	
 ![200px-Januari_31_2012_Perencanaan_Siaran_Literasi_untuk_Pemantauan_Tayangan_Televisi_di_RGL_FM.jpg](/uploads/200px-Januari_31_2012_Perencanaan_Siaran_Literasi_untuk_Pemantauan_Tayangan_Televisi_di_RGL_FM.jpg){: .img-responsive .center-block }	
 	

@@ -1,5 +1,5 @@
 ---
-title: Pelatihan Wiki untuk penggunaan dana dan aktivitas IMDLN 
+title: Pelatihan Wiki untuk penggunaan dana dan aktivitas IMDLN
 date: 2012-01-09
 categories:
 - laporan

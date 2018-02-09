@@ -1,5 +1,5 @@
 ---
-title:   Rapat gabungan Team Juri dan BBM 
+title: Rapat gabungan Team Juri dan BBM
 date: 2012-06-21
 categories:
 - laporan

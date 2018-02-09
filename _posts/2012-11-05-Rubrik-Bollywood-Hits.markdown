@@ -1,5 +1,5 @@
 ---
-title: Rubrik Bollywood Hits 
+title: Rubrik Bollywood Hits
 date: 2012-11-05
 categories:
 - laporan

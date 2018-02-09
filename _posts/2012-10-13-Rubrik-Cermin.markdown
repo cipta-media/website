@@ -1,5 +1,5 @@
 ---
-title: Rubrik Cermin 
+title: Rubrik Cermin
 date: 2012-10-13
 categories:
 - laporan

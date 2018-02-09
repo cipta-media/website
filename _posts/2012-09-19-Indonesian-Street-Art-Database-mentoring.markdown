@@ -1,5 +1,5 @@
 ---
-title: Indonesian Street Art Database - Mentoring 19 September 2012 
+title: Indonesian Street Art Database - Mentoring 19 September 2012
 date: 2012-09-19
 categories:
 - laporan

@@ -1,11 +1,11 @@
----	
-title: 	Diskusi Puisi Lingkar Puisi dan Prosa Lembaga Bhinneka
-date: 	2012-09-2
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Diskusi Puisi Lingkar Puisi dan Prosa Lembaga Bhinneka
+date: 2012-09-2
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg](/uploads/250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg){: .img-responsive .center-block }	
 	

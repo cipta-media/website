@@ -1,5 +1,5 @@
 ---
-title:  Penyegaran kepada peserta penerima manfaat program BBM di Kabupaten Bengkayang 
+title: Penyegaran kepada peserta penerima manfaat program BBM di Kabupaten Bengkayang
 date: 2012-02-27
 categories:
 - laporan

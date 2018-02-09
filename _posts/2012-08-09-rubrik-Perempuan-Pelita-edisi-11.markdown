@@ -1,5 +1,5 @@
 ---
-title: rubrik Perempuan Pelita edisi 11 
+title: rubrik Perempuan Pelita edisi 11
 date: 2012-08-09
 categories:
 - laporan

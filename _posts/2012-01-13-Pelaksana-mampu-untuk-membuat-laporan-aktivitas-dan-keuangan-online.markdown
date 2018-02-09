@@ -1,11 +1,11 @@
 ---
 title: Pelaksana mampu untuk membuat laporan aktivitas dan keuangan online
 date: 2012-01-13
-categories:	
-- laporan	
-- Hpku-Teman Belajarku	
-layout: laporancmb	
----	
+categories:
+- laporan
+- Hpku-Teman Belajarku
+layout: laporancmb
+---
 	
 ![50px-Januari_13_2012_1000guru_Pelatihan_Wiki.JPG](/uploads/50px-Januari_13_2012_1000guru_Pelatihan_Wiki.JPG){: .img-responsive .center-block }	
 ![150px-Januari_13_2011_Gerakan_1000guru_Pelatihan_Pelaporan_Kegiatan_dan_Keuangan.jpg](/uploads/150px-Januari_13_2011_Gerakan_1000guru_Pelatihan_Pelaporan_Kegiatan_dan_Keuangan.jpg){: .img-responsive .center-block }

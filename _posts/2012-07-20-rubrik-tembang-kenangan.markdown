@@ -1,5 +1,5 @@
 ---
-title: rubrik tembang kenangan 
+title: rubrik tembang kenangan
 date: 2012-07-20
 categories:
 - laporan

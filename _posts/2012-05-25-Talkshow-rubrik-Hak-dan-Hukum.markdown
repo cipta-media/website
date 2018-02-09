@@ -1,5 +1,5 @@
 ---
-title: Talkshow rubrik Hak dan Hukum 
+title: Talkshow rubrik Hak dan Hukum
 date: 2012-05-25
 categories:
 - laporan

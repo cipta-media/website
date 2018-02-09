@@ -1,11 +1,11 @@
----	
-title: 	Meningkatkan kesadaran akan manipulasi sejarah yang direkayasa oleh Orde Baru dan masih diyakini oleh banyak orang hingga kini
-date: 	2012-09-30
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Meningkatkan kesadaran akan manipulasi sejarah yang direkayasa oleh Orde Baru dan masih diyakini oleh banyak orang hingga kini
+date: 2012-09-30
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-SEptember_30_2012_Bhinneka_Seminar_G30S.JPG](/uploads/200px-SEptember_30_2012_Bhinneka_Seminar_G30S.JPG){: .img-responsive .center-block }	
 ![200px-SEptember_30_2012_Bhinneka_Seminar_G30S._jpg.JPG](/uploads/200px-SEptember_30_2012_Bhinneka_Seminar_G30S._jpg.JPG){: .img-responsive .center-block }

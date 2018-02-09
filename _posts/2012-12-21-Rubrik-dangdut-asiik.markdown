@@ -1,5 +1,5 @@
 ---
-title: Rubrik dangdut asiiik 
+title: Rubrik dangdut asiiik
 date: 2012-12-21
 categories:
 - laporan

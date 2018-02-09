@@ -1,11 +1,11 @@
----	
-title: 	Pengumuman Lomba Cerpen bertema TKI
-date: 	2012-08-13
-categories:	
-- laporan	
-- Bhinneka	
-layout: laporancmb	
----	
+---
+title: Pengumuman Lomba Cerpen bertema TKI
+date: 2012-08-13
+categories:
+- laporan
+- Bhinneka
+layout: laporancmb
+---
 	
 ![200px-Agustus_13_2012_Bhinneka_Lomba_Cerpen_TKI.JPG](/uploads/200px-Agustus_13_2012_Bhinneka_Lomba_Cerpen_TKI.JPG){: .img-responsive .center-block }	
 	

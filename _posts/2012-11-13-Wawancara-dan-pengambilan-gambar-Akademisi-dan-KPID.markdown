@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan pengambilan gambar Akademisi dan KPID 
+title: Wawancara dan pengambilan gambar Akademisi dan KPID
 date: 2012-11-13
 categories:
 - laporan

@@ -1,5 +1,5 @@
 ---
-title: Border Blogger Movement - Mentoring 24 Februari 2012 
+title: Border Blogger Movement - Mentoring 24 Februari 2012
 date: 2012-02-24
 categories:
 - laporan

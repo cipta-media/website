@@ -1,5 +1,5 @@
 ---
-title: Wawancara dan Pengambilan Data Radio Komunitas Gema Pantura FM 
+title: Wawancara dan Pengambilan Data Radio Komunitas Gema Pantura FM
 date: 2012-12-01
 categories:
 - laporan

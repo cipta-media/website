@@ -1,5 +1,5 @@
 ---
-title:   Penetapan para juri lomba blog BBM 
+title: Penetapan para juri lomba blog BBM
 date: 2012-06-18
 categories:
 - laporan
