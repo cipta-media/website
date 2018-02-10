@@ -11,7 +11,7 @@ before_script:
 test:
   stage: test
   script:
-    - bundle exec jekyll build -d test
+    - .ci/fast_build.sh
   except:
     - master
 
