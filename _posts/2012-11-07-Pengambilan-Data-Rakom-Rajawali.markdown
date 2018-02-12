@@ -3,10 +3,10 @@ title: Pengambilan Data Rakom Rajawali
 date: 2012-11-07
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_7_2012_Rakom_Rajawali.jpg](/uploads/200px-Nopember_7_2012_Rakom_Rajawali.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * Muhidir (Penyiar Rakom Rajawali)
 
 **Ringkasan**  
-* Radio komunitas Rajawali, di Desa Wundu Watu, Kec. Andoolo, Konawe Selatan, hidup dari komunitas dan untuk komunitas. Rakom bermanfaat mendorong silaturrahmi pemuda, kemudian memberdayakan pengelola Rakom dengan unit usaha dan menunjang keberlangsungan Rakom. Keberlanjutan Rakom tergantung dari bagi hasil unit usaha yang dilakukan pengelola. Rakom ini masih berantenna bambu, tapi sudah mampu menjadi bagian dari masyarakat Andolo, yang mendorong meraka untuk bertani dan berkehidupan yang lebih baik.  
+* Radio komunitas Rajawali, di Desa Wundu Watu, Kec. Andoolo, Konawe Selatan, hidup dari komunitas dan untuk komunitas. Rakom bermanfaat mendorong silaturrahmi pemuda, kemudian memberdayakan pengelola Rakom dengan unit usaha dan menunjang keberlangsungan Rakom. Keberlanjutan Rakom tergantung dari bagi hasil unit usaha yang dilakukan pengelola. Rakom ini masih berantenna bambu, tapi sudah mampu menjadi bagian dari masyarakat Andolo, yang mendorong meraka untuk bertani dan berkehidupan yang lebih baik.

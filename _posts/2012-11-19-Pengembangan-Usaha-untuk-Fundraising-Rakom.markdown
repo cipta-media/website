@@ -3,10 +3,10 @@ title: Pengembangan Usaha untuk Fundraising Rakom
 date: 2012-11-19
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_19_2012_PRC_FGD_Rakom_II.jpg](/uploads/200px-Nopember_19_2012_PRC_FGD_Rakom_II.jpg){: .img-responsive .center-block }
 

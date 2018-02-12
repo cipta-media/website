@@ -3,10 +3,10 @@ title: Rapat persiapan pelatihan Jurnalisme di Bengkayang
 date: 2012-01-11
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :  Rapat persiapan pelatihan Jurnalisme di Bengkayang 
 
@@ -25,5 +25,4 @@ layout: laporancmb
 
 **Ringkasan** :
 * Tim BBM melakukan rapat persiapan teknis untuk kegiatan pelatihan jurnalisme di Kabupaten Bengkayang
-* Persiapan dan pengecekan material maupun administrasi team untuk kegiatan pelatihan  
-
+* Persiapan dan pengecekan material maupun administrasi team untuk kegiatan pelatihan

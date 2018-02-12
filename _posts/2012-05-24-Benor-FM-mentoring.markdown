@@ -4,10 +4,11 @@ date: 2012-05-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
-     Berdasarkan percakapan surel antara Siska Doviana, Andi Agustanis, dan Onno Purbo
+Berdasarkan percakapan surel antara Siska Doviana, Andi Agustanis, dan Onno Purbo
 
 Andi Agustanis
 
@@ -22,4 +23,4 @@ Berdasarkan hasil diskusi internal KKI WARSI dan konsultasi Tim Benor FM ke KPI 
 
 Onno Purbo
 
-Urusannya bukan cuma ijin di proposal kan max power masih radio komunitas dll :) .. Tolong di hitung dulu semua lagi max dana di approv oleh Cipta Media, bukan saya ... 
+Urusannya bukan cuma ijin di proposal kan max power masih radio komunitas dll :) .. Tolong di hitung dulu semua lagi max dana di approv oleh Cipta Media, bukan saya ...

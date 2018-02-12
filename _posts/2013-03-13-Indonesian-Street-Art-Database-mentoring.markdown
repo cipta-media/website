@@ -4,10 +4,11 @@ date: 2013-03-13
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
-     Dari Siska kepada Andi RHARHARHA via surel dengan subyek: Surat Resmi Permohonan Laporan Hibah Termin II Indonesian Street Art Database
+Dari Siska kepada Andi RHARHARHA via surel dengan subyek: Surat Resmi Permohonan Laporan Hibah Termin II Indonesian Street Art Database
 
 Halo Andi, Terima kasih atas laporan dan pemberitahuannya.
 
@@ -32,4 +33,4 @@ Berikut pertimbangan dan keputusan saya:
 
 Saya tunggu revisi laporan naratif dan revisi anggaran dengan perubahan diatas. Termasuk pembaharuan wikinya.
 
-Apabila ada pertanyaan jangan sungkan menghubungi saya via surel (offlist saja), Ivonne atau Hendra. 
+Apabila ada pertanyaan jangan sungkan menghubungi saya via surel (offlist saja), Ivonne atau Hendra.

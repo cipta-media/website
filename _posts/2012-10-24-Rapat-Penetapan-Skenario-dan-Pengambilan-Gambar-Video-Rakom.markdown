@@ -3,10 +3,10 @@ title: Rapat Penetapan Skenario dan Pengambilan Gambar Video Rakom
 date: 2012-10-24
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_24_2012_PRC_Rapat_Skenario_Film_Rakom.JPG](/uploads/200px-Oktober_24_2012_PRC_Rapat_Skenario_Film_Rakom.JPG){: .img-responsive .center-block }
 

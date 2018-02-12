@@ -3,10 +3,10 @@ title: Rubrik dangdut asik
 date: 2012-09-16
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_16_Dangdut_Asiiik.jpg](/uploads/200px-September_16_Dangdut_Asiiik.jpg){: .img-responsive .center-block }
 
@@ -23,4 +23,4 @@ layout: laporancmb
 * [Roy](http://wiki.ciptamedia.org/wiki/Roy)
 
 **Ringkasan**  
-* Rubrik dangdut asik dipandu oleh Roy 
+* Rubrik dangdut asik dipandu oleh Roy

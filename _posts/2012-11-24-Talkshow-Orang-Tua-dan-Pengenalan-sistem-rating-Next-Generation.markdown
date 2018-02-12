@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-11-24
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-November_24_2012_NextGeneration_SekolahIbuAwiLigar1.jpg](/uploads/200px-November_24_2012_NextGeneration_SekolahIbuAwiLigar1.jpg){: .img-responsive .center-block }
 

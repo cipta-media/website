@@ -3,10 +3,10 @@ title: Rubrik Cermin
 date: 2012-06-15
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_15_2012_Pojok_ASI_1.jpg](/uploads/200px-Juni_15_2012_Pojok_ASI_1.jpg){: .img-responsive .center-block }
 

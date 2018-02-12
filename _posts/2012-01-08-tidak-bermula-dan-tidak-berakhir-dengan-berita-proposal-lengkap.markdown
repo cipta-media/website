@@ -1,8 +1,9 @@
 ---
 title: Tidak Bermula Dan Tidak Berakhir Dengan Berita - Proposal Lengkap
-date: 2012-01-08 17:55:00 +07:00
+date: 2012-01-08 17:55:00+07:00
 categories:
 - laporan
+- CMS
 - Di Balik Frekuensi
 ---
 

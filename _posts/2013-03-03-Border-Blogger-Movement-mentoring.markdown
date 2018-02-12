@@ -4,6 +4,7 @@ date: 2013-03-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
@@ -31,4 +32,4 @@ Kontributor BBM Bapak Andreas Basilius Gas terakhir melakukan kontribusi 19 Okto
 
 Terima kasih dan sukses untuk upayanya!
 
-Siska 
+Siska

@@ -3,6 +3,7 @@ title: Benor FM - Proposal Lengkap
 date: 2012-01-08 13:30:00 +07:00
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -236,4 +237,3 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 **L. Kontribusi dari kelompok target:**
 
   Partisipasi melalui waktu dan tenaga dalam pembangunan studio, sebagai penyiar radio, serta menghadiri kegiatan-kegiatan radio komunitas.
-

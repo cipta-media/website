@@ -3,8 +3,10 @@ title: Rapat Koordinasi sekaligus menggali informasi dari Narasumber
 date: 2014-08-22
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-Agustus_22_2014_RaKor-2-1.png](/uploads/200px-Agustus_22_2014_RaKor-2-1.png){: .img-responsive .center-block }
 ![200px-Agustus_22_2014_Rakor-2-2.png](/uploads/200px-Agustus_22_2014_Rakor-2-2.pngg){: .img-responsive .center-block }
 

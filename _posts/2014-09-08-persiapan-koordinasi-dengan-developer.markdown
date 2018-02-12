@@ -3,8 +3,10 @@ title: Persiapan Koordinasi dengan Developer
 date: 2014-09-08
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-September_08_2014_Rapat_Koordinasi-1.png](/uploads/200px-September_08_2014_Rapat_Koordinasi-1.png){: .img-responsive .center-block }
 ![200px-September_08_2014_Rapat_Koordinasi-2.png](/uploads/200px-September_08_2014_Rapat_Koordinasi-2.png){: .img-responsive .center-block }
 

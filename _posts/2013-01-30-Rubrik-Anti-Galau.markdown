@@ -3,10 +3,10 @@ title: Rubrik Anti galau
 date: 2013-01-30
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_31_2013_-_anti_galau.jpg](/uploads/200px-Januari_31_2013_-_anti_galau.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * [Samson](http://wiki.ciptamedia.org/wiki/Samson)
 
 **Ringkasan**  
-* Rubrik Anti galau tiap hari rabu jam 8 - 9 malam 
+* Rubrik Anti galau tiap hari rabu jam 8 - 9 malam

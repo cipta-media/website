@@ -3,10 +3,10 @@ title: Rubrik boliwood Hits
 date: 2012-12-25
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_25_2012_-_boliwood_hits_1.jpg](/uploads/200px-Des_25_2012_-_boliwood_hits_1.jpg){: .img-responsive .center-block }
 

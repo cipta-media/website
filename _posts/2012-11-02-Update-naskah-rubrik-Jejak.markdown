@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-11-02
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak "Perjanjian Inggris dengan Negara-Negara Asia, Terbit 1862" (Penulis - Fajar Riadi)
 

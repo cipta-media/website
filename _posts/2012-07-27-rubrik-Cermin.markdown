@@ -3,10 +3,10 @@ title: rubrik Cermin
 date: 2012-07-27
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_27_2012_-_Cermin_2.jpg](/uploads/200px-Juli_27_2012_-_Cermin_2.jpg){: .img-responsive .center-block }
 

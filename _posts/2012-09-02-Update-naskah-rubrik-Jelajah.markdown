@@ -3,6 +3,7 @@ title: Update naskah rubrik Jelajah
 date: 2012-09-02
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

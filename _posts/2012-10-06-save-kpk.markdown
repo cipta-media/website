@@ -4,6 +4,7 @@ date: 2012-10-06
 categories:
 - laporan
 - sms
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---
@@ -13,4 +14,3 @@ layout: laporancmb
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://youtu.be/ukJF-cQEAyk"></iframe></div>
 
 Lakban SAVE KPK lokasi depan Kantor KPK Jakarta \| Sabtu dini hari 6 Oktober 2012
-  

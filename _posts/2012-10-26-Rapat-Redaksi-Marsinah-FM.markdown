@@ -3,10 +3,10 @@ title: Rapat Redaksi Marsinah FM
 date: 2012-10-26
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_26_2012_-_Rapat_rekadaksi_1.jpg](/uploads/200px-Oktober_26_2012_-_Rapat_rekadaksi_1.jpg){: .img-responsive .center-block }
 

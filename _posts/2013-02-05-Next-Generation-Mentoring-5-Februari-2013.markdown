@@ -4,6 +4,7 @@ date: 2013-02-05
 categories:
 - laporan
 - mentoring
+- CMB
 - Next Generation
 layout: laporancmb
 ---

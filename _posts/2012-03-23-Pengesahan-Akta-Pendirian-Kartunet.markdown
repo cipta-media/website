@@ -3,9 +3,11 @@ title: Pengesahan Akta
 date: 2012-03-23
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
+
 ![200px-Maret_23_2012_Kartunet_Akta_Pendirian.JPG](/uploads/200px-Maret_23_2012_Kartunet_Akta_Pendirian.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Pengesahan Akta 

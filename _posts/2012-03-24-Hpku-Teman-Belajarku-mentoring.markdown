@@ -4,10 +4,11 @@ date: 2012-03-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Oleh Heru Tjatur (ICT Watch) tentang purwarupa situs web http://videoguruku.net/
+Oleh Heru Tjatur (ICT Watch) tentang purwarupa situs web http://videoguruku.net/
 
 Catatan
 

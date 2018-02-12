@@ -3,10 +3,10 @@ title: Pelatihan Wiki untuk laporan penggunaan dana dan laporan aktifitas
 date: 2012-02-02
 categories:
 - laporan
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
-
 
 ![200px-Feb_02_2012_ucuagustin_pelatihanwiki-1.jpg](/uploads/200px-Feb_02_2012_ucuagustin_pelatihanwiki-1.jpg){: .img-responsive .center-block }
 
@@ -30,4 +30,4 @@ layout: laporancmb
 **Ringkasan** 
 * Pelatihan Wiki untuk pelaporan aktifitas dan pelaporan administrasi
 * Mengisi laporan aktifitas dan cara-cara mengunggah gambar
-* Mulai melakukan pelaporan administratif melalui wiki dibimbing Hendra 
+* Mulai melakukan pelaporan administratif melalui wiki dibimbing Hendra

@@ -3,10 +3,10 @@ title: Mengeksploitasi Strategi Fundraising Rakom
 date: 2012-11-08
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_8_2012_PRC_FGDRakom.png](/uploads/200px-Nopember_8_2012_PRC_FGDRakom.png){: .img-responsive .center-block }
 

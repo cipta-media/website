@@ -3,6 +3,7 @@ title: Pelatihan Wikimedia dalam program CMB
 date: 2012-01-19
 categories:
 - laporan
+- CMS
 - AKUMASSA.ORG
 ---
 
@@ -24,4 +25,3 @@ categories:
 **Ringkasan** : 
 * Pelatihan administrasi keuangan.
 * Pelatihan teknis untuk pelaporan keuangan di wiki ciptamedia.
-

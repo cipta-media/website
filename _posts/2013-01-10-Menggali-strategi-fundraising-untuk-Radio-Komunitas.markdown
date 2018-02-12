@@ -3,10 +3,10 @@ title: Menggali strategi fundraising untuk Radio Komunitas
 date: 2013-01-10
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Januari_10_2013_PRC_FGD_Menggali_strategi_fundraising_untuk_Radio_Komunitas.JPG](/uploads/200px-Januari_10_2013_PRC_FGD_Menggali_strategi_fundraising_untuk_Radio_Komunitas.JPG){: .img-responsive .center-block }
 
@@ -46,4 +46,4 @@ layout: laporancmb
 * Bagaimana strategi pendekatannya? 
 * Berjejaring dengan pemerintah, konvergensi, tools apa yang harus disiapkan?
 * Metode apa saja yang bisa digunakan untuk menggalang pendanaan radio komunitas? (on air dan off air) 
-* Apa saja peluang-peluang penggalangan sumberdana pada radio komunitas? 
+* Apa saja peluang-peluang penggalangan sumberdana pada radio komunitas?

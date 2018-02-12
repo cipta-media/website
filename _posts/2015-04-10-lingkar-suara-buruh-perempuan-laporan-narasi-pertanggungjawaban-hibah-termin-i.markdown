@@ -3,6 +3,7 @@ title: Lingkar Suara Buruh Perempuan - Laporan Narasi Pertanggung Jawaban Hibah 
 date: 2015-04-10
 categories:
 - laporan
+- CMS
 - Lingkar Suara Buruh Perempuan
 ---
 

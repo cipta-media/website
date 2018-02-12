@@ -3,6 +3,7 @@ title: Jagongan Media Rakyat
 date: 2012-02-27-20
 categories:
 - laporan
+- CMB
 - Aldepe.com
 layout: laporancmb
 ---

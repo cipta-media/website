@@ -3,10 +3,10 @@ title: Rubrik Tembang kenangan
 date: 2012-12-23
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_23_2012_-_tembang_kenangan_1.jpg](/uploads/200px-Des_23_2012_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 
@@ -23,4 +23,4 @@ layout: laporancmb
 * [juma](http://wiki.ciptamedia.org/wiki/juma)
 
 **Ringkasan**  
-* rubrik tembang kenangan tiap minggu jam 4 - 6 sore 
+* rubrik tembang kenangan tiap minggu jam 4 - 6 sore

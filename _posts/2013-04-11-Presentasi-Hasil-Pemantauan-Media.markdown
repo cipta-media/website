@@ -3,6 +3,7 @@ title: Presentasi Hasil Pemantauan Media selama Setahun dan Seminar Nasional Eti
 date: 2013-04-11
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

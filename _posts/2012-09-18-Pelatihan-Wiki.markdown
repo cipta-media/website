@@ -3,10 +3,10 @@ title: Pelatihan Wiki
 date: 2012-09-18
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Sept_18_2012_PRC_Pelatihan_wiki.jpg](/uploads/200px-Sept_18_2012_PRC_Pelatihan_wiki.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * Maifil Eka Putra
 
 **Ringkasan**  
-* Selama sehari penuh tim sekolah Fundraising Pirac dipandu untuk membuat pelaporan keuangan dan aktivitas dengan mengunakan metode wiki. Dari mulai unggah gambar/nota keuangan, input laporan keuangan sampai pembuatan laporan aktivitas yang bisa dimuat dalam wikimedia. 
+* Selama sehari penuh tim sekolah Fundraising Pirac dipandu untuk membuat pelaporan keuangan dan aktivitas dengan mengunakan metode wiki. Dari mulai unggah gambar/nota keuangan, input laporan keuangan sampai pembuatan laporan aktivitas yang bisa dimuat dalam wikimedia.

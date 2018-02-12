@@ -3,6 +3,7 @@ title: Briefing Sebelum Keberangkatan Tim 2 ke Patani
 date: 2015-09-03
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 

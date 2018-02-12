@@ -3,10 +3,10 @@ title: Rubrik tembang kenangan
 date: 2012-12-10
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_10_2012_-_tembang_kenangan_1.jpg](/uploads/200px-Des_10_2012_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * [Thien Kusna](http://wiki.ciptamedia.org/wiki/Thien_Kusna)
 
 **Ringkasan**  
-* rubrik tembang kenangan tiap minggu jam 16 - 18 
+* rubrik tembang kenangan tiap minggu jam 16 - 18

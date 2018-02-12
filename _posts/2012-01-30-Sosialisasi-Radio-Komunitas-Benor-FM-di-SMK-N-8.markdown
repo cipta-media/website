@@ -3,6 +3,7 @@ title: Sosialisasi Radio Komunitas Benor FM di SMK N 8 desa Bukit Suban Kec. Air
 date: 2012-01-30
 categories:
 - laporan
+- CMB
 - Aldepe.com
 layout: laporancmb
 ---

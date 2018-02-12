@@ -4,6 +4,7 @@ date: 2013-03-28
 categories:
 - laporan
 - mentoring
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---

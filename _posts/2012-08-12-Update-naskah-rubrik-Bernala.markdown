@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-08-12
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala "Ketika di Atas Duka Kau Sebut “Wow Indah Ya”" (Kontributor - Arman Dhani)
 

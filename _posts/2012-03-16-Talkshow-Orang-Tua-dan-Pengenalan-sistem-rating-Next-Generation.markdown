@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-03-16
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_1.JPG](/uploads/200px-Maret_16_2012_NextGeneration_Talkshow_Al_Hafiidhi_1.JPG){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Harian Cetak Tribun Medan
 date: 2012-01-29
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_29_2012_LenteraTimur.com_Liputan_Tribun_Medan.jpg](/uploads/200px-Januari_29_2012_LenteraTimur.com_Liputan_Tribun_Medan.jpg){: .img-responsive .center-block }
 

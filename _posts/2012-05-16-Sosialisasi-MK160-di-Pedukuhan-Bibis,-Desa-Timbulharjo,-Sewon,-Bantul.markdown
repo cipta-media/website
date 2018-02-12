@@ -3,6 +3,7 @@ title: Sosialisasi MK160 di Pedukuhan Bibis, Desa Timbulharjo, Sewon, Bantul
 date: 2012-05-16
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

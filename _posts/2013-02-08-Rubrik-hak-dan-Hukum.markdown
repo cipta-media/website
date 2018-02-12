@@ -3,10 +3,10 @@ title: Rubrik hak dan hukum
 date: 2013-02-08
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_09_2013_-_buruh_dikriminalkan.jpg](/uploads/200px-Februari_09_2013_-_buruh_dikriminalkan.jpg){: .img-responsive .center-block }
 

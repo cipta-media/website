@@ -3,10 +3,11 @@ title: Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif 
 date: 2012-07-09
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-9_Juli_2012_Semar_01.jpg](/uploads/200px-9_Juli_2012_Semar_01.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif dari beberapa daerah di Jawa Timur dengan tujuan membentuk kader-kader yang mampu menyebarkan toleransi dalam semangat keberagaman.

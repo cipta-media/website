@@ -4,6 +4,7 @@ date: 2014-08-01
 categories:
 - laporan
 - mentoring
+- CMS
 - Sempugi
 ---
 
@@ -16,4 +17,3 @@ To: Siska Doviana
 salam 
 
 sebelumnya saya mohon maaf karena agak kesulitan menyesuaikan anggaran yang sebelumnya produksi menjadi distributor dengan nominal yang sama.
-

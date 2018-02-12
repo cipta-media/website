@@ -3,6 +3,7 @@ title: Kegiatan ini untuk membangun pemahaman dan penajaman tujuan coding berita
 date: 2012-02-11
 categories:
 - laporan
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -30,4 +31,4 @@ layout: laporancmb
 **Ringkasan** : 
 * Pemahaman coding media 
 * Koordinasi penggunaan Strategi analisis media
-* Menyesepakati penggunaan strategi pemantauan dan analisis media 
+* Menyesepakati penggunaan strategi pemantauan dan analisis media

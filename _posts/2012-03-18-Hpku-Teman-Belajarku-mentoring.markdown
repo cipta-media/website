@@ -4,10 +4,11 @@ date: 2012-03-18
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Oleh Heru Tjatur (ICT Watch)
+Oleh Heru Tjatur (ICT Watch)
 
 Fokus pada Sasaran Program
 

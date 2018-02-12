@@ -3,6 +3,7 @@ title: Pemasangan stiker di tempat fasilitas umum untuk lebih mengenalkan nomor 
 date: 2012-01-13
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

@@ -3,10 +3,11 @@ title: Cinta beda agama bisa terjadi dan semakin sering terjadi. Namun, secara h
 date: 2012-02-19
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG){: .img-responsive .center-block }
@@ -45,4 +46,3 @@ layout: laporancmb
 *	Honor penyelenggara Bandung Rp. 500.000
 *	Honor moderator Rp. 500.000
 *	Total Rp. 1.000.000
-

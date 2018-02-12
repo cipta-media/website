@@ -4,10 +4,11 @@ date: 2013-01-18
 categories:
 - laporan
 - mentoring
+- CMS
 - Amboina Cyber Society
 ---
 
-     Dari Heru Tjatur kepada Benhard Ricardo E. Mattheis dan Tim Amboina Cyber Society
+Dari Heru Tjatur kepada Benhard Ricardo E. Mattheis dan Tim Amboina Cyber Society
 
 Dear kawan-kawan Pengelola Program ACS,
 
@@ -17,4 +18,4 @@ Terkait dengan segera berakhirnya Program Cipta Media Bersama, kami mengingatkan
 
 Saya tunggu response kawan-kawan ACS.
 
-Regards, --tjatur 
+Regards, --tjatur

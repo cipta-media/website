@@ -3,8 +3,10 @@ title: Liputan Khusus kampanye dialog Jakarta-Papua
 date: 2012-10-06
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Oktober_06_2012_Liputan_Khusus_Dialog_Jakarta_Papua_Sorong.jpg](/uploads/200px-Oktober_06_2012_Liputan_Khusus_Dialog_Jakarta_Papua_Sorong.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kunjungan ke LP Biak-Papua

@@ -4,6 +4,7 @@ date: 2012-11-08
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
@@ -15,4 +16,4 @@ Perubahan LPK menjadi LPS Benor FM lebih didasari kepentingan izin jangkauan sia
 
 Untuk kunjungan belajar, Benor Fm idem untuk diarahkan kemana. Saya sepakat dengan yang pak Onno maksudkan bahwa ; manajemen siaran dan materi, membangun interaksi dan integrasi dengan komunitas, konten, serta kemandirian radio, yang kesemuanya itu menjadi kebutuhan Benor FM. Dilain sisi ada informasi dari Lokal Monitor Jambi, bahwa Benor Fm termasuk di kelas C dengan ERP maksimum 4 kW, dengan wilayah layanan maksimum 12 km dari pusat kota. dalam artian kapasitas pemancar tidak boleh lebih 1000 watt.
 
-Saat ini, Benor Fm belumlah memprioritaskan pencairan dana tahap ke - II. Akan tetapi penguatan kapasitas dan wawasan sebagaimana yang disebutkan diatas menjadi prioritas Benor FM. 
+Saat ini, Benor Fm belumlah memprioritaskan pencairan dana tahap ke - II. Akan tetapi penguatan kapasitas dan wawasan sebagaimana yang disebutkan diatas menjadi prioritas Benor FM.

@@ -3,10 +3,10 @@ title: Workshop Dewan Juri 1 Indonesian Human Right Blog Award
 date: 2012-06-11
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Juni_11_2012_IMDLN_Workshop_Juri_1.jpg](/uploads/250px-Juni_11_2012_IMDLN_Workshop_Juri_1.jpg){: .img-responsive .center-block }
 

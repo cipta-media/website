@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-09-29
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda "30 September 2012, Jakarta – Bincang Buku “Fisika dalam Syair”" (Penulis - Admin)
 

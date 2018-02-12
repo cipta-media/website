@@ -1,8 +1,9 @@
 ---
 title: JRKL - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2012-11-16 11:40:00 +07:00
+date: 2012-11-16 11:40:00+07:00
 categories:
 - laporan
+- CMS
 - JRKL
 permalink: /laporan-termin-1/jrkl/
 ---

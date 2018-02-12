@@ -3,10 +3,10 @@ title: Rubrik Ceritaku
 date: 2012-10-23
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_23_-_Ceritaku_1.jpg](/uploads/200px-Oktober_23_-_Ceritaku_1.jpg){: .img-responsive .center-block }
 
@@ -27,4 +27,4 @@ layout: laporancmb
 * [Vivi](http://wiki.ciptamedia.org/wiki/Vivi)
 
 **Ringkasan**  
-* Ceritaku adalah rubrik saling berbagi yang tayang tiap hari Selasa 
+* Ceritaku adalah rubrik saling berbagi yang tayang tiap hari Selasa

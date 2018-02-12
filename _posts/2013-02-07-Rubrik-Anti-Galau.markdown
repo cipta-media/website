@@ -3,10 +3,10 @@ title: Rubrik Anti Galau
 date: 2013-02-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_07_2013_-_anti_galau_1.jpg](/uploads/200px-Februari_07_2013_-_anti_galau_1.jpg){: .img-responsive .center-block }
 

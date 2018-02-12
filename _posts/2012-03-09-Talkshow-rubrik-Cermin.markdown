@@ -3,10 +3,10 @@ title: Talkshow rubrik Cermin
 date: 2012-03-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Maret_09_2012_-_Pelecehan_Seksual_Terhadap_Perempuan.JPG](/uploads/200px-Maret_09_2012_-_Pelecehan_Seksual_Terhadap_Perempuan.JPG	){: .img-responsive .center-block }
 

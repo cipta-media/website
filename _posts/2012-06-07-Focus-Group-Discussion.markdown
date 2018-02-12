@@ -3,10 +3,10 @@ title: Focus Group Discussion
 date: 2012-06-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_07_2012_FGD_I_-1.jpg](/uploads/200px-Juni_07_2012_FGD_I_-1.jpg){: .img-responsive .center-block }
 

@@ -3,6 +3,7 @@ title: Pelatihan Penulisan Laporan CMS & Rapat Kordinasi Antar lembaga
 date: 2014-07-21
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 

@@ -4,6 +4,7 @@ date: 2013-04-17
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 

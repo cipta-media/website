@@ -3,6 +3,7 @@ title: Pelatihan Program BBM di Kabupaten Bengkayang
 date: 2012-01-29
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -31,5 +32,4 @@ layout: laporancmb
 * Kegiatan dilanjutkan dengan evaluasi atas pelatihan tersebut.  Peserta yang terpilih sebagai penerima manfaat program diminta untuk  menandatangani kontrak belajar hingga program selesai pada Juni 2012.  Ada enam peserta yang ditetapkan sebagai penerima manfaat Program BBM  tersebut. Selain menandatangani kontrak belajar, masing-masing penerima  manfaat juga diberikan satu unit modem. Modem ini sebagai salah satu  fasilitas agar penerima manfaat mudah memposting atau upload tulisan,  foto, dan video pada blognya masing-masing. 
 * Kegiatan pelatihan resmi ditutup. Tim BBM dan penerima manfaat  saling berjabat tangan. Saling mengucapkan rasa terima kasih. (*)
 * Berita BBM
-* Ketika Blogger Tapal Batas Berkisah 
-
+* Ketika Blogger Tapal Batas Berkisah

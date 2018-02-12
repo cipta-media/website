@@ -1,8 +1,9 @@
 ---
 title: Pirac - Laporan Narasi Pertanggung Jawaban Hibah
-date: 2012-11-01 15:10:00 +07:00
+date: 2012-11-01 15:10:00+07:00
 categories:
 - laporan
+- CMS
 - PIRAC
 ---
 

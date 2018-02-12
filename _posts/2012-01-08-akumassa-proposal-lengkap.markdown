@@ -3,6 +3,7 @@ title: Akumassa - Proposal Lengkap
 date: 2012-01-08 15:16:00 +07:00
 categories:
 - laporan
+- CMB
 - AKUMASSA.ORG
 layout: laporancmb
 ---

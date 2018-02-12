@@ -3,10 +3,10 @@ title: Update naskah rubrik Jelajah
 date: 2012-02-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jelajah, "Senja yang Tersuruk di Danau Toba" (Kontributor - Adela Eka Putra Marza)
 

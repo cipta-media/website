@@ -3,6 +3,7 @@ title: Update naskah rubrik Agenda
 date: 2011-12-06
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

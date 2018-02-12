@@ -3,10 +3,11 @@ title: Cetak Poster untuk Kampanye TV Sehat
 date: 2012-07-14
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Juli_14_2012_JRKL_Cetak_Poster.jpg](/uploads/200px-Juli_14_2012_JRKL_Cetak_Poster.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Cetak Poster untuk Kampanye TV Sehat

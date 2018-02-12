@@ -3,6 +3,7 @@ title: Sosialisasi program BBM kepada Forum Mahasiswa Perbatasan di Pontianak.
 date: 2012-01-18
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -32,4 +33,3 @@ layout: laporancmb
 * Pesera terbayak brasal dari Kecamatan Kabupaten Sanggau dan Bengkayang, selanjutnya Kaupaten Sambas, dan Kabupaten Sintang.  
 * Peserta   menyambut baik program BBM, dan berharap bisa dilibatkan  lebih jauh dalam kerjasama yang terkait dengan program-program   perbatasan.
 * “Karena keikutsertaan kami dengan program ini juga menambah  pengalaman kami dan kami bisa berbuat untuk daerah masing-masing,” kata  andre salah seorang mahasiswa dari Bengkayang.
-

@@ -3,10 +3,10 @@ title: Jagongan Media Rakyat 2012
 date: 2012-02-23
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![150px-Februari_24_2012_IMDLN_Jagongan_Media_Rakyat-1.JPG](/uploads/150px-Februari_24_2012_IMDLN_Jagongan_Media_Rakyat-1.JPG){: .img-responsive .center-block }
 
@@ -33,4 +33,4 @@ layout: laporancmb
 
 **Ringkasan** 
 * Jagongan Media Rakyat 2012 adalah acara pertemuan antara kalangan ahli dan pegiat media untuk berbagi pengetahuan sekaligus memperluas jaringan
-* Masing-masing Penerima Hibah konsultasi kegiatannya dengan tim penasihat 
+* Masing-masing Penerima Hibah konsultasi kegiatannya dengan tim penasihat

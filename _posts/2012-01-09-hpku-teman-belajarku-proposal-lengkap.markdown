@@ -1,8 +1,9 @@
 ---
 title: Hpku-Teman Belajarku - Proposal Lengkap
-date: 2012-01-09 16:47:00 +07:00
+date: 2012-01-09 16:47:00+07:00
 categories:
 - laporan
+- CMS
 - Hpku-Teman Belajarku
 ---
 

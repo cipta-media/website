@@ -4,6 +4,7 @@ date: 2012-12-19
 categories:
 - laporan
 - mentoring
+- CMB
 - Video untuk Perdamaian
 layout: laporancmb
 ---
@@ -36,4 +37,4 @@ Total untuk revisi anggaran yang perlu dikirim sebelum 31 December 2012: Rp. 162
 * Ford Foundation akan mentransfer anggaran tahap-2 Rp.99,300,000 sebelum tanggal 31 December 2012. (Perkumpulan 6211 harus mengembalikan kontrak sebelum tanggal tsb., kalau tidak anggarannya tidak bisa kekeluarkan).
 
 Salam,
-Heidi 
+Heidi

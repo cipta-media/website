@@ -1,8 +1,9 @@
 ---
 title: Pantau - Proposal Lengkap
-date: 2012-01-08 15:50:00 +07:00
+date: 2012-01-08 15:50:00+07:00
 categories:
 - laporan
+- CMS
 - Pantau
 ---
 

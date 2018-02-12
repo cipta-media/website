@@ -3,8 +3,10 @@ title: Training wikimedia
 date: 2012-06-28
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-November_28-30_2012_Training_wikimedia.JPG](/uploads/200px-November_28-30_2012_Training_wikimedia.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Training wikimedia

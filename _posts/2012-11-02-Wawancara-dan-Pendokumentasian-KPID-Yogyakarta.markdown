@@ -3,10 +3,10 @@ title: Wawancara dan Pendokumentasian KPID Yogyakarta
 date: 2012-11-02
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-November_2_2012_PRC_Wawancara_KPID_Jogjakarta.png](/uploads/200px-November_2_2012_PRC_Wawancara_KPID_Jogjakarta.png){: .img-responsive .center-block }
 
@@ -27,4 +27,4 @@ layout: laporancmb
 * Yayan (Nine Savana)
 
 **Ringkasan**  
-* Wawancara dan pengambilan gambar ini merupakan proses dari pengumpulan data untuk konteks kondisi Rakom (jumlah, kualitas, dll), perundangan maupun pengalaman lapangan KPID dengan Rakom-Rakom baik terkait perijinan, operasional Rakom, dll. Termasuk kendala dan hambatannya sebagai latar belakang sekaligus konteks kekinian perkembangan Rakom pada umumnya di Yogya. 
+* Wawancara dan pengambilan gambar ini merupakan proses dari pengumpulan data untuk konteks kondisi Rakom (jumlah, kualitas, dll), perundangan maupun pengalaman lapangan KPID dengan Rakom-Rakom baik terkait perijinan, operasional Rakom, dll. Termasuk kendala dan hambatannya sebagai latar belakang sekaligus konteks kekinian perkembangan Rakom pada umumnya di Yogya.

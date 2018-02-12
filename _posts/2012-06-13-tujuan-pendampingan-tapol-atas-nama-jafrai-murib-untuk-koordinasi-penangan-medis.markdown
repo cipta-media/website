@@ -3,8 +3,10 @@ title: Tujuan pendampingan tapol atas nama Jafrai Murib untuk koordinasi penanga
 date: 2012-06-13
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juni_2012_Advokasi_Tapol_Kasus_Wamen_04_April.jpg](/uploads/200px-Juni_2012_Advokasi_Tapol_Kasus_Wamen_04_April.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Tujuan	pendampingan tapol atas nama Jafrai Murib untuk koordinasi penanganan medis

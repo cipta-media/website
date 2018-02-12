@@ -3,6 +3,7 @@ title: Presentasi Hasil Pemantauan Pemberitaan Syariat Islam di hadapan publik d
 date: 2012-10-18
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

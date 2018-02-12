@@ -4,10 +4,11 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Akumassa.org
 ---
 
-     Oleh Idaman Andarmosoko, Jagongan Media Rakyat, Yogyakarta 
+Oleh Idaman Andarmosoko, Jagongan Media Rakyat, Yogyakarta 
 
 Akumassa melakukan konsultasi tentang:
 

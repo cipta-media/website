@@ -4,6 +4,7 @@ date: 2012-07-09
 categories:
 - laporan
 - mentoring
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
@@ -27,4 +28,4 @@ Demikian email ini kami sampaikan, Bu Eva. Semoga dapat diterima dengan baik.
 
 Salam,
 
-TM. Dhani Iqbal 
+TM. Dhani Iqbal

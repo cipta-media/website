@@ -3,7 +3,8 @@ title: Sistem Informasi Integrasi Kepramukaan Berbasis Mobile dan Android - Prop
 date: 2014-06-25
 categories:
 - laporan
-- Pandu App 
+- CMS
+- Pandu App
 ---
 
 **Final 25 Juni 2014**

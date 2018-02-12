@@ -3,6 +3,7 @@ title: Pengenalan program MK-160 kepada masyarakat Desa Timbulharjo
 date: 2012-01-08
 categories:
 - laporan
+- CMB
 - MK-160
 layout: laporancmb
 ---

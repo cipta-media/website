@@ -3,10 +3,10 @@ title: Talkshow rubrik Hak dan Hukum
 date: 2012-05-04
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Mei_04_2012_-_Penembakan_buruh_migran_di_malaysia_2.jpg](/uploads/200px-Mei_04_2012_-_Penembakan_buruh_migran_di_malaysia_2.jpg){: .img-responsive .center-block }
 

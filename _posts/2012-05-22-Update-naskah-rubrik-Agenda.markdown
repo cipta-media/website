@@ -3,10 +3,10 @@ title: Update naskah rubrik Agenda
 date: 2012-05-22
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Agenda, "2 Mei – 21 Juni 2012, Jakarta – Bulan Diskusi dan Bursa Buku Murah" (Penulis - admin) 
 

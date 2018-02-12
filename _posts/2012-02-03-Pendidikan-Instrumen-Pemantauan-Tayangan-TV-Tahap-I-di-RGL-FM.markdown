@@ -3,10 +3,11 @@ title: Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RGL FM
 date: 2012-02-03
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Februari_3-5_2012_JRKL_Pendidikan_Instrumen_Pemantauan_Tayangan_TV_-_Tahap_I_-_RGL_.JPG](/uploads/200px-Februari_3-5_2012_JRKL_Pendidikan_Instrumen_Pemantauan_Tayangan_TV_-_Tahap_I_-_RGL_.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RGL FM

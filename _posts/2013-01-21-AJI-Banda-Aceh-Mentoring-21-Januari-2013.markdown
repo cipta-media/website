@@ -4,6 +4,7 @@ date: 2013-01-21
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -31,4 +32,4 @@ Terimakasih banyak atas respon dan persetujuannya perpanjangan periode Hibah. Ki
 
 Salam. Mukhtaruddin Yakob
 
-Sent from my Samsung 
+Sent from my Samsung

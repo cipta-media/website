@@ -1,9 +1,10 @@
 ---
 title: Desa 2.0- Sistem Tata Kelola Sumber Daya Desa - Proposal Lengkap
-date: 2012-01-08 15:16:00 +07:00
+date: 2012-01-08 15:16:00+07:00
 permalink: tes/
 categories:
 - laporan
+- CMS
 - Desa 2.0
 ---
 
@@ -465,4 +466,3 @@ Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan 
  **Dana yang diminta dari Cipta Media Bersama:**
   
   Dana yang diajukan ke Cipta Media Bersama sebesar Rp 700.000.0000.-
- 

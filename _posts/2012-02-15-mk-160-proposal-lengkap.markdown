@@ -1,8 +1,9 @@
 ---
 title: MK-160 - Proposal Lengkap
-date: 2012-02-15 15:45:00 +07:00
+date: 2012-02-15 15:45:00+07:00
 categories:
 - laporan
+- CMB
 - MK-160
 layout: laporancmb
 ---

@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-02-23
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala, "Tanah dan Harga Diri" (Kontributor - Okky Tirto)
 

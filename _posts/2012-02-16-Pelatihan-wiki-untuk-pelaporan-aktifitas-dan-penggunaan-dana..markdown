@@ -3,10 +3,11 @@ title: Pelatihan wiki untuk pelaporan aktifitas dan penggunaan dana.
 date: 2012-02-16
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_16_2012_Bhinneka_Pelatihan_Wiki.jpg](/uploads/200px-Maret_16_2012_Bhinneka_Pelatihan_Wiki.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pelatihan wiki untuk pelaporan aktifitas dan penggunaan dana.

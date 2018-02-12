@@ -4,6 +4,7 @@ date: 2014-10-13
 categories:
 - laporan
 - mentoring
+- CMS
 - Lingkar Suara Buruh Perempuan
 ---
 

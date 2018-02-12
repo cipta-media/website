@@ -3,6 +3,7 @@ title: Pelatihan Program BBM di Kabupaten Bengkayang
 date: 2012-01-28
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -32,4 +33,3 @@ layout: laporancmb
 *Kemudian, dilanjutkan dengan acara fotografi dan videografi. Materi  ini dibawakan oleh Basilius Andreas Gas, seorang blogger juga jurnalis  pada Harian Pontianak Post. Sesi fotografi dan videografi ini juga  berlangsung selama dua jam.
 * Berita BBM di thejakartapost 
 * Berita BBM di jpnn
-

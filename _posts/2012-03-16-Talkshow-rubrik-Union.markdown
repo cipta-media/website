@@ -3,10 +3,10 @@ title: Talkshow rubrik Union
 date: 2012-03-16
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Maret_16_2012_-_dampak_kenaikan_harga_bbm_terhadap_buruh_perempuan_1-union.jpg](/uploads/200px-Maret_16_2012_-_dampak_kenaikan_harga_bbm_terhadap_buruh_perempuan_1-union.jpg){: .img-responsive .center-block }
 

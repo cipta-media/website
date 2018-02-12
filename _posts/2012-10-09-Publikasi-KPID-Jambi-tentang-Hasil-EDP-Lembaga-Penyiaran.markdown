@@ -3,10 +3,11 @@ title: Publikasi KPID Jambi tentang Hasil EDP Lembaga Penyiaran
 date: 2012-10-09
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-November_09_2012_Benor_FM_Publis_KPID_Pasca_EDP.jpg](/uploads/200px-November_09_2012_Benor_FM_Publis_KPID_Pasca_EDP.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Publikasi KPID Jambi tentang Hasil EDP Lembaga Penyiaran

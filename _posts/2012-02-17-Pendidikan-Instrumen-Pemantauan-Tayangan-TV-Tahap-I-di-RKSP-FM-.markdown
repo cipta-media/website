@@ -3,6 +3,7 @@ title: Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
 date: 2012-02-17
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
@@ -60,5 +61,3 @@ layout: laporancmb
 *	Diakhir materi fasilitator memutar rekaman video selama tiga hari pelatihan.
 *	Pemutaran video seperti ini menjadi penting guna meningkatkan pemahaman bagi peserta akan penyiaran televisi dan pentingnya membuat video.
 *	Pasca pelatihan ini, peserta akan melakukan diskusi lanjutan terkait penyiaran, yang akan dimulai pada 26 februari 2012.
-
-

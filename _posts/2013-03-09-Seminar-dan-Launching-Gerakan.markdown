@@ -3,9 +3,9 @@ title: Seminar dan Launching Gerakan
 date: 2013-03-09
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Maret_9_2013_NextGeneration_Seminar_Guru_1.jpg](/uploads/200px-Maret_9_2013_NextGeneration_Seminar_Guru_1.jpg){: .img-responsive .center-block }
 

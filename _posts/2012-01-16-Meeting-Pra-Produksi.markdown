@@ -3,10 +3,10 @@ title: Meeting Pra-Produksi
 date: 2012-01-16
 categories:
 - laporan
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
-
 
 ![200px-Jan_16_2012_ucuagustin_MeetingTeknisDanTema_ColectingTapesDariTahun2008.jpg](/uploads/200px-Jan_16_2012_ucuagustin_MeetingTeknisDanTema_ColectingTapesDariTahun2008.jpg){: .img-responsive .center-block }
 

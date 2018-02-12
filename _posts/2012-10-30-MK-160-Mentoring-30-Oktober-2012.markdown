@@ -4,6 +4,7 @@ date: 2012-10-30
 categories:
 - laporan
 - mentoring
+- CMB
 - MK-160
 layout: laporancmb
 ---
@@ -21,4 +22,4 @@ Bila ada yang kurang jelas dapat menghubungi saya.
 
 Teriring salam dan terima kasih,
 
-Adyani Hapsari Widowati 
+Adyani Hapsari Widowati

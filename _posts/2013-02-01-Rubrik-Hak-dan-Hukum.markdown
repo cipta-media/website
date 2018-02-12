@@ -3,10 +3,10 @@ title: Rubrik Hak dan Hukum
 date: 2013-02-01
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_02_2013_-_Penangguhan_upah_di_KBN_Cakung.jpg](/uploads/200px-Februari_02_2013_-_Penangguhan_upah_di_KBN_Cakung.jpg){: .img-responsive .center-block }
 

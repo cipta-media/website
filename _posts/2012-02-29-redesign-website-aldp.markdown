@@ -3,8 +3,10 @@ title: Redesign Website ALDP
 date: 2012-02-29
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_29_2011_ALDP_Redesign_Website_ALDP.JPG](/uploads/200px-Februari_29_2011_ALDP_Redesign_Website_ALDP.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Redesign Website ALDP

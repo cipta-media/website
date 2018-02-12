@@ -3,10 +3,10 @@ title: Rapat gabungan Team Juri dan BBM
 date: 2012-06-21
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
-
 
 **Tujuan** :   Rapat gabungan Team Juri dan BBM 
 
@@ -23,4 +23,3 @@ layout: laporancmb
 * Hadir anggota team juri,  personil Mata Enggang dan  Borneo Blogger Community.
 * Ketua team Juri yang diwakili Servianus Endi  menyampaikan hasil penjurian kepada Panitia pembuatan buku dan team BBM.  
 * Anggenda kedua adalah evaluasi seluruh tahapan kegiatan  program, dan menentukan agenda pertemuan berikutnya.
-

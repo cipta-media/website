@@ -4,6 +4,7 @@ date: 2013-01-28
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
@@ -16,4 +17,4 @@ Berikut tanggapan saya:
 
 Untuk bagian ini, suratnya mempertanyakan tenggat akhir penyelesaian hibah laporan kedua, sehingga saya minta untuk spesifik menyebutkan tanggal/ bulan/ tahun penggunaan hibahnya dipastikan selesai. Apabila dirasa akhir bulan ini dan itu adalah "kira kira", saya sarankan Mba Ula memilih satu tanggal dimana laporan keuangan dan laporan naratif pasti sudah bisa selesai tanpa kendala keterlambatan lagi (contoh: Senin, 1 Juli 2013)
 
-Apabila Tim "Dibalik Frekuensi" telah menyepakati tanggal, saya pikir tanggal yang sama telah diketahui sisa dana berapa, sehingga jawaban surat resmi - yang saya harap dijawab dengan surat resmi lagi disertai dengan tanda tangan (hitam diatas putih) - adalah anggaran sisa akan di lampirkan pada tanggal tersebut. 
+Apabila Tim "Dibalik Frekuensi" telah menyepakati tanggal, saya pikir tanggal yang sama telah diketahui sisa dana berapa, sehingga jawaban surat resmi - yang saya harap dijawab dengan surat resmi lagi disertai dengan tanda tangan (hitam diatas putih) - adalah anggaran sisa akan di lampirkan pada tanggal tersebut.

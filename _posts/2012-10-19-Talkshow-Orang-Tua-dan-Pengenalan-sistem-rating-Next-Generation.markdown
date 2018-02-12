@@ -3,9 +3,9 @@ title: Talkshow Orang Tua dan Pengenalan sistem rating Next Generation
 date: 2012-10-19
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Oktober_19_2012_NextGeneration_TK_TunasHarapan2.jpg](/uploads/200px-Oktober_19_2012_NextGeneration_TK_TunasHarapan2.jpg){: .img-responsive .center-block }
 

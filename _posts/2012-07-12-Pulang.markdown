@@ -3,10 +3,10 @@ title: Pulang
 date: 2012-07-12
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : “Pulang”" (Kontributor - Ishak Sambayang)
 

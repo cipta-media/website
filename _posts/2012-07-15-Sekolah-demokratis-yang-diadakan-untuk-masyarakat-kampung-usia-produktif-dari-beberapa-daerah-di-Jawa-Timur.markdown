@@ -3,10 +3,11 @@ title: Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif 
 date: 2012-07-15
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-15_Juli_2012_Semar_02-01.jpg](/uploads/200px-15_Juli_2012_Semar_02-01.jpg){: .img-responsive .center-block }
 ![200px-15_Juli_2012_Semar_02-02.jpg](/uploads/200px-15_Juli_2012_Semar_02-02.jpg){: .img-responsive .center-block }
 ![200px-15_Juli_2012_Semar_02-03.jpg](/uploads/200px-15_Juli_2012_Semar_02-03.jpg){: .img-responsive .center-block }

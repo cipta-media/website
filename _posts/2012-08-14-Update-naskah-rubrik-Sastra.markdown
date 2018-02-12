@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-08-14
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra "Sepasang Cicak di Dinding Kamar Baba Gani" (Kontributor - Syam Terrajana)
 

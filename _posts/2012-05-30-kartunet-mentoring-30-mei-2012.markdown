@@ -4,6 +4,7 @@ date: 2012-05-30
 categories:
 - laporan
 - mentoring
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---

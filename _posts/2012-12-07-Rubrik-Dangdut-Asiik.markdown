@@ -3,10 +3,10 @@ title: Rubrik Dangdut Asiiik
 date: 2012-12-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Desember_07_2013_-_dangdut_asiiik_1.jpg](/uploads/200px-Desember_07_2013_-_dangdut_asiiik_1.jpg){: .img-responsive .center-block }
 

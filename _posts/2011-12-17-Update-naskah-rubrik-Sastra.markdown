@@ -3,6 +3,7 @@ title: Update naskah rubrik Sastra
 date: 2011-12-17
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

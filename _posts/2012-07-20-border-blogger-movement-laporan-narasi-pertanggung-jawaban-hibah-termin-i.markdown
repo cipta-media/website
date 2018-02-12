@@ -1,8 +1,9 @@
 ---
 title: Border Blogger Movement - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2012-07-20 15:01:00 +07:00
+date: 2012-07-20 15:01:00+07:00
 categories:
 - laporan
+- CMS
 - Border Blogger Movement
 ---
 

@@ -3,10 +3,10 @@ title: Launching Film Documenter
 date: 2013-05-07
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Mei_7_2013_Peluncuran_Film_Dokumenter_Fundraising_Rakom.jpg](/uploads/200px-Mei_7_2013_Peluncuran_Film_Dokumenter_Fundraising_Rakom.jpg){: .img-responsive .center-block }
 

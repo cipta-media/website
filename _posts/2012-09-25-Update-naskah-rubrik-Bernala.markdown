@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-09-25
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala "“Serambi Madinah” yang Tak Lagi Ramah" (Kontributor - Donald Qomaidiansyah Tungkagi)
 

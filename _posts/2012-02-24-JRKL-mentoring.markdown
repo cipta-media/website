@@ -4,10 +4,11 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
-     Oleh Idaman Andarmosoko, Jagongan Media Rakyat, Yogyakarta
+Oleh Idaman Andarmosoko, Jagongan Media Rakyat, Yogyakarta
 
 Pada saat melakukan konsultasi tim JRKL mengajukan perubahan anggaran untuk transport pelatihan dan juga pelaporan akan alat radio yang jebol. Konsultasi berisi pembahasan penajaman tentang tujuan tujuan yang hendak dicapai oleh JRKL, bahwa tujuan- tujuan tersebut beroperasi di domain yang berbeda beda walau saling berkaitan.
 

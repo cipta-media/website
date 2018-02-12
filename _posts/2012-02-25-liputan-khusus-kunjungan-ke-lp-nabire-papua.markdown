@@ -3,8 +3,10 @@ title: Liputan Khusus Kunjungan ke LP Nabire-Papua
 date: 2012-02-25
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_25_2012_Liputan_khusus_Tapol_Nabire.JPG](/uploads/200px-Februari_25_2012_Liputan_khusus_Tapol_Nabire.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kunjungan ke LP Nabire-Papua

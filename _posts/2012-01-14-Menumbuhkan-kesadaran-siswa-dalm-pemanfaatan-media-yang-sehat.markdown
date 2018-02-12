@@ -3,10 +3,11 @@ title: Menumbuhkan kesadaran siswa dalm pemanfaatan media yang sehat
 date: 2012-01-14
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![150px-Januari_14_2011_1000guru_Seminar_Hpku_Sambutan_Kepala_MAN_2_Kediri.jpg](/uploads/150px-Januari_14_2011_1000guru_Seminar_Hpku_Sambutan_Kepala_MAN_2_Kediri.jpg){: .img-responsive .center-block }	
 ![150px-Januari_14_2011_1000guru_Seminar_Hpku.jpg](/uploads/150px-Januari_14_2011_1000guru_Seminar_Hpku.jpg){: .img-responsive .center-block }	
 ![150px-Januari_14_2011_1000guru_Seminar_Hpku-Materi_Inti_disampaikan_Imron_Mujaki_M.Psi.jpg](/uploads/150px-Januari_14_2011_1000guru_Seminar_Hpku-Materi_Inti_disampaikan_Imron_Mujaki_M.Psi.jpg){: .img-responsive .center-block }	

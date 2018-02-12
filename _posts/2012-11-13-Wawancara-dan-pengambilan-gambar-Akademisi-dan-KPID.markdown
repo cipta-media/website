@@ -3,10 +3,10 @@ title: Wawancara dan pengambilan gambar Akademisi dan KPID
 date: 2012-11-13
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_13_2012_PRC_Wawacr_akademisi_dan_KPID.jpg](/uploads/200px-Nopember_13_2012_PRC_Wawacr_akademisi_dan_KPID.jpg){: .img-responsive .center-block }
 

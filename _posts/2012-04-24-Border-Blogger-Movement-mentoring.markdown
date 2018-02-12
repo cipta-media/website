@@ -4,10 +4,11 @@ date: 2012-04-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
-     Oleh Siska 01:10, 25 April 2012 (UTC) pada pelatihan wiki, Restoran Tapaz Jl. Gajah Mada, Pontianak, Kalimantan Barat
+Oleh Siska 01:10, 25 April 2012 (UTC) pada pelatihan wiki, Restoran Tapaz Jl. Gajah Mada, Pontianak, Kalimantan Barat
 
 Pada saat ditanyakan kemajuan pelatihan hampir seluruh kegiatan sudah terlaksana dan para pencetus Border Blogger Movement yang terdiri dari empat orang siap siap untuk mengakhiri kegiatan di bulan Juni 2012. Dari seluruh rencana kegiatan hanya satu yang keluar dari rencana dimana kecamatan tidak bisa didatangi karena banjir dan penerima pelatihan yang justru didatangkan ke ke kota kabupaten Putussibau, Bengeayag, Sanggau, Sintag, Sambas.
 
@@ -20,6 +21,3 @@ Situs aggregator Border Blogger setelah dipertimbangkan, tidak menjadi situs agg
 Ditanyakan apa yang akan terjadi tahun depan apabila tidak mendapat dana dari Ciptamedia lagi? BBM mempertimbangkan untuk meminta dana dan melanjutkan inisiatif ini dengan mengaitkannya pada upaya WWF The Heart of Borneo.
 
 BBM juga menyampaikan keinginan untuk bertemu dengan Nanang, Air Putih untuk pelatihan lanjutan USHAIDI sebelum melanjutkjan sesi akhir pelatihan yaitu lomba blog. Inginnya kendala infrastruktur ditiadakan dengan pemanfaatan maksimal dari USHAIDI.
-
-
-

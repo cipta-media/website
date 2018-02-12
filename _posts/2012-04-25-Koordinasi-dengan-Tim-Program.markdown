@@ -3,10 +3,10 @@ title: Koordinasi dengan Tim Program
 date: 2012-04-25
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-April-25-2012-IMDLN-Rapat_Koordinasi_IMDLN.JPG](/uploads/250px-April-25-2012-IMDLN-Rapat_Koordinasi_IMDLN.JPG){: .img-responsive .center-block }
 

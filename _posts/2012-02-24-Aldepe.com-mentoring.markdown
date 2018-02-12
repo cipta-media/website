@@ -4,9 +4,10 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
-     Jagongan Media Rakyat, Yogyakarta
+Jagongan Media Rakyat, Yogyakarta
 
     (belum ada)

@@ -3,10 +3,10 @@ title: Rubrik Boliwood Hits
 date: 2013-01-14
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_14_-_boliwood_hits.jpg](/uploads/200px-Januari_14_-_boliwood_hits.jpg){: .img-responsive .center-block }
 

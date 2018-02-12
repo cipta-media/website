@@ -3,8 +3,10 @@ title: Liputan dan advokasi kasus Makar Fokorus Cs
 date: 2012-03-13
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Maret_13-21_2012_Pendampingan_Hukum_Kasus_Fokorus_Cs.JPG](/uploads/200px-Maret_13-21_2012_Pendampingan_Hukum_Kasus_Fokorus_Cs.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan dan advokasi kasus Makar Fokorus Cs

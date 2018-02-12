@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Data
 date: 2012-11-23
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_23_2012_PRC_Interview_Rakom_Suara_Taruna_Jombang.JPG](/uploads/200px-Nopember_23_2012_PRC_Interview_Rakom_Suara_Taruna_Jombang.JPG){: .img-responsive .center-block }
 

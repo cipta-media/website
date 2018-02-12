@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita
 date: 2012-06-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_21_2012_Perempuan_Pelita_Aung_San_Suu_Kyi.jpg](/uploads/200px-Juni_21_2012_Perempuan_Pelita_Aung_San_Suu_Kyi.jpg){: .img-responsive .center-block }
 

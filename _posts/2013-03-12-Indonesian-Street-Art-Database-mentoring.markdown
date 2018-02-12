@@ -4,10 +4,11 @@ date: 2013-03-12
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
-      Dari Andi RHARHARHA kepada Siska kepada via surel dengan subyek: Surat Resmi Permohonan Laporan Hibah Termin II Indonesian Street Art Database
+Dari Andi RHARHARHA kepada Siska kepada via surel dengan subyek: Surat Resmi Permohonan Laporan Hibah Termin II Indonesian Street Art Database
 
 Salam Damai dan Salam Hormat Mba Siska
 
@@ -20,7 +21,4 @@ Sisa dana sebesar 120 juta-an akan digunakan untuk pengadaan festival ISAD yang 
 
 Adapun untuk rincian pengeluaran hibah term 2 dan anggaran biaya festival ISAD terlampir dalam dokumen excel.
 
-Terima Kasih , Andi RHARHARHA 
-
-
-
+Terima Kasih , Andi RHARHARHA

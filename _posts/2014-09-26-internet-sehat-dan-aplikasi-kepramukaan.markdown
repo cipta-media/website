@@ -3,8 +3,10 @@ title: Internet Sehat & Aplikasi Kepramukaan
 date: 2014-09-26
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-September_26_2014_SIIK_Internet_Sehat_dan_Aplikasi_Kepramukaan.png](/uploads/200px-September_26_2014_SIIK_Internet_Sehat_dan_Aplikasi_Kepramukaan.png){: .img-responsive .center-block }
 ![200px-September_26_2014_SIIK_Internet_Sehat_dan_Aplikasi_Kepramukaan2.png](/uploads/200px-September_26_2014_SIIK_Internet_Sehat_dan_Aplikasi_Kepramukaan2.png){: .img-responsive .center-block }
 
@@ -61,4 +63,3 @@ categories:
 
 * Rintisan Saka Telematika (Fajar Eri Dianto)
 * Sosialisasi Konten Aplikasi Pramuka (Mulyana)
-

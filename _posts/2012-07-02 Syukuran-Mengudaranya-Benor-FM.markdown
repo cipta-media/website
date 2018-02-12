@@ -4,6 +4,7 @@ date: 2012-07-02
 categories:
 - laporan
 - sms
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -15,4 +16,4 @@ layout: laporancmb
 ---
 
 **Isi Laporan:**
-  * bfm|temu komunitas : orang rimba, klmpok tani, persatuan desa penyangga, dan syukuran mengudaranya benor fm t4 di persawahan dan kantor lapangan <br>kki warsi bukit suban air hitam sarolangun jambi 
+  * bfm|temu komunitas : orang rimba, klmpok tani, persatuan desa penyangga, dan syukuran mengudaranya benor fm t4 di persawahan dan kantor lapangan <br>kki warsi bukit suban air hitam sarolangun jambi

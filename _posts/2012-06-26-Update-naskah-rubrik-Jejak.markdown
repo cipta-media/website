@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-06-26
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Malam Jahanam di Bulungan" (Penulis - Christopel Paino)
 

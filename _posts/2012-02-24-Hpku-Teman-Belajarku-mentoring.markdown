@@ -4,10 +4,11 @@ date: 2012-02-24
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-         Oleh: Anggara pada Jagongan Media Rakyat (Yogyakarta)
+Oleh: Anggara pada Jagongan Media Rakyat (Yogyakarta)
 
 Berdasarkan hasil diskusi rencana program
 
@@ -36,4 +37,4 @@ Inisiator HPKTB diminta untuk memfokus kan kembali tujuan kerja sebagai berikut:
     Tersedia materi pembelajaran HP
     Ada ruang ruang pengembangan Materi pembelajaran HP
 
-Berdasarkan urutan ini tujuan nomor 6 akan mengakibatkan tercapainya tujuan nomor 5, tujuan nomor 4 akan mengakibatkan tercapainya tujuan nomor 3 dan tujuan nomor 2; tujuan nomor 5 akan mengakibatkan tercapainya tujuan nomor 1 
+Berdasarkan urutan ini tujuan nomor 6 akan mengakibatkan tercapainya tujuan nomor 5, tujuan nomor 4 akan mengakibatkan tercapainya tujuan nomor 3 dan tujuan nomor 2; tujuan nomor 5 akan mengakibatkan tercapainya tujuan nomor 1

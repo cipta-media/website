@@ -3,6 +3,7 @@ title: Petugas administrasi tengah menyiapkan newsletter Sharia News Watch Syari
 date: 2012-09-12
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

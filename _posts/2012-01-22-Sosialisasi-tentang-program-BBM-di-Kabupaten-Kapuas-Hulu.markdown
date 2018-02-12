@@ -3,6 +3,7 @@ title: Sosialisasi tentang program BBM di Kabupaten Kapuas Hulu.
 date: 2012-01-22
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -26,5 +27,4 @@ layout: laporancmb
 **Ringkasan** :
 * Sosialisasi digelar pada 22 Januari 2012 di sebuah rumah sederhana warga di Desa Lanjak, Kecamatan Batang Lupar. 
 * Manajer Program BBM Asriyadi Alexander Mering menyampaikan akan  digelarnya program BBM sebagai wahana pengembangan wawasan jurnalisme  kampung serta pemanfaatan internet sebagai media alternative saluran  informasi. 
-* Warga menyatakan Desa Lanjak sangat merasakan pengaruh dari luar  negeri, khususnya Malaysia, dengan banyaknya beredar barang-barang  dagangan dari negeri tetangga tersebut. 
-
+* Warga menyatakan Desa Lanjak sangat merasakan pengaruh dari luar  negeri, khususnya Malaysia, dengan banyaknya beredar barang-barang  dagangan dari negeri tetangga tersebut.

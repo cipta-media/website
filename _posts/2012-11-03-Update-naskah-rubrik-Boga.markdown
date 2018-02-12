@@ -3,10 +3,10 @@ title: Update naskah rubrik Boga
 date: 2012-11-03
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Boga "Sumber Hidangan, Menghela Silam di Masa Kini" (Kontributor - Nuran Wibisono)
 

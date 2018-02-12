@@ -4,10 +4,11 @@ date: 2012-03-19
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
-     Oleh Andi Agustanis dan Onno Purbo via surel
+Oleh Andi Agustanis dan Onno Purbo via surel
 
     Tanya: Pak Onno dan Mas Nasir, kami dari Rakom Benor FM (Jambi) saat ini sudah masukkan berkas administrasi ke KPID saat ini menunggu jadwal EDP dari KPID Jambi. Secara teknis ada beberapa hal yang ingin saya tanyakan, diantaranya :
 

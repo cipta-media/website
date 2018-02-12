@@ -3,10 +3,10 @@ title: FGD Penyusunan Modul Pelatihan Rakom
 date: 2013-05-13
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Mei_13_2013_PRC_Pelatihan_Fundraising_Rakom.JPG](/uploads/200px-Mei_13_2013_PRC_Pelatihan_Fundraising_Rakom.JPG){: .img-responsive .center-block }
 

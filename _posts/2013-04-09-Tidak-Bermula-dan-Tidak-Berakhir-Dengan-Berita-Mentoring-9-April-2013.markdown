@@ -4,6 +4,7 @@ date: 2013-04-09
 categories:
 - laporan
 - mentoring
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---

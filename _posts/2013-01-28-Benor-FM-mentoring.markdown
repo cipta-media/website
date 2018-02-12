@@ -4,6 +4,7 @@ date: 2013-01-28
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
@@ -21,4 +22,4 @@ Via surel
 demikian beberapa hal yang dapat kami sampaikan terkait aktivitas Benor FM sejauh ini, semoga dapat memberikan gambaran sementara
 Onno Purbo
 
-Kita butuh bukti rekaman siaran percobaannya, dan memang harusnya 25 Watt .. 
+Kita butuh bukti rekaman siaran percobaannya, dan memang harusnya 25 Watt ..

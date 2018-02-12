@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-02-21
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra, "Ayah" (Kontributor - Geger D. Praha)
 

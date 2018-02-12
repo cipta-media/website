@@ -3,6 +3,7 @@ title: Tentang peliputan Khusus/Wawancara Kasus Tambang Di Depare Kabupaten jaya
 date: 2012-01-19
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
 

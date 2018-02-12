@@ -3,10 +3,10 @@ title: Rubrik Lagu nusantara
 date: 2013-01-18
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_18_-_lagu_nusantara_1.jpg](/uploads/200px-Januari_18_-_lagu_nusantara_1.jpg){: .img-responsive .center-block }
 

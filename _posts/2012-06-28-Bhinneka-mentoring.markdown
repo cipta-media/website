@@ -4,10 +4,11 @@ date: 2012-06-28
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
-     Oleh Idaman Andarmosoko, Sekertariat bersama Bhinneka-Kontras Surabaya, Jalan Darmo Surabaya. Pukul 09.30 sampai 16.30
+Oleh Idaman Andarmosoko, Sekertariat bersama Bhinneka-Kontras Surabaya, Jalan Darmo Surabaya. Pukul 09.30 sampai 16.30
         Hadir: Phoebe Anggreani
 
 Organisasi
@@ -25,4 +26,4 @@ Konsultasi dan rekomendasi
 
     Penasehat memberikan sedikit paduan dasar dasar pekerjaan sipil dengan lingkup sosial serta dasar-dasar pengelolaan berbasiskan hasil serta prinsip prinsip akuntabilitas.
     Penasehat merekomendasikan kepada bhinneka untuk mengatasi masalah manajemen internal. Yaitu menemukan jalan untuk komunikasi dan pengambilan keputusan kolektif internal.
-    Penasehat membuka kemungkinan untuk kunjungan selanjutnya di Surabaya dimana kedua pihak, baik pelaksana maupun kendali pengambilan keputusan, berada di Surabaya. 
+    Penasehat membuka kemungkinan untuk kunjungan selanjutnya di Surabaya dimana kedua pihak, baik pelaksana maupun kendali pengambilan keputusan, berada di Surabaya.

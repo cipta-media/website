@@ -4,6 +4,7 @@ date: 2013-02-06
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
@@ -25,4 +26,4 @@ Guna mengatasi sebaran Orang Rimba yang terlalu luas.
     Pembuatan Pustaka Digital yang akan menjadi sentra data.
     Sisa dana hibah tahap pertama, akan diperuntukkan bagi pengadaan peralatan pendukung Pustaka digital dan antena pemancar 6 bay
 
-(sebagaimana yang disarankan guna memperkuat pancaran), station mobile, Pelatihan dan penguatan kapasitas bagi komunitas Orang Rimba (diperuntukkan bagi komunitas yang terlibat langsung), serta pendukung lainnya. 
+(sebagaimana yang disarankan guna memperkuat pancaran), station mobile, Pelatihan dan penguatan kapasitas bagi komunitas Orang Rimba (diperuntukkan bagi komunitas yang terlibat langsung), serta pendukung lainnya.

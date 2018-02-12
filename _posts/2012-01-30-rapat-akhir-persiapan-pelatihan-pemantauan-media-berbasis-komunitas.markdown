@@ -3,6 +3,7 @@ title: Rapat akhir persiapan Pelatihan Pemantauan Media Berbasis Komunitas
 date: 2012-01-30
 categories:
 - laporan
+- CMS
 - AKUMASSA.ORG
 ---
 

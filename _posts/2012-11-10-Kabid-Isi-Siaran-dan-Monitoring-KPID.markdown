@@ -3,10 +3,10 @@ title: Kabid Isi Siaran dan Monitoring KPID
 date: 2012-11-10
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_10_2012_PRC_wawancara_dengan_Muhammad_Nato_KPIDSultra.png](/uploads/200px-Nopember_10_2012_PRC_wawancara_dengan_Muhammad_Nato_KPIDSultra.png){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * Muhammad Nato Alhaq, S.IP, MSi,Kabid Isi Siaran dan Monitoring KPID Sulawesi Tenggara
 
 **Ringkasan**  
-* Wawancara ini dilakukan untuk menggali informasi perkembangan regulasi dan perijinan Rakom di Sulawesi Tenggara dan sejauh mana peran KPID terhadap keberlanjutan Rakom di Sulawesi Tenggara 
+* Wawancara ini dilakukan untuk menggali informasi perkembangan regulasi dan perijinan Rakom di Sulawesi Tenggara dan sejauh mana peran KPID terhadap keberlanjutan Rakom di Sulawesi Tenggara

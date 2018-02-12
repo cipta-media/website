@@ -3,9 +3,9 @@ title: Lobby Juri Untuk Indonesian Human Rights Blog Award
 date: 2012-01-02
 categories:
 - laporan
+- CMS
 - Human Rights Blogger Award
 ---
-
 
 **Tujuan** : Lobby Juri Untuk Indonesian Human Rights Blog Award 
 

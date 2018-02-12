@@ -4,6 +4,7 @@ date: 2013-01-02
 categories:
 - laporan
 - mentoring
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

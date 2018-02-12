@@ -4,10 +4,11 @@ date: 2012-11-12
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
-     Oleh Siska Doviana 
+Oleh Siska Doviana 
 
 Berikut adalah ringkasan pembicaraan yang terjadi untuk kedatangan Lembaga Bhinneka:
 12 November 2012
@@ -32,4 +33,4 @@ Disarankan juga admin Lembaga Bhinneka untuk lebih berinteraksi dengan pendukung
 Pelatihan administrasi oleh Hendra. Mempelajari cara memverifikasi SMS dan memasukkan kurang lebih 50 data untuk broadcast SMS Lembaga Bhinneka.
 15 November 2012
 
-Diskusi Keberagaman dan Agama, twitter telah diarsip oleh Isabella 
+Diskusi Keberagaman dan Agama, twitter telah diarsip oleh Isabella

@@ -3,8 +3,10 @@ title: Liputan Khusus dan advokasi litigasi kasus makar Forkorus Cs
 date: 2012-05-04
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Mei_04_2012_Pendampingan_Hukum_kasus_Makar_Fokrkurus_cs.JPG](/uploads/200px-Mei_04_2012_Pendampingan_Hukum_kasus_Makar_Fokrkurus_cs.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus dan advokasi litigasi kasus makar Forkorus Cs

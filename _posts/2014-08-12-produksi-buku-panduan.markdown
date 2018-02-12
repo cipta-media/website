@@ -3,8 +3,10 @@ title: Produksi buku panduan
 date: 2014-08-12
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kunjungan ke LP Biak-Papua

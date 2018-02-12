@@ -4,6 +4,7 @@ date: 2014-10-25
 categories:
 - laporan
 - mentoring
+- CMS
 - Kerjabilitas
 ---
 

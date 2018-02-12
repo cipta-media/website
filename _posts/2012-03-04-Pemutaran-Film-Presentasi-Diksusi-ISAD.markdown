@@ -3,10 +3,11 @@ title: Pemutaran Film, Presentasi & Diksusi ISAD bersama UrbanCult dan SindikatC
 date: 2012-03-04
 categories:
 - laporan
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---
-	
+
 ![200px-Maret_04_2012_ISAD_Dokumentasi_Acara_Gathering_Graffiti_Heaven_Spot_di_Medan.jpg](/uploads/200px-Maret_04_2012_ISAD_Dokumentasi_Acara_Gathering_Graffiti_Heaven_Spot_di_Medan.jpg){: .img-responsive .center-block }	
 ![2200px-Maret_04_2012_ISAD_Dokumentasi_Pemetaan_Graffiti_di_SMAN_3_MEDAN_.jpg](/uploads/200px-Maret_04_2012_ISAD_Dokumentasi_Pemetaan_Graffiti_di_SMAN_3_MEDAN_.jpg){: .img-responsive .center-block }
 ![200px-Maret_04_2012_ISAD_Dokumentasi_Pemetaan_Graffiti_MEDAN_Dokumentasi_ISAD.jpg](/uploads/200px-Maret_04_2012_ISAD_Dokumentasi_Pemetaan_Graffiti_MEDAN_Dokumentasi_ISAD.jpg){: .img-responsive .center-block }

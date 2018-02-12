@@ -3,10 +3,10 @@ title: Talkshow rubrik Layar
 date: 2012-07-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_7_2012_-_layar_1.jpg](/uploads/200px-Juli_7_2012_-_layar_1.jpg){: .img-responsive .center-block }
 

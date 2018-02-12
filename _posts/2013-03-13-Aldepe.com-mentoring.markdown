@@ -4,10 +4,11 @@ date: 2013-03-13
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
-     Dari Eva Danayanti kepada Latifah Anum Siregar dan Yusman subyek: Program AlDP 2012
+Dari Eva Danayanti kepada Latifah Anum Siregar dan Yusman subyek: Program AlDP 2012
 
 Dear mbak Anum, bang Yusman, dan rekan-rekan di ALDP,
 
@@ -82,4 +83,3 @@ dibantu untuk penyelesaiannya.
 
 Salam,
 Eva
-

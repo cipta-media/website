@@ -3,6 +3,7 @@ title: Workshop bagi 15 jurnalis lokal yang medianya dipantau dan yang tidak dip
 date: 2012-06-19
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

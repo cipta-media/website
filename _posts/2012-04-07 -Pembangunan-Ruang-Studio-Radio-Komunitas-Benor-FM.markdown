@@ -3,6 +3,7 @@ title: Pembangunan Ruang Studio Radio Komunitas Benor FM di Desa Bukit Suban Kec
 date: 2012-04-07
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -26,7 +27,3 @@ layout: laporancmb
 **Ringkasan** : 
 * Adanya bangunan studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan
 * Mendapatkan tempat pertemuan dan melakukan siaran radio
-
-
-
-

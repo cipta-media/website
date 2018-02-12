@@ -4,10 +4,11 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
-     Dari Siska kepada Andi RHARHARHA via surel dan pos tercatat
+Dari Siska kepada Andi RHARHARHA via surel dan pos tercatat
 
 
 Mas Andi dan Tim ISAD yang baik, Terkait berakhirnya hibah Cipta Media Bersama sesuai pembicaraan kita kemarin, terlampir (lampiran 1, lampiran 2) adalah surat resmi permintaan laporan ISAD Termin Hibah II.
@@ -49,4 +50,3 @@ Indonesia meminta anggaran untuk dana sisa tersebut sebelum 7 Februari 2013.
 
 Apabila untuk yang lain ISAD diminta untuk memasukkan proposal dan anggaran yang telah diterima 
 sebelum 7 Februari 2013.
-

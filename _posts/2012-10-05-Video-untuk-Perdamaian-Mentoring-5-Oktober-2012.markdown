@@ -4,6 +4,7 @@ date: 2012-10-05
 categories:
 - laporan
 - mentoring
+- CMB
 - Video untuk Perdamaian
 layout: laporancmb
 ---

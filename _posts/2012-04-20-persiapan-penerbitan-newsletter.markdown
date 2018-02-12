@@ -4,6 +4,7 @@ date: 2012-04-20
 categories:
 - laporan
 - sms
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---

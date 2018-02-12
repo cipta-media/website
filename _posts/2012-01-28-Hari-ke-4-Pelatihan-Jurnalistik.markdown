@@ -3,10 +3,10 @@ title: Hari ke-4 Pelatihan Jurnalistik
 date: 2012-01-28
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 ![200px-Januari_28_2012_LenteraTimur.com_Martin_Aleida_menajamkan_paparan_tentang_dasar-dasar_penulisan_berikut_tips-tips_khas_LenteraTimur.jpg](/uploads/200px-Januari_28_2012_LenteraTimur.com_Martin_Aleida_menajamkan_paparan_tentang_dasar-dasar_penulisan_berikut_tips-tips_khas_LenteraTimur.jpg){: .img-responsive .center-block }
 

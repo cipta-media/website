@@ -3,6 +3,7 @@ title: Kegiatan ini untuk menyusun laporan kegiatan untuk program Mendorong Medi
 date: 2012-02-27
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

@@ -3,10 +3,11 @@ title: Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RGL FMis
 date: 2012-05-31
 categories:
 - laporan
+- CMB
 - JRKL
 layout: laporancmb
 ---
-	
+
 ![200px-Mei_31_2012_JRKL_Diskusi_Terarah_Kelompok_Pemantau_Tayangan_Televisi_di_RGL_FM.JPG](/uploads/200px-Mei_31_2012_JRKL_Diskusi_Terarah_Kelompok_Pemantau_Tayangan_Televisi_di_RGL_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RGL FM

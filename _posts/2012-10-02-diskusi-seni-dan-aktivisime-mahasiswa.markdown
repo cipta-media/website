@@ -3,6 +3,7 @@ title: Diskusi Seni dan Aktivisme Mahasiswa
 date: 2012-10-02
 categories:
 - laporan
+- CMS
 - Indonesian Street Art Database
 ---
 

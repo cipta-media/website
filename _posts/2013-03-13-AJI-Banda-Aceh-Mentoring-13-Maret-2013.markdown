@@ -4,6 +4,7 @@ date: 2013-03-13
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -28,4 +29,4 @@ Eva
 **Balasan**
 
 Terimakasih banyak atas respon dan review budget. Saya akan kirimkan narasi yang diminta Mbak Eva yang mungkin terselip.
-Salam. Mukhtar 
+Salam. Mukhtar

@@ -3,10 +3,10 @@ title: Rubrik Dangdut Asiik
 date: 2013-01-13
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_13_2013_-_dangdut_asiik_1.jpg](/uploads/200px-Januari_13_2013_-_dangdut_asiik_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Roy](http://wiki.ciptamedia.org/wiki/Roy)
 
 **Ringkasan**  
-* Dangdut asiik tiap kamis dan minggu jam 20 -22 
+* Dangdut asiik tiap kamis dan minggu jam 20 -22

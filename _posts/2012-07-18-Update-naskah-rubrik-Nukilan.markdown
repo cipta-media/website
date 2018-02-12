@@ -3,10 +3,10 @@ title: Update naskah rubrik Nukilan
 date: 2012-07-18
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Nukilan, "Tionghoa Surabaya dalam Catatan" (Kontributor - Donny Anggoro)
 

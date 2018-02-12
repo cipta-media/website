@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-07-09
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Kamus Bahasa Inggris-Bugis-Melayu" (Kontributor - Ade Viankakrisna)
 

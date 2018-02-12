@@ -3,10 +3,11 @@ title: Mempererat para anggota Bhinneka di seluruh Indonesia
 date: 2012-11-03
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![200px-November_3_2012_Bhinneka_Kopdar_seIndonesia.JPG](/uploads/200px-November_3_2012_Bhinneka_Kopdar_seIndonesia.JPG){: .img-responsive .center-block }	
 ![200px-November_3_2012_Bhinneka_Kopdar_seIndonesia_1.JPG](/uploads/200px-November_3_2012_Bhinneka_Kopdar_seIndonesia_1.JPG){: .img-responsive .center-block }	
 ![200px-November_3_2012_Bhinneka_Kopdar_seIndonesia_2.JPG](/uploads/200px-November_3_2012_Bhinneka_Kopdar_seIndonesia_2.JPG){: .img-responsive .center-block }	

@@ -3,10 +3,10 @@ title: Rapat Evaluasi
 date: 2013-01-10
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Januari_10_2013_PRC_Rapat_Preview_Laporan_Video_Penelitian_Rakom.JPG](/uploads/200px-Januari_10_2013_PRC_Rapat_Preview_Laporan_Video_Penelitian_Rakom.JPG){: .img-responsive .center-block }
 
@@ -29,4 +29,4 @@ layout: laporancmb
 * Aji, Nine Savana
 
 **Ringkasan**  
-* Rapat ini membahas tentang hasil editing video studi yang dilakukan oleh Nine Savana, video ini nantinya akan menjadi bahan ajar dari studi keberlanjutan media komunitas. 
+* Rapat ini membahas tentang hasil editing video studi yang dilakukan oleh Nine Savana, video ini nantinya akan menjadi bahan ajar dari studi keberlanjutan media komunitas.

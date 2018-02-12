@@ -3,6 +3,7 @@ title: Sosialisasi program BBM di Kabupaten Sanggau.
 date: 2012-01-19
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -32,4 +33,3 @@ layout: laporancmb
 * Kegiatan ditutup dengan makan dan photo bersama.
 * Sosialisasi informal juga dilaksanakan   di sebuah restoran di  Tebedu. Team di undang oleh seorang  blogger,  dan wartawan Senior  Sarawak, James Rictchie. Team tidak mengeluarkan biaya  karena  menjadi  tamu undangan James Ritchie.
 * Malamnya team juga melakukan sosialisasi  kepada warga dan aparat    di sekitar  border Entikong, sekalian menggali informasi tentang  permasalahan di sana.
-

@@ -3,6 +3,7 @@ title: Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sanggau.
 date: 2012-02-06
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -36,5 +37,4 @@ layout: laporancmb
 * Materi tentang blog disampaikan oleh Asriyadi Alexander Mering dan Basilius Andreas Gas.  Para peserta dilatih hingga bisa membuat blog  sediri.
 * Internet di kecamatan  menjadi kendala,  hingga proses membuat   blog memakan waktu hingga sore, membuat trainer dan peserta hampir  prustasi.
 * Peserta langsug  dilatih memposting tulisan yang sudah mereka buat dan juga photo-photo.
-* Kegiatan ditutup dengan penyerahan modem, penandatanganan kontrak belajar dan sesi photo bersama.  
-
+* Kegiatan ditutup dengan penyerahan modem, penandatanganan kontrak belajar dan sesi photo bersama.

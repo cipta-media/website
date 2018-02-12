@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-11-20
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata "Tanah Adat, Hilang di Jambi Dicari ke Jakarta" (Penulis - Fajar Riadi)
 

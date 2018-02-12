@@ -1,10 +1,10 @@
-
 ---
 title: Pusat Training Wireless Cellular Network OpenBTS - Mentoring 30 Oktober 2014
 date: 2014-10-30
 categories:
 - laporan
 - mentoring
+- CMS
 - Pusat OpenBTS
 ---
 

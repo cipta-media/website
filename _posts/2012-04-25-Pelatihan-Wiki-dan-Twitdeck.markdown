@@ -4,6 +4,7 @@ date: 2012-04-25
 categories:
 - laporan
 - sms
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---

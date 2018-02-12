@@ -3,10 +3,10 @@ title: Rubrik KPOP
 date: 2013-01-19
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_19_-_kpop_1.jpg](/uploads/200px-Januari_19_-_kpop_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Juma](http://wiki.ciptamedia.org/wiki/Juma)
 
 **Ringkasan**  
-* KPOP tiap sabtu jam 8 - 10 malam 
+* KPOP tiap sabtu jam 8 - 10 malam

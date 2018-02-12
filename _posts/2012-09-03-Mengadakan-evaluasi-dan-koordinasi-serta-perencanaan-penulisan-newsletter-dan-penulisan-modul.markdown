@@ -3,6 +3,7 @@ title: Mengadakan evaluasi dan koordinasi serta perencanaan penulisan newsletter
 date: 2012-09-03
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

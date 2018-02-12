@@ -3,6 +3,7 @@ title: Distribusi kuisioner
 date: 2012-03-08
 categories:
 - laporan
+- CMB
 - Pantau
 layout: laporancmb
 ---

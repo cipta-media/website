@@ -3,10 +3,10 @@ title: Wawancara dan Pengambilan Gambar Ketua KPID NTB
 date: 2012-12-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Desember_3_2012_PRC_Wawancara_&_Pengambilan_gambar_ketua_KPID_NTB_Badrun_AM_OK.jpg](/uploads/200px-Desember_3_2012_PRC_Wawancara_&_Pengambilan_gambar_ketua_KPID_NTB_Badrun_AM_OK.jpg){: .img-responsive .center-block }
 

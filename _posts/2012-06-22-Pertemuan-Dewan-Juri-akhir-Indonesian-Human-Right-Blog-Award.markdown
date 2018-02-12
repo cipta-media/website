@@ -3,10 +3,10 @@ title: Pertemuan Dewan Juri akhir Indonesian Human Right Blog Award
 date: 2012-06-22
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![250px-Juni_22_2012_IMDLN_Pertemuan_Dewan_Juri_Akhir_IHRBA.jpg](/uploads/250px-Juni_22_2012_IMDLN_Pertemuan_Dewan_Juri_Akhir_IHRBA.jpg){: .img-responsive .center-block }
 

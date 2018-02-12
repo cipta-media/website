@@ -4,6 +4,7 @@ date: 2013-03-02
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
@@ -17,4 +18,4 @@ Berita terbaru BBM di the Jakarta post pasca lounching buku BBM dan sosialisasi 
 
 Demikian mbak informasi dari saya.
 
-Mering Sent from my iPhone 
+Mering Sent from my iPhone

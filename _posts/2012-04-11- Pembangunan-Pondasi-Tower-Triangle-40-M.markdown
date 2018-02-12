@@ -3,6 +3,7 @@ title: Pembangunan Pondasi Tower Triangle 40 M Radio Komunitas Benor FM di Desa 
 date: 2012-04-11
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
@@ -27,5 +28,3 @@ layout: laporancmb
 **Ringkasan** : 
 *	Adanya bangunan Tower pemancar Triangle 40 M radio komunitas yang dapat melakukan siaran secara berkelanjutan
 *	Mendapatkan sarana penunjang untuk melakukan siaran
-
-

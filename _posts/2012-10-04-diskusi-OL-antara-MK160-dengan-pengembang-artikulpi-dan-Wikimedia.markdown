@@ -3,6 +3,7 @@ title: diskusi OL antara MK160 dengan pengembang artikulpi dan Wikimedia terkait
 date: 2012-10-04
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 
@@ -27,4 +28,4 @@ categories:
 * Mengirimkan surel ke artikulpi dan wikimedia supaya mengetahui kondisi sistem aplikasi MK160.
 * Artikulpi sebagai pengembang untuk memberikan kejelasan sistem aplikasi MK160 karena terkait dengan raport MK160 sebagai penerima dana hibah.
 * Mendiskusikan internal terkait kelanjutan kegiatan MK160
-* Mengirimkan surel ke artikulpi sebagai pengembang untuk meminta kejelasan dan menyelesaikan sistem aplikasi MK160 sehingga dapat difungsikan kembali untuk brodcast SMS maupun input data penduduk 
+* Mengirimkan surel ke artikulpi sebagai pengembang untuk meminta kejelasan dan menyelesaikan sistem aplikasi MK160 sehingga dapat difungsikan kembali untuk brodcast SMS maupun input data penduduk

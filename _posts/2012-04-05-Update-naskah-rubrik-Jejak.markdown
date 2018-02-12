@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-04-05
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Teka-Teki Sigale-gale" (Kontributor - Adela Eka Putra Marza) 
 

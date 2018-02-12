@@ -3,10 +3,11 @@ title: Memperkenalkan Majalah Bhinneka kepada murid kelas 3 St. Agnes Surabaya
 date: 2012-10-20
 categories:
 - laporan
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
-	
+
 ![250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg](/uploads/250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Memperkenalkan Majalah Bhinneka kepada murid kelas 3 St. Agnes Surabaya

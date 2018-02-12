@@ -3,8 +3,10 @@ title: Liputan Khusus kondisi Kabupaten Sarmi
 date: 2013-02-15
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_15-18_2013_Liputan_Khusus_Sarmi.jpg](/uploads/200px-Februari_15-18_2013_Liputan_Khusus_Sarmi.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus kondisi Kabupaten Sarmi

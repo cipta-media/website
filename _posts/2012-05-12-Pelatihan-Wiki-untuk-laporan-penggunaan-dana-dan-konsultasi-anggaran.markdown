@@ -3,10 +3,10 @@ title: Pelatihan Wiki untuk laporan penggunaan dana dan konsultasi anggaran.
 date: 2012-05-12
 categories:
 - laporan
+- CMB
 - Di Balik Frekuensi
 layout: laporancmb
 ---
-
 
 ![250px-Mei_12_2012_ucuagustin_Pelatihanke2.JPG](/uploads/250px-Mei_12_2012_ucuagustin_Pelatihanke2.JPG){: .img-responsive .center-block }
 

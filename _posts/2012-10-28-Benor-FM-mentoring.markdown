@@ -4,6 +4,7 @@ date: 2012-10-28
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
@@ -17,4 +18,4 @@ Permohonan radio Benor FM apabila ditilik secara teknologi sebenernya gampang ya
     + membangun konten sendiri
     + membangun interaksi dg komunitas
 
-Hal ini dapat dipelajari dari pengalaman teman-teman dari 68H, combine, ictwatch yang lebih baik 
+Hal ini dapat dipelajari dari pengalaman teman-teman dari 68H, combine, ictwatch yang lebih baik

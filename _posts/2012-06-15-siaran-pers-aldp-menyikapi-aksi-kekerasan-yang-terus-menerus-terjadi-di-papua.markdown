@@ -3,8 +3,10 @@ title: Siaran Pers ALDP menyikapi aksi kekerasan yang terus-menerus terjadi Di P
 date: 2012-06-15
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juni_15_2012_Siaran_Pers_ALDP_menyikapi_Aksi_Kekerasan_Di_Papua.jpg](/uploads/200px-Juni_15_2012_Siaran_Pers_ALDP_menyikapi_Aksi_Kekerasan_Di_Papua.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Siaran Pers ALDP menyikapi aksi kekerasan yang terus-menerus terjadi Di Papua

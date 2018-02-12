@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-03-16
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Menggadang Nama Bandar Udara di Tanah Serdang" (Penulis - Christopel Paino)
 

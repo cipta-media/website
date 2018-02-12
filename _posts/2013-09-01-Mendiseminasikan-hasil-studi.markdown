@@ -3,10 +3,10 @@ title: Mendiseminasikan hasil studi
 date: 2013-09-01
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-September_1_2013_PRC_Diseminasi_Studi_Fundraising_Rakom_Jatim.jpg](/uploads/200px-September_1_2013_PRC_Diseminasi_Studi_Fundraising_Rakom_Jatim.jpg){: .img-responsive .center-block }
 

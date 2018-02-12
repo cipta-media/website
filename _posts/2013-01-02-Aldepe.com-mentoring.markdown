@@ -4,10 +4,11 @@ date: 2013-01-02
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
-     Dari Latifah Anum Siregar kepada Eva Danayanti via surel subyek: Program AlDP 2012
+Dari Latifah Anum Siregar kepada Eva Danayanti via surel subyek: Program AlDP 2012
 
 Hallo Mbak Eva
 Terima kasih untuk infonya
@@ -30,4 +31,3 @@ Kami menunggu info balik dan terima kasih atas tanggapannya.
 
 Salam
 anum
-

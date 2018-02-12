@@ -3,9 +3,9 @@ title: Pemasangan spanduk untuk publikasi seminar dan workshop dalam rangka loun
 date: 2013-07-03
 categories:
 - laporan
+- CMS
 - MK-160
 ---
-
 
 **Tujuan** : Pemasangan spanduk untuk publikasi seminar dan workshop dalam rangka louncing MK160 "Pemanfaatan SMS Sebagai Media Komunitas Baru".
 

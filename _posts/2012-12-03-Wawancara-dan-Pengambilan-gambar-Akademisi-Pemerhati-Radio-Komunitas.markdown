@@ -3,10 +3,10 @@ title: Wawancara dan pengambilan gambar Akademisi Pemerhati Radio Komunitas
 date: 2012-12-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 **Tujuan** : Wawancara dan pengambilan gambar Akademisi Pemerhati Radio Komunitas 
 

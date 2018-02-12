@@ -3,10 +3,10 @@ title: Update naskah rubrik Jelajah
 date: 2012-06-05
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jelajah, "Mengejar Angin di Atap Sinabung" (Kontributor - Adela Eka Putra Marza)
 

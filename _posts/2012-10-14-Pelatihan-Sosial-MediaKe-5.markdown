@@ -3,10 +3,10 @@ title: Pelatihan Sosial Media Ke 5
 date: 2012-10-14
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_14_2012_Kartunet_Pelatihan_Sosial_Media_5.JPG](/uploads/200px-Oktober_14_2012_Kartunet_Pelatihan_Sosial_Media_5.JPG){: .img-responsive .center-block }
 

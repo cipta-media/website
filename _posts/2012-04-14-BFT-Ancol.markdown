@@ -3,9 +3,11 @@ title: BFT Ancol
 date: 2012-04-14
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
+
 ![200px-April_14_2012_Kartunet_BFT_Ancol.JPG](/uploads/200px-April_14_2012_Kartunet_BFT_Ancol.JPG){: .img-responsive .center-block }
 
 **Tujuan** : BFT Ancol

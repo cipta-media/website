@@ -3,10 +3,10 @@ title: Pelatihan Wiki untuk penggunaan dana dan aktivitas IMDLN
 date: 2012-01-26
 categories:
 - laporan
+- CMB
 - Human Rights Blogger Award
 layout: laporancmb
 ---
-
 
 ![200px-Januari_26_2012_IMDLN_pelatihan_wiki.JPG](/uploads/200px-Januari_26_2012_IMDLN_pelatihan_wiki.JPG){: .img-responsive .center-block }
 

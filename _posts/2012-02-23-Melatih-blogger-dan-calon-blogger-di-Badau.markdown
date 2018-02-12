@@ -3,6 +3,7 @@ title: Melatih blogger dan calon blogger di Badau
 date: 2012-02-23
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -28,5 +29,4 @@ layout: laporancmb
 * Dilanjutkan sesi siang, ngeblog dari A-Z   oleh Asriyadi Alexander Mering dan Laurensius Edi.
 * Salah satu  blogger , warga  Malaysia  menjadi peninjau  di kegiatan tersebut.
 * Hari kedua, dilanjutkan dengan pemantapan penulisan kepada peserta  penerima manfaat. Pada sesi ini, ditambah dengan teknik memilah isu-isu  strategis dalam penulisan. 
-* Hari ketiga, kegiatan dilanjutkan dengan evaluasi dan pemberian  tugas kepada peserta penerima manfaat. Tugas yang diberikan sesi pagi,  dibahas bersama pada sesi siang. Setelah itu, bahan tulisan yang telah  dibahas diposting pada blog masing-masing peserta penerima manfaat. 
-
+* Hari ketiga, kegiatan dilanjutkan dengan evaluasi dan pemberian  tugas kepada peserta penerima manfaat. Tugas yang diberikan sesi pagi,  dibahas bersama pada sesi siang. Setelah itu, bahan tulisan yang telah  dibahas diposting pada blog masing-masing peserta penerima manfaat.

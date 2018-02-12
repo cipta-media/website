@@ -3,8 +3,10 @@ title: Liputan Khusus dan advokasi Tapol Kasus 04 April Jafrai Murib
 date: 2012-04-25
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Mei_25_2012_Penanganan_Medis_Tapo_Jafrai_Murib.jpg](/uploads/200px-Mei_25_2012_Penanganan_Medis_Tapo_Jafrai_Murib.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus dan advokasi Tapol Kasus 04 April Jafrai Murib

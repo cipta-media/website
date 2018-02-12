@@ -3,6 +3,7 @@ title: M-Pantau Kebebasan Beragama dan Berkeyakinan - Laporan Narasi Pertanggung
 date: 2015-09-16
 categories:
 - laporan
+- CMS
 - m.Pantau
 ---
 

@@ -4,10 +4,11 @@ date: 2012-12-26
 categories:
 - laporan
 - mentoring
+- CMS
 - Aldepe.com
 ---
 
-     Dari Eva Danayanti kepada Latifah Anum Siregar via surel subyek: Program AlDP 2012
+Dari Eva Danayanti kepada Latifah Anum Siregar via surel subyek: Program AlDP 2012
 
 Dear mbak Anum,
 
@@ -25,4 +26,3 @@ sehingga periode grant akan berakhir pada 26 Januari 2013.
 Salam,
 
 Eva
-

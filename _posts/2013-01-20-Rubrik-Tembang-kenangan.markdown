@@ -3,10 +3,10 @@ title: Rubrik Tembang kenangan
 date: 2013-01-20
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Januari_20_-_tembang_kenangan_1.jpg](/uploads/200px-Januari_20_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Rubrik Tembang Kenangan
 date: 2012-10-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_21_2012_-_tembang_kenangan_1.jpg](/uploads/200px-Oktober_21_2012_-_tembang_kenangan_1.jpg){: .img-responsive .center-block }
 
@@ -24,4 +24,4 @@ layout: laporancmb
 * [Thien Kusna](http://wiki.ciptamedia.org/wiki/Thien Kusna)
 
 **Ringkasan**  
-* Tembang kenangan kali ini adalah tembang kenangan edisi lagu barat 
+* Tembang kenangan kali ini adalah tembang kenangan edisi lagu barat

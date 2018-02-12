@@ -4,10 +4,11 @@ date: 2012-02-24
 categories:
 - laporan
 - sms
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-	
+
 **Tujuan**: "USHAHIDI & FRONTLINE SMS"
 	
 **Lokasi**: Yogyakarta
@@ -17,4 +18,4 @@ layout: laporancmb
 **Oleh**: Ken Miryam
 	
 **Ringkasan SMS**:
-  * LT\|Ken Miryam mewakili LenteraTimur.com mengikuti "Lokakarya "USHAHIDI & FRONTLINE SMS" di Jagongan Media Rakyat. 
+  * LT\|Ken Miryam mewakili LenteraTimur.com mengikuti "Lokakarya "USHAHIDI & FRONTLINE SMS" di Jagongan Media Rakyat.

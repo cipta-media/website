@@ -3,7 +3,8 @@ title: Solidaritas.net Media Center - Laporan Narasi Pertanggung Jawaban Hibah T
 date: 2015-10-30
 categories:
 - laporan
-- solidaritas.net  
+- CMS
+- solidaritas.net
 ---
 
 **Perkumpulan Solidaritas.net: Solidaritas.net Media Center**

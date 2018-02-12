@@ -3,6 +3,7 @@ title: Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sintang.
 date: 2012-02-09
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -35,4 +36,3 @@ layout: laporancmb
 * Untungnya Internet di kecamatan ini cukup lancar, hingga menjelang  makan siang, semua peserta sudah memiliki blognya masing-masing. 
 * Usai makan siang, para peserta dilatih untuk memposting  tulisan yang sudah mereka buat dan juga photo-photo.
 * Kegiatan berlangsung hingga pukul 15.00 WIB, ditutup dengan  penyerahan modem, penandatanganan kontrak belajar dan sesi photo  bersama. Para peserta pulang ke kampungnya masing-masing dan sayonara…..
-

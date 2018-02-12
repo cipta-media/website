@@ -4,6 +4,7 @@ date: 2012-06-30
 categories:
 - laporan
 - sms
+- CMB
 - Benor FM
 layout: laporancmb
 ---

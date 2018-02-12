@@ -3,10 +3,10 @@ title: Wawancara & Pendokumentasian JRK Wilayah Yogyakarta
 date: 2012-11-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-November_3_2012_PRC_Wawancara_dengan_Ketua_JRKY.png](/uploads/200px-November_3_2012_PRC_Wawancara_dengan_Ketua_JRKY.png){: .img-responsive .center-block }
 

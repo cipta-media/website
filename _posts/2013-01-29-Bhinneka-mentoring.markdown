@@ -4,9 +4,10 @@ date: 2013-01-29
 categories:
 - laporan
 - mentoring
+- CMS
 - Bhinneka
 ---
 
-     Via surel dari Soe Tjen mengenai akta notaris yang baru ke Siska (Wikimedia Indonesia) via surel dan via pos
+Via surel dari Soe Tjen mengenai akta notaris yang baru ke Siska (Wikimedia Indonesia) via surel dan via pos
 
-Penyelesaian laporan baik narasi maupun keuangan akan dilakukan oleh Lembaga Bhinneka sebelum 25 April 2013 (lampiran surat) 
+Penyelesaian laporan baik narasi maupun keuangan akan dilakukan oleh Lembaga Bhinneka sebelum 25 April 2013 (lampiran surat)

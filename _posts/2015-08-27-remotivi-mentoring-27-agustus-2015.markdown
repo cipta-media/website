@@ -4,6 +4,7 @@ date: 2015-08-27
 categories:
 - laporan
 - mentoring
+- CMS
 - Rapotivi
 ---
 

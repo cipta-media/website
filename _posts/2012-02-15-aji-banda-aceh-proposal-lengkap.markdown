@@ -1,8 +1,9 @@
 ---
 title: AJI Banda Aceh - Proposal Lengkap
-date: 2012-02-15 10:08:00 +07:00
+date: 2012-02-15 10:08:00+07:00
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

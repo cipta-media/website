@@ -3,8 +3,10 @@ title: Rapat Internal Persiapan sosialisasi dan kampanye media
 date: 2014-08-01
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![300px-Agustus_01_2014_Jubi_Anggota_jubi.JPG](/uploads/300px-Agustus_01_2014_Jubi_Anggota_jubi.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Rapat Internal Persiapan sosialisasi dan kampanye media

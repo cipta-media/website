@@ -3,10 +3,10 @@ title: Rubrik Dangdut asiiik
 date: 2012-12-10
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_10_2013_-_dangdut_asiik_1.jpg](/uploads/200px-Des_10_2013_-_dangdut_asiik_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Roy](http://wiki.ciptamedia.org/wiki/Roy)
 
 **Ringkasan**  
-* Hak dan hukum, tiap jumat dua minggu sekali 
+* Hak dan hukum, tiap jumat dua minggu sekali

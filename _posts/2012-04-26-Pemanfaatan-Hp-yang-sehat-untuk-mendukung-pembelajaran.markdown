@@ -3,10 +3,11 @@ title: Pemanfaatan Hp yang sehat untuk mendukung pembelajaran
 date: 2012-04-26
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![250px-April_26_2012_1000guru_MGMP_Matematika.jpg](/uploads/250px-April_26_2012_1000guru_MGMP_Matematika.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pemanfaatan Hp yang sehat untuk mendukung pembelajaran

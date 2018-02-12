@@ -3,10 +3,10 @@ title: Rubrik Hak dan Hukum
 date: 2012-10-26
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_26_-_Rubrik_Hak_dan_Hukum_1.jpg](/uploads/200px-Oktober_26_-_Rubrik_Hak_dan_Hukum_1.jpg){: .img-responsive .center-block }
 

@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-05-17
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak, "Sumatra, Peristiwa Selanjutnya" (Penulis - TM Dhani Iqbal)
 

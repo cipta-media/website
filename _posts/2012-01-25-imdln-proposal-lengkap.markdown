@@ -1,8 +1,9 @@
 ---
 title: IMDLN - Proposal Lengkap
-date: 2012-01-25 19:29:00 +07:00
+date: 2012-01-25 19:29:00+07:00
 categories:
 - laporan
+- CMS
 - Human Rights Blogger Award
 ---
 

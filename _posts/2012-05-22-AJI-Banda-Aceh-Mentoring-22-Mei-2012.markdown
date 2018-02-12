@@ -4,6 +4,7 @@ date: 2012-05-22
 categories:
 - laporan
 - mentoring
+- CMB
 - AJI Banda Aceh
 layout: laporancmb
 ---
@@ -32,4 +33,4 @@ Terimakasih Mas atas saran dan masukannya. Kami pasti melaksanakan program sesua
 
 Sesuai pembicaraan dengan Mas Yanuar melalui telp per 22 mei 2012 kemarin, kami akan melakukan evaluasi berkala dan teratur menyangkut program kami. Apalagi setelah mentoring jarak jauh, saya juga konsultasi dengan Mbak Eva dari AJI Indonesia, bahwa pendataaan atau koding disarankan pada studi kasus bukan digelondongin seperti sekarang. Demikian juga soal website AJI Banda Aceh yang akan online dan update dalam dua hari ini.
 
-Sesuai pembicaraan sebelumnya, kami sangat senang dan berterima kasih atas saran Mas Angga tentang fokus pada kelompok rentan, karena ini memang membantu membuat pemantau kita lebih mendalam dan terarah. Maka, dalam rapat ke depan akan kami perbaiki lagi strategi pemantauan dan pendataan berita syariat Islam. 
+Sesuai pembicaraan sebelumnya, kami sangat senang dan berterima kasih atas saran Mas Angga tentang fokus pada kelompok rentan, karena ini memang membantu membuat pemantau kita lebih mendalam dan terarah. Maka, dalam rapat ke depan akan kami perbaiki lagi strategi pemantauan dan pendataan berita syariat Islam.

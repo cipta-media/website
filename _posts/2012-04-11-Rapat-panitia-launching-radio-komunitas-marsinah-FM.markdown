@@ -3,10 +3,10 @@ title: Rapat panitia launching radio komunitas marsinah FM
 date: 2012-04-11
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-April_11_2012_-_rapat_panitia_launching_marsinah_fm.jpg](/uploads/200px-April_11_2012_-_rapat_panitia_launching_marsinah_fm.jpg){: .img-responsive .center-block }
 

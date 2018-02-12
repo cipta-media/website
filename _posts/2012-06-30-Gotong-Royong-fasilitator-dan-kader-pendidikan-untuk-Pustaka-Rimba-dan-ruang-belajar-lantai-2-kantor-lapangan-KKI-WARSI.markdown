@@ -3,10 +3,11 @@ title: Gotong Royong fasilitator dan kader pendidikan untuk Pustaka Rimba dan ru
 date: 2012-06-30
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-Juli_30_2012_Benor_FM_Gotong_Royong_fasilitator_dan_kader_pendidikan_untuk_Pustaka_Rimba_dan_ruang_belajar_lantai_2_kantor_lapangan_KKI_WARSI.jpg](/uploads/200px-Juli_30_2012_Benor_FM_Gotong_Royong_fasilitator_dan_kader_pendidikan_untuk_Pustaka_Rimba_dan_ruang_belajar_lantai_2_kantor_lapangan_KKI_WARSI.jpg){: .img-responsive .center-block }	
 ![200px-Juli_30_2012_Benor_FM_Gotong_Royong_fasilitator_dan_kader_pendidikan_untuk_Pustaka_Rimba_dan_ruang_belajar_lantai_2_kantor_lapangan_KKI_WARSI-1.jpg](/uploads/200px-Juli_30_2012_Benor_FM_Gotong_Royong_fasilitator_dan_kader_pendidikan_untuk_Pustaka_Rimba_dan_ruang_belajar_lantai_2_kantor_lapangan_KKI_WARSI-1.jpg){: .img-responsive .center-block }	
 	
@@ -33,4 +34,3 @@ layout: laporancmb
 *	Tertatanya kembali fasilitas pustaka rimba yang ada di kantor lapangan yang juga sekaligus menjadi tempat tinggal dan tempat belajar bagi orang rimba
 *	Tumbuhnya rasa tanggungjawab dan rasa memiliki terhadap sarana dan pra sarana pendidikan yang ada
 *	Terciptanya rasa kebersamaaan antara para pendamping/fasilitator dengan anak-anak remaja rimba dan kader pendidikan yang sudah menetap di lokasi
-

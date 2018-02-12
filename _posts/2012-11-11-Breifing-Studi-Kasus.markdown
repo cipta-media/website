@@ -3,10 +3,10 @@ title: Breifing Studi Kasus
 date: 2012-11-11
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_11_2012_PRC_Foto_Briefing_Rakom_Jawa_Barat.jpg](/uploads/200px-Nopember_11_2012_PRC_Foto_Briefing_Rakom_Jawa_Barat.jpg){: .img-responsive .center-block }
 

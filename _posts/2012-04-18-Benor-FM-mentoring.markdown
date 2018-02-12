@@ -4,10 +4,11 @@ date: 2012-04-18
 categories:
 - laporan
 - mentoring
+- CMS
 - Benor FM
 ---
 
-     Oleh Siska Doviana, Laporan kunjungan kantor KKI Warsi di Jambi dan stasiun radio Benor FM di Kecamatan Air Hitam, (Desa Pematang Kabau - terdekat), Sarolangun, Jambi
+Oleh Siska Doviana, Laporan kunjungan kantor KKI Warsi di Jambi dan stasiun radio Benor FM di Kecamatan Air Hitam, (Desa Pematang Kabau - terdekat), Sarolangun, Jambi
 
 Benor FM adalah radio komunitas orang rimba yang merupakan perwujudan kedua dari radio komunitas sebelumnya yaitu Radio Buana di 107.7 FM yang di bredel karena siaran percobaan dari kantor Jambi. Dengan tujuan mempersiapkan orang rimba untuk mendapatkan informasi, radio ini diperuntukkan untuk orang rimba dengan melakukan pemahaman antara orang rimba dan orang luar.
 
@@ -21,4 +22,4 @@ Karena takut dibredel lagi seperti radio sebelumnya dan seluruh peralatan disita
 
 Tim Ciptamedia menyarankan bahwa seluruh berkas di pindai (scan) dijadikan elektronik dan diunggah pada laporan aktifitas. Surat pertanyaan status ijin radio komunitas di kirimkan melalui surat tercatat secara formal melalui pos, dan seluruh surat yang dikirim diarsip. Sehingga apabila sudah berkali-kali dikirim tidak ada jawaban, maka kasus dapat dibawa ke KPI pusat.
 
-Andi juga menunjukkan bangunan baru, rencana pembangunan menara radio, untuk radio komunitas yang didirikan tidak jauh dari Kantor Lapangan Warsi 
+Andi juga menunjukkan bangunan baru, rencana pembangunan menara radio, untuk radio komunitas yang didirikan tidak jauh dari Kantor Lapangan Warsi

@@ -3,8 +3,10 @@ title: Sosialisasi Situs Laporan Warga Papua Berbasis SMS
 date: 2014-09-22
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
+
 ![300px-September_22_2014_Jubi_Sosialisasi_situs_via_Koran_Jubi.jpg](/uploads/300px-September_22_2014_Jubi_Sosialisasi_situs_via_Koran_Jubi.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Sosialisasi Situs Laporan Warga Papua Berbasis SMS

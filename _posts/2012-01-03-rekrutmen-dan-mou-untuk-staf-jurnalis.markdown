@@ -3,6 +3,7 @@ title: Rekrutmen dan MOU untuk Staf Jurnalis dan Koresponden Keerom
 date: 2012-01-03
 categories:
 - laporan
+- CMB
 - Aldepe.com
 layout: laporancmb
 ---

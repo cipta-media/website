@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita XIV
 date: 2012-09-12
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-September_13_2012_-_1.jpg](/uploads/200px-September_13_2012_-_1.jpg){: .img-responsive .center-block }
 

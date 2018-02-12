@@ -3,6 +3,7 @@ title: Pelatihan Jurnalisme Kampung di Kabupaten Sanggau
 date: 2012-02-04
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -28,4 +29,3 @@ layout: laporancmb
 * Melatih para peserta BBM dari daerah perbatasan dengan Sarawak Malaysia di Kabupaten Sanggau
 * Pelatihan dimulai dengan training jurnalisme kampung 
 * Menghasilkan 20 tulisan dan photo
-

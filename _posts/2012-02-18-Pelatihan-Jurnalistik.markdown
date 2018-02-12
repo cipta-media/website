@@ -3,10 +3,10 @@ title: Pelatihan Jurnalistik
 date: 2012-02-18
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Februari_18_2012_FBLP_pelatihan_jurnalistik_-1.jpg](/uploads/200px-Februari_18_2012_FBLP_pelatihan_jurnalistik_-1.jpg){: .img-responsive .center-block }
 

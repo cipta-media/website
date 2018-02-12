@@ -4,6 +4,7 @@ date: 2012-07-25
 categories:
 - laporan
 - mentoring
+- CMS
 - Indonesian Street Art Database
 ---
 
@@ -29,4 +30,4 @@ Entity-Relationship Modelling untuk perancangan database
 Diskusi ini melengkapi ISAD dengan metodology untuk merancang struktur database mereka, setelah mereka mempunyai rancangan konseptual struktural database, maka rancangan ini dapat digunakan sebagai rincian untuk diberikan pada programmer database yang akan meng implementasi kan database ini
 Rekomendasi
 
-Direkomendasikan bahwa ISAD menyelesaikan proses desain database secepatnya namun dengan rancangan yang minimal memadai (adequate) kalau bisa Kokoh (reliable). 
+Direkomendasikan bahwa ISAD menyelesaikan proses desain database secepatnya namun dengan rancangan yang minimal memadai (adequate) kalau bisa Kokoh (reliable).

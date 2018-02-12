@@ -3,10 +3,10 @@ title: Rubrik Lagu Nusantara
 date: 2012-11-02
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-November_02_-_lagu_nusantara_1.jpg](/uploads/200px-November_02_-_lagu_nusantara_1.jpg){: .img-responsive .center-block }
 

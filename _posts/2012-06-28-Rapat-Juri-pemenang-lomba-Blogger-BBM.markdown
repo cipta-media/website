@@ -3,6 +3,7 @@ title: Rapat Juri pemenang lomba Blogger BBM
 date: 2012-06-28
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -25,4 +26,3 @@ layout: laporancmb
 * Tim Juri melaporkan hasl penilaian terhadap karya para blogger penerima manfaat program BBM
 * Juri menjelaskan criteria dan metode penilaian karya blogger yang tersindikasi dalam situs agregat Border Blogger Movement
 * Rapat juga menentukan bentuk-betuk penghargaan atas katergori dalam lomba blog BBM
-

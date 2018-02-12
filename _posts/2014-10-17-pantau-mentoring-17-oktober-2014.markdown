@@ -4,6 +4,7 @@ date: 2014-10-17
 categories:
 - laporan
 - mentoring
+- CMS
 - m.Pantau
 ---
 
@@ -30,4 +31,3 @@ Selamat malam Pak Gamal,
 
 Saya sudah perbaharui tabel penerima hibah. Silakan dicek pranala berikut: 
 [http://ciptamedia.org/wiki/Tabel_Penerima_Hibah_Cipta_Media_Seluler](http://ciptamedia.org/wiki/Tabel_Penerima_Hibah_Cipta_Media_Seluler)
-

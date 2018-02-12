@@ -3,8 +3,10 @@ title: Launching Website ALDP
 date: 2012-05-02
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Mei_02_2012_launching_Website_ALDP.jpg](/uploads/200px-Mei_02_2012_launching_Website_ALDP.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Launching Website ALDP

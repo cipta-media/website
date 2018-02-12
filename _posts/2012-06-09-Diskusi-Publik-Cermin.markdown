@@ -3,10 +3,10 @@ title: Diskusi Publik Cermin
 date: 2012-06-09
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_09_2012_Diskusi_Publik_Cermin_3_-1.jpg](/uploads/200px-Juni_09_2012_Diskusi_Publik_Cermin_3_-1.jpg){: .img-responsive .center-block }
 

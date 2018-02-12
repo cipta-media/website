@@ -3,10 +3,10 @@ title: aktivis buruh perempuan pemberani
 date: 2012-06-14
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_14_2012_Perempuan_Pelita_1.jpg](/uploads/200px-Juni_14_2012_Perempuan_Pelita_1.jpg){: .img-responsive .center-block }
 

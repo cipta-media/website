@@ -3,10 +3,11 @@ title: Konsultasi Tim Benor untuk perubahan Lembaga Penyiaran Komunitas (LPK) me
 date: 2012-04-18
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-1.jpg](/uploads/200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-1.jpg){: .img-responsive .center-block }	
 ![200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-2.jpg](/uploads/200px-April_30_2012_Benor_FM_Konsultasi_perubahan_LPK_ke_LPS_ke_KPID_Jambi-2.jpg){: .img-responsive .center-block }	
 
@@ -31,4 +32,3 @@ layout: laporancmb
 *	Mendapatkan Dukungan atas keberadaan rakom di desa Bukit Suban
 *	Tumbuhnya rasa memiliki akan keberadaan radio komunitas
 *	Diterimanya radio sebagai media informasi alternatif di lingkungan masyarakat desa Bukit Suban
-

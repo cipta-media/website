@@ -4,10 +4,11 @@ date: 2012-07-12
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-         Oleh Anggara Monitoring Program di Kediri di Sekretariat HPku Temanku Belajarku, Kediri, Jawa Timur
+Oleh Anggara Monitoring Program di Kediri di Sekretariat HPku Temanku Belajarku, Kediri, Jawa Timur
 
     HPku Teman Belajarku
     Peserta yang hadir:

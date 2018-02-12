@@ -3,6 +3,7 @@ title: Lingkar Suara Buruh Perempuan - Proposal Lengkap
 date: 2014-06-17
 categories:
 - laporan
+- CMS
 - Lingkar Suara Buruh Perempuan
 ---
 
@@ -173,4 +174,3 @@ Dana yang diajukan ke Cipta Media Seluler sebesar **Rp500.398.000,-**
 **Sumber dana lainnya:**
 
 Kontribusi organisasi sebesar **Rp 10,800,000,-**
- 

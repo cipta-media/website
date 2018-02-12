@@ -3,6 +3,7 @@ title: Pelatihan Pemantauan Media berbasis Komunitas Hari I
 date: 2012-02-02
 categories:
 - laporan
+- CMS
 - AKUMASSA.ORG
 ---
 
@@ -54,4 +55,3 @@ categories:
 ![200px-Februari_02_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_5.jpg](/uploads/200px-Februari_02_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_5.jpg){: .img-responsive .center-block }
 
 ![200px-Februari_02_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_6.jpg](/uploads/200px-Februari_02_2012_Akumassa_Pelatihan-Media-Berbasis-Komunitas_6.jpg){: .img-responsive .center-block }
-

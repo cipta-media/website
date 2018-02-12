@@ -4,6 +4,7 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---

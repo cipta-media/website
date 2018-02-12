@@ -3,10 +3,10 @@ title: Rubrik Perempuan Pelita
 date: 2012-06-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juni_07_2012_-_perempuan_pelita_1.jpg](/uploads/200px-Juni_07_2012_-_perempuan_pelita_1.jpg){: .img-responsive .center-block }
 

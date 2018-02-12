@@ -4,6 +4,7 @@ date: 2013-01-23
 categories:
 - laporan
 - mentoring
+- CMS
 - Border Blogger Movement
 ---
 
@@ -49,4 +50,3 @@ Apabila untuk yang lain BBM diminta untuk memasukkan proposal dan anggaran yang 
 
 Salam,
 Siska Doviana
-

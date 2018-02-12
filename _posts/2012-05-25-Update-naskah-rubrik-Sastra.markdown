@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-05-25
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra, "Matinya Sang Wombuwa" (Penulis - Christopel Paino)
 

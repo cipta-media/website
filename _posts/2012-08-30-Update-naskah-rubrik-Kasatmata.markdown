@@ -3,9 +3,9 @@ title: Update naskah rubrik Kasatmata
 date: 2012-08-30
 categories:
 - laporan
+- CMS
 - LenteraTimur.com
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata "Ketika Kapal Perang Menjadi Alat Transportasi Tambang" (Penulis - TM Dhani Iqbal)
 

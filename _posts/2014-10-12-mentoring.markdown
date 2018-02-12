@@ -3,8 +3,10 @@ title: Mentoring
 date: 2014-10-12
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![300px-Oktober_12_2014_SIIK_Mentoring.jpg](/uploads/300px-Oktober_12_2014_SIIK_Mentoring.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Mentoring

@@ -3,10 +3,11 @@ title: Diskusi Berkala Ke 2 Bersama Dr.Doreen Lee (Asisten profesor di Departeme
 date: 2012-02-29
 categories:
 - laporan
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---
-	
+
 ![200px-Februari_29_2012_ISAD_Street_Art_Ekspresi_Politis_Pencarian_Jati_Diri_Anak_Muda_dan_Kuasa_Pasar..jpg](/uploads/200px-Februari_29_2012_ISAD_Street_Art_Ekspresi_Politis_Pencarian_Jati_Diri_Anak_Muda_dan_Kuasa_Pasar..jpg){: .img-responsive .center-block }	
 ![200px-Februari_29_2012_ISAD_Street_Art_Ekspresi_Politis_Pencarian_Jati_Diri_Anak_Muda_dan_Kuasa_Pasar.jpg](/uploads/200px-Februari_29_2012_ISAD_Street_Art_Ekspresi_Politis_Pencarian_Jati_Diri_Anak_Muda_dan_Kuasa_Pasar.jpg){: .img-responsive .center-block }	
 	

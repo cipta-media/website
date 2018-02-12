@@ -3,10 +3,10 @@ title: Talkshow rubrik Hak dan Hukum
 date: 2012-07-06
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_6_2012_-_hak_dan_hukum_1.jpg](/uploads/200px-Juli_6_2012_-_hak_dan_hukum_1.jpg){: .img-responsive .center-block }
 

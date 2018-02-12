@@ -3,6 +3,7 @@ title: Penyusunan Laporan program
 date: 2013-03-10
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -23,4 +24,3 @@ layout: laporancmb
 **Ringkasan** :
 * Tanggal 15 April 2013 rapat rutin lembaga, dilanjutkan   rekapitulasi dan kompilasi data program dan keuangan  fase II, termasuk  laporan kegiatan "Borneo Writers Gathering" bersama Yayasan Pantau Jakarta.
 * Tanggal  16-17 Penyusunan laporan (narasi) kegiatan yang maupun keuangan yang belum selesai
-

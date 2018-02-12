@@ -3,8 +3,10 @@ title: Pelatihan FrontLine SMS untuk Website ALDP
 date: 2012-02-28
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_28_2011_ALDP_Pelatihan_Frontline_SMS.JPG](/uploads/200px-Februari_28_2011_ALDP_Pelatihan_Frontline_SMS.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Pelatihan FrontLine SMS untuk Website ALDP

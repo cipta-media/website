@@ -3,10 +3,10 @@ title: Rubrik Tembang Kenangan
 date: 2012-10-28
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Tembang_Kenangan_Oktober_28_-_1.jpg](/uploads/200px-Tembang_Kenangan_Oktober_28_-_1.jpg){: .img-responsive .center-block }
 

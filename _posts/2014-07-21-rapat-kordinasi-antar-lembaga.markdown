@@ -3,8 +3,10 @@ title: Rapat Kordinasi Antar lembaga
 date: 2014-07-21
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![300px-Pelatihan_Laporan_CMS.jpg](/uploads/300px-Pelatihan_Laporan_CMS.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Rapat Kordinasi Antar lembaga

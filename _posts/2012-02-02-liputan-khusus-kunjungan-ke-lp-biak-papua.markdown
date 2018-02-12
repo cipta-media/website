@@ -3,8 +3,10 @@ title: Liputan Khusus Kunjungan ke LP Biak-Papua
 date: 2012-02-02
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kunjungan ke LP Biak-Papua

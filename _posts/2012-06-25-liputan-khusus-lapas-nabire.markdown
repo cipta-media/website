@@ -3,8 +3,10 @@ title: Liputan Khusus LAPAS Nabire
 date: 2012-06-25
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-November_25_2012_Liputan_Khusus_LAPAS_Nabire.jpg](/uploads/200px-November_25_2012_Liputan_Khusus_LAPAS_Nabire.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus LAPAS Nabire

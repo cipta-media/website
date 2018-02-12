@@ -3,9 +3,9 @@ title: Volunter Gathering untuk mahasiswa
 date: 2012-03-31
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-Maret_31_2012_NextGeneration_VolunteerGathering_3.JPG](/uploads/200px-Maret_31_2012_NextGeneration_VolunteerGathering_3.JPG){: .img-responsive .center-block }
 

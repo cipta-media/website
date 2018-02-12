@@ -4,6 +4,7 @@ date: 2013-03-22
 categories:
 - laporan
 - mentoring
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
@@ -19,4 +20,4 @@ Salam,
 
 
 -- 
-Siska Doviana 
+Siska Doviana

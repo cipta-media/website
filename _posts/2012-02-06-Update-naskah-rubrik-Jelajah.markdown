@@ -3,10 +3,10 @@ title: Update naskah rubrik Jelajah
 date: 2012-02-06
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jelajah, "(LenteraTimur) Journey to Deli" (Penulis - Redaksi)
 

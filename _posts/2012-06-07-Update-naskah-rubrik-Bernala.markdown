@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-06-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala, "Pancasila Ditafsir, Bumiputra Diusir?" (Penulis - TM Dhani Iqbal)
 

@@ -4,6 +4,7 @@ date: 2015-02-03
 categories:
 - laporan
 - mentoring
+- CMS
 - Sempugi
 ---
 

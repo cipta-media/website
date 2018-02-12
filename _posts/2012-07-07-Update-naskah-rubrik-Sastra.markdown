@@ -3,10 +3,10 @@ title: Update naskah rubrik Sastra
 date: 2012-07-07
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Sastra, "Manekin" (Kontributor - Berto Tukan)
 

@@ -3,10 +3,10 @@ title: Update naskah rubrik Kasatmata
 date: 2012-05-23
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Dongeng Hari Kebangkitan Nasional" (Penulis - Christopel Paino)
 

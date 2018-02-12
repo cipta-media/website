@@ -4,6 +4,7 @@ date: 2012-09-26
 categories:
 - laporan
 - sms
+- CMB
 - Bhinneka
 layout: laporancmb
 ---
@@ -18,5 +19,4 @@ layout: laporancmb
   * BNK|Solo Kalau pengin ngirim artikel bisa nggak ya?? 
   * BNK|Medan- Majalah bhinneka sunggu mencerdaskan. Teruskan perjuangan untuk membela yg tertindas krn perbedaan. Salam. 
   * BNK|Jogja - Majalah bhinneka mendorong orang untuk berfikir kritis dan lepas dari belenggu doktrin. Sukses selalu buat majalah bhinneka 
-  * BNK|Bandung - Majalah bhinneka menurut saya harus lebih banyak memuat tulisan2 yang bernada positif, seperti kegiatan lintas agama, budaya, pesta rakyat, dll 
-  
+  * BNK|Bandung - Majalah bhinneka menurut saya harus lebih banyak memuat tulisan2 yang bernada positif, seperti kegiatan lintas agama, budaya, pesta rakyat, dll

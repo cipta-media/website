@@ -3,9 +3,11 @@ title: Pelatihan Team Building untuk kekompakan intern pengurus
 date: 2012-03-03
 categories:
 - laporan
+- CMB
 - Kartunet.com
 layout: laporancmb
 ---
+
 ![Maret_03_2012_Kartunet_Team_Building.JPG](/uploads/Maret_03_2012_Kartunet_Team_Building.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Pelatihan Team Building untuk kekompakan intern pengurus

@@ -3,8 +3,10 @@ title: Liputan khusus dan Advokasi Kasus Tambang Nikel Tablasupa Jayapura
 date: 2012-03-28
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Maret_29_2012_Advokasi_Kasus_Tambang_Tablasupa.jpg](/uploads/200px-Maret_29_2012_Advokasi_Kasus_Tambang_Tablasupa.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan khusus dan Advokasi Kasus Tambang Nikel Tablasupa Jayapura

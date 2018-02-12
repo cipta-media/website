@@ -3,10 +3,10 @@ title: Update naskah rubrik Bernala
 date: 2012-05-09
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Bernala, "Organisasi Advokat dan Federalisme Indonesia" (Kontributor - Anshari Dimyati) 
 

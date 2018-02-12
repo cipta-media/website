@@ -3,10 +3,10 @@ title: Peluncuran Web
 date: 2012-09-13
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-September_13_2012_Peluncuran_Web_Fundraising_Media.png](/uploads/200px-September_13_2012_Peluncuran_Web_Fundraising_Media.png){: .img-responsive .center-block }
 

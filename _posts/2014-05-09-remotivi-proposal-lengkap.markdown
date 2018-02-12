@@ -3,6 +3,7 @@ title: Remotivi - Proposal Lengkap
 date: 2014-05-09
 categories:
 - laporan
+- CMS
 - Rapotivi
 ---
 
@@ -129,4 +130,3 @@ Sisi lain, publik juga (1) kurang mengenal keberadaan KPI dan fungsinya, dan ini
   Sumber dana lainnya:
   
   Tidak ada
- 

@@ -3,6 +3,7 @@ title: Diskusi Klasifikasi Video Game
 date: 2012-03-03
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
 

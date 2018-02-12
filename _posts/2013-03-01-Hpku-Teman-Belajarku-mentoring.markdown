@@ -4,10 +4,11 @@ date: 2013-03-01
 categories:
 - laporan
 - mentoring
+- CMS
 - Hpku-Teman Belajarku
 ---
 
-     Dari Heru Tjatur ke Ali Sahbana via surel dengan subyek: Keputusan Organisasi Pengelola Program Cipta Media Bersama
+Dari Heru Tjatur ke Ali Sahbana via surel dengan subyek: Keputusan Organisasi Pengelola Program Cipta Media Bersama
 
 Dear Pak Ali Sahbana
 
@@ -17,4 +18,4 @@ Berdasarkan pertemuan evaluasi internal pengelola program CMB, dengan ini disamp
 
 Sebagai arsip administrasi, dokumen ini juga akan kami kirimkan ke alamat terakhir yang ada dalam catatan kami. Terima kasih.
 
-Regards, Heru Tjatur TWP Program Manager CMB - ICT Watch 
+Regards, Heru Tjatur TWP Program Manager CMB - ICT Watch

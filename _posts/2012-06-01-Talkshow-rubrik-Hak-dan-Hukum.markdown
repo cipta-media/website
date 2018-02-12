@@ -3,10 +3,10 @@ title: Talkshow rubrik Hak dan Hukum
 date: 2012-06-01
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-JUni_01_2012_Jampersal_untuk_ibu_hamil.jpg](/uploads/200px-JUni_01_2012_Jampersal_untuk_ibu_hamil.jpg){: .img-responsive .center-block }
 

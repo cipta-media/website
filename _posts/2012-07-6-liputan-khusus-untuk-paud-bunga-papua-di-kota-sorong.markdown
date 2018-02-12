@@ -3,8 +3,10 @@ title: Liputan khusus untuk PAUD Bunga Papua di Kota Sorong
 date: 2012-07-06
 categories:
 - laporan
+- CMS
 - Aldepe.com
 ---
+
 ![200px-Juli_06-09_2012_Paud_BungaPapua.jpg](/uploads/200px-Juli_06-09_2012_Paud_BungaPapua.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Liputan khusus untuk PAUD Bunga Papua di Kota Sorong

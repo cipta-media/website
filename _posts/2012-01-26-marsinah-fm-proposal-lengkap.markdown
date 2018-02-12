@@ -1,8 +1,9 @@
 ---
 title: Marsinah FM - Proposal Lengkap
-date: 2012-01-26 09:03:00 +07:00
+date: 2012-01-26 09:03:00+07:00
 categories:
 - laporan
+- CMS
 - Marsinah FM
 ---
 

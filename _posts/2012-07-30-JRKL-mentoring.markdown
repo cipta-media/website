@@ -4,10 +4,11 @@ date: 2012-07-30
 categories:
 - laporan
 - mentoring
+- CMS
 - JRKL
 ---
 
-     Oleh Idaman Andarmosoko, Sekretariat JRKL Lampung
+Oleh Idaman Andarmosoko, Sekretariat JRKL Lampung
         Hadir: 
 
 Organisasional
@@ -36,4 +37,3 @@ JRKL akan memperbaiki peralatan (pemancar dan audio) yang rusak, dan akan metarg
 Modifikasi anggaran
 
 JRKL memerlukan penyesuaian pembiayaan karena transportasi menuju salah satu lokasi komunitas tidak terperhitungkan sebelumnya. Atas butir ini penasehat menyarankan JRKL berkonsultasi langsung dengan pengelola cipta media
-

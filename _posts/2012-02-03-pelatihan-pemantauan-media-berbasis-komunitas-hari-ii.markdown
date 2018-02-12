@@ -3,6 +3,7 @@ title: Pelatihan Pemantauan Media berbasis Komunitas Hari II
 date: 2012-02-03
 categories:
 - laporan
+- CMS
 - AKUMASSA.ORG
 ---
 

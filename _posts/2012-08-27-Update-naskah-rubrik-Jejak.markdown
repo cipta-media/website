@@ -3,10 +3,10 @@ title: Update naskah rubrik Jejak
 date: 2012-08-27
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---
-
 
 **Tujuan** : Update naskah rubrik Jejak "Kamus Perancis-Melayu, Terbit 1856" (Kontributor - Ida Ayu Lestari)
 

@@ -3,10 +3,11 @@ title: Koordinasi awal dan persiapan pelaksanaan kegiatan
 date: 2012-12-20
 categories:
 - laporan
+- CMB
 - Hpku-Teman Belajarku
 layout: laporancmb
 ---
-	
+
 ![200px-Desember_20_2011_1000guru_pelatihan_pelaksana.jpg](/uploads/200px-Desember_20_2011_1000guru_pelatihan_pelaksana.jpg){: .img-responsive .center-block }	
 	
 **Tujuan** :	Koordinasi awal dan persiapan pelaksanaan kegiatan

@@ -3,7 +3,8 @@ title: Solidaritas.net Media Center - Proposal Lengkap
 date: 2014-06-18
 categories:
 - laporan
-- solidaritas.net  
+- CMS
+- solidaritas.net
 ---
 
 !300px-Sarinah_124_Solidaritas.net_Media_Center.jpg](/uploads/300px-Sarinah_124_Solidaritas.net_Media_Center.jpg){: .img-responsive .center-block }

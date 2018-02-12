@@ -4,6 +4,7 @@ date: 2012-04-07
 categories:
 - laporan
 - sms
+- CMB
 - JRKL
 layout: laporancmb
 ---
@@ -15,4 +16,4 @@ layout: laporancmb
 ---
 
 **Isi Laporan:**
-  * JRKL\|Dalam acara AL,EL,DUL pada jam 08.00 Membenarkan gebut-gebutan padahal msih di bawah umur. 
+  * JRKL\|Dalam acara AL,EL,DUL pada jam 08.00 Membenarkan gebut-gebutan padahal msih di bawah umur.

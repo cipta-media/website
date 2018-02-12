@@ -3,6 +3,7 @@ title: Situs Laporan Warga Papua Berbasis SMS - Laporan Narasi Pertanggung Jawab
 date: 2015-03-13
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 

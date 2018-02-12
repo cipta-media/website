@@ -3,10 +3,11 @@ title: Pearawatn Tower Triangle Benor FM di Studio Benor FM desa Bukit Suban Kec
 date: 2012-09-14
 categories:
 - laporan
+- CMB
 - Benor FM
 layout: laporancmb
 ---
-	
+
 ![200px-September_14_2012_Benor_FM_Pengecatan_Tower_Triangle.jpg](/uploads/2200px-September_14_2012_Benor_FM_Pengecatan_Tower_Triangle.jpg){: .img-responsive .center-block }	
 ![200px-September_14_2012_Benor_FM_Pengecatan_Tower_Triangle.-2.jpg](/uploads/2200px-September_14_2012_Benor_FM_Pengecatan_Tower_Triangle.-2.jpg){: .img-responsive .center-block }		
 

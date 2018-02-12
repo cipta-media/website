@@ -3,10 +3,10 @@ title: Talkshow rubrik
 date: 2012-07-01
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_01_2012_-_Andai_Saja_Toha_dan_Estin_1.jpg](/uploads/200px-Juli_01_2012_-_Andai_Saja_Toha_dan_Estin_1.jpg){: .img-responsive .center-block }
 

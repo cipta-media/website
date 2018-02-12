@@ -3,10 +3,10 @@ title: rubrik tembang kenangan
 date: 2012-07-29
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Juli_29_2012_Tembang_Kenangan_1.jpg](/uploads/200px-Juli_29_2012_Tembang_Kenangan_1.jpg){: .img-responsive .center-block }
 
@@ -28,4 +28,4 @@ layout: laporancmb
 * [Thin Kusna](http://wiki.ciptamedia.org/wiki/Thin Kusna)
 
 **Ringkasan**  
-* Rubrik Tembang kenangan adalah tembang kenangan baik barat, dangdut, pop dan lainnya yang diasuh oleh Olief dan Thin Kusna 
+* Rubrik Tembang kenangan adalah tembang kenangan baik barat, dangdut, pop dan lainnya yang diasuh oleh Olief dan Thin Kusna

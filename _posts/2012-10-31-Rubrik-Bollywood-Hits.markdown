@@ -3,10 +3,10 @@ title: Rubrik Bollywood Hits
 date: 2012-10-31
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Oktober_31_-_Dangdut_asiik_1.jpg](/uploads/200px-Oktober_31_-_Dangdut_asiik_1.jpg){: .img-responsive .center-block }
 
@@ -26,4 +26,4 @@ layout: laporancmb
 * [Juma](http://wiki.ciptamedia.org/wiki/Juma)
 
 **Ringkasan**  
-* Dangdut Asiik tayang setiap Minggu dan Rabu 
+* Dangdut Asiik tayang setiap Minggu dan Rabu

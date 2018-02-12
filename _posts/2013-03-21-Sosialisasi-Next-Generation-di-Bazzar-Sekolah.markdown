@@ -3,9 +3,9 @@ title: Sosialisasi Next Generation di Bazzar Sekolah
 date: 2013-03-21
 categories:
 - laporan
+- CMS
 - Next Generation
 ---
-
 
 ![200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_1.jpg](/uploads/200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_1.jpg)
 ![200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_2.jpg](/uploads/200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_2.jpg)
@@ -47,4 +47,4 @@ categories:
 * Ressa Ria
 
 **Ringkasan** 
-* Merupakan acara open house dari SD Tumbuh Kembang Al Amanah. Next Generation diberi satu stand untuk promosi kegiatan dan sosialisasi organisasi kepada orang tua dan pengunjung acara. Next Generation membagikan brosur, menjual stiker, dan buku dalam upaya penggalangan dana organisasi. Next Generation juga membuka ruang untuk diskusi dan konsultasi video game bagi pengunjung. Pengunjung diperkirakan mencapai 300-an orang, ada juga acara lomba-lomba untuk anak-anak, hingga bazzar makanan dan pakaian. 
+* Merupakan acara open house dari SD Tumbuh Kembang Al Amanah. Next Generation diberi satu stand untuk promosi kegiatan dan sosialisasi organisasi kepada orang tua dan pengunjung acara. Next Generation membagikan brosur, menjual stiker, dan buku dalam upaya penggalangan dana organisasi. Next Generation juga membuka ruang untuk diskusi dan konsultasi video game bagi pengunjung. Pengunjung diperkirakan mencapai 300-an orang, ada juga acara lomba-lomba untuk anak-anak, hingga bazzar makanan dan pakaian.

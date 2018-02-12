@@ -4,6 +4,7 @@ date: 2012-09-19
 categories:
 - laporan
 - sms
+- CMB
 - Indonesian Street Art Database
 layout: laporancmb
 ---

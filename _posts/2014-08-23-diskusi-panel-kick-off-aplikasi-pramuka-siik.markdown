@@ -3,8 +3,10 @@ title: Diskusi Panel Kick Off Aplikasi Pramuka SIIK
 date: 2014-08-23
 categories:
 - laporan
+- CMS
 - Pandu App
 ---
+
 ![200px-Agustus_23_2014_SIIK_Diskusi_Panel-1.png](/uploads/200px-Agustus_23_2014_SIIK_Diskusi_Panel-1.png){: .img-responsive .center-block }
 ![200px-Agustus_23_2014_Diskusi_Panel-3.png](/uploads/200px-Agustus_23_2014_Diskusi_Panel-3.png){: .img-responsive .center-block }
 ![200px-Agustus_23_2014_Diskusi_Panel-2.png](/uploads/200px-Agustus_23_2014_Diskusi_Panel-2.png){: .img-responsive .center-block }

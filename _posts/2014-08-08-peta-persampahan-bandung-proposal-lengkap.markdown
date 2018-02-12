@@ -3,6 +3,7 @@ title: Peta Persampahan Bandung - Proposal Lengkap
 date: 2014-08-08
 categories:
 - laporan
+- CMS
 - bebassampah.id
 ---
 

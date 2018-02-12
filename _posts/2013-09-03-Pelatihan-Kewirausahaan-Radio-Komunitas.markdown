@@ -3,10 +3,10 @@ title: Pelatihan Kewirausahaan Radio Komunitas
 date: 2013-09-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-September_3_2013_PRC_Pelatihan_Kewirausahaan_Rakom1.jpg](/uploads/200px-September_3_2013_PRC_Pelatihan_Kewirausahaan_Rakom1.jpg){: .img-responsive .center-block }
 
@@ -61,4 +61,4 @@ layout: laporancmb
 **Ringkasan**  
 * Pelatihan Kewirausahaan untuk Radio Kumunitas ini berhasil meningkatkan meningkatkan pemahaman atas peluang-peluang usaha yang dimiliki dan bisa dilakukan oleh radio komunitas. 
 * Pelatihan juga berhasil memberikan pengetahuan pengetahuan mengenai aspek-aspek kewirausahaan yang harus disiapkan oleh radio komunitas. Pada akhir pelatihan peserta dapat menghapus “mental block” dan meningkatkan rasa percaya diri serta keyakinan untuk dapat dan mampu menangkap peluang-peluang usaha. Karena pada akhir pelatihan peserta praktek langsung mengelola usaha dengan mengolah singkong dan memasarkannya. 
-* Sesi akhir praktek pengelolaan usaha ini diharpakan dapat meotivasi peserta untuk mengimplementasikan atau merintis usaha yang dapat dikembangkan oleh radio komunitas dengan segera. 
+* Sesi akhir praktek pengelolaan usaha ini diharpakan dapat meotivasi peserta untuk mengimplementasikan atau merintis usaha yang dapat dikembangkan oleh radio komunitas dengan segera.

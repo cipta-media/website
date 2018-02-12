@@ -3,6 +3,7 @@ title: "Sempugi: Ringtone dan Wallpaper - Laporan Narasi Pertanggung Jawaban Hib
 date: 2011-11-14
 categories:
 - laporan
+- CMB
 - Sempugi
 layout: laporancmb
 ---

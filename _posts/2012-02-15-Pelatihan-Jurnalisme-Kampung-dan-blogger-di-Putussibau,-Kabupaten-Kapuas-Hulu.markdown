@@ -3,6 +3,7 @@ title: Pelatihan Jurnalisme Kampung dan blogger di Putussibau, Kabupaten Kapuas 
 date: 2012-02-15
 categories:
 - laporan
+- CMB
 - Border Blogger Movement
 layout: laporancmb
 ---
@@ -30,5 +31,4 @@ layout: laporancmb
 * Ngeblog dari A-Z  Oleh Asriyadi Alexander Mering dan Severianus Endi, blogger yang juga kontributor The Jakarta Post
 * Selain menghasilkan 19 tulisan dan photo, para peserta juga berhasil memiliki blog masing-masing.
 * Penutupan Kegiatan hari kedua: salah satu peserta menyampaikan reviewnya. 
-* Pembagian modem dan penandatanganan kontrak belajar bagi peserta penerima manfaat program BBM. 
-
+* Pembagian modem dan penandatanganan kontrak belajar bagi peserta penerima manfaat program BBM.

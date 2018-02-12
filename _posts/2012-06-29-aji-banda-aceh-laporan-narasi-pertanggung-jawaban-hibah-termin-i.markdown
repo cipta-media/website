@@ -1,8 +1,9 @@
 ---
 title: AJI Banda Aceh - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2012-06-29 10:34:00 +07:00
+date: 2012-06-29 10:34:00+07:00
 categories:
 - laporan
+- CMS
 - AJI Banda Aceh
 ---
 

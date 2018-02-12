@@ -3,10 +3,10 @@ title: Rubrik Layar
 date: 2012-12-07
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
-
 
 ![200px-Des_07_2012_-_layar_1.jpg](/uploads/200px-Des_07_2012_-_layar_1.jpg){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 * [Mimosa](http://wiki.ciptamedia.org/wiki/Mimosa)
 
 **Ringkasan**  
-* layar tiap sabtu dan rabu malam jam 7 
+* layar tiap sabtu dan rabu malam jam 7

@@ -3,6 +3,7 @@ title: Situs Laporan Warga Papua Berbasis SMS - Proposal Lengkap
 date: 2014-06-16
 categories:
 - laporan
+- CMS
 - Situs Laporan JUBI
 ---
 
@@ -206,4 +207,3 @@ Penerima manfaat proyek adalah Masyarakat umum berusia 13 tahun ke atas yang ber
  **Sumber dana lainnya:**
   
   Kontribusi organisasi Perkumpulan Jubi **Rp. 201.530.000,-**
- 

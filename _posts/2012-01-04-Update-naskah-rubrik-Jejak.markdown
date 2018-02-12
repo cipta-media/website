@@ -3,6 +3,7 @@ title: Update naskah rubrik Jejak
 date: 2012-01-04
 categories:
 - laporan
+- CMB
 - LenteraTimur.com
 layout: laporancmb
 ---

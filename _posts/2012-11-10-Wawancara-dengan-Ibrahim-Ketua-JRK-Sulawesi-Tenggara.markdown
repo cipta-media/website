@@ -3,10 +3,10 @@ title: Wawancara dengan Ibrahim Ketua JRK Sulawesi Tenggara
 date: 2012-11-10
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Nopember_10_2012_PRC_Wawancara_dengan_Ibrahim_Ketua_JRK_Sultra.png](/uploads/200px-Nopember_10_2012_PRC_Wawancara_dengan_Ibrahim_Ketua_JRK_Sultra.png){: .img-responsive .center-block }
 
@@ -25,4 +25,4 @@ layout: laporancmb
 
 
 **Ringkasan**  
-* Wawancara ini dilakukan untuk menggali informasi perkembangan Rakom di Sulawesi Tenggara dan sejauh mana peran JRK dalam mengayomi Rakom se-Sultra 
+* Wawancara ini dilakukan untuk menggali informasi perkembangan Rakom di Sulawesi Tenggara dan sejauh mana peran JRK dalam mengayomi Rakom se-Sultra

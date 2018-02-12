@@ -3,6 +3,7 @@ title: Rubrik Perempuan Pelita edisi XV
 date: 2012-09-21
 categories:
 - laporan
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
@@ -24,4 +25,4 @@ layout: laporancmb
 * [Dias](http://wiki.ciptamedia.org/wiki/Dias)
 
 **Ringkasan**  
-* Rubrik Perempuan Pelita Edisi XV tentang ilmuwan perempuan yang menyumbang banyak pengetahuan 
+* Rubrik Perempuan Pelita Edisi XV tentang ilmuwan perempuan yang menyumbang banyak pengetahuan

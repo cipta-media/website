@@ -3,6 +3,7 @@ title: Sosialisasi kegiatan MK160 kepada tokoh masyarakat dan warga di Pedukuhan
 date: 2012-05-23
 categories:
 - laporan
+- CMS
 - MK-160
 ---
 

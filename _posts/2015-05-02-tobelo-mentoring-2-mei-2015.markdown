@@ -4,6 +4,7 @@ date: 2015-05-02
 categories:
 - laporan
 - mentoring
+- CMS
 - Monitoring Hutan Tobelo
 ---
 

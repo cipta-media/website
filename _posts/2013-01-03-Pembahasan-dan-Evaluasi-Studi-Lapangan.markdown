@@ -3,10 +3,10 @@ title: Pembahasan dan Evaluasi Studi Lapangan
 date: 2013-01-03
 categories:
 - laporan
+- CMB
 - PIRAC
 layout: laporancmb
 ---
-
 
 ![200px-Januari_3_2013_PRC_Pembahasan_Evaluasi_Studi_Lapangan_6_wilayah.jpg](/uploads/200px-Januari_3_2013_PRC_Pembahasan_Evaluasi_Studi_Lapangan_6_wilayah.jpg){: .img-responsive .center-block }
 
@@ -31,4 +31,4 @@ layout: laporancmb
 * Ikin [PIRAC](http://wiki.ciptamedia.org/wiki/PIRAC)
 
 **Ringkasan**  
-* Rapat ini mengevaluasi satu per satu hasil studi yang telah dilakukan di enam propinsi di Indonesia. Pendalaman hasil studi dilakukan untuk kepentingan laporan dan pembuatan modul ajar yang akan disampaikan ke Jaringan Radio Komunitas nantinya. 
+* Rapat ini mengevaluasi satu per satu hasil studi yang telah dilakukan di enam propinsi di Indonesia. Pendalaman hasil studi dilakukan untuk kepentingan laporan dan pembuatan modul ajar yang akan disampaikan ke Jaringan Radio Komunitas nantinya.

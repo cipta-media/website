@@ -4,6 +4,7 @@ date: 2012-05-04
 categories:
 - laporan
 - mentoring
+- CMB
 - Marsinah FM
 layout: laporancmb
 ---
@@ -23,4 +24,4 @@ Marsinah FM siaram pukul 4 sore hingga 9 malam saat buruh pulang kerja dan mengg
 
 Sementara pada pelatihan teknis, Hendra membantu mengatur besar gambar yang dihasilkan mesin pemindai agar gambar tidak menjadi terlalu besar dan memberatkan komputer. Didiskusikan kemungkinan melakukan pelatihan pemindaian (scan) untuk beberapa aktivis forum buruh lintas pabrik yang ingin mendigitalisasi booklet mereka dan menyelamatkan beberapa data. Seperti dikutip, "Wah kalau ada di blog, jaman sekertariat kita terbakar dulu, kita tidak perlu pusing-pusing karena data tetap ada".
 
-Juga dibicarakan pelatihan twitter dengan Isabela. 
+Juga dibicarakan pelatihan twitter dengan Isabela.
