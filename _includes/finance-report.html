@@ -1,0 +1,206 @@
+<div class="container">
+  <div class="btn-group btn-group-justified">
+    {% assign b = 0 %}
+    <ul class="nav nav-pills">
+      <li class="active"><a href="#semua" class="btn btn-danger" data-toggle="pill"><strong>Semua</strong></a></li>
+      {% for item in structure.rincian.laporan %}
+      {% assign a = item.kode %}
+      {% if b != a %}
+      <li><a href=".{{ item.kode }}" class="btn btn-danger" data-toggle="pill"><strong>{{ item.kode }}</strong></a></li>
+      {% endif %}
+      {% assign b = a %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <h2>Rincian Penggunaan Dana</h2>
+        <table class="table">
+          <thead class="text-danger">
+            <th width="10%" class="text-left">Tanggal</th>
+            <th width="40%" class="text-left">Rincian</th>
+            <th width="10%" class="text-center">Status Penggantian</th>
+            <th width="20%" class="text-right">Kredit</th>
+            <th width="20%" class="text-right">Debit</th>
+          </thead>
+          <tbody>
+            <tr>
+              <td width="10%"></td>
+              <td width="40%"><strong><p class="text-left">Total Anggaran</p></strong></td>
+              <td width="10%"></td>
+              <td width="20%"><strong><p class="text-right">{{ structure.ringkasan.total_rencana_anggaran }}</p></strong></td>
+              <td width="20%"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="tab-content">
+        {% for item in dataset reversed %}
+        {% if item.proyek == items_project_filter %}
+        <div class="{{ item.kode }} tab-pane fade active in">
+          <div class="row">
+            <table class="table">
+              <tbody>
+                <tr>
+                  <td width="10%"><strong><p class="text-left">{{ item.date | date: "%D" }}</p></strong></td>
+                  <td width="40%">
+                    <strong><p class="text-left">{{ item.nama }}</p></strong>
+                    <p class="text-left">{{ item.title }}</p>
+                  </td>
+                  <td width="10%">
+                    <strong><p class="text-center">
+                    {% if item.penggantian %}
+                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#2DC464">
+                      <i class="fa fa-check" aria-hidden="true"></i>
+                    </a>
+                    {% else %}
+                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#F85154">
+                      <i class="fa fa-times" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+                    </p></strong>
+                  </td>
+                  <td width="20%"></td>
+                  <td width="20%"><strong><p class="text-right">{{ item.biaya }}</p></strong></td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+        <div id="semua" class="tab-pane fade">
+        {% for item in dataset reversed %}
+        {% if item.proyek == items_project_filter %}
+          <div class="row">
+            <table class="table">
+              <tbody>
+                <tr>
+                  <td width="10%"><strong><p class="text-left">{{ item.date | date: "%D" }}</p></strong></td>
+                  <td width="40%">
+                    <strong><p class="text-left">{{ item.nama }}</p></strong>
+                    <p class="text-left">{{ item.title }}</p>
+                  </td>
+                  <td width="10%">
+                    <strong><p class="text-center">
+                    {% if item.penggantian %}
+                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#2DC464">
+                      <i class="fa fa-check" aria-hidden="true"></i>
+                    </a>
+                    {% else %}
+                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#F85154">
+                      <i class="fa fa-times" aria-hidden="true"></i>
+                    </a>
+                    {% endif %}
+                    </p></strong>
+                  </td>
+                  <td width="20%"></td>
+                  <td width="20%"><strong><p class="text-right">{{ item.biaya }}</p></strong></td>
+                </tr>
+              </tbody>
+            </table>
+            <hr>
+          </div>
+        {% endif %}
+        {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <table class="table">
+        <tbody>
+          <tr>
+            <td width="5%"></td>
+            <td width="50%"><strong><p class="text-left">Total Pengeluaran</p></strong></td>
+            <td width="5%"></td>
+            <td width="20%"></td>
+            {% assign total_cost = 0 %}
+            {% for item in dataset %}
+            {% if item.proyek == items_project_filter %}
+              {% assign total_cost = total_cost | plus: item.biaya %}
+            {% endif %}
+            {% endfor %}
+            <td width="20%"><strong><p class="text-right">{{ total_cost }}</p></strong></td>
+          </tr>
+          <tr>
+            <td width="5%"></td>
+            <td width="50%"><strong><p class="text-left">Sisa Saldo</p></strong></td>
+            <td width="5%"></td>
+            {% assign sisa = structure.ringkasan.total_rencana_anggaran | minus: total_cost %}
+            {% if sisa < 0 %}
+            <td width="20%"><strong><p class="text-right" style="color:#F85154">{{ sisa }}</p></strong></td>
+            {% else %}
+            <td width="20%"><strong><p class="text-right" style="color:#2DC464">{{ sisa }}</p></strong></td>
+            {% endif %}
+            <td width="20%"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% for item in dataset %}
+{% if item.proyek == items_project_filter %}
+<div class="modal fade" id="{{ item.title | remove: ' ' | remove: '.' | downcase }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title" id="myModalLabel">Status Pelunasan</h3>
+      </div>
+      <div class="modal-body">
+        <h4>{{ item.kode }} - {{ item.anggaran }}</h4>
+        <div class="row">
+          <div class="col-md-12">
+          <table class="table">
+              <tbody>
+                <tr>
+                  <td><strong>Nama</strong></td>
+                  <td><p class="text-left">{{ item.nama }}</p></td>
+                </tr>
+                <tr>
+                  <td><strong>Transaksi</strong></td>
+                  <td><p class="text-left">{{ item.title }}</p></td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="table">
+              <tbody>
+                <tr>
+                  <td><strong>Tanggal Transaksi</strong></td>
+                  <td><p class="text-right">{{ item.date | date: "%D" }}</p></td>
+                </tr>
+                <tr>
+                  <td><strong>Bukti Pembayaran</strong></td>
+                  <td><img src="{{ item.nota }}" class="img-responsive" width="500"></td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="table">
+              <tbody>
+                <tr>
+                  <td><strong>Tanggal Pelunasan</strong></td>
+                  <td><p class="text-right">{{ item.tanggalpelunasan | date: "%D" }}</p></td>
+                </tr>
+                <tr>
+                  <td><strong>Bukti Pelunasan</strong></td>
+                  <td><img src="{{ item.notapelunasan }}" class="img-responsive" width="500"></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
