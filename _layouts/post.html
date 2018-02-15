@@ -24,8 +24,12 @@ layout: info
                     </div>
                     <div id="collapse1" class="panel-collapse collapse in">
                         <div class="panel-body" style="border-top: 1px solid #e0bb6b;">
-                        {{ author.name }}<br/>
-                        {{ page.date | date: "%-d %b %Y" }}
+                        {% if author.url %}
+                            <a href="{{ author.url }}">{{ author.name }}</a><br/>
+                        {% else %}
+                            {{ author.name }}<br/>
+                        {% endif %}
+                            {{ page.date | date: "%-d %b %Y" }}
                         </div>
                     </div>
                 </div>

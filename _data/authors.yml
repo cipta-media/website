@@ -1,73 +1,40 @@
 # detil penulis
 cms:
-  name: Cipta Media
-  desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler untuk perubahan sosial.
-  head_img: static/img/landing/logociptamedia.png
-  email: email@mail.co.uk
-  github: cms
+  name: Cipta Media Seluler
+  url:
+admincmb:
+  name: Cipta Media Bersama
+  url:
 riou:
   name: Dwi Satria Utama
-  desc: Graphic Designer for WMID
-  head_img:
-  email: dwi.satria@wikimedia.or.id
-  github: riosatria
-admincmb:
-  name: Admin Cipta Media Bersama
-  desc: Admin Cipta Media Bersama
-  head_img:
-  email:
-  github:
+  url: /panitia/rio
 arman:
   name: Arman Dhani
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 hillun:
   name: Hillun Vilayl Napis
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 nasir:
   name: Akhmad Nasir
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 kurniawan:
   name: Kurniawan
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 reza:
   name: Reza Abdul Aziz
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 ivonne:
   name: Ivonne Kristiani
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url: /panitia/ivonne
 siska:
   name: Siska Doviana
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url: /panitia/siska
 isabella:
   name: Isabella Apriyana
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
 prima:
   name: Prima Sulistya
-  desc: ntar dulu
-  head_img:
-  email:
-  github:
+  url:
+lisabona:
+  name: Lisabona Rahman
+  url: /juri-cme/lisabona
