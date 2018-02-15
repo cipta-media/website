@@ -1,6 +1,6 @@
 ---
 title: Kegelisahan Warisan Budaya dan Tantangan Kolaborasi Kupang
-date: 2018-01-18 07:00:00 +07:00
+date: 2018-02-03 07:00:00 +07:00
 categories:
 - CME
 - Acara
@@ -9,7 +9,7 @@ tags:
 - Sosialisasi
 - Lisabona Rahman
 - Mama Aleta Baun
-author: lisabona
+author: lisa
 comments: true
 img: "/uploads/sosialisasi-kupang-persiapan.jpeg"
 layout: post
