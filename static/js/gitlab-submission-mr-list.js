@@ -1,4 +1,4 @@
-var netlifyRootUrl = window.NETLIFY_ENV.url.replace(/https?:\/\//, '');
+var netlifyRootUrl = window.NETLIFY_ENV.deploy_prime_url.replace(/https?:\/\/.+--/, '');
 
 function submissionTemplate(submission) {
   return [
