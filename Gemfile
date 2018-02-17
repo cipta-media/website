@@ -5,7 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.4.0"
 
 group :jekyll_plugins do
-  gem "jekyll-netlify", github: 'jayvdb/jekyll-netlify', tag: 'v0.3.0-pre'
+  gem "jekyll-netlify", github: 'jayvdb/jekyll-netlify', ref: 'e7efada3'
   gem "disqus-for-jekyll"
 end
 
