@@ -31,12 +31,12 @@ layout: info
                         {% for hibah in site.hibahcme %}
                         <tr>
                             <td>{{ hibah.nomor }}</td>
-                            <td><a href="{{ hibah.url }}">{{ hibah.proyek }}</a></td>
+                            <td><a href="{{ hibah.url | remove: '.html' }}">{{ hibah.proyek }}</a></td>
                             <td>{{ hibah.nama }}</td>
                             <td>{{ hibah.lokasi }}</td>
                             <td>{{ hibah.kategori }}</td>
                             <td>Rp. {{ hibah.dana }} Juta</td>
-                            <td><a href="{{ hibah.url }}">{{ site.url }}{{ hibah.url }}</a></td>
+                            <td><a href="{{ hibah.url }}">{{ site.url }}{{ hibah.url | remove: '.html' }}</a></td>
                         </tr>
                         {% endfor %}
                     </tbody>
