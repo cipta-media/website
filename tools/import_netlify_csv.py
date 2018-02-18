@@ -2,70 +2,24 @@ import csv
 import json
 import sys
 
-import yaml
-
-test = [0, 3, 4]
+from ruamel.yaml import YAML
 
 unusable = [
+    # 1, 2,  # empty
+    41,  # spam
+    0, 3, 4, 10,  # test
     30,  # empty
     18, 19, 24, 26, 27,  # no project title
+    5, 6,  # missing fields
+    20, 43, 44, 47, 74, 75, 78, 188, 198, 204,  # not sure
+    215, 217, 220, 230, 233, 260,  # not sure
+    38, 61, 62,  # rejected/needs editing
 ]
 
-dups = [
-]
+last_processed = 260
 
-imported = {
-    5: 14,  # 14 - sanchia tryphosa hamidjaja - Seragam Merah Jambu ...
-    6: 15,
-    7: 16,
-    8: 17,
-    9: 18,
-    10: 19,
-    11: 20,
-    12: 21,
-    13: 22,
-    14: 23,
-    15: 24,
-    16: 25,
-    17: 26,  # 26 - HJ.I.G.A.AJU NITYA DHARMANI,SST,SE,MM - LUDRUK ZAMAN NOW
-
-    31: 40,  # 40 - Krisha Vi Anindita - NIMAMO ...
-    32: 41,
-    33: 42,
-    34: 43,
-    35: 44,
-    36: 45,
-    37: 46,
-    38: 47,
-    39: 48,
-    40: 49,
-    41: 50,
-    42: 51,  # 51 - Anies Marsudiati Purbadiri, S.H., M.H. - Eksistensi ...
-
-    48: 57,  # 57 - Reny santika - Lagenda batu sindu
-}
-
-missing = {
-    1: 1,
-    2: 2,
-
-    20: 20 + 9,
-    21: 21 + 9,
-    22: 22 + 9,
-    23: 23 + 9,
-
-    25: 25 + 9,
-
-    28: 28 + 9,
-    29: 29 + 9,
-
-    43: 43 + 9,
-    44: 44 + 9,
-    45: 45 + 9,
-    46: 46 + 9,
-}
-
-max_problem_row = max(imported.keys()) - 1
+yaml = YAML()
+yaml.width = 4096
 
 
 def print_list(data):
@@ -79,11 +33,7 @@ def print_list(data):
 
 def show_missing_list(data):
     for i, row in enumerate(reversed(data)):
-        if i == max_problem_row:
-            break
-
-        if i not in imported and i not in test and i not in unusable:
-            assert i in missing
+        if i in unusable:
             print('%d - %s - %s - %s' %
                   (i, row['created_at'],
                    row['nama'] or row['auth_name'] or row['email'],
@@ -92,48 +42,62 @@ def show_missing_list(data):
                 print('   %r' % row)
 
 
-def create_yaml_file(row, nomor):
+def get_filename(nomor):
+    return '_hibahcme/%0.3d.md' % nomor
+
+
+def load_yaml_file(nomor):
+    filename = get_filename(nomor)
+    with open(filename, 'r') as f:
+        docs = list(yaml.load_all(f))
+        return docs[0]
+
+
+def create_yaml_file(row, nomor, add_private=False):
     row = row.copy()
-    row['layout'] = 'hibahcme'
-    row['foto'] = json.loads(row['foto'])
+    if 'foto' in row and row['foto']:
+        row['foto'] = json.loads(row['foto'])
     if 'file' in row and row['file']:
         row['file'] = json.loads(row['file'])
 
-    del row['ip']
-    del row['telp']
-    del row['ktp']
-    del row['user_agent']
-    del row['email']
-    del row['auth_name']
-    del row['created_at']
-    s = yaml.dump(dict(row), default_flow_style=False)
-    filename = '_hibahcme/%0.3d.md' % nomor
+    if not add_private:
+        del row['ip']
+        del row['telp']
+        del row['ktp']
+        del row['user_agent']
+        del row['email']
+        del row['auth_name']
+        del row['created_at']
+
+    filename = get_filename(nomor)
+
+    try:
+        data = load_yaml_file(nomor)
+    except Exception as e:
+        print('File for %d missing: %s' % (nomor, e))
+        data = {'nomor': nomor}
+
+    for key, value in dict(row).items():
+        if key not in data or data[key] != value:
+            data[key] = value
+
     with open(filename, 'w') as f:
         f.write('---\n')
-        f.write('nomor: %d\n' % nomor)
-        f.write(s)
+        yaml.dump(data, f)
         f.write('---\n')
 
 
-def print_missing_list(data):
+def output_yaml_files(data, last=last_processed, add_private=True):
     for i, row in enumerate(reversed(data)):
-        if i == max_problem_row:
+        if i in unusable:
+            continue
+        if i > last:
             break
-
-        if i in missing:
-            print('%d - %s - %s - %s - %s - %s' %
-                  (missing[i], row['created_at'], row['nama'],
-                   row['ktp'], row['email'], row['proyek']))
-
-            create_yaml_file(row, missing[i])
-
-
-def fetch_data(reader):
-    rows = []
-    for row in reader:
-        rows.append(row)
-
-    return rows
+        print('Processing %d' % i)
+        if i < 7:
+            create_yaml_file(row, i, add_private=add_private)
+        else:
+            create_yaml_file(row, i + 9, add_private=add_private)
 
 
 def load_csv(filename):
@@ -143,11 +107,9 @@ def load_csv(filename):
 
 
 def main(argv=None):
-    filename = argv[1] if len(argv) == 2 else 'netlify-data.csv'
+    filename = argv[1] if len(argv) == 2 else '../netlify-data.csv'
     data = list(load_csv(filename))
-    headers = list(data[0].keys())
-    print(headers)
-    print_missing_list(data)
+    output_yaml_files(data, add_private=True)
 
 
 if __name__ == '__main__':

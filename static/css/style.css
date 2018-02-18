@@ -803,3 +803,8 @@ blockquote em {
 .submission {
   min-height: 80vh;
 }
+
+#map {
+	height: 600px;
+	border: 1px solid #ccc;
+}
