@@ -1,11 +1,13 @@
 #!/bin/bash
 
+JEKYLL_ARGS="--incremental"
 build() {
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
-    jekyll build --config _config.yml,_config.${JEKYLL_ENV}.yml
-  else
-    jekyll build
+    JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
   fi
+
+  jekyll build $JEKYLL_ARGS
+
   exit
 }
 

@@ -7,7 +7,7 @@ variables:
   BUNDLE_PATH: vendor/bundle
 
 .before_script_bundle: &before_script_bundle
-  - bundle install
+  - bundle install --deployment
 
 test:
   stage: test
@@ -17,6 +17,7 @@ test:
   cache:
     paths:
       - vendor
+      - _site
   except:
     - master
 
