@@ -1,6 +1,6 @@
 # Template project: https://gitlab.com/pages/jekyll
 # Docs: https://docs.gitlab.com/ce/pages/
-image: ruby:2.3
+image: ruby:2.2.9
 
 variables:
   JEKYLL_ENV: production

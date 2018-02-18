@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/jayvdb/jekyll-netlify.git
-  revision: d768ff9525be3aedc1f7c6ddbafd6366d3036d8b
-  tag: v0.3.0-pre
+  revision: e7efada373bd18f92346b432d37ff045103edc85
+  ref: e7efada3
   specs:
     jekyll-netlify (0.2.0)
       jekyll (~> 3.0)
@@ -12,6 +12,8 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    disqus-for-jekyll (1.0.0)
+      jekyll (~> 3.3)
     ffi (1.9.14)
     ffi (1.9.14-x64-mingw32)
     forwardable-extended (2.6.0)
@@ -56,12 +58,13 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  disqus-for-jekyll
   jekyll (= 3.4.0)
   jekyll-netlify!
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.2.9
 
 BUNDLED WITH
    1.16.1
