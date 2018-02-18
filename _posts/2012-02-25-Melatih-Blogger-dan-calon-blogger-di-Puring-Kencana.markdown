@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-FEBRUARI_25_2012_PELATIHAN_BBM_DI_PURING_KENCANA_KAPUA.jpg](/_uploads/250px-FEBRUARI_25_2012_PELATIHAN_BBM_DI_PURING_KENCANA_KAPUA.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_25_2012_PELATIHAN_BBM_DI_PURING_KENCANA_KAPUA.jpg](/uploads/250px-FEBRUARI_25_2012_PELATIHAN_BBM_DI_PURING_KENCANA_KAPUA.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Melatih Blogger  dan calon blogger di  Puring Kencana 
 

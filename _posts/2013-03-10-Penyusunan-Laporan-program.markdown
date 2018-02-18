@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![Maret_13_2013_BBM_Rapat_Rutin.JPG](/_uploads/Maret_13_2013_BBM_Rapat_Rutin.JPG){: .img-responsive .center-block }
+![Maret_13_2013_BBM_Rapat_Rutin.JPG](/uploads/Maret_13_2013_BBM_Rapat_Rutin.JPG){: .img-responsive .center-block }
 
 **Tujuan** :  Penyusunan Laporan program 
 

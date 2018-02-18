@@ -8,7 +8,7 @@ categories:
 - Pantau
 ---
 
-![350px-Kerangka_sampel_penelitian_pantau.jpg](/_uploads/350px-Kerangka_sampel_penelitian_pantau.jpg){: .img-responsive .center-block }
+![350px-Kerangka_sampel_penelitian_pantau.jpg](/uploads/350px-Kerangka_sampel_penelitian_pantau.jpg){: .img-responsive .center-block }
 
 oleh: Siska Pembicaraan surat menyurat antara Imam Shofwan dan Tim Penasehat
 Tim Penasehat

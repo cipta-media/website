@@ -8,10 +8,10 @@ categories:
 - Benor FM
 ---
 
-![350px-Orang_Rimba_dan_Pak_Onno_Kantor_Lapangan_KKI_Warsi.jpg](/_uploads/350px-Orang_Rimba_dan_Pak_Onno_Kantor_Lapangan_KKI_Warsi.jpg){: .img-responsive .center-block }
-![350px-Anggara_Aska_Ani_Onno_KKI_Warsi_Taman_Nasional_Bukit_1.jpg](/_uploads/350px-Anggara_Aska_Ani_Onno_KKI_Warsi_Taman_Nasional_Bukit_1.jpg){: .img-responsive .center-block }
-![350px-Andi_Agustanis_dan_stasiun_radio_ditengah_hutan.jpg](/_uploads/350px-Andi_Agustanis_dan_stasiun_radio_ditengah_hutan.jpg){: .img-responsive .center-block }
-![350px-Penyiar_radio_cilik_dari_Desa_Sarolangun_Jambi.jpg](/_uploads/350px-Penyiar_radio_cilik_dari_Desa_Sarolangun_Jambi.jpg){: .img-responsive .center-block }
+![350px-Orang_Rimba_dan_Pak_Onno_Kantor_Lapangan_KKI_Warsi.jpg](/uploads/350px-Orang_Rimba_dan_Pak_Onno_Kantor_Lapangan_KKI_Warsi.jpg){: .img-responsive .center-block }
+![350px-Anggara_Aska_Ani_Onno_KKI_Warsi_Taman_Nasional_Bukit_1.jpg](/uploads/350px-Anggara_Aska_Ani_Onno_KKI_Warsi_Taman_Nasional_Bukit_1.jpg){: .img-responsive .center-block }
+![350px-Andi_Agustanis_dan_stasiun_radio_ditengah_hutan.jpg](/uploads/350px-Andi_Agustanis_dan_stasiun_radio_ditengah_hutan.jpg){: .img-responsive .center-block }
+![350px-Penyiar_radio_cilik_dari_Desa_Sarolangun_Jambi.jpg](/uploads/350px-Penyiar_radio_cilik_dari_Desa_Sarolangun_Jambi.jpg){: .img-responsive .center-block }
 
      Kantor KKI Warsi (Jambi) dan Kantor Lapangan Warsi (perbatasan Taman Nasional Bukit 12) 
 

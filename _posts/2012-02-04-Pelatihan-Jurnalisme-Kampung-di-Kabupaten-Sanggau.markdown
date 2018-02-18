@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Februari_4_2012_BBM_Pelatihan.jpg](/_uploads/250px-Februari_4_2012_BBM_Pelatihan.jpg){: .img-responsive .center-block }
+![250px-Februari_4_2012_BBM_Pelatihan.jpg](/uploads/250px-Februari_4_2012_BBM_Pelatihan.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Jurnalisme Kampung di Kabupaten Sanggau 
 

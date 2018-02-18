@@ -8,7 +8,7 @@ categories:
 - Pantau
 ---
 
-![250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg](/_uploads/250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg){: .img-responsive .center-block }
+![250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg](/uploads/250px-Oktober_10_2012_CMB_Konsultasi_Pantau_dengan_Yanuar_Nu.jpg){: .img-responsive .center-block }
 
      Pertemuan dihadiri oleh Imam Shofwan, Yanuar Nugroho, dan Siska Doviana di restoran Coffee Toffi, Kalibata City Square, Jakarta Selatan
 

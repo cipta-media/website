@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Februari_15_2012_BBM_Training_BBM_di_Putussibau.jpg](/_uploads/250px-Februari_15_2012_BBM_Training_BBM_di_Putussibau.jpg){: .img-responsive .center-block }
-![250px-FEBRUARI_15_2012_MODEM__KONTRAK_BELAJAR_DI_KAPUAS_HULU.jpg](/_uploads/250px-FEBRUARI_15_2012_MODEM__KONTRAK_BELAJAR_DI_KAPUAS_HULU.jpg){: .img-responsive .center-block }
+![250px-Februari_15_2012_BBM_Training_BBM_di_Putussibau.jpg](/uploads/250px-Februari_15_2012_BBM_Training_BBM_di_Putussibau.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_15_2012_MODEM__KONTRAK_BELAJAR_DI_KAPUAS_HULU.jpg](/uploads/250px-FEBRUARI_15_2012_MODEM__KONTRAK_BELAJAR_DI_KAPUAS_HULU.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Jurnalisme Kampung dan blogger di Putussibau, Kabupaten Kapuas Hulu. 
 

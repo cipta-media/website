@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-JANUARI_19_2012_SOSIALISASI_BBM_DI_SANGGAU.jpg](/_uploads/250px-JANUARI_19_2012_SOSIALISASI_BBM_DI_SANGGAU.jpg){: .img-responsive .center-block }
+![250px-JANUARI_19_2012_SOSIALISASI_BBM_DI_SANGGAU.jpg](/uploads/250px-JANUARI_19_2012_SOSIALISASI_BBM_DI_SANGGAU.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi program BBM di Kabupaten Sanggau. 
 

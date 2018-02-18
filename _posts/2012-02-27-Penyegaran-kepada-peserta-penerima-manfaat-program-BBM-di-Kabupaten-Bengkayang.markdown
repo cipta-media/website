@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-27_FEBRUARI_2012_KEGIATAN_BBM.jpg](/_uploads/250px-27_FEBRUARI_2012_KEGIATAN_BBM.jpg){: .img-responsive .center-block }
+![250px-27_FEBRUARI_2012_KEGIATAN_BBM.jpg](/uploads/250px-27_FEBRUARI_2012_KEGIATAN_BBM.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Penyegaran kepada peserta penerima manfaat program BBM di Kabupaten Bengkayang 
 

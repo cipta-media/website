@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg](/_uploads/250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg){: .img-responsive .center-block }
-![250px-FEBRUARI_14_2012_PELATIHAN_BBM_DI_KAPUAS_HULU.jpg](/_uploads/250px-FEBRUARI_14_2012_PELATIHAN_BBM_DI_KAPUAS_HULU.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg](/uploads/250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_14_2012_PELATIHAN_BBM_DI_KAPUAS_HULU.jpg](/uploads/250px-FEBRUARI_14_2012_PELATIHAN_BBM_DI_KAPUAS_HULU.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi lanjutan: kepada SKPD Kapuas Hulu dan Pelatihan Jurnalisme Kampung dan blogger di Putussibau. 
 

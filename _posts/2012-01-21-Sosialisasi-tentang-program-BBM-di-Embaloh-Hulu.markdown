@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-FEBRUARI_21_2012_SOSIALISASI_PROGAM_BBM_DI_EMBALOH_HUL.jpg](/_uploads/250px-FEBRUARI_21_2012_SOSIALISASI_PROGAM_BBM_DI_EMBALOH_HUL.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_21_2012_SOSIALISASI_PROGAM_BBM_DI_EMBALOH_HUL.jpg](/uploads/250px-FEBRUARI_21_2012_SOSIALISASI_PROGAM_BBM_DI_EMBALOH_HUL.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi tentang program BBM di Embaloh Hulu, Kabupaten Kapuas Hulu 
 

@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Januari_29_2012_Pelatihan_BBM.jpg](/_uploads/250px-Januari_29_2012_Pelatihan_BBM.jpg){: .img-responsive .center-block }
+![250px-Januari_29_2012_Pelatihan_BBM.jpg](/uploads/250px-Januari_29_2012_Pelatihan_BBM.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Program BBM di Kabupaten Bengkayang 
 

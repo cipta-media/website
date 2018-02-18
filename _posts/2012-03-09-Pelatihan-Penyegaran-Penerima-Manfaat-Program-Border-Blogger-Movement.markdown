@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Maret_09_2012_Pelatihan_Penyegaran_BBM_di_Sambas.jpg](/_uploads/250px-Maret_09_2012_Pelatihan_Penyegaran_BBM_di_Sambas.jpg){: .img-responsive .center-block }
+![250px-Maret_09_2012_Pelatihan_Penyegaran_BBM_di_Sambas.jpg](/uploads/250px-Maret_09_2012_Pelatihan_Penyegaran_BBM_di_Sambas.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Penyegaran Penerima Manfaat Program Border Blogger Movement 
 

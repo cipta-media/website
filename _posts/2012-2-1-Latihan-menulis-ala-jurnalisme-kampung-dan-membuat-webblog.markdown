@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Februari_1_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg](/_uploads/250px-Februari_1_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg){: .img-responsive .center-block }
-![250px-Februari_2_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg](/_uploads/250px-Februari_2_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg){: .img-responsive .center-block }
+![250px-Februari_1_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg](/uploads/250px-Februari_1_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg){: .img-responsive .center-block }
+![250px-Februari_2_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg](/uploads/250px-Februari_2_2012_Pelatihan_BBM_di_Paloh_Sambas.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Latihan menulis ala jurnalisme kampung dan membuat webblog 
 

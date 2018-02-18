@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-JANUARI_15_2012_SOSIALISASI_BBM_DI_SINTANG.JPG](/_uploads/250px-JANUARI_15_2012_SOSIALISASI_BBM_DI_SINTANG.JPG){: .img-responsive .center-block }
+![250px-JANUARI_15_2012_SOSIALISASI_BBM_DI_SINTANG.JPG](/uploads/250px-JANUARI_15_2012_SOSIALISASI_BBM_DI_SINTANG.JPG){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi program BBM di Kabupaten Sintang. 
 

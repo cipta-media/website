@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-JANUARI_14_2012_BBM_SOSIALISASI_BENGKAYANG.jpg](/_uploads/250px-JANUARI_14_2012_BBM_SOSIALISASI_BENGKAYANG.jpg){: .img-responsive .center-block }
+![250px-JANUARI_14_2012_BBM_SOSIALISASI_BENGKAYANG.jpg](/uploads/250px-JANUARI_14_2012_BBM_SOSIALISASI_BENGKAYANG.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi Program BBM untuk Kabupaten Bengkayang 
 

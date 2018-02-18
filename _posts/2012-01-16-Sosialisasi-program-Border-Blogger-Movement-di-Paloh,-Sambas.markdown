@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-JANUARI_17_2012_SOSIALISASI_BBM_DI_PALOH_SAMBAS.jpg](/_uploads/250px-JANUARI_17_2012_SOSIALISASI_BBM_DI_PALOH_SAMBAS.jpg){: .img-responsive .center-block }
+![250px-JANUARI_17_2012_SOSIALISASI_BBM_DI_PALOH_SAMBAS.jpg](/uploads/250px-JANUARI_17_2012_SOSIALISASI_BBM_DI_PALOH_SAMBAS.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi program Border Blogger Movement di Paloh, Sambas. 
 

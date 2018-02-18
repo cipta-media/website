@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-JANUARI_22_2012_SOSIALISASI_BBM_DI_BATANG_LUPAR_KAPUAS.jpg](/_uploads/250px-JANUARI_22_2012_SOSIALISASI_BBM_DI_BATANG_LUPAR_KAPUAS.jpg){: .img-responsive .center-block }
+![250px-JANUARI_22_2012_SOSIALISASI_BBM_DI_BATANG_LUPAR_KAPUAS.jpg](/uploads/250px-JANUARI_22_2012_SOSIALISASI_BBM_DI_BATANG_LUPAR_KAPUAS.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi tentang program BBM di Kabupaten Kapuas Hulu. 
 

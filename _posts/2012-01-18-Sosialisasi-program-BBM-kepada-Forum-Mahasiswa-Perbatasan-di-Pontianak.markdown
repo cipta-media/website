@@ -8,7 +8,7 @@ categories:
 layout: laporancmb
 ---
 
-![250px-Januari_18_2012_Sosialisasi_BBM_di_Sanggau_.JPG](/_uploads/250px-Januari_18_2012_Sosialisasi_BBM_di_Sanggau_.JPG){: .img-responsive .center-block }
+![250px-Januari_18_2012_Sosialisasi_BBM_di_Sanggau_.JPG](/uploads/250px-Januari_18_2012_Sosialisasi_BBM_di_Sanggau_.JPG){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi program BBM kepada Forum Mahasiswa Perbatasan di Pontianak. 
 

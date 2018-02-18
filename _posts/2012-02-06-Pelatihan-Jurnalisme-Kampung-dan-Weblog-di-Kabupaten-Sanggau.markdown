@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-FEBRUARI_6_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg](/_uploads/250px-FEBRUARI_6_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg){: .img-responsive .center-block }
-![250px-FEBRUARI_06_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg](/_uploads/250px-FEBRUARI_06_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_6_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg](/uploads/250px-FEBRUARI_6_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_06_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg](/uploads/250px-FEBRUARI_06_2012_PELATIHAN_BBM_DI_ENTIKONG_SANGGAU.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sanggau. 
 

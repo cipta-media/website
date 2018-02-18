@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-24_JANUARI_2012_KEGIATAN_BBM_DI_SINTANG.jpg](/_uploads/250px-24_JANUARI_2012_KEGIATAN_BBM_DI_SINTANG.jpg){: .img-responsive .center-block }
-![250px-24_JANUARI_2012_KEGIATAN_BBM_DI_KAB_SINTANG.jpg](/_uploads/250px-24_JANUARI_2012_KEGIATAN_BBM_DI_KAB_SINTANG.jpg){: .img-responsive .center-block }
+![250px-24_JANUARI_2012_KEGIATAN_BBM_DI_SINTANG.jpg](/uploads/250px-24_JANUARI_2012_KEGIATAN_BBM_DI_SINTANG.jpg){: .img-responsive .center-block }
+![250px-24_JANUARI_2012_KEGIATAN_BBM_DI_KAB_SINTANG.jpg](/uploads/250px-24_JANUARI_2012_KEGIATAN_BBM_DI_KAB_SINTANG.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Sosialisasi program BBM di Ketungau Tengah, Kabupaten Sintang 
 

@@ -8,7 +8,7 @@ categories:
 - Indonesian Street Art Database
 ---
 
-![675px-Wilayah_kerja_kesenian.jpg](/_uploads/675px-Wilayah_kerja_kesenian.jpg){: .img-responsive .center-block }
+![675px-Wilayah_kerja_kesenian.jpg](/uploads/675px-Wilayah_kerja_kesenian.jpg){: .img-responsive .center-block }
 
      Oleh: Idaman Andarmosoko
 

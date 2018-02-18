@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![Juni_28_2012_Rapat_Penjurian_BBM.jpg](/_uploads/Juni_28_2012_Rapat_Penjurian_BBM.jpg){: .img-responsive .center-block }
-![Juni_28_2012_Rapat_Penjurian_BBM-1.jpg](/_uploads/Juni_28_2012_Rapat_Penjurian_BBM-1.jpg){: .img-responsive .center-block }
+![Juni_28_2012_Rapat_Penjurian_BBM.jpg](/uploads/Juni_28_2012_Rapat_Penjurian_BBM.jpg){: .img-responsive .center-block }
+![Juni_28_2012_Rapat_Penjurian_BBM-1.jpg](/uploads/Juni_28_2012_Rapat_Penjurian_BBM-1.jpg){: .img-responsive .center-block }
 
 **Tujuan** :   Rapat Juri pemenang lomba Blogger BBM 
 

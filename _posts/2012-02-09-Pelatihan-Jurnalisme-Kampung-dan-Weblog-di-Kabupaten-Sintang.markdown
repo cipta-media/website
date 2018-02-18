@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![250px-FEBRUARI_09_2012_PELATIHAN_BBM_DI_MERAKAI_SINTANG.jpg](/_uploads/250px-FEBRUARI_09_2012_PELATIHAN_BBM_DI_MERAKAI_SINTANG.jpg){: .img-responsive .center-block }
-![250px-FEBRUARI_10_2012_PELATIHAN_BBM_DI_SINTANG.jpg](/_uploads/250px-FEBRUARI_10_2012_PELATIHAN_BBM_DI_SINTANG.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_09_2012_PELATIHAN_BBM_DI_MERAKAI_SINTANG.jpg](/uploads/250px-FEBRUARI_09_2012_PELATIHAN_BBM_DI_MERAKAI_SINTANG.jpg){: .img-responsive .center-block }
+![250px-FEBRUARI_10_2012_PELATIHAN_BBM_DI_SINTANG.jpg](/uploads/250px-FEBRUARI_10_2012_PELATIHAN_BBM_DI_SINTANG.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Pelatihan Jurnalisme Kampung dan Weblog di Kabupaten Sintang. 
 

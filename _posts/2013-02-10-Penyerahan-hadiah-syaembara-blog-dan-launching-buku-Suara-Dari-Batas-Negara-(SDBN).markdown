@@ -8,8 +8,8 @@ categories:
 layout: laporancmb
 ---
 
-![Februari_10_2013_BBM_Penyerahan_Hadiah.jpg](/_uploads/Februari_10_2013_BBM_Penyerahan_Hadiah.jpg){: .img-responsive .center-block }
-![Februari_10_2013_Penyerahan_Hadiah-1.jpg](/_uploads/Februari_10_2013_Penyerahan_Hadiah-1.jpg){: .img-responsive .center-block }
+![Februari_10_2013_BBM_Penyerahan_Hadiah.jpg](/uploads/Februari_10_2013_BBM_Penyerahan_Hadiah.jpg){: .img-responsive .center-block }
+![Februari_10_2013_Penyerahan_Hadiah-1.jpg](/uploads/Februari_10_2013_Penyerahan_Hadiah-1.jpg){: .img-responsive .center-block }
 
 **Tujuan** :  Penyerahan hadiah syaembara blog  dan launching buku Suara Dari Batas Negara (SDBN) 
 
