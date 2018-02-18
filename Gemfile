@@ -3,6 +3,7 @@ ruby "2.4.3"
 
 # This will help ensure the proper Jekyll version is running.
 gem "jekyll", "3.6.2"
+gem "html-proofer", :groups => [:development, :test]
 
 group :jekyll_plugins do
   gem "github-pages"
