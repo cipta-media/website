@@ -4,14 +4,19 @@ image: ruby:2.3
 
 variables:
   JEKYLL_ENV: production
+  BUNDLE_PATH: vendor/bundle
 
-before_script:
+.before_script_bundle: &before_script_bundle
   - bundle install
 
 test:
   stage: test
+  before_script: *before_script_bundle
   script:
     - .ci/fast_build.sh
+  cache:
+    paths:
+      - vendor
   except:
     - master
 
@@ -25,8 +30,12 @@ check_code:
 
 pages:
   stage: deploy
+  before_script: *before_script_bundle
   script:
     - bundle exec jekyll build -d public
+  cache:
+    paths:
+      - vendor
   artifacts:
     paths:
       - public
