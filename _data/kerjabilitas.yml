@@ -1,0 +1,23 @@
+# Laporan Penggunaan Dana
+
+total_rencana_anggaran: 701152000
+total_hibah: 686152000
+laporan:
+  A:
+    nama: Aset
+    anggaran: 55000000
+    subkode:
+      A1: Sewa Kantor
+      A2: Laptop
+  B:
+    nama: Biaya Administrasi Kantor
+    anggaran: 150000000
+  C:
+    nama: Gaji
+    anggaran: 279000000
+  D:
+    nama: Program
+    anggaran: 98100000
+  E:
+    nama: Produksi Konten
+    anggaran: 18000000

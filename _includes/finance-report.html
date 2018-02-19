@@ -3,12 +3,15 @@
     {% assign b = 0 %}
     <ul class="nav nav-pills">
       <li class="active"><a href="#semua" class="btn btn-danger" data-toggle="pill"><strong>Semua</strong></a></li>
-      {% for item in structure.rincian.laporan %}
-      {% assign a = item.kode %}
+      {% for item in structure.laporan %}
+      {% assign detail = item[1] %}
+      {% for subkode in detail.subkode %}
+      {% assign a = subkode[0] %}
       {% if b != a %}
-      <li><a href=".{{ item.kode }}" class="btn btn-danger" data-toggle="pill"><strong>{{ item.kode }}</strong></a></li>
+      <li><a href=".{{ subkode[0] }}" class="btn btn-danger" data-toggle="pill"><strong>{{ subkode[0] }}</strong></a></li>
       {% endif %}
       {% assign b = a %}
+      {% endfor %}
       {% endfor %}
     </ul>
   </div>
@@ -28,7 +31,7 @@
               <td width="10%"></td>
               <td width="40%"><strong><p class="text-left">Total Anggaran</p></strong></td>
               <td width="10%"></td>
-              <td width="20%"><strong><p class="text-right">{{ structure.ringkasan.total_rencana_anggaran }}</p></strong></td>
+              <td width="20%"><strong><p class="text-right">{{ structure.total_rencana_anggaran }}</p></strong></td>
               <td width="20%"></td>
             </tr>
           </tbody>
@@ -132,7 +135,7 @@
             <td width="5%"></td>
             <td width="50%"><strong><p class="text-left">Sisa Saldo</p></strong></td>
             <td width="5%"></td>
-            {% assign sisa = structure.ringkasan.total_rencana_anggaran | minus: total_cost %}
+            {% assign sisa = structure.total_rencana_anggaran | minus: total_cost %}
             {% if sisa < 0 %}
             <td width="20%"><strong><p class="text-right" style="color:#F85154">{{ sisa }}</p></strong></td>
             {% else %}

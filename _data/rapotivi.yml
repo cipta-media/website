@@ -1,0 +1,15 @@
+# Laporan Penggunaan Dana
+
+total_rencana_anggaran: 701152000
+total_hibah: 686152000
+laporan:
+  E:
+    nama: Keterlibatan Publik
+    anggaran: 9250000
+    subkode:
+      E1: Kompetisi Poster Hadiah Berupa Uang Tunai
+  F:
+    nama: Kompetisi Komik Strip
+    anggaran: 9250000
+    subkode:
+      F2: Juri
