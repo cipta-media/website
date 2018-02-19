@@ -48,5 +48,10 @@ defaults:
       type: panitia
     values:
       layout: panitia
+  - scope:
+      path: ''
+      type: hibahcme
+    values:
+      layout: hibahcme
 include:
   - _redirects
