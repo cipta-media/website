@@ -3,7 +3,8 @@ title: Penyerahan Berkas administratif Lembaga penyiaran komunitas Radio Benor F
 date: 2012-03-13
 categories:
 - laporan
-- Benor_FM- Wiki Cipta Media Seluler
+- CMB
+- Benor FM
 layout: laporancmb
 ---
 

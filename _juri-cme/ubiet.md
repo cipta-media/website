@@ -54,7 +54,6 @@ wawancara:
     link: /ubiet/ragam-suara-dan-sikap-dalam-kehidupan/
 youtube: https://www.youtube.com/embed/eVjK4k4T1n8
 foto: /static/img/juricme/ubiet.png
-layout: people
 ---
 
 Lebih suka menyebut dirinya pesuara daripada penyanyi, Ubiet telah menjelajahi beragam gaya musik dan menyatakan dirinya “pluralis”. Lahir dari Ayah Aceh dan Ibu Minangkabau, Ubiet remaja bergabung dengan sejumlah band pop di Sabang (Pulau Weh) dan Banda Aceh.  Masuk Jurusan Musik di Institut Kesenian Jakarta (1983), dengan studi khusus vokal; Ubiet kerap terlibat dalam sejumlah pentas musik klasik-kontemporer, tradisional-kontemporer, populer-kontemporer, maupun musik untuk pertunjukan tari dan teater, dan menjadi pesuara kelompok jazz *Splash Band* di tengah 1980. Doktor dalam etnomusikologi (2009) dari *University of Wisconsin—Madison*, Amerika Serikat ini, menjelajahi berbagai wilayah Indonesia, meneliti dan menghayati nyanyian nusantara. Selain itu Ubiet kerap menyanyikan beberapa karya komposer kontemporer, termasuk karyanya sendiri, yang dipersembahkan dalam panggung musik dan rekaman, film, teater, tari, peragaan busana, hingga pameran seni rupa. Sejak 2004, ia terlibat dengan kelompok jazz Krakatau-Etno, sebagai pesuara, dan menghasilkan dua album, *Rhythms of Reformation* (Musikita, 2005) dan *2 Worlds* (Musikita, 2005). Album solonya termasuk, *Archipelagongs* (Warner Music Indonesia, 2000), *Music for Solo Performer: Ubiet Sings Tony Prabowo* (Musikita, 2006), *Ubiet & Kroncong Tenggara* (demajors, 2007/2013), *Komposisi Delapan Cinta* (demajors, 2011).

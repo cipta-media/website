@@ -33,7 +33,6 @@ wawancara:
     judul: "Heidi Arbuckle: Menerobos Kehidupan Melalui Jalur Luar Biasa"
     link: /heidi-arbuckle/menerobos-kehidupan-melalui-jalur-luar-biasa/
 foto: /static/img/juricme/heidi.png
-layout: people
 ---
 
 Heidi merupakan penggagas hibah terbuka Cipta Media Ekspresi, sebelumnya ia pernah menjabat sebagai *Program Officer Creativity and Freedom of Expression* Ford Foundation Indonesia. Dia menyelesaikan program doktoral (S3) bidang studi gender dan politik dari *University of Melbourne*, Australia. Heidi lahir dan besar di Australia namun telah tinggal di Indonesia sejak tahun 1996.  Heidi menikah dengan seorang lelaki dari suku Batak dan diangkat menjadi bagian dari Batak Toba bermarga Gultom. Karya Heidi antara lain adalah: *Taring Padi and the Politics of Cultural Practice dan Performing Emiria Sunassa: Reframing the Female Subject in Post/colonial Indonesia*.

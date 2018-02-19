@@ -53,7 +53,6 @@ wawancara:
     judul: "Naomi Srikandi: Tentang Seni dan Inspirasi"
     link: /naomi-srikandi/tentang-seni-dan-inspirasi/
 foto: /static/img/juricme/naomi.png
-layout: people
 ---
 
 Aktor, pengarang, dan sutradara teater dari Yogyakarta. Karya fiksi dan pertunjukannya menggunakan estetika sebagai kerangka kerja untuk menyelidiki bagaimana dalam sehari-hari gambar, suara, bahasa bertimbal-balik dengan politik. Karyanya termasuk Shakuntala, Medea Media (Hibah EWA Yayasan Kelola), Goyang Penasaran (Hibah EWA Yayasan Kelola) dan Perbuatan Serong. Kini (2017) Naomi sedang menggarap novel mengenai perempuan-perempuan petani yang tinggal di Pegunungan Kendeng di Jawa dan menjadi seniman residensi di Hanoi, Vietnam. .

@@ -55,7 +55,6 @@ wawancara:
     link: /andy-yentriany/tidak-menyerah/
 youtube: https://www.youtube.com/embed/-3JB-FRZRrc
 foto: /static/img/juricme/andy.png
-layout: people
 ---
 
 Ketua Sub Komisi Partisipasi Masyarakat Komnas Perempuan periode 2010-2014. Lulus dari Universitas Indonesia jurusan Hubungan Internasional dan Magister Program *Media and Communications* dari *Goldsmiths University of London*, Inggris. Salah satu ketertarikannya adalah mendokumentasikan cerita - cerita mengenai perempuan Indonesia, permasalahan dan perjuangannya bertahan. Kini mengetuai Suar Asa Khatulistiwa (SAKA).

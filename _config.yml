@@ -7,7 +7,7 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: false
   juri-cme:
     title: Juri
     output: true
@@ -38,5 +38,15 @@ defaults:
   -
     values:
       layout: "post"
+  - scope:
+      path: ''
+      type: juri-cme
+    values:
+      layout: people
+  - scope:
+      path: ''
+      type: panitia
+    values:
+      layout: panitia
 include:
   - _redirects

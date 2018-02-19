@@ -34,7 +34,6 @@ wawancara:
     judul: "Intan Paramaditha: Lahirnya Perempuan Perempuan Tajam"
     link: /intan-paramaditha/lahirnya-perempuan-perempuan-tajam/
 foto: /static/img/juricme/intan.png
-layout: people
 ---
 
 Penulis fiksi dan dosen di *Department of Media*, Music, Communication and Cultural Studies di *Macquarie University*, Sydney. Gelar doktornya diperoleh dari *New York University*. Karya fiksi dan akademiknya menjelajahi hubungan antara gender, seksualitas, budaya, dan politik. Karya sastranya kerap mengolah dongeng dan horor dengan perspektif feminis. Sebagai penulis novel *Gentayangan: Pilih Sendiri Petualangan Sepatu Merahmu* (2017), Intan juga telah menerbitkan dua buku kumpulan cerita pendek: *Sihir Perempuan* (2005) dan *Kumpulan Budak Setan* (2010, kolaborasi dengan Eka Kurniawan dan Ugoran Prasad). Ia juga turut terlibat menulis naskah pertunjukan *Goyang Penasaran*. Kumpulan cerpennya telah diterjemahkan ke dalam Bahasa Inggris oleh Stephen J. Epstein dan akan segera terbit dengan judul *Apple and Knife* (Brow Books 2018).

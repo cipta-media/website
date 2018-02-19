@@ -36,7 +36,6 @@ wawancara:
     judul: "Cecil Mariani: Tentang Desain Dana Kehidupan Seniman"
     link: /cecil-mariani/tentang-desain-dana-kehidupan-seniman/
 foto: /static/img/juricme/cecil.png
-layout: people
 ---
 
 Desainer, seniman, peneliti di Koperasi Riset Purusha, penggiat seni budaya, pengajar di Institut Kesenian Jakarta Fakultas Seni Rupa Jurusan Desain Komunikasi Visual juga di Program Pasca Sarjana Institut Kesenian Jakarta. Pada tahun 2008-2011 Cecil menjadi bagian dari komunitas salihara. Pada 2011 ia menginisiasi TuaTuaSekolah bersama Lisabona Rahman dan Felencia Hutabarat, sebuah program beasiswa independen agar ia dan rekan-rekannya dapat melanjutkan pendidikan pascasarjana setelah ia diterima di School of Visual Arts, New York, dimana ia memperoleh gelar Master di 2013. Kini selain bekerja sebagai desain strategist pada tim desain “Mariani Witabora”, Cecil juga memulai inisiatif ekonomi-produksi alternatif Arisan Desainer Upacita. Ia salah satu dari dewan pertimbangan organisasi untuk serikat Sindikasi (Serikat Pekerja Media dan Industri Kreatif untuk Demokrasi).
