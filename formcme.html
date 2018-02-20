@@ -6,6 +6,7 @@ layout: info
     <script src= "https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src= "https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
     <script src= "https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/additional-methods.min.js"></script>
+    <script src= "https://cdn.rawgit.com/snyderp/jquery.validate.file/master/jquery.validate.file.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/js-sha256@0.9.0/src/sha256.min.js"></script>
 
     <script>
@@ -300,7 +301,26 @@ layout: info
             },
             foto: {
               required: true,
-            }
+              extension: "png|jpe?g|gif",
+              maxFileSize: {
+                "unit": "MB",
+                "size": 5,
+              },
+              minFileSize: {
+                "unit": "KB",
+                "size": 10,
+              },
+            },
+            file: {
+              maxFileSize: {
+                "unit": "MB",
+                "size": 5,
+              },
+              minFileSize: {
+                "unit": "KB",
+                "size": 10,
+              },
+            },
           },
           messages: {
             ktp: {
@@ -366,6 +386,13 @@ layout: info
             },
             foto: {
               required: "Harap unggah foto diri Anda",
+              extension: "Harap unggah berkas berupa gambar (.jpeg, .png, atau .gif)",
+              maxFileSize: "Ukuran berkas maksimal 5 MB",
+              minFileSize: "Berkas yang Anda masukan terlalu kecil, silahkan coba berkas lain",
+            },
+            file: {
+              maxFileSize: "Ukuran berkas maksimal 5 MB",
+              minFileSize: "Berkas yang Anda masukan terlalu kecil, silahkan coba berkas lain",
             }
           },
           highlight: function ( element, errorClass, validClass ) {
