@@ -10,14 +10,41 @@ laporan:
       A1: Sewa Kantor
       A2: Laptop
   B:
-    nama: Biaya Administrasi Kantor
+    nama: Biaya Administrasi & Kantor
     anggaran: 150000000
+    subkode:
+      B1: ATK (3 kantor lain)
+      B2: Listrik
+      B3: Telpon dan internet (kantor)
+      B4: Telpon dan internet (3 lokasi kantor lain)
+      B5: Transport lokal
+      B6: Tiket pesawat (pertemuan koordinasi)
+      B7: Akomodasi pertemuan koordinasi
+      B8: Tiket pesawat (perjalanan untuk monitoring)
+      B9: Akomodasi
   C:
     nama: Gaji
     anggaran: 279000000
+    subkode:
+      C1: Manajer Proyek
+      C2: Staf Keuangan
+      C3: Finance and Admin Staf
+      C4: Staf Program Area
+      C5: Pengembang Konten
   D:
     nama: Program
     anggaran: 98100000
+    subkode:
+      D1: Marketing via sosial media
+      D2: Upaya marketing
+      D3: Temu karya lowongan pekerjaan (Job Fair)
+      D4: Aktivitas promosi lainnya
+      D5: Hari terhubung disabilitas (3 kota)
   E:
     nama: Produksi Konten
     anggaran: 18000000
+    subkode:
+      E1: Video tutorial/documentary
+      E2: Podcast + audio&podcast cloud service
+  X:
+    nama: Biaya Lain
