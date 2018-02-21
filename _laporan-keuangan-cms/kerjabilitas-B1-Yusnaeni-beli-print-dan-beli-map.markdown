@@ -6,7 +6,7 @@ nama: Yusnaeni
 title: beli print dan beli map
 date: 2017-03-04
 biaya: 19000
-nota: https://wiki.ciptamedia.org/wiki/File:Maret_04_2017_kerjabilitas_B1_ATK_neni.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Maret_04_2017_kerjabilitas_B1_ATK_neni.jpg"
 tanggalpelunasan: 2017-03-04
 notapelunasan:
 ---

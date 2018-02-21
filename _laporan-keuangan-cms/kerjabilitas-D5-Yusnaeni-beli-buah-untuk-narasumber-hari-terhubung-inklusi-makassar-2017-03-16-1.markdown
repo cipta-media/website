@@ -6,7 +6,7 @@ nama: Yusnaeni
 title: beli buah untuk narasumber Hari Terhubung Inklusi Makassar
 date: 2017-03-16
 biaya: 90610
-nota: https://wiki.ciptamedia.org/wiki/File:Maret_16_2017_kerjabilitas_D5_beli_buah_narsum_neni.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Maret_16_2017_kerjabilitas_D5_beli_buah_narsum_neni.jpg"
 tanggalpelunasan: 2017-03-16
 notapelunasan:
 ---

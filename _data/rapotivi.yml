@@ -3,13 +3,86 @@
 total_rencana_anggaran: 701152000
 total_hibah: 686152000
 laporan:
+  A:
+    nama: Dukungan institusi
+    anggaran: 103392000
+    subkode:
+      A1: Sewa kantor
+      A2: Perlengkapan kantor dan ATK
+      A3: Surat menyurat dan ekspedisi materi kampanye
+      A4: Listrik
+      A5: Konsumsi rapat
+      A6: Komunikasi kantor
+  B:
+    nama: Program
+    anggaran: 241000000
+    subkode:
+      B1: Koordinator Program
+      B2: Gaji Sekretaris dan Admin
+      B3: Honor peneliti
+      B4: Honor verifikator
+      B5: Honor admin sosial media
+      B6: Honor komikus
+      B7: Honor desainer infografis
+      B8: Honor desainer (poster, brosur, dan kaos)
+      B9: Honor desainer stiker
+      B10: Honor desainer web dan apps
+  C:
+    nama: Keterlibatan Mahasiswa
+    anggaran: 55000000
+    subkode:
+      C1: Dana penyelenggaraan diskusi kampus
+      C2: Biaya transportasi untuk tim (ke Semarang pp)
+      C3: Biaya transportasi untuk tim (ke Padang & Medan)
+      C4: Penginapan tim di luar kota (Semarang, Padang, Medan)
+      C5: Transportasi lokal dan konsumsi tim di luar kota (Semarang, Padang, Medan)
+  D:
+    nama: Sukarelawan
+    anggaran: 39000000
+    subkode:
+      D1: Biaya pulsa relawan
+      D2: Pembuatan video untuk pelatihan relawan
+      D3: Pembuatan modul literasi untuk relawan
   E:
     nama: Keterlibatan Publik
     anggaran: 9250000
     subkode:
       E1: Kompetisi Poster Hadiah Berupa Uang Tunai
+      E2: Juri
   F:
     nama: Kompetisi Komik Strip
     anggaran: 9250000
     subkode:
+      F1: Kompetisi Poster Hadiah Berupa Uang Tunai
       F2: Juri
+  G:
+    nama: Kompetisi Menulis di Notes Facebook
+    anggaran: 7250000
+    subkode:
+      G1: Hadiah Berupa Uang Tunai
+      G2: Juri
+  H:
+    nama: Teknologi Pendukung
+    anggaran: 208600000
+    subkode:
+      H1: Pembuatan mobile site dan Pengembangan apps
+      H2: Pengembangan alat perekaman
+      H3: Eksternal harddisk, 3tb
+  I:
+    nama: Alat Promosi
+    anggaran: 5500000
+    subkode:
+      I1: Iklan program
+  J:
+    nama: Alat Kampanye
+    anggaran: 26060000
+    subkode:
+      J1: Brosur 6
+      J2: Stiker
+      J3: Kaos
+      J4: Sertifikat peserta, komunitas, dan keterlibatan publik
+  K:
+    nama: Advokasi ke KPI
+    anggaran: 2100000
+    subkode:
+      K1: Advokasi ke KPI

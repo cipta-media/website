@@ -6,7 +6,7 @@ nama: Billy PN
 title: pembelian voucher prabayar telkomsel
 date: 2017-05-04
 biaya: 51000
-nota: https://wiki.ciptamedia.org/wiki/File:Mei_04_2017_kerjabilitas_B4_pulsa_billy.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Mei_04_2017_kerjabilitas_B4_pulsa_billy.jpg"
 tanggalpelunasan: 2017-05-04
 notapelunasan:
 ---

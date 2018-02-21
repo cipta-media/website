@@ -6,7 +6,7 @@ nama: Billy PN
 title: tiket parkir motor menginap Gubeng
 date: 2017-03-30
 biaya: 10000
-nota: https://wiki.ciptamedia.org/wiki/File:Maret_30_2017_kerjabilitas_D3_parkir_stasiun_billy.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Maret_30_2017_kerjabilitas_D3_parkir_stasiun_billy.jpg"
 tanggalpelunasan: 2017-03-30
 notapelunasan:
 ---

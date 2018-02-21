@@ -6,7 +6,7 @@ nama: Billy PN
 title: konsumsi panitia Hari Terhubung Inklusi Surabaya 10 Mei 2017
 date: 2017-05-09
 biaya: 98100
-nota: https://wiki.ciptamedia.org/wiki/File:Mei_09_2017_kerjabilitas_D5_snack_panitia_billy.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Mei_09_2017_kerjabilitas_D5_snack_panitia_billy.jpg"
 tanggalpelunasan: 2017-05-09
 notapelunasan:
 ---

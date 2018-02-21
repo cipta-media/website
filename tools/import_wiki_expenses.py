@@ -6,7 +6,6 @@ import yaml
 from slugify import slugify
 
 WIKI_URL = 'https://wiki.ciptamedia.org/wiki/'
-DOWNLOAD_DIR = '/home/jayvdb/Downloads/'
 
 INDONESIAN_MONTH_NAMES = {
     'Januari': 0,
@@ -39,18 +38,25 @@ def load_live_wikitext(pagename):
     return r.text
 
 
-def load_saved_wikitext(code):
-    filename = os.path.join(DOWNLOAD_DIR, code)
+def load_saved_wikitext(source_dir, code):
+    filename = os.path.join(source_dir, code)
     with open(filename) as f:
         wikitext = f.read()
         return wikitext
 
+
 def strip_wiki_filelink(wikitext):
-    wikitext = wikitext.replace('[[:Berkas:', '').replace(']', '')
-    if '|' in wikitext:
-        filename = wikitext.split('|', 1)[0].strip()
+    if wikitext.lower().replace(' ', '') in ('[[:|nota]]', '[[:|:lunas]]', '[[:|lunas]]', 'lunas'):
+        return ''
+
+    filename = wikitext.replace('[[:Berkas:', '').replace(']', '')
+    if '|' in filename:
+        filename = filename.split('|', 1)[0].strip()
     else:
-        filename = wikitext.strip()
+        filename = filename.strip()
+
+    if len(filename) < 10:
+        raise ValueError('Strange filename for %s' % wikitext)
 
     return 'https://wiki.ciptamedia.org/wiki/File:%s' % filename
 
@@ -58,6 +64,10 @@ def strip_wiki_filelink(wikitext):
 def parse_date_string(wikitext):
     if not wikitext:
         return ''
+
+    # Rapotivi A1
+    if wikitext == '720,000':
+        return '2014-08-08'
 
     parts = wikitext.split(' ')
     if len(parts) != 3:
@@ -68,7 +78,12 @@ def parse_date_string(wikitext):
     else:
         raise ValueError('Unknown date %r' % parts)
 
-    assert len(parts[2]) == 4
+    if len(parts[2]) != 4:
+        if len(parts[2].strip('-')) == 4:
+            parts[2] = parts[2].strip('-')
+        else:
+            raise ValueError('Unknown date %r' % parts)
+
     year = int(parts[2])
     if year not in [2011, 2012, 2013, 2014, 2015, 2016, 2017]:
         if year == 2916:
@@ -87,7 +102,8 @@ def parse_date_string(wikitext):
         day_id,
     )
 
-def parse_wikitext(wikitext):
+
+def parse_wikitext(wikitext, grantee):
     records = []
     lines = wikitext.splitlines()
     record = {}
@@ -99,8 +115,9 @@ def parse_wikitext(wikitext):
 
         if line == '|-':
             if record:
+                if 'nama' not in record:
+                    raise ValueError('no name in %r' % record)
                 records.append(record)
-                # print(record)  # do stuff
 
             record = {}
         elif '-->' in line:
@@ -111,9 +128,14 @@ def parse_wikitext(wikitext):
                 continue
 
             if '<!--Tanggal transaksi' in prefix:
-                record['tanggal'] = parse_date_string(value)
+                value = parse_date_string(value)
+                if value:
+                    record['tanggal'] = value
             elif '-Nama-->' in prefix and value:
-                value = value
+                value = value.strip()
+                if value.startswith('-'):
+                    value = value[1:].strip()
+
                 parts = value.split(' - ', 1)
                 if not len(parts) == 2 or '-' in parts[0]:
                     parts = value.split('- ', 1)
@@ -128,9 +150,20 @@ def parse_wikitext(wikitext):
                             parts = ['Billy PN', value[14:]]
                         elif value.startswith('Ludmilla W -'):
                             parts = ['Ludmilla W', value[12:]]
+                        elif grantee == 'rapotivi' and ' a.n ' in value:
+                            parts = ['Unknown', value]
+                        elif value in (
+                                'Reimbursh biaya konsumsi rapat pengelolaan rapotivi',
+                                'Biaya konsumsi rapat video rapotivi',
+                                'Biaya konsumsi rapat rapotivi',
+                                'Reimbursh biaya konsumsi rapat',
+                                'Biaya konsumsi rapat dgn web designer Rapotivi',
+                                'Reimbursh biaya konsumsi rapat dengan web desainer rapotivi',
+                                'Reimbursh biaya konsumsi rapat rapotivi',
+                                ):
+                            parts = ['Unknown', value]
                         else:
-                            print('unknown rincian line: %r' % parts)
-                            continue
+                            raise ValueError('unknown rincian line: %r' % parts)
                     print('Unusual name/title rincian line parsed as : %r' % parts)
 
                 record['nama'] = parts[0].strip().strip('.').replace('  ', ' ')
@@ -138,19 +171,43 @@ def parse_wikitext(wikitext):
             elif '<!--Biaya' in prefix:
                 record['biaya'] = value
             elif '<!--Pranala nota' in prefix:
-                record['nota'] = strip_wiki_filelink(value)
+                value = strip_wiki_filelink(value)
+                if value:
+                    record['nota'] = value
             elif '<!--Tanggal pembayaran' in prefix:
-                record['tanggalpelunasan'] = parse_date_string(value)
+                value = parse_date_string(value)
+                if value:
+                    record['tanggalpelunasan'] = value
             elif '<!--Pranala bukti transfer' in prefix:
-                value = value.strip()
-                if value and value.lower() != 'lunas':
-                    record['notapelunasan'] = strip_wiki_filelink(value)
+                value = strip_wiki_filelink(value)
+                if value:
+                    record['notapelunasan'] = value
             else:
                 print('unknown template line: %s' % line)
         else:
             print('unknown line: %s' % line)
 
     return records
+
+
+def get_name_id(record, grantee):
+
+    name_id = ''
+    name_parts = record['nama'].split(' ')
+
+    for part in name_parts:
+        if len(part) > len(name_id):
+            name_id = part.title()
+
+    if grantee == 'kerjabilitas':
+        if name_id == 'Anda':
+            name_id = 'Pradyta'
+        elif name_id in ('Bily', 'Biily'):
+            name_id = 'Billy'
+        elif name_id in ('Akbar', 'Pribadi', 'M.Akbar'):
+            name_id = 'Akbar_P'
+
+    return name_id
 
 
 record_template = """---
@@ -166,102 +223,152 @@ tanggalpelunasan: {tanggalpelunasan}
 notapelunasan: {notapelunasan}
 ---
 """
-def create_record(data_dir, record, project_name, code, code_name):
+def create_record(filename, record):
     record = record.copy()
-    record['proyek'] = project_name
-    record['anggaran'] = code_name
-    record['kode'] = code
     record['biaya'] = record['biaya'].replace(',', '')
+    if 'nota' not in record:
+        record['nota'] = ''
     if 'tanggalpelunasan' not in record:
         record['tanggalpelunasan'] = ''
     if 'notapelunasan' not in record:
         record['notapelunasan'] = ''
 
-    name_id = ''
-    name_parts = record['nama'].split(' ')
-    for part in name_parts:
-        if len(part) > len(name_id):
-            name_id = part.title()
-
-    if name_id == 'Anda':
-        name_id = 'Pradyta'
-    elif name_id == 'Bily':
-        name_id = 'Billy'
-    elif name_id in ('Akbar', 'Pribadi', 'M.Akbar'):
-        name_id = 'Akbar_P'
-
-    filename = '%s-%s-%s-%s.markdown' % (
-        project_name,
-        code,
-        name_id,
-        slugify(record['title']),
-    )
-    path = os.path.join(data_dir, filename)
-    if os.path.exists(path):
-        # Should check if the file contents are identical
-        filename = '%s-%s-%s-%s-%s.markdown' % (
-            project_name,
-            code,
-            name_id,
-            slugify(record['title']),
-            record['tanggal'],
-        )
-        path = os.path.join(data_dir, filename)
-        if os.path.exists(path):
-            # Should check if the file contents are identical
-            filename = '%s-%s-%s-%s-%s.markdown' % (
-                project_name,
-                code,
-                name_id,
-                slugify(record['title']),
-                abs(hash(record['nota'])),
-            )
-            path = os.path.join(data_dir, filename)
-            if os.path.exists(path):
-                raise ValueError('path %s already exists before %r' % (path, record))
+    grantee = record['proyek']
+    code = record['kode']
 
     s = record_template.format_map(record)
     s2 = ''
     for line in s.splitlines():
         s2 += line.strip() + '\n'
 
-
-    with open(path, 'w') as f:
+    with open(filename, 'w') as f:
         f.write(s2)
 
-    print('Created %s' % path)
-    return path
 
-
-def create_records(data_dir, structure_section, records, project_name, code):
-    if code == 'X':
-        code_name = 'Biaya Lain'
-    else:
-        code_name = structure_section['subkode'][code]
+def name_records(grantee, records):
+    named_records = {}
 
     for record in records:
+        name_id = get_name_id(record, grantee)
+
+        code = record['kode']
+
+        title = record['title']
+        if title.startswith('Pembayaran honor desainer infografis: "7 Jurus'):
+            title = 'Pembayaran honor desainer infografis-2016-09-01'
+
+        short_slug = '%s-%s-%s-%s' % (
+            grantee,
+            code,
+            name_id,
+            slugify(title),
+        )
+        if short_slug not in named_records:
+            named_records[short_slug] = record
+            continue
+
+        same_slug_record = named_records[short_slug]
+        if isinstance(same_slug_record, dict):
+            # Prevent short slug from being used
+            named_records[short_slug] = [same_slug_record]
+
+            # Rename the pre-existing record with the same name
+            slug = '%s-%s-%s-%s-%s' % (
+                grantee,
+                code,
+                name_id,
+                slugify(same_slug_record['title']),
+                same_slug_record['tanggal'],
+            )
+            named_records[slug] = same_slug_record
+        else:
+            same_slug_record.append(record)
+
+        slug = '%s-%s-%s-%s-%s' % (
+            grantee,
+            code,
+            name_id,
+            slugify(title),
+            record['tanggal'],
+        )
+        if slug in named_records:
+            same_slug_record = named_records[slug]
+            if isinstance(same_slug_record, dict):
+                named_records[slug + '-1'] = same_slug_record
+                same_slug_record = [same_slug_record]
+                named_records[slug] = same_slug_record
+
+            named_records[slug + '-' + str(len(same_slug_record) + 1)] = record
+            same_slug_record.append(record)
+        else:
+            named_records[slug] = record
+
+    return named_records
+
+
+def create_records(data_dir, records):
+    for slug, record in records.items():
+        if isinstance(record, list):
+            continue
+
+        filename = os.path.join(data_dir, slug + '.markdown')
         try:
-            create_record(data_dir, record, project_name, code, code_name)
+            create_record(filename, record)
+            print('Created %s' % filename)
         except Exception as e:
             print('Failed record: %r' % record)
             raise
 
 
+def check_records(records, grantee):
+    name_ids = set()
+    for record in records:
+        name_id = get_name_id(record, grantee)
+        name_ids.add(name_id)
+
+    print('name IDs: %s' % ','.join(sorted(name_ids)))
+
+
 def main(argv=None):
-    year = argv[1]  # 2016
+    source_dir = argv[1]
     grant_round = argv[2] #  CMS
-    grantee = argv[3]  # Kerjabilitas
-    code = argv[4]  # B1
+    grantee = argv[3].lower()  # Kerjabilitas
 
     structure = load_structure(grantee)
-    structure_section = structure['laporan'][code[0]]
 
     pagename = '2016/CMS/Kerjabilitas/Laporan_Penggunaan_Dana/B1'
     data_dir = '_laporan-keuangan-%s/' % grant_round.lower()
 
-    wikitext = load_saved_wikitext(code)
-    records = parse_wikitext(wikitext)
-    create_records(data_dir, structure_section, records, project_name=grantee.lower(), code=code)
+    records = []
+    for code, section in structure['laporan'].items():
+        if 'subkode' not in section:
+            print('No subcodes for %s' % code)
+            wikitext = load_saved_wikitext(source_dir, code)
+            code_records = parse_wikitext(wikitext, grantee)
+
+            for record in code_records:
+                record['proyek'] = grantee
+                record['anggaran'] = section['nama']
+                record['kode'] = code
+                records.append(record)
+
+            continue
+
+        for code, code_name in section['subkode'].items():
+            print('Parsing %s' % code)
+            wikitext = load_saved_wikitext(source_dir, code)
+            code_records = parse_wikitext(wikitext, grantee)
+
+            for record in code_records:
+                record['proyek'] = grantee
+                record['anggaran'] = code_name
+                record['kode'] = code
+                records.append(record)
+
+    check_records(records, grantee)
+    records = name_records(grantee, records)
+    print(records.keys())
+    create_records(data_dir, records)
 
 
 if __name__ == '__main__':

@@ -6,7 +6,7 @@ nama: Yusnaeni
 title: pembelian paket data internet
 date: 2016-10-25
 biaya: 30000
-nota: https://wiki.ciptamedia.org/wiki/File:Oktober_25_2016_kerjabilitas_B4_internet_neni.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:Oktober_25_2016_kerjabilitas_B4_internet_neni.jpg"
 tanggalpelunasan: 2016-10-25
 notapelunasan:
 ---

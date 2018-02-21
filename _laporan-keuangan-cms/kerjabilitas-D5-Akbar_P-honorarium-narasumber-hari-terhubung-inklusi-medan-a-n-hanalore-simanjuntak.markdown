@@ -6,7 +6,7 @@ nama: M. Akbar Pribadi
 title: honorarium narasumber Hari Terhubung Inklusi Medan a.n Hanalore Simanjuntak
 date: 2017-04-28
 biaya: 400000
-nota: https://wiki.ciptamedia.org/wiki/File:April_28_2017_kerjabilitas_D5_fee_narsum_1_akbar.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:April_28_2017_kerjabilitas_D5_fee_narsum_1_akbar.jpg"
 tanggalpelunasan: 2017-04-28
 notapelunasan:
 ---

@@ -6,7 +6,7 @@ nama: Ndaru PP
 title: go car konsumsi Job Fair Semarang
 date: 2017-04-13
 biaya: 8000
-nota: https://wiki.ciptamedia.org/wiki/File:April_13_2017_kerjabilitas_B5_gocar_warung_hotel_ndaru.jpg
+nota: "https://wiki.ciptamedia.org/wiki/File:April_13_2017_kerjabilitas_B5_gocar_warung_hotel_ndaru.jpg"
 tanggalpelunasan: 2017-04-13
 notapelunasan:
 ---
