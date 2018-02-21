@@ -23,8 +23,9 @@ test:
 
 check_code:
   stage: test
-  image: coala/base
+  image: python:slim
   script:
+    - pip install coala-bears
     - coala --ci
   except:
     - master
