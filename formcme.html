@@ -229,13 +229,6 @@ layout: info
           return wordString.split(/\w+/).length - 1;
         }
 
-        jQuery.validator.addMethod("maxwordcount",
-           function(value, element, max) {
-              var count = getWordCount(value);
-              if (count <= max) return true;
-           }
-        );
-
         var $validator = $("#formpass").validate({
           focusInvalid: true,
           rules: {
@@ -267,12 +260,12 @@ layout: info
             lokasi: {
               required: true,
               minlength: 3,
-              maxwordcount: 12,
+              maxWords: 12,
             },
             pengalaman: {
               required: true,
               minlength: 3,
-              maxwordcount: 30,
+              maxWords: 30,
             },
             proyek: {
               required: true,
@@ -282,22 +275,22 @@ layout: info
             deskripsi: {
               required: true,
               minlength: 50,
-              maxwordcount: 200,
+              maxWords: 200,
             },
             latar_belakang: {
               required: true,
               minlength: 50,
-              maxwordcount: 200,
+              maxWords: 200,
             },
             masalah: {
               required: true,
               minlength: 50,
-              maxwordcount: 200,
+              maxWords: 200,
             },
             sukses: {
               required: true,
               minlength: 3,
-              maxwordcount: 200,
+              maxWords: 200,
             },
             foto: {
               required: true,
@@ -352,12 +345,12 @@ layout: info
             lokasi: {
               required: "Harap masukan lokasi Anda",
               minlength: "Harap masukan lokasi Anda",
-              maxwordcount: "Harap masukan lokasi proyek Anda secara singkat",
+              maxWords: "Harap masukan lokasi proyek Anda secara singkat",
             },
             pengalaman: {
               required: "Harap masukan pengalaman Anda",
               minlength: "Harap masukan pengalaman Anda",
-              maxwordcount: "Harap masukan lama pengalaman Anda berkarya dengan singkat",
+              maxWords: "Harap masukan lama pengalaman Anda berkarya dengan singkat",
             },
             proyek: {
               required: "Harap masukan nama proyek Anda",
@@ -367,22 +360,22 @@ layout: info
             deskripsi: {
               required: "Harap ceritakan proyek Anda",
               minlength: "Harap ceritakan proyek Anda",
-              maxwordcount: "Harap ceritakan proyek Anda dalam 200 kata",
+              maxWords: "Harap ceritakan proyek Anda dalam {0} kata",
             },
             latar_belakang: {
               required: "Harap ceritakan latar belakang proyek Anda",
               minlength: "Harap ceritakan latar belakang proyek Anda",
-              maxwordcount: "Harap ceritakan latar belakang proyek Anda dalam 200 kata",
+              maxWords: "Harap ceritakan latar belakang proyek Anda dalam {0} kata",
             },
             masalah: {
               required: "Harap ceritakan masalah yang ingin Anda angkat",
               minlength: "Harap ceritakan masalah yang ingin Anda angkat",
-              maxwordcount: "Harap ceritakan masalah yang ingin Anda angkat dalam 200 kata",
+              maxWords: "Harap ceritakan masalah yang ingin Anda angkat dalam {0} kata",
             },
             sukses: {
               required: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
               minlength: "Harap ceritakan bagaimana bagaimana proyek Anda dikatakan berhasil",
-              maxwordcount: "Harap ceritakan indikator sukses proyek Anda dalam 200 kata",
+              maxWords: "Harap ceritakan indikator sukses proyek Anda dalam {0} kata",
             },
             foto: {
               required: "Harap unggah foto diri Anda",
