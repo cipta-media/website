@@ -28,11 +28,11 @@ riset:
   - <i>Membangun Layanan Berbasis Komunitas, Forum Pengada Layanan Bagi Perempuan Korban Kekerasan</i> (2016)
   - <i>Yudhoyono’s Politics and the Harmful Implications for Gender Equality in Indonesia, “The Yudhoyono Presidency, Indonesia’s Decade of Stability and Stagnation”, Aspinal et.all. ed., Indonesia Update Series, College of Indonesia and the Pacific, The Australian National Univerity.</i> Ditulis bersama Melanie Budianta dan Kamala Chandrakirana (2015).
   - <i>Algojo di Ujung Pena, “Menolak Hukuman Mati”,</i> Kanisius Press (2015).
-  - <i>Demi Damai, 10 Tahun Peringatan Perjanjian Damai Aceh, </I>Pengantar Editor pada Kumpulan Essay terhadap Puisi-Puisi karya Zubaidah Djohar, <i>Jala Sutra</i> (2015).
+  - <i>Demi Damai, 10 Tahun Peringatan Perjanjian Damai Aceh,</i> Pengantar Editor pada Kumpulan Essay terhadap Puisi-Puisi karya Zubaidah Djohar, <i>Jala Sutra</i> (2015).
   - "<i>Overview of 8 years implementation of Anti Domestic Law in Indonesia: Its Success and Challenges, (German ed.);  Gewalt gegen Frauen in Südostasien und China, Regiospectra Verlag Berlin; Auflage.</i> (2013)"
   - "<i>Preserving Our Autonomy on Body and Sexuality: Indonesian Women’s 2008 Agenda, Women for Women’s Human Rights (WWHR) – New Ways, Turkey</i> (2007)"
-  - <i>Towards Better Recognition of the Rights of Foreign Brides. Proceeding of International Conference on Border Control and Empowerment of Immigrant Brides. Taipei, 29-30 September 2007
-  - "<i>To Pursue Luck or Ill Fate?: Trafficking in Women through Indonesia-Taiwan Transnational Marriages in the World Systems Framework, Indonesian Women in a Changing Society, The Asian Center for Women's Studies (ACWS), South Korea 2005."
+  - <i>Towards Better Recognition of the Rights of Foreign Brides. Proceeding of International Conference on Border Control and Empowerment of Immigrant Brides.</i> Taipei, 29-30 September 2007
+  - "<i>To Pursue Luck or Ill Fate?: Trafficking in Women through Indonesia-Taiwan Transnational Marriages in the World Systems Framework</i>, Indonesian Women in a Changing Society, The Asian Center for Women's Studies (ACWS), South Korea 2005."
   - "<i>“Trans-national Marriage between Indonesian-Chinese Women and Taiwanese Men: A Model of Trafficking in Women in Indonesia”, Indonesian Women in Changing Society (selected articles- Indonesian), Women Studies, Postgraduate Program, University of Indonesia,</i> Jakarta 2000."
   # Laporan dan Publikasi Komnas Perempuan
   - Laporan tentang diskriminasi terhadap kelompok minoritas agama di Indonesia (2014)

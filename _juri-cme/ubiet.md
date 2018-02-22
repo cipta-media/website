@@ -30,7 +30,7 @@ penghargaan:
   - <i>Leland Coon Fellowship, University of Wisconsin-Madison</i>, 1992-1993
   - <i>Indonesian Cultural Foundation Fellowship-New York</i>, 1993
   - <i>The Ford Foundation Fellowship</i>, 1998-2008
-  - <i>Center for Southeast Asian Studies Fellowship, University of Wisconsin-Madison<i>, 1998-1999, 2009
+  - <i>Center for Southeast Asian Studies Fellowship, University of Wisconsin-Madison</i>, 1998-1999, 2009
   - <i>Asian Cultural Council Fellowship-New York</i>, 1999, 2009, 2011
   - Beasiswa Unggulan, Departemen Pendidikan Nasional, 2008
 kolaborasi:
