@@ -60,3 +60,5 @@ exclude:
   - LICENSE
   - static/img/members/README.md
   - vendor
+plugins:
+  - jekyll-feed
