@@ -5,12 +5,16 @@ image: ruby:2.4.3
 variables:
   JEKYLL_ENV: production
   BUNDLE_PATH: vendor/bundle
+  NOKOGIRI_USE_SYSTEM_LIBRARIES: 1
+  LC_ALL: C.UTF-8
 
 .before_script_bundle: &before_script_bundle
   - bundle install --deployment
 
 test:
   stage: test
+  variables:
+    JEKYLL_ENV: test
   before_script: *before_script_bundle
   script:
     - .ci/fast_build.sh
