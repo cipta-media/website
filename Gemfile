@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-netlify", github: 'jayvdb/jekyll-netlify', ref: 'e7efada3'
   gem "disqus-for-jekyll"
+  gem "jekyll-last-modified-at", github: "jayvdb/jekyll-last-modified-at", branch: "fix-no-git-check"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

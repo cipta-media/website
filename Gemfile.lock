@@ -7,6 +7,15 @@ GIT
       thor (~> 0.19.1)
 
 GIT
+  remote: git://github.com/jayvdb/jekyll-last-modified-at.git
+  revision: ae4992c9ef7df02e242bf6700f1e0a93dadf2e8b
+  branch: fix-no-git-check
+  specs:
+    jekyll-last-modified-at (1.0.1)
+      jekyll (~> 3.3)
+      posix-spawn (~> 0.3.9)
+
+GIT
   remote: git://github.com/jayvdb/jekyll-netlify.git
   revision: e7efada373bd18f92346b432d37ff045103edc85
   ref: e7efada3
@@ -232,6 +241,7 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.13)
     public_suffix (2.0.5)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
@@ -269,6 +279,7 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll (= 3.6.2)
+  jekyll-last-modified-at!
   jekyll-netlify!
   tzinfo-data
 

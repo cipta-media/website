@@ -1,7 +1,0 @@
----
-title: robots
-layout: null
----
-
-User-agent: *
-Sitemap: <{{site.url}}/sitemap.xml>
