@@ -2,7 +2,8 @@
 
 set -e
 
-JEKYLL_ARGS="--incremental"
+JEKYLL_ARGS="--incremental --strict_front_matter"
+
 build() {
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
