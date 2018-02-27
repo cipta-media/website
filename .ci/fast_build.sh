@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 JEKYLL_ARGS="--incremental"
 build() {
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
