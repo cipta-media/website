@@ -55,3 +55,8 @@ defaults:
       layout: hibahcme
 include:
   - _redirects
+exclude:
+  - README.md
+  - LICENSE
+  - static/img/members/README.md
+  - vendor
