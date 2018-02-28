@@ -10,6 +10,7 @@ variables:
 
 .before_script_bundle: &before_script_bundle
   - bundle install --deployment
+  - 'echo "url: https://"${CI_PROJECT_NAME} >> _config.${JEKYLL_ENV}.yml'
 
 test:
   stage: test
@@ -37,14 +38,17 @@ check_code:
 
 pages:
   stage: deploy
+  variables:
+    # Simulate the netlify production flag used by .ci/fast_build.sh
+    CONTEXT: production
   before_script: *before_script_bundle
   script:
-    - bundle exec jekyll build -d public
+    - .ci/fast_build.sh
   cache:
     paths:
       - vendor
   artifacts:
     paths:
-      - public
+      - _site
   only:
     - master
