@@ -43,6 +43,7 @@
       <div class="tab-content">
         {% for item in dataset reversed %}
         {% if item.proyek == items_project_filter %}
+          {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
         <div class="{{ item.kode }} tab-pane fade active in">
           <div class="row">
             <table class="table">
@@ -56,11 +57,11 @@
                   <td width="10%">
                     <strong><p class="text-center">
                     {% if item.tanggalpelunasan %}
-                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#2DC464">
+                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#2DC464">
                       <i class="fa fa-check" aria-hidden="true"></i>
                     </a>
                     {% else %}
-                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#F85154">
+                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#F85154">
                       <i class="fa fa-times" aria-hidden="true"></i>
                     </a>
                     {% endif %}
@@ -79,6 +80,7 @@
         <div id="semua" class="tab-pane fade">
         {% for item in dataset reversed %}
         {% if item.proyek == items_project_filter %}
+          {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
           <div class="row">
             <table class="table">
               <tbody>
@@ -91,11 +93,11 @@
                   <td width="10%">
                     <strong><p class="text-center">
                     {% if item.tanggalpelunasan %}
-                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#2DC464">
+                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#2DC464">
                       <i class="fa fa-check" aria-hidden="true"></i>
                     </a>
                     {% else %}
-                    <a href="#" data-toggle="modal" data-target="#{{ item.title | remove: ' ' | remove: '.' | downcase }}" style="color:#F85154">
+                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#F85154">
                       <i class="fa fa-times" aria-hidden="true"></i>
                     </a>
                     {% endif %}
@@ -150,14 +152,15 @@
 </div>
 {% for item in dataset %}
 {% if item.proyek == items_project_filter %}
-<div class="modal fade" id="{{ item.title | remove: ' ' | remove: '.' | downcase }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
+<div class="modal fade" id="{{ title_slug }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <h3 class="modal-title" id="myModalLabel">Status Pelunasan</h3>
       </div>
       <div class="modal-body">
-        <h4>{{ item.kode }} - {{ item.anggaran }}</h4>
+        <h4>{{ item.kode }} - {{ item.anggaran | xml_escape }}</h4>
         <div class="row">
           <div class="col-md-12">
           <table class="table">
