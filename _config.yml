@@ -53,6 +53,14 @@ defaults:
       type: hibahcme
     values:
       layout: hibahcme
+  - scope:
+      path: 'hibahcms/*'
+    values:
+      layout: hibahcms
+  - scope:
+      path: 'hibahcms/*'
+    values:
+      layout: hibahcmb
 include:
   - _redirects
 exclude:
