@@ -3,12 +3,15 @@
 image: ruby:2.4.3
 
 variables:
+  GIT_DEPTH: 1
+  GIT_STRATEGY: fetch
   JEKYLL_ENV: production
   BUNDLE_PATH: vendor/bundle
   NOKOGIRI_USE_SYSTEM_LIBRARIES: 1
   LC_ALL: C.UTF-8
 
 .before_script_bundle: &before_script_bundle
+  - git archive ${CI_COMMIT_SHA}'^{tree}' | tar -x
   - bundle install --deployment
   - 'echo "url: https://"${CI_PROJECT_NAME} >> _config.${JEKYLL_ENV}.yml'
 
@@ -29,6 +32,8 @@ test:
 
 check_code:
   stage: test
+  variables:
+    GIT_STRATEGY: clone
   image: python:slim
   script:
     - pip install coala-bears
