@@ -74,7 +74,7 @@ Aktifitas dan isu yang anda atasi:
 Hasil aktual hingga laporan ini dibuat:
 
 * Program ini juga memicu munculnya berbagai tulisan mengenai perbatasan dan BBM di media lokal maupun nasional, antara lain:
-![Capture d’écran 2017-03-27 à 15.09.55.png](/uploads/Capture%20d%E2%80%99%C3%A9cran%202017-03-27%20%C3%A0%2015.09.55.png){: .img-responsive .center-block }
+![Screenshot_2017-03-27_15.09.55.png](/uploads/Screenshot_2017-03-27_15.09.55.png){: .img-responsive .center-block }
 * Terpublikasinya 300 tulisan dan 340 photo dan 5 video (pesert sulit memposting video karena networking internet yang sangat lambat dan terbatas di perbatasan) yang dibuat oleh blogger perbatasan, pasca training di 5 Kabupaten perbatasan Kalimantan Barat.
 * Hingga saat ini tercatat 63 blogger yang teragregasi ke dalam situs portal www.borderblogger.org.
 * Ada inisiatif dari beberapa komunitas yang membangun medianya sendiri, antara lain Forum Peduli Masyarakat Perbatasan Kapuas Hulu, dan Persatuan Mahasiswa Perbatasan Kecamatan Sekayam.

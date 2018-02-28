@@ -73,7 +73,7 @@ Sosialisasi pemanfaatan Hp yang sehat, terutama dibidang pendidikan (guru dan si
 
   Menggunakan perubahan perilaku siswa untuk lebih memilih hal yang positif dalam pemanfaatan Hp, salah satu penyebabnya adalah kreatifitas guru dalam membuat video pembelajaran. Teknik pembuatan video pembelajaran disini sengaja dipilih yang mudah diaplikasikan oleh guru, dengan asumsi guru telah menguasai operasi dasar komputer. Dan sengaja di pilih format 3gp karena hampir semua Hp yang dilengkapi kamera (saat ini harganya relative murah ) bisa dipergunakan untuk memutar video 3gp. Secara garis besar pembuatan video pembelajaran adalah sebagai berikut:
 
-![Capture d’écran 2017-03-27 à 16.59.31.png](/uploads/Capture%20d%E2%80%99%C3%A9cran%202017-03-27%20%C3%A0%2016.59.31.png){: .img-responsive .center-block }
+![Screenshot_2017-03-27_16.59.31.png](/uploads/Screenshot_2017-03-27_16.59.31.png){: .img-responsive .center-block }
 
 Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
 
