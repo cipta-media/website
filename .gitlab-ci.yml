@@ -19,11 +19,11 @@ test:
   before_script: *before_script_bundle
   script:
     - .ci/fast_build.sh
-    - bundle exec htmlproofer ./_site --empty-alt-ignore --assume-extension --disable-external --checks-to-ignore=LinkCheck,ImageCheck --check-html
+    - bundle exec htmlproofer ./public --empty-alt-ignore --assume-extension --disable-external --checks-to-ignore=LinkCheck,ImageCheck --check-html
   cache:
     paths:
       - vendor
-      - _site
+      - public
   except:
     - master
 
@@ -47,8 +47,9 @@ pages:
   cache:
     paths:
       - vendor
+      - public
   artifacts:
     paths:
-      - _site
+      - public
   only:
     - master

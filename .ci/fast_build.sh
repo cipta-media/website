@@ -4,6 +4,11 @@ set -e
 
 JEKYLL_ARGS="--incremental --strict_front_matter"
 
+if [[ "$GITLAB_CI" ]]; then
+  # GitLab Pages only serves content from 'public'.
+  JEKYLL_ARGS="$JEKYLL_ARGS -d public"
+fi
+
 build() {
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
