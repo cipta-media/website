@@ -3,6 +3,7 @@
 set -e
 
 JEKYLL_ARGS="--incremental --strict_front_matter"
+: "${GIT_MTIME_DIRS:=}"
 
 if [[ "$GITLAB_CI" ]]; then
   # GitLab Pages only serves content from 'public'.
@@ -10,6 +11,12 @@ if [[ "$GITLAB_CI" ]]; then
 fi
 
 build() {
+  for dir in $GIT_MTIME_DIRS; do
+    if [[ -d $dir ]]; then
+      (cd $dir && bundle exec git set-mtime)
+    fi
+  done
+
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
   fi
