@@ -42,19 +42,19 @@ layout: base
          </div>
         <hr>
         <div class="row">
-            <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ page.deskripsi | newline_to_br }}</div>
+            <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ page.deskripsi | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
          <div class="row">
-            <div class="col-lg-3">Masalah yang ingin diatasi:</div><div class="col-lg-9">{{ page.masalah | newline_to_br }}</div>
+            <div class="col-lg-3">Masalah yang ingin diatasi:</div><div class="col-lg-9">{{ page.masalah | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
          <div class="row">
-            <div class="col-lg-3">Cara mengatasi dan masyarakat yang diuntungkan:</div><div class="col-lg-9">{{ page.solusi | newline_to_br }}</div>
+            <div class="col-lg-3">Cara mengatasi dan masyarakat yang diuntungkan:</div><div class="col-lg-9">{{ page.solusi | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
          <div class="row">
-            <div class="col-lg-3">Ukuran kesuksesan:</div><div class="col-lg-9">{{ page.keberhasilan | newline_to_br }}</div>
+            <div class="col-lg-3">Ukuran kesuksesan:</div><div class="col-lg-9">{{ page.keberhasilan | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
       <!--end-->  

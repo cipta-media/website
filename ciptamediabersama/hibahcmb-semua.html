@@ -60,7 +60,7 @@ layout: info
 				<a href="{{ hibahcmb.link }}"><img class="img-responsive center-block" src="{{ hibahcmb.gambar }}" style="max-height: 300px;"></a>
 				<hr>
 				<a href="{{ hibahcmb.link }}"><h4>{{ hibahcmb.nomor }} - {{ hibahcmb.judul | truncatewords: 10 }}</h4></a><br/>
-				<p>{{ hibahcmb.deskripsi | truncatewords: 20 }}</p>
+				<p>{{ hibahcmb.deskripsi | truncatewords: 20 | xml_escape }}</p>
 				<hr>
 				<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibahcmb.lokasi }}
 			</div>

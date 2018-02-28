@@ -50,12 +50,12 @@ layout: base
          </div>
         <hr>
         <div class="row">
-            <div class="col-lg-3">Strategi Distribusi:</div><div class="col-lg-9">{{ page.strategi | newline_to_br }}</div>
+            <div class="col-lg-3">Strategi Distribusi:</div><div class="col-lg-9">{{ page.strategi | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
         {% if page.kuantitas != 'NA' %}
         <div class="row">
-            <div class="col-lg-3">Kuantitas Output Konten:</div><div class="col-lg-9">{{ page.kuantitas }}</div>
+            <div class="col-lg-3">Kuantitas Output Konten:</div><div class="col-lg-9">{{ page.kuantitas | xml_escape }}</div>
          </div>
         <hr>
         {% endif %}
@@ -64,15 +64,15 @@ layout: base
          </div>
         <hr>
         <div class="row">
-            <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ page.deskripsi | newline_to_br }}</div>
+            <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ page.deskripsi | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
          <div class="row">
-            <div class="col-lg-3">Definisi Masalah:</div><div class="col-lg-9">{{ page.masalah | newline_to_br }}</div>
+            <div class="col-lg-3">Definisi Masalah:</div><div class="col-lg-9">{{ page.masalah | newline_to_br | xml_escape }}</div>
          </div>
         <hr>
          <div class="row">
-            <div class="col-lg-3">Cara Mengatasi:</div><div class="col-lg-9">{{ page.solusi | newline_to_br }}</div>
+            <div class="col-lg-3">Cara Mengatasi:</div><div class="col-lg-9">{{ page.solusi | newline_to_br | xml_escape }}</div>
          </div>
       <!--end-->  
       </div>
