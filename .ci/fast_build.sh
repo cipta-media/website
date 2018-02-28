@@ -55,7 +55,8 @@ echo "Fast build mode"
 echo "Removing: $PATH_TO_EXCLUDE"
 echo "These committed file(s) are not removed:"
 
-echo $MODIFIED_FILES | xargs tar -cvf modified.tar; echo
+echo $MODIFIED_FILES | xargs tar -cvf modified.tar --files-from /dev/null
+echo
 rm -rf $PATH_TO_EXCLUDE
 tar -xf modified.tar
 rm modified.tar
