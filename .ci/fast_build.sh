@@ -17,7 +17,11 @@ build() {
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
   fi
 
+  # Workaround for https://github.com/gjtorikian/jekyll-last-modified-at/issues/54
+  # because the file mtimes are set above.
+  mv .git .hidden_git
   jekyll build $JEKYLL_ARGS
+  mv .hidden_git .git
 
   exit
 }
