@@ -14,6 +14,12 @@ collections:
   hibahcme:
     title: Hibah CME
     output: true
+  hibahcms:
+    title: Hibah CMS
+    output: true
+  hibahcmb:
+    title: Hibah CMB
+    output: true
   panitia:
     title: Panitia
     output: true
@@ -55,13 +61,15 @@ defaults:
       layout: hibahcme
       permalink: hibahcme/:title
   - scope:
-      path: 'hibahcms/*'
+      type: hibahcms
     values:
       layout: hibahcms
+      permalink: hibahcms/:title
   - scope:
-      path: 'hibahcms/*'
+      type: hibahcmb
     values:
       layout: hibahcmb
+      permalink: hibahcmb/:title
 include:
   - _redirects
 exclude:
