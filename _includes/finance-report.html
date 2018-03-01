@@ -1,19 +1,22 @@
 <div class="container">
-  <div class="btn-group btn-group-justified">
-    {% assign b = 0 %}
-    <ul class="nav nav-pills">
-      <li class="active"><a href="#semua" class="btn btn-danger" data-toggle="pill"><strong>Semua</strong></a></li>
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <button type="button" id="clear" class="btn btn-danger btn-xs">Clear</button>
+      <a href="#semua" class="btn btn-danger btn-xs" data-toggle="pill"><strong>Semua</strong></a>
+    </div>
+    <div class="col-lg-12 text-center">
+      {% assign b = 0 %}
       {% for item in structure.laporan %}
       {% assign detail = item[1] %}
       {% for subkode in detail.subkode %}
       {% assign a = subkode[0] %}
       {% if b != a %}
-      <li><a href=".{{ subkode[0] }}" class="btn btn-danger" data-toggle="pill"><strong>{{ subkode[0] }}</strong></a></li>
+      <a href=".{{ subkode[0] }}" class="btn btn-danger btn-xs" data-toggle="pill"><strong>{{ subkode[0] }}</strong></a>
       {% endif %}
       {% assign b = a %}
       {% endfor %}
       {% endfor %}
-    </ul>
+    </div>
   </div>
   <div class="row">
     <div class="col-lg-12">
@@ -44,7 +47,7 @@
         {% for item in dataset reversed %}
         {% if item.proyek == items_project_filter %}
           {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
-        <div class="{{ item.kode }} tab-pane fade active in">
+        <div class="{{ item.kode }} tab-pane fade">
           <div class="row">
             <table class="table">
               <tbody>
@@ -210,3 +213,9 @@
 </div>
 {% endif %}
 {% endfor %}
+
+<script>
+$("#clear").click(function(){
+  $(".active").removeClass("active");
+});
+</script>
