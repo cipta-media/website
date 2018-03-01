@@ -53,6 +53,7 @@ defaults:
       type: hibahcme
     values:
       layout: hibahcme
+      permalink: hibahcme/:title
   - scope:
       path: 'hibahcms/*'
     values:
