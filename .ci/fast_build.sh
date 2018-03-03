@@ -11,11 +11,7 @@ if [[ "$GITLAB_CI" ]]; then
 fi
 
 build() {
-  for dir in $GIT_MTIME_DIRS; do
-    if [[ -d $dir ]]; then
-      (cd $dir && bundle exec git set-mtime)
-    fi
-  done
+  bundle exec git set-mtime
 
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
