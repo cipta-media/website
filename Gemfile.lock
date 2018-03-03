@@ -7,6 +7,13 @@ GIT
       thor (~> 0.19.1)
 
 GIT
+  remote: git://github.com/jayvdb/jekyll-analytics.git
+  revision: 5cc499cf928faf57c7ee9c1fbc29bd118fca263d
+  branch: allow-missing
+  specs:
+    jekyll-analytics (0.1.8)
+
+GIT
   remote: git://github.com/jayvdb/jekyll-last-modified-at.git
   revision: ae4992c9ef7df02e242bf6700f1e0a93dadf2e8b
   branch: fix-no-git-check
@@ -281,6 +288,7 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll (= 3.6.2)
+  jekyll-analytics!
   jekyll-include-cache
   jekyll-last-modified-at!
   jekyll-netlify!
