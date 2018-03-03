@@ -3,9 +3,9 @@
 {% include head.html %}
 <body id="page-top">
   {% if jekyll.environment != 'production' %}
-    {% include developer_helper.html %}
+    {% include_cached developer_helper.html %}
   {% endif %}
   {{ content }}
-  {% include footer.html %}
+  {% include_cached footer.html %}
 </body>
 </html>

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#">
 {% if page.title == 302 %}
-  {% include 302-head.html %}
+  {% include_cached 302-head.html %}
 {% else if page.title == 404 %}
-  {% include 404-head.html %}
+  {% include_cached 404-head.html %}
 {% endif %}
 <body id="page-top">
   {{ content }}
-  {% include footer.html %}
+  {% include_cached footer.html %}
 </body>
 </html>
