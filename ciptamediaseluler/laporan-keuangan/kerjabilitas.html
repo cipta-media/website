@@ -3,8 +3,7 @@ title: Rincian Penggunaan Dana
 layout: info
 ---
 
-{% assign dataset = site.laporan-keuangan-cms %}
+{% assign dataset = site.laporan-keuangan-cms | where: "proyek", "kerjabilitas" %}
 {% assign structure = site.data.kerjabilitas %}
-{% assign items_project_filter = 'kerjabilitas' %}
 
 {% include finance-report.html %}
