@@ -77,6 +77,7 @@ exclude:
   - LICENSE
   - static/img/members/README.md
   - vendor
+  - node_modules
 plugins:
   - jekyll-feed
   - jekyll-sitemap
