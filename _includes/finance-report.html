@@ -1,8 +1,17 @@
+<style>
+  .fa-check {
+    color: #2DC464;
+  }
+  .fa-times {
+    color: #F85154
+  }
+</style>
+
 <div class="container">
   <div class="row">
     <div class="col-lg-12 text-center">
       <button type="button" id="clear" class="btn btn-danger btn-xs">Clear</button>
-      <a href="#semua" class="btn btn-danger btn-xs" data-toggle="pill"><strong>Semua</strong></a>
+      <a href=".semua" class="btn btn-danger btn-xs" data-toggle="pill"><strong>Semua</strong></a>
     </div>
     <div class="col-lg-12 text-center">
       {% assign b = 0 %}
@@ -45,8 +54,7 @@
     <div class="col-lg-12">
       <div class="tab-content">
         {% for item in dataset reversed %}
-          {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
-        <div class="{{ item.kode }} tab-pane fade">
+        <div class="{{ item.kode }} semua tab-pane fade">
           <div class="row">
             <table class="table">
               <tbody>
@@ -58,15 +66,21 @@
                   </td>
                   <td width="10%">
                     <strong><p class="text-center">
-                    {% if item.tanggalpelunasan %}
-                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#2DC464">
-                      <i class="fa fa-check" aria-hidden="true"></i>
-                    </a>
-                    {% else %}
-                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#F85154">
-                      <i class="fa fa-times" aria-hidden="true"></i>
-                    </a>
-                    {% endif %}
+                      <a href="#" data-toggle="modal" data-target="#transaction-detail" 
+                         data-nama="{{ item.nama }}"
+                         data-kode="{{ item.kode }}"
+                         data-title="{{ item.title | xml_escape }}"
+                         data-date="{{ item.date | date: "%D" }}"
+                         data-anggaran="{{ item.anggaran | xml_escape }}"
+                         data-nota="{{ item.nota }}"
+                         data-tanggalpelunasan="{{ item.tanggalpelunasan | date: "%D" }}"
+                         data-notapelunasan="{{ item.notapelunasan }}">
+                        {% if item.tanggalpelunasan %}
+                        <i class="fa fa-check" aria-hidden="true"></i>
+                        {% else %}
+                        <i class="fa fa-times" aria-hidden="true"></i>
+                        {% endif %}
+                      </a>
                     </p></strong>
                   </td>
                   <td width="20%"></td>
@@ -74,44 +88,9 @@
                 </tr>
               </tbody>
             </table>
-            <hr>
           </div>
         </div>
         {% endfor %}
-        <div id="semua" class="tab-pane fade">
-        {% for item in dataset reversed %}
-          {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
-          <div class="row">
-            <table class="table">
-              <tbody>
-                <tr>
-                  <td width="10%"><strong><p class="text-left">{{ item.date | date: "%D" }}</p></strong></td>
-                  <td width="40%">
-                    <strong><p class="text-left">{{ item.nama }}</p></strong>
-                    <p class="text-left">{{ item.title }}</p>
-                  </td>
-                  <td width="10%">
-                    <strong><p class="text-center">
-                    {% if item.tanggalpelunasan %}
-                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#2DC464">
-                      <i class="fa fa-check" aria-hidden="true"></i>
-                    </a>
-                    {% else %}
-                    <a href="#" data-toggle="modal" data-target="#{{ title_slug }}" style="color:#F85154">
-                      <i class="fa fa-times" aria-hidden="true"></i>
-                    </a>
-                    {% endif %}
-                    </p></strong>
-                  </td>
-                  <td width="20%"></td>
-                  <td width="20%"><strong><p class="text-right">{{ item.biaya }}</p></strong></td>
-                </tr>
-              </tbody>
-            </table>
-            <hr>
-          </div>
-        {% endfor %}
-        </div>
       </div>
     </div>
   </div>
@@ -147,27 +126,25 @@
     </div>
   </div>
 </div>
-{% for item in dataset %}
-  {% assign title_slug = item.title | remove: ' ' | remove: '.' | remove: '"' | downcase %}
-<div class="modal fade" id="{{ title_slug }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="transaction-detail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <h3 class="modal-title" id="myModalLabel">Status Pelunasan</h3>
       </div>
       <div class="modal-body">
-        <h4>{{ item.kode }} - {{ item.anggaran | xml_escape }}</h4>
+        <h4 class="modal-subtitle"></h4>
         <div class="row">
           <div class="col-md-12">
           <table class="table">
               <tbody>
                 <tr>
                   <td><strong>Nama</strong></td>
-                  <td><p class="text-left">{{ item.nama }}</p></td>
+                  <td><p class="modal-nama text-left"></p></td>
                 </tr>
                 <tr>
                   <td><strong>Transaksi</strong></td>
-                  <td><p class="text-left">{{ item.title }}</p></td>
+                  <td><p class="modal-title text-left"></p></td>
                 </tr>
               </tbody>
             </table>
@@ -175,11 +152,11 @@
               <tbody>
                 <tr>
                   <td><strong>Tanggal Transaksi</strong></td>
-                  <td><p class="text-right">{{ item.date | date: "%D" }}</p></td>
+                  <td><p class="modal-date text-right"></p></td>
                 </tr>
                 <tr>
                   <td><strong>Bukti Pembayaran</strong></td>
-                  <td><a href="{{ item.nota }}">NOTA</a></td>
+                  <td><a class="modal-nota" href="#"></a></td>
                 </tr>
               </tbody>
             </table>
@@ -187,11 +164,11 @@
               <tbody>
                 <tr>
                   <td><strong>Tanggal Pelunasan</strong></td>
-                  <td><p class="text-right">{{ item.tanggalpelunasan | date: "%D" }}</p></td>
+                  <td><p class="modal-tanggalpelunasan text-right"></p></td>
                 </tr>
                 <tr>
                   <td><strong>Bukti Pelunasan</strong></td>
-                  <td><img src="{{ item.notapelunasan }}" class="img-responsive" width="500"></td>
+                  <td><a class="modal-notapelunasan"></a></td>
                 </tr>
               </tbody>
             </table>
@@ -204,10 +181,37 @@
     </div>
   </div>
 </div>
-{% endfor %}
 
 <script>
 $("#clear").click(function(){
   $(".active").removeClass("active");
 });
+  
+$('#transaction-detail').on('show.bs.modal', function (event) {
+  var button = $(event.relatedTarget)
+  var nama = button.data("nama")
+  var kode = button.data("kode")
+  var title = button.data("title")
+  var date = button.data("date")
+  var anggaran = button.data("anggaran")
+  var nota = button.data("nota")
+  var tanggalpelunasan = button.data("tanggalpelunasan")
+  var notapelunasan = button.data("notapelunasan")
+  var modal = $(this)
+  modal.find('.modal-subtitle').text( kode + " - " + title )
+  modal.find('.modal-nama').text(nama)
+  modal.find('.modal-title').text(title)
+  modal.find('.modal-date').text(date)
+  modal.find('.modal-tanggalpelunasan').text(tanggalpelunasan)
+  if ( nota == "" ){
+    modal.find('.modal-nota').text("-").removeAttr("href")
+  } else {
+    modal.find('.modal-nota').attr("href",nota).text("NOTA")
+  }
+  if ( notapelunasan == "" ){
+    modal.find('.modal-notapelunasan').text("-").removeAttr("href")
+  } else {
+    modal.find('.modal-notapelunasan').attr("href",notapelunasan).text("NOTA PELUNASAN")
+  }
+})
 </script>
