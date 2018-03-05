@@ -68,6 +68,17 @@ defaults:
     values:
       layout: hibahcmb
       permalink: hibahcmb/:title
+
+jekyll_pages_api_search:
+  placeholder: Cari judul laporan, judul & kategori artikel, serta nama penulis...
+  index_fields:
+    title:
+      boost: 10
+    tags:
+      boost: 10
+    url:
+      boost: 5
+
 include:
   - _redirects
 exclude:
@@ -80,3 +91,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll_pages_api
+  - jekyll_pages_api_search

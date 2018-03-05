@@ -1,0 +1,19 @@
+{
+  "name": "ciptamedia",
+  "version": "0.0.1",
+  "description": "Website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ciptamedia/ciptamedia.gitlab.io.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ciptamedia/ciptamedia.gitlab.io/issues"
+  },
+  "homepage": "https://www.ciptamedia.org/",
+  "devDependencies": {
+    "browserify": "^16.1.0",
+    "uglifyify": "^4.0.5"
+  }
+}

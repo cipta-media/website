@@ -1,0 +1,27 @@
+---
+title: Cari
+layout: info
+permalink: search/
+---
+
+<div class="container" style="margin-top: 30px;">
+
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1>Cari</h1>
+        </div>
+    </div>
+
+    <div class="row m-b-lg">
+        <div class="col-md-12">
+          <div class="search">
+            {% jekyll_pages_api_search_interface %}
+            {% jekyll_pages_api_search_results %}
+          </div>
+        </div>
+    </div>
+
+</div>
+<script>JEKYLL_PAGES_API_SEARCH_BASEURL = '';</script>
+<script async src="/assets/js/search-bundle.js"></script>
