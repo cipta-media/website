@@ -5,6 +5,12 @@
   .fa-times {
     color: #F85154
   }
+  .tab-content > .active {
+    display: table-row;
+  }
+  .table > tbody > tr.active > td {
+    background-color: white;
+  }
 </style>
 
 <div class="container">
@@ -30,74 +36,54 @@
   <div class="row">
     <div class="col-lg-12">
       <h2>Rincian Penggunaan Dana</h2>
-        <table class="table">
-          <thead class="text-danger">
-            <th width="10%" class="text-left">Tanggal</th>
-            <th width="40%" class="text-left">Rincian</th>
-            <th width="10%" class="text-center">Status Penggantian</th>
-            <th width="20%" class="text-right">Kredit</th>
-            <th width="20%" class="text-right">Debit</th>
-          </thead>
-          <tbody>
-            <tr>
-              <td width="10%"></td>
-              <td width="40%"><strong><p class="text-left">Total Anggaran</p></strong></td>
-              <td width="10%"></td>
-              <td width="20%"><strong><p class="text-right">{{ structure.total_rencana_anggaran }}</p></strong></td>
-              <td width="20%"></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-  </div>
-  <div class="row">
-    <div class="col-lg-12">
-      <div class="tab-content">
-        {% for item in dataset reversed %}
-        <div class="{{ item.kode }} semua tab-pane fade">
-          <div class="row">
-            <table class="table">
-              <tbody>
-                <tr>
-                  <td width="10%"><strong><p class="text-left">{{ item.date | date: "%D" }}</p></strong></td>
-                  <td width="40%">
-                    <strong><p class="text-left">{{ item.nama }}</p></strong>
-                    <p class="text-left">{{ item.title }}</p>
-                  </td>
-                  <td width="10%">
-                    <strong><p class="text-center">
-                      <a href="#" data-toggle="modal" data-target="#transaction-detail" 
-                         data-nama="{{ item.nama }}"
-                         data-kode="{{ item.kode }}"
-                         data-title="{{ item.title | xml_escape }}"
-                         data-date="{{ item.date | date: "%D" }}"
-                         data-anggaran="{{ item.anggaran | xml_escape }}"
-                         data-nota="{{ item.nota }}"
-                         data-tanggalpelunasan="{{ item.tanggalpelunasan | date: "%D" }}"
-                         data-notapelunasan="{{ item.notapelunasan }}">
-                        {% if item.tanggalpelunasan %}
-                        <i class="fa fa-check" aria-hidden="true"></i>
-                        {% else %}
-                        <i class="fa fa-times" aria-hidden="true"></i>
-                        {% endif %}
-                      </a>
-                    </p></strong>
-                  </td>
-                  <td width="20%"></td>
-                  <td width="20%"><strong><p class="text-right">{{ item.biaya }}</p></strong></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-lg-12">
       <table class="table">
-        <tbody>
+        <thead class="text-danger">
+          <th width="10%" class="text-left">Tanggal</th>
+          <th width="40%" class="text-left">Rincian</th>
+          <th width="10%" class="text-center">Status Penggantian</th>
+          <th width="20%" class="text-right">Kredit</th>
+          <th width="20%" class="text-right">Debit</th>
+        </thead>
+        <tbody class="tab-content">
+          <tr>
+            <td width="10%"></td>
+            <td width="40%"><strong><p class="text-left">Total Anggaran</p></strong></td>
+            <td width="10%"></td>
+            <td width="20%"><strong><p class="text-right">{{ structure.total_rencana_anggaran }}</p></strong></td>
+            <td width="20%"></td>
+          </tr>
+          {% for item in dataset reversed %}
+          <tr class="{{ item.kode }} semua tab-pane fade">
+            <td width="10%"><strong><p class="text-left">{{ item.date | date: "%D" }}</p></strong></td>
+            <td width="40%">
+              <strong><p class="text-left">{{ item.nama }}</p></strong>
+              <p class="text-left">{{ item.title }}</p>
+            </td>
+            <td width="10%">
+              <strong><p class="text-center">
+                <a href="#" data-toggle="modal" data-target="#transaction-detail" 
+                   data-nama="{{ item.nama }}"
+                   data-kode="{{ item.kode }}"
+                   data-title="{{ item.title | xml_escape }}"
+                   data-date="{{ item.date | date: "%D" }}"
+                   data-anggaran="{{ item.anggaran | xml_escape }}"
+                   data-nota="{{ item.nota }}"
+                   data-tanggalpelunasan="{{ item.tanggalpelunasan | date: "%D" }}"
+                   data-notapelunasan="{{ item.notapelunasan }}">
+                  {% if item.tanggalpelunasan %}
+                  <i class="fa fa-check" aria-hidden="true"></i>
+                  {% else %}
+                  <i class="fa fa-times" aria-hidden="true"></i>
+                  {% endif %}
+                </a>
+              </p></strong>
+            </td>
+            <td width="20%"></td>
+            <td width="20%"><strong><p class="text-right">{{ item.biaya }}</p></strong></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+        <tfoot>
           <tr>
             <td width="5%"></td>
             <td width="50%"><strong><p class="text-left">Total Pengeluaran</p></strong></td>
@@ -121,7 +107,7 @@
             {% endif %}
             <td width="20%"></td>
           </tr>
-        </tbody>
+        </tfoot>
       </table>
     </div>
   </div>
