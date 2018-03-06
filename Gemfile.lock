@@ -15,8 +15,8 @@ GIT
 
 GIT
   remote: git://github.com/jayvdb/jekyll-last-modified-at.git
-  revision: ae4992c9ef7df02e242bf6700f1e0a93dadf2e8b
-  branch: fix-no-git-check
+  revision: ebd3dfaf435631a4a411bed92e068e014ac91136
+  branch: no-git
   specs:
     jekyll-last-modified-at (1.0.1)
       jekyll (~> 3.3)

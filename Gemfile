@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-netlify", github: 'jayvdb/jekyll-netlify', ref: 'e7efada3'
   gem "disqus-for-jekyll"
-  gem "jekyll-last-modified-at", github: "jayvdb/jekyll-last-modified-at", branch: "fix-no-git-check"
+  gem 'jekyll-last-modified-at', github: 'jayvdb/jekyll-last-modified-at', branch: 'no-git'
   gem 'jekyll-include-cache'
   gem 'jekyll-analytics', github: 'jayvdb/jekyll-analytics', branch: 'allow-missing'
 end
