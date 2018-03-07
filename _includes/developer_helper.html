@@ -20,7 +20,7 @@ $(document).ready(
   }
 )
 const _clearUser = function() {
-  netlifyIdentity.currentUser().update( {data: {registered: false}}).
+  netlifyIdentity.currentUser().update( {data: {cme_form_submitted: false}}).
   then(function() {
     alert('Status terdaftar sudah di hapus, halaman akan di muat ulang!');
     window.location.reload();

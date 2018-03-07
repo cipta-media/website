@@ -18,7 +18,7 @@ layout: info
       }
 
       function checkAuth(user) {
-        if (user && !user.user_metadata.registered) {
+        if (user && !(user.user_metadata.registered || user.user_metadata.cme_form_submitted)) {
           return setIdentity(user);
         }
         window.location.href = '/';
@@ -511,7 +511,7 @@ layout: info
             $("#syarat_ketentuan").hide();
             $("#hide_on_success").hide();
             $("#success_tab").fadeIn();
-            return user.update({ data: { registered: true } });
+            return user.update({ data: { cme_form_submitted: true } });
           });
         });
 

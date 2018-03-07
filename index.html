@@ -13,7 +13,7 @@ function checkAuth(user) {
     });
   }
 
-  if (user && user.user_metadata.registered) {
+  if (user && (user.user_metadata.registered || user.user_metadata.cme_form_submitted)) {
     $("#registercme").addClass("disabled");
     $("#registercme").html('<span class="round-button"><b>Sudah</b><br/><b>Terdaftar!</b></span>');
   }
