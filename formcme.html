@@ -1,6 +1,6 @@
 ---
 title: Formulir Pendaftaran Hibah Cipta Media Ekspresi
-layout: info
+layout: form
 ---
 
     <script src= "https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
@@ -14,6 +14,8 @@ layout: info
         $(function() {
           $("#auth_name").val(user.user_metadata.full_name);
           $("#email").val(user.email);
+          $("#form-fieldset").removeAttr('disabled');
+          $("#not-logged-in-message").hide();
         });
       }
 
@@ -21,7 +23,6 @@ layout: info
         if (user && !(user.user_metadata.registered || user.user_metadata.cme_form_submitted)) {
           return setIdentity(user);
         }
-        window.location.href = '/';
       }
 
       netlifyIdentity.on("init", checkAuth);
@@ -583,6 +584,15 @@ layout: info
     </style>
     <section id="header" style="background-image: url(/static/img/landing/syarat-header.png); background-size: cover; background-attachment: scroll; background-repeat: no-repeat; background-position: bottom; height: 40vh; width: 100%;">
     </section>
+
+    <div id="not-logged-in-message" class="text-center alert alert-danger">
+      <h2>Anda belum masuk log.</h2>
+      <p>
+        Klik <a href="{{ site.baseurl }}/">Beranda</a> dan klik "Formulir" untuk masuk log,
+        Anda otomatis akan kembali ke halaman ini.
+      </p>
+    </div>
+
     <div class="container" style="margin-top: 30px;" id="syarat_ketentuan">
 
         <div class="row">
@@ -706,6 +716,7 @@ layout: info
         <div class="row" id="formulir_isi">
             <div class="col-lg-12">
                 <form class="form-horizontal" id="formpass" name="daftar" netlify-honeypot="bot-field" action="thank-you" netlify>
+                  <fieldset id="form-fieldset" disabled>
                     <p class="hidden">
                         <label>Don’t fill this out: <input name="bot-field"></label>
                     </p>
@@ -902,6 +913,7 @@ layout: info
                             <button type="button" id="preview" class="btn btn-lg btn-danger btn-rounded btn-outline">Selanjutnya</button>
                         </div>
                     </div>
+                  </fieldset>
                 </form>
             </div>
         </div>
