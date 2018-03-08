@@ -11,6 +11,9 @@
   .table > tbody > tr.active > td {
     background-color: white;
   }
+  .modal-max-width {
+    max-width: 300px;
+  }
 </style>
 
 <div class="container">
@@ -67,9 +70,9 @@
                    data-title="{{ item.title | xml_escape }}"
                    data-date="{{ item.date | date: "%D" }}"
                    data-anggaran="{{ item.anggaran | xml_escape }}"
-                   data-nota="{{ item.nota }}"
+                   data-nota="{% if item.nota.url %}{{ item.nota.url }}{% else %}{{ item.nota }}{% endif %}"
                    data-tanggalpelunasan="{{ item.tanggalpelunasan | date: "%D" }}"
-                   data-notapelunasan="{{ item.notapelunasan }}">
+                   data-notapelunasan="{% if item.notapelunasan.url %}{{ item.notapelunasan.url }}{% else %}{{ item.notapelunasan }}{% endif %}">
                   {% if item.tanggalpelunasan %}
                   <i class="fa fa-check" aria-hidden="true"></i>
                   {% else %}
@@ -142,7 +145,12 @@
                 </tr>
                 <tr>
                   <td><strong>Bukti Pembayaran</strong></td>
-                  <td><a class="modal-nota" href="#"></a></td>
+                  <td>
+                    <a class="modal-nota">
+                      <img class="modal-nota modal-max-width">
+                      <p class="nota-placeholder"></p>
+                    </a>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -154,7 +162,12 @@
                 </tr>
                 <tr>
                   <td><strong>Bukti Pelunasan</strong></td>
-                  <td><a class="modal-notapelunasan"></a></td>
+                  <td>
+                    <a class="modal-notapelunasan">
+                      <img class="modal-notapelunasan modal-max-width">
+                      <p class="notapelunasan-placeholder"></p>
+                    </a>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -175,6 +188,7 @@ $("#clear").click(function(){
   
 $('#transaction-detail').on('show.bs.modal', function (event) {
   var button = $(event.relatedTarget)
+  const wikiFile = "/File:"
   var nama = button.data("nama")
   var kode = button.data("kode")
   var title = button.data("title")
@@ -189,15 +203,33 @@ $('#transaction-detail').on('show.bs.modal', function (event) {
   modal.find('.modal-title').text(title)
   modal.find('.modal-date').text(date)
   modal.find('.modal-tanggalpelunasan').text(tanggalpelunasan)
+  
   if ( nota == "" ){
-    modal.find('.modal-nota').text("-").removeAttr("href")
+    modal.find('img.modal-nota').removeAttr("src")
+    modal.find('a.modal-nota').removeAttr("href")
+    modal.find('p.nota-placeholder').text("-")
+  } else if ( nota.indexOf(wikiFile) > -1 ) {
+    modal.find('img.modal-nota').removeAttr("src")
+    modal.find('a.modal-nota').attr("href",nota)
+    modal.find('p.nota-placeholder').text("NOTA")
   } else {
-    modal.find('.modal-nota').attr("href",nota).text("NOTA")
+    modal.find('img.modal-nota').attr("src",nota)
+    modal.find('a.modal-nota').attr("href",nota)
+    modal.find('p.nota-placeholder').empty()
   }
+  
   if ( notapelunasan == "" ){
-    modal.find('.modal-notapelunasan').text("-").removeAttr("href")
+    modal.find('img.modal-notapelunasan').removeAttr("src")
+    modal.find('a.modal-notapelunasan').removeAttr("href")
+    modal.find('p.notapelunasan-placeholder').text("-")
+  } else if ( notapelunasan.indexOf(wikiFile) > -1 ) {
+    modal.find('img.modal-notapelunasan').removeAttr("src")
+    modal.find('a.modal-notapelunasan').attr("href",notapelunasan)
+    modal.find('p.notapelunasan-placeholder').text("NOTA PELUNASAN")
   } else {
-    modal.find('.modal-notapelunasan').attr("href",notapelunasan).text("NOTA PELUNASAN")
+    modal.find('img.modal-notapelunasan').attr("src",notapelunasan)
+    modal.find('a.modal-notapelunasan').attr("href",notapelunasan)
+    modal.find('p.notapelunasan-placeholder').empty()
   }
 })
 </script>
