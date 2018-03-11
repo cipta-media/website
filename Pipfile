@@ -1,0 +1,28 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+python-frontmatter = "*"
+python-slugify = "*"
+requests = "*"
+"ruamel.yaml" = ">=0.15.0"
+
+
+[packages]
+
+
+
+[requires]
+
+python_version = "3.6"
+
+
+[scripts]
+
+import_netlify_csv = "python tools/import_netlify_csv.py"
+ktp_location_stats = "python tools/ktp_location_stats.py"
