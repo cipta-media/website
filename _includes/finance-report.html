@@ -11,9 +11,6 @@
   .table > tbody > tr.active > td {
     background-color: white;
   }
-  .modal-max-width {
-    max-width: 300px;
-  }
 </style>
 
 <div class="container">
@@ -68,6 +65,7 @@
                    data-nama="{{ item.nama }}"
                    data-kode="{{ item.kode }}"
                    data-title="{{ item.title | xml_escape }}"
+                   data-biaya="{{ item.biaya }}"
                    data-date="{{ item.date | date: "%D" }}"
                    data-anggaran="{{ item.anggaran | xml_escape }}"
                    data-nota="{% if item.nota.url %}{{ item.nota.url }}{% else %}{{ item.nota }}{% endif %}"
@@ -119,54 +117,62 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h3 class="modal-title" id="myModalLabel">Status Pelunasan</h3>
+        <h3>Status Pelunasan</h3>
+        <h4 class="modal-subtitle"></h4>
       </div>
       <div class="modal-body">
-        <h4 class="modal-subtitle"></h4>
         <div class="row">
           <div class="col-md-12">
-          <table class="table">
+            <table class="table text-center">
+              <thead>
+                <tr>
+                  <th class="text-center">Nama</th>
+                  <th class="text-center">Transaksi</th>
+                  <th class="text-center">Kode Anggaran</th>
+                </tr>
+              </thead>
               <tbody>
                 <tr>
-                  <td><strong>Nama</strong></td>
-                  <td><p class="modal-nama text-left"></p></td>
-                </tr>
-                <tr>
-                  <td><strong>Transaksi</strong></td>
-                  <td><p class="modal-judul text-left"></p></td>
+                  <td><p class="modal-nama"></p></td>
+                  <td><p class="modal-judul"></p></td>
+                  <td><p class="modal-kode"></p></td>
                 </tr>
               </tbody>
             </table>
-            <table class="table">
+            <table class="table text-center">
+              <thead>
+                <tr>
+                  <th class="text-center">Tanggal Transaksi</th>
+                  <th class="text-center">Tanggal Pelunasan</th>
+                </tr>
+              </thead>
               <tbody>
                 <tr>
-                  <td><strong>Tanggal Transaksi</strong></td>
-                  <td><p class="modal-date text-right"></p></td>
+                  <td><p class="modal-date"></p></td>
+                  <td><p class="modal-tanggalpelunasan"></p></td>
                 </tr>
                 <tr>
-                  <td><strong>Bukti Pembayaran</strong></td>
                   <td>
                     <a class="modal-nota">
-                      <img class="modal-nota modal-max-width">
+                      <img class="modal-nota img-responsive center-block">
                       <p class="nota-placeholder"></p>
                     </a>
                   </td>
-                </tr>
-              </tbody>
-            </table>
-            <table class="table">
-              <tbody>
-                <tr>
-                  <td><strong>Tanggal Pelunasan</strong></td>
-                  <td><p class="modal-tanggalpelunasan text-right"></p></td>
-                </tr>
-                <tr>
-                  <td><strong>Bukti Pelunasan</strong></td>
                   <td>
                     <a class="modal-notapelunasan">
-                      <img class="modal-notapelunasan modal-max-width">
+                      <img class="modal-notapelunasan img-responsive center-block">
                       <p class="notapelunasan-placeholder"></p>
                     </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <strong>BIAYA</strong>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <p class="modal-biaya"></p>
                   </td>
                 </tr>
               </tbody>
@@ -192,6 +198,7 @@ $('#transaction-detail').on('show.bs.modal', function (event) {
   var nama = button.data("nama")
   var kode = button.data("kode")
   var title = button.data("title")
+  var biaya = button.data("biaya")
   var date = button.data("date")
   var anggaran = button.data("anggaran")
   var nota = button.data("nota")
@@ -199,8 +206,10 @@ $('#transaction-detail').on('show.bs.modal', function (event) {
   var notapelunasan = button.data("notapelunasan")
   var modal = $(this)
   modal.find('.modal-subtitle').text( kode + " - " + title )
+  modal.find('.modal-kode').text(kode)
   modal.find('.modal-nama').text(nama)
   modal.find('.modal-judul').text(title)
+  modal.find('.modal-biaya').text(biaya)
   modal.find('.modal-date').text(date)
   modal.find('.modal-tanggalpelunasan').text(tanggalpelunasan)
   
