@@ -14,7 +14,8 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-analytics', github: 'jayvdb/jekyll-analytics', branch: 'allow-missing'
   gem 'jekyll_pages_api'
-  gem 'jekyll_pages_api_search', git: 'git://github.com/jayvdb/jekyll_pages_api_search', branch: 'v0.4.4-safe'
+  gem 'jekyll_pages_api_search', github: 'jayvdb/jekyll_pages_api_search', branch: 'v0.4.4-safe'
+  gem 'jekyll_social_icons', github: 'jayvdb/jekyll_social_icons', branch: 'disable-style'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

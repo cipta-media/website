@@ -22,13 +22,20 @@ GIT
       jekyll (~> 3.0)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll_pages_api_search
+  remote: git://github.com/jayvdb/jekyll_pages_api_search.git
   revision: 8fcb14cce3b1eff6e531fc7c260b1ab74d4de973
   branch: v0.4.4-safe
   specs:
     jekyll_pages_api_search (0.4.4)
       jekyll_pages_api (~> 0.1.4)
       sass (~> 3.4)
+
+GIT
+  remote: git://github.com/jayvdb/jekyll_social_icons.git
+  revision: f551b2738bde70ae03ad70889737f9507b34d735
+  branch: disable-style
+  specs:
+    jekyll_social_icons (0.1.0)
 
 GIT
   remote: git://github.com/riouwa/jekyll-last-modified-at.git
@@ -307,6 +314,7 @@ DEPENDENCIES
   jekyll-netlify!
   jekyll_pages_api
   jekyll_pages_api_search!
+  jekyll_social_icons!
   tzinfo-data
 
 RUBY VERSION

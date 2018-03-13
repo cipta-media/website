@@ -72,7 +72,7 @@ defaults:
 socials:
   twitter: https://twitter.com/ciptamedia
   facebook: https://www.facebook.com/ciptamedia
-  youtube-play: https://www.youtube.com/channel/UCtShaHHIZrZ1iHa5bkH-Z_A
+  youtube: https://www.youtube.com/channel/UCtShaHHIZrZ1iHa5bkH-Z_A
   instagram: https://www.instagram.com/cipta.media.ekspresi/
 
 jekyll_pages_api_search:
