@@ -1,17 +1,16 @@
 GIT
+  remote: git://github.com/hendrikschneider/jekyll-analytics.git
+  revision: a9dfc1fcc476c244fb681fb03153b0d38f1903cc
+  specs:
+    jekyll-analytics (0.1.9)
+
+GIT
   remote: git://github.com/jayvdb/git-set-mtime.git
   revision: d584f6a2afc7b8e07e22179c3cd93783d8d36f46
   branch: file-exists
   specs:
     git-set-mtime (0.0.2)
       thor (~> 0.19.1)
-
-GIT
-  remote: git://github.com/jayvdb/jekyll-analytics.git
-  revision: 5cc499cf928faf57c7ee9c1fbc29bd118fca263d
-  branch: allow-missing
-  specs:
-    jekyll-analytics (0.1.8)
 
 GIT
   remote: git://github.com/jayvdb/jekyll-netlify.git

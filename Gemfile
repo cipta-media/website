@@ -12,7 +12,7 @@ group :jekyll_plugins do
   gem "disqus-for-jekyll"
   gem 'jekyll-last-modified-at', github: 'riouwa/jekyll-last-modified-at', branch: 'no-git'
   gem 'jekyll-include-cache'
-  gem 'jekyll-analytics', github: 'jayvdb/jekyll-analytics', branch: 'allow-missing'
+  gem 'jekyll-analytics', github: 'hendrikschneider/jekyll-analytics'
   gem 'jekyll_pages_api'
   gem 'jekyll_pages_api_search', github: 'jayvdb/jekyll_pages_api_search', branch: 'v0.4.4-safe'
   gem 'jekyll_social_icons', github: 'jayvdb/jekyll_social_icons', branch: 'disable-style'
