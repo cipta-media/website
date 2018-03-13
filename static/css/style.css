@@ -857,3 +857,40 @@ blockquote em {
 .social-container A:hover .fa-instagram {
   color: #8a3ab9;
 }
+
+.bg-dark {
+  background-color: #1C1D21;
+}
+
+.sm-padding {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#footer {
+  position: relative;
+}
+
+.footer-logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.footer-logo > a > img {
+  max-height: 80px;
+  margin-top: 20px;
+}
+
+.footer-copyright p {
+  text-align: center;
+  font-size: 14px;
+  margin: 0;
+}
+
+.footer-copyright a {
+  color: #6aa59b !important;
+}
+
+.wmid-logo {
+  max-height: 35px !important;
+}
