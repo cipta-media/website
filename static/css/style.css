@@ -840,3 +840,19 @@ blockquote em {
 .social-container .fa {
   font-size: 1.3em;
 }
+
+.social-container A:hover {
+  background-color: white;
+}
+.social-container A:hover .fa-twitter {
+  color: #019edc;
+}
+.social-container A:hover .fa-facebook {
+  color: #3f5995;
+}
+.social-container A:hover .fa-youtube-play {
+  color: #bf1211;
+}
+.social-container A:hover .fa-instagram {
+  color: #8a3ab9;
+}
