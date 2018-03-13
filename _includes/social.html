@@ -1,20 +1,7 @@
-<div class="col-md-3">
-    <p style="margin-top: 20px" class="text-center">
-        <a style="margin-right: 20px" href="https://www.facebook.com/ciptamedia"><span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x" style="color: #6ca59a"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-        </span></a>
-        <a style="margin-right: 20px" href="https://twitter.com/ciptamedia"><span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x" style="color: #6ca59a"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-        </span></a>
-        <a href="https://www.instagram.com/cipta.media.ekspresi/"><span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x" style="color: #6ca59a"></i>
-                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
-        </span></a>
-        <a href="https://www.youtube.com/channel/UCtShaHHIZrZ1iHa5bkH-Z_A"><span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x" style="color: #6ca59a"></i>
-                <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
-        </span></a>
-    </p>
+<div class="social-container col-md-3">
+  {% for social in site.socials %}
+    <div class="social">
+      <a href="{{ social[1] }}"><i class="fa fa-{{ social[0] }} fa-inverse"></i></a>
+    </div>
+  {% endfor %}
 </div>

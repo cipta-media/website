@@ -808,3 +808,35 @@ blockquote em {
 	height: 600px;
 	border: 1px solid #ccc;
 }
+
+.social-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.social-container .social {
+  margin-right: 15px;
+}
+
+.social-container .social:last-child {
+  margin-right: 0 !important;
+}
+
+.social-container A {
+  display: flex;
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 100%;
+  background-color: #6ca59a;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+}
+
+.social-container .fa {
+  font-size: 1.3em;
+}
