@@ -104,24 +104,8 @@ body, p {
 /*     border-bottom: 1px solid #aaa; */
     margin: 0 auto 40px;
 }
-.txt-white{
-    color: #FFFFFF;
-}
-.txt-gray{
-    color: #ddd !important;
-}
-
-
-.parallax{
-  width:100%;
-  height:570px;
-
-  display: block;
-  background-attachment: fixed;
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position: center center;
-
+.white-text {
+  color: #FFFFFF;
 }
 
 .logo-container .logo{
@@ -143,6 +127,7 @@ body, p {
     height: 40px;
     text-align: left;
 }
+
 .logo-container .brand-material{
     font-size: 18px;
     margin-top: 15px;
@@ -180,27 +165,6 @@ body, p {
     margin-top: 0;
 }
 
-
-.parallax .parallax-image{
-    width: 100%;
-    overflow: hidden;
-    position: absolute;
-}
-.parallax .parallax-image img{
-    width: 100%;
-}
-
-@media (max-width: 768px){
-    .parallax .parallax-image{
-         width: 100%;
-         height: 640px;
-         overflow: hidden;
-     }
-    .parallax .parallax-image img{
-       height: 100%;
-       width: auto;
-   }
-}
 
 .separator{
     content: "Separator";
@@ -251,15 +215,10 @@ body, p {
         margin-bottom: 100px;
     }
 }
+
 @media (max-width: 768px){
-    .btn, .btn-morphing{
+    .btn {
         margin-bottom: 10px;
-    }
-    .parallax .motto{
-        top: 170px;
-        margin-top: 0;
-        font-size: 60px;
-        width: 270px;
     }
 }
 
@@ -648,16 +607,92 @@ a.index-link {
   text-transform: uppercase;
 }
 
-.index-banner {
+#home .bg-img {
   background-image: url(/static/img/landing/bg_3.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
   background-size: cover;
   background-attachment: fixed;
-  background-repeat: no-repeat;
   background-position: center;
+}
+
+#home .bg-img .overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  opacity: .5;
+  background: #0b455b;
+}
+
+header {
+  position: relative;
+}
+
+#home {
   height: 100vh;
+}
+
+#home .home-wrapper {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+.home-content h1 {
+  text-transform: uppercase;
+}
+
+.main-btn, .white-btn {
+  font-weight: bold;
+  padding: 10px 35px;
+  margin: 3px;
+  border-width: 2px;
+  border-radius: 5px;
+  -webkit-transition: 0.2s opacity;
+  transition: 0.2s opacity;
+}
+
+.main-btn {
+  background: #ffc86e;
+  color: #000;
+}
+
+.white-btn {
+  background: #FFF;
+  color: #10161A !important;
+}
+
+.main-btn:hover, .white-btn:hover {
+  opacity: 0.8;
+}
+
+.header-wrapper h2 {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+.section-header {
+  position: relative;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.index-margin img {
+  width: 150px;
+  height: 200px;
+  float: right;
 }
 
 /* Globally update p to match h4 style because a lot of usage of h4 tag semantically should be a p */
@@ -672,25 +707,6 @@ p {
   max-height: 200px;
   font-size: 14px;
   color: #A5A5A5;
-}
-
-.index-margin {
-  margin-top: 100px;
-}
-
-@media only screen and (max-width:768px) {
-  .index-banner {
-    background-image: url(/static/img/landing/bg_3_mobile.jpg);
-    height: 20vh;
-    background-size: contain;
-    background-position: top center;
-  }
-  .hide-paralax {
-    display: none;
-  }
-  .index-margin {
-   margin-top: 10px;
-  }
 }
 
 blockquote {

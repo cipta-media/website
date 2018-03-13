@@ -4,6 +4,7 @@ permalink: "/"
 author: Cipta Media
 layout: base
 ---
+<link href="/static/css/index-nav.css" rel="stylesheet">
 
 <script>
 function checkAuth(user) {
@@ -15,7 +16,7 @@ function checkAuth(user) {
 
   if (user && (user.user_metadata.registered || user.user_metadata.cme_form_submitted)) {
     $("#registercme").addClass("disabled");
-    $("#registercme").html('<span class="round-button"><b>Sudah</b><br/><b>Terdaftar!</b></span>');
+    $("#registercme").text('Sudah Terdaftar!');
   }
 }
 
@@ -47,36 +48,79 @@ $(document).ready(function(){
 netlifyIdentity.on("init", checkAuth);
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 
-<section id="header" class="index-banner">
+<header id="home">
+  <div class="bg-img">
+    <div class="overlay"></div>
+  </div>
+
+  <nav id="nav" class="navbar nav-transparent">
     <div class="container">
-        <div class="hide-paralax">
-            <ul id="scene" class="scene" data-hover-only="true" data-relative-input="true" style="padding-left: 0">
-                <li data-depth="1.00">
-                    <div class="index-well-post">
-                        <div class="row">
-                            <div class="col-lg-6 col-lg-offset-6 well text-center index-well">
-                                <h2 style="line-height: 125%">Hibah dana tunai untuk merayakan keragaman pengetahuan dan ekspresi kreativitas perempuan di Indonesia</h2>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li data-depth-x="0.80" data-depth-y="-0.80"><div class="index-cloud"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Cloud.png"></div></li>
-                <li data-depth-x="0.60" data-depth-y="-0.20"><div class="index-leaf-blue-2"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
-                <li data-depth="0.40"><div class="index-leaf-blue-1"><img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png"></div></li>
-            </ul>
+
+      <div class="navbar-header">
+        <!-- Logo -->
+        <div class="navbar-brand">
+          <a href="/">
+            <img class="logo" src="/static/img/landing/logo-ekspresi-typo.png" alt="logo">
+            <img class="logo-alt" src="/static/img/landing/logo-ekspresi-typo-w.png" alt="logo">
+          </a>
         </div>
+
+        <!-- Collapse nav button -->
+        <div class="nav-collapse">
+          <span></span>
+        </div>
+      </div>
+
+      <!--  Main navigation  -->
+      <ul class="main-nav nav navbar-nav navbar-right">
+        <li><a href="/ciptamediaekspresi/kategori-ekspresi">Kategori</a></li>
+        <li><a href="/ciptamediaekspresi/timeline-ekspresi">Linimasa</a></li>
+        <li><a href="/ciptamediaekspresi/juri-ekspresi">Dewan Juri & Panitia</a></li>
+        <li><a href="/ciptamediaekspresi/syarat-ekspresi">Syarat & Ketentuan</a></li>
+        <li><a href="/ciptamediaekspresi/faq-ekspresi">Pertanyaan Umum</a></li>
+      </ul>
     </div>
-</section>
+  </nav>
+  <!-- /Nav -->
+
+  <!-- home wrapper -->
+  <div class="home-wrapper">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-10 col-md-offset-1">
+          <div class="home-content">
+            <h1 class="white-text">Cipta Media Ekspresi</h1>
+            <p class="white-text">Hibah dana tunai untuk merayakan keragaman pengetahuan dan ekspresi kreativitas perempuan di Indonesia.</p>
+
+            <h2 class="white-text">
+              <div id="countdown"></div>
+            </h2>
+
+            <a class="btn white-btn" href="/ciptamediaekspresi/pemohon-ekspresi.html">
+              Permohonan Hibah
+            </a>
+            <a id="registercme" class="btn main-btn" href="formcme.html">
+              Formulir
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
 <section class="index-margin">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 text-center vcenter" style="margin-bottom: 40px">
-                <img class="img-responsive center-block" src="/static/img/landing/logo-ekspresi-typo.png">
+            <div class="section-header text-center">
+                <h2 class="title">Cipta Media Ekspresi</h2>
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive center-block" src="/static/img/landing/CME_Aset_Leaf_Blue.png">
             </div><!--
-            --><div class="col-md-8 vcenter">
+            --><div class="col-md-6">
                 <p style="font-size: 1.2em; line-height: 1.5">Cipta Media Ekspresi merupakan hibah untuk perempuan pelaku kebudayaan di segala bidang seni. Hibah dapat digunakan untuk membuat, mengkaji, melakukan perjalanan serta membantu perempuan mencipta atau menampilkan karya.</p>
                 <p style="font-size: 1.2em; line-height: 1.5">Karya dapat berupa ciptaan asli, kajian, pemilihan benda-benda untuk dipamerkan atau diarsipkan dengan maksud mempertunjukkan atau berbagi.</p>
                 <p style="font-size: 1.2em; line-height: 1.5">Jumlah total dana hibah Cipta Media Ekspresi adalah 3,5 milyar rupiah bagi proyek yang dapat diselesaikan sebelum 28 Februari 2019.</p>
@@ -86,51 +130,7 @@ netlifyIdentity.on("init", checkAuth);
     </div>
 </section>
 
-<section style="margin-top: 100px">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
-                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/kategori-ekspresi" class="round-button"><b>Kategori</b></a></div></div>
-            </div>
-            <div class="col-xs-6 col-md-2 text-center">
-                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/timeline-ekspresi" class="round-button"><b>Linimasa</b></a></div></div>
-            </div>
-            <div class="col-xs-6 col-md-2 text-center">
-                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/juri-ekspresi" class="round-button"><b>Dewan Juri</b><br><b>& Panitia</b></a></div></div>
-            </div>
-            <div class="col-xs-6 col-md-2 text-center">
-                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/syarat-ekspresi" class="round-button"><b>Syarat &</b><br><b>Ketentuan</b></a></div></div>
-            </div>
-            <div class="col-xs-6 col-xs-offset-3 col-md-2 col-md-offset-0 text-center">
-                <div class="round-button"><div class="round-button-circle"><a href="/ciptamediaekspresi/faq-ekspresi" class="round-button"><b>Pertanyaan</b><br><b>Umum</b></a></div></div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-6 col-xs-offset-0 col-md-2 col-md-offset-4 text-center">
-                <div class="round-button">
-                    <div id="registercme" class="round-button-circle">
-                        <a href="formcme.html" class="round-button">
-                            <b>Formulir</b>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-6 col-xs-offset-0 col-md-2 text-center">
-                <div class="round-button">
-                    <div class="round-button-circle">
-                        <a href="/ciptamediaekspresi/pemohon-ekspresi.html" class="round-button">
-                            <b>Permohonan</b><br><b>Hibah</b>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <img class="img-responsive center-block" src="/static/img/landing/CME_Aset_GirlBack_index.png">
 
-<script>
-	var scene = document.getElementById('scene');
-	var parallax = new Parallax(scene);
-</script>
+<script type="text/javascript" src="/static/js/mainpage.js"></script>
+<script type="text/javascript" src="/static/js/countdown.js"></script>
