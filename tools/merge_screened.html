@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>Actions</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Merge Screened</td></tr>
+</thead>
+<tbody>
+<tr><td>store</td><td>false<datalist><option>false</option><option>true</option></datalist></td><td>no_mrs</td>
+</tr>
+<tr><td>setTimeout</td><td>100000<datalist><option>100000</option></datalist></td><td></td>
+</tr>
+<tr><td>open</td><td>https://gitlab.com/ciptamedia/ciptamedia.gitlab.io/merge_requests?label_name%5B%5D=Screened<datalist><option>https://gitlab.com/ciptamedia/ciptamedia.gitlab.io/merge_requests?label_name%5B%5D=Screened</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option></option><option>10000</option><option>30000</option><option>60000</option><option>120000</option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>There are no merge requests to show<datalist><option>Merge when pipeline succeeds</option><option>Rebase</option><option>opened</option><option>There are no merge requests to show</option></datalist></td><td>no_mrs</td>
+</tr>
+<tr><td>while</td><td>no_mrs!=true<datalist><option>ready_mrs==true</option><option>no_mrs==false</option><option>!no_mrs</option><option>no_mrs!=true</option></datalist></td><td></td>
+</tr>
+<tr><td>store</td><td>false<datalist><option>false</option></datalist></td><td>merged</td>
+</tr>
+<tr><td>store</td><td>false<datalist><option>false</option></datalist></td><td>ready</td>
+</tr>
+<tr><td>clickAndWait</td><td>css=.merge-request-title-text A<datalist><option>css=.merge-request-title-text A</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option>10000</option><option>30000</option><option>60000</option><option>120000</option><option></option></datalist></td><td></td>
+</tr>
+<tr><td>waitForTextPresent</td><td>Screened<datalist><option>The source branch HEAD</option><option>Rebase in progress</option><option>Screened</option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=button.btn.btn-sm.btn-reopen.btn-success.qa-mr-rebase-button<datalist><option>css=button.btn.btn-sm.btn-reopen.btn-success.qa-mr-rebase-button</option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=.breadcrumbs-sub-title A<datalist><option>css=.breadcrumbs-sub-title A</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option>10000</option><option>30000</option><option>60000</option><option>120000</option><option></option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>Merge when pipeline succeeds<datalist><option>Rebase</option><option>Merge when pipeline succeeds</option></datalist></td><td>ready</td>
+</tr>
+<tr><td>while</td><td>ready!=true<datalist><option>rebasing</option><option>rebasing==true</option><option>ready!=true</option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=.breadcrumbs-sub-title A<datalist><option>css=.breadcrumbs-sub-title A</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option></option><option>10000</option><option>30000</option><option>60000</option><option>120000</option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>Merge when pipeline succeeds<datalist><option>Rebase</option><option>Merge when pipeline succeeds</option></datalist></td><td>ready</td>
+</tr>
+<tr><td>endWhile</td><td><datalist><option>Rebase</option><option></option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=.breadcrumbs-sub-title A<datalist><option>css=.breadcrumbs-sub-title A</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option>10000</option><option>30000</option><option>60000</option><option>120000</option><option></option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=button.qa-merge-button.btn.btn-sm.btn-success.accept-merge-request.btn-info<datalist><option>css=button.qa-merge-button.btn.btn-sm.btn-success.accept-merge-request.btn-info</option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>Merged by<datalist><option>Merge when pipeline succeeds</option><option>Rebase</option><option>Merged by</option></datalist></td><td>merged</td>
+</tr>
+<tr><td>while</td><td>merged!=true<datalist><option>ready!=true</option><option>rebasing</option><option>rebasing==true</option><option>merged!=true</option></datalist></td><td></td>
+</tr>
+<tr><td>clickAndWait</td><td>css=.breadcrumbs-sub-title A<datalist><option>css=.breadcrumbs-sub-title A</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option></option><option>10000</option><option>30000</option><option>60000</option><option>120000</option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>Merged by<datalist><option>Merge when pipeline succeeds</option><option>Rebase</option><option>Merged by</option></datalist></td><td>merged</td>
+</tr>
+<tr><td>endWhile</td><td><datalist><option></option><option>Rebase</option></datalist></td><td></td>
+</tr>
+<tr><td>open</td><td>https://gitlab.com/ciptamedia/ciptamedia.gitlab.io/merge_requests?label_name%5B%5D=Screened<datalist><option>https://gitlab.com/ciptamedia/ciptamedia.gitlab.io/merge_requests?label_name%5B%5D=Screened</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForPageToLoad</td><td><datalist><option></option><option>10000</option><option>30000</option><option>60000</option><option>120000</option></datalist></td><td></td>
+</tr>
+<tr><td>storeTextPresent</td><td>There are no merge requests to show<datalist><option>Merge when pipeline succeeds</option><option>Rebase</option><option>opened</option><option>There are no merge requests to show</option></datalist></td><td>no_mrs</td>
+</tr>
+<tr><td>endWhile</td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
