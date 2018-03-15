@@ -70,10 +70,10 @@ defaults:
       permalink: hibahcmb/:title
 
 socials:
-  twitter: https://twitter.com/ciptamedia
-  facebook: https://www.facebook.com/ciptamedia
-  youtube: https://www.youtube.com/channel/UCtShaHHIZrZ1iHa5bkH-Z_A
   instagram: https://www.instagram.com/cipta.media.ekspresi/
+  facebook: https://www.facebook.com/ciptamedia
+  twitter: https://twitter.com/ciptamedia
+  youtube: https://www.youtube.com/channel/UCtShaHHIZrZ1iHa5bkH-Z_A
 
 jekyll_pages_api_search:
   placeholder: Cari judul laporan, judul & kategori artikel, serta nama penulis...
