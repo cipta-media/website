@@ -24,6 +24,7 @@ wawancara:
   -
     judul: "(Mama) Aleta Ba’un: Perempuan, Alam, dan Tenun"
     link: /aleta-baun/perempuan-alam-tenun/
+youtube: https://www.youtube.com/embed/JeLVQMVMNWU
 foto: /static/img/juricme/aleta.png
 ---
 

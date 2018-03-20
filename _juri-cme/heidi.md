@@ -32,6 +32,7 @@ wawancara:
   -
     judul: "Heidi Arbuckle: Menerobos Kehidupan Melalui Jalur Luar Biasa"
     link: /heidi-arbuckle/menerobos-kehidupan-melalui-jalur-luar-biasa/
+youtube: https://www.youtube.com/embed/Jjk--oKiB-A
 foto: /static/img/juricme/heidi.png
 ---
 

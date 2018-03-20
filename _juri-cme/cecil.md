@@ -35,6 +35,7 @@ wawancara:
   -
     judul: "Cecil Mariani: Tentang Desain Dana Kehidupan Seniman"
     link: /cecil-mariani/tentang-desain-dana-kehidupan-seniman/
+youtube: https://www.youtube.com/embed/t6BBAwDe2NE
 foto: /static/img/juricme/cecil.png
 ---
 

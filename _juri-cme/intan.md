@@ -33,6 +33,7 @@ wawancara:
   -
     judul: "Intan Paramaditha: Lahirnya Perempuan Perempuan Tajam"
     link: /intan-paramaditha/lahirnya-perempuan-perempuan-tajam/
+youtube: https://www.youtube.com/embed/rCYwuv_sxpY
 foto: /static/img/juricme/intan.png
 ---
 

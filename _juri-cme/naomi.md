@@ -52,6 +52,7 @@ wawancara:
   -
     judul: "Naomi Srikandi: Tentang Seni dan Inspirasi"
     link: /naomi-srikandi/tentang-seni-dan-inspirasi/
+youtube: https://www.youtube.com/embed/ByyojcGsnjc
 foto: /static/img/juricme/naomi.png
 ---
 
