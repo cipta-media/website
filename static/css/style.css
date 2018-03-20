@@ -607,8 +607,7 @@ a.index-link {
   text-transform: uppercase;
 }
 
-#home .bg-img {
-  background-image: url(/static/img/landing/bg_3.jpg);
+.bg-img {
   height: 100vh;
   position: absolute;
   left: 0;
@@ -621,7 +620,7 @@ a.index-link {
   background-position: center;
 }
 
-#home .bg-img .overlay {
+.bg-img .overlay {
   position: absolute;
   left: 0;
   top: 0;
@@ -637,6 +636,10 @@ header {
 
 #home {
   height: 100vh;
+}
+
+#home .bg-img { 
+  background-image: url('/static/img/landing/bg_3.jpg');
 }
 
 #home .home-wrapper {
@@ -909,4 +912,29 @@ blockquote em {
 
 .wmid-logo {
   max-height: 35px !important;
+}
+
+.stats-bg {
+  position: relative;
+}
+
+#stats .bg-img {
+  background-image: url('/static/img/landing/background2.jpg');
+  height: inherit;
+}
+
+.number {
+  text-align: center;
+  margin: 15px 0px;
+}
+
+.number i {
+  color: #ffc95f;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.number-header {
+  font-size: 36px;
+  margin-bottom: 10px;
 }

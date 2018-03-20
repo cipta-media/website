@@ -1,0 +1,47 @@
+{% for proposal in site.hibahcme %}{% assign proposal_count = proposal_count | plus: 1 %}{% endfor %}
+
+<div id="stats" class="stats-bg sm-padding">
+  <div class="bg-img">
+    <div class="overlay"></div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6">
+        <div class="number">
+          <i class="fa fa-users"></i>
+          <div class="white-text number-header">
+            {{ proposal_count }}
+          </div>
+          <span class="white-text">Proposal Hibah</span>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <div class="number">
+          <i class="fa fa-files-o"></i>
+          <div class="white-text number-header">
+            5
+          </div>
+          <span class="white-text">Kategori Hibah</span>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <div class="number">
+          <i class="fa fa-money"></i>
+          <div class="white-text number-header">
+            3,5 Milyar
+          </div>
+          <span class="white-text">Dana Hibah</span>
+        </div>
+      </div>
+      <div class="col-sm-3 col-xs-6">
+        <div class="number">
+          <i class="fa fa-globe"></i>
+          <div class="white-text number-header">
+            30
+          </div>
+          <span class="white-text">Provinsi</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
