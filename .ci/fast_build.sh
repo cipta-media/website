@@ -11,7 +11,8 @@ if [[ "$GITLAB_CI" ]]; then
 fi
 
 build() {
-  bundle exec git set-mtime
+  echo "Setting mtimes ..."
+  bundle exec git set-mtime > /dev/null
 
   if [[ -n "${JEKYLL_ENV}" && -f _config.${JEKYLL_ENV}.yml ]]; then
     JEKYLL_ARGS="$JEKYLL_ARGS --config _config.yml,_config.${JEKYLL_ENV}.yml"
@@ -19,9 +20,7 @@ build() {
 
   # Workaround for https://github.com/gjtorikian/jekyll-last-modified-at/issues/54
   # because the file mtimes are set above.
-  mv .git .hidden_git
-  jekyll build $JEKYLL_ARGS
-  mv .hidden_git .git
+  PATH=".ci/nogit:$PATH" bundle exec jekyll build $JEKYLL_ARGS
 
   exit
 }
