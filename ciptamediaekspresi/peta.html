@@ -2,13 +2,6 @@
 title: Pemohon Hibah - Peta
 layout: info
 ---
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin="" />
-	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js" integrity="sha512-WXoSHqw/t26DszhdMhOXOkI7qCiv5QWXhH9R7CgvgZMHz1ImlkVQ3uNsiQKu5wwbbxtPzFXd1hK4tzno2VqhpA==" crossorigin=""></script>
-
-	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
-	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
-	<script src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster-src.js"></script>
-	<script src="peta.js"></script>
 
     <div class="container" style="margin-top: 30px;">
         <div class="row">
@@ -23,81 +16,5 @@ layout: info
             </div>
         </div>
     </div>
-	<script type="text/javascript">
 
-		var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-				maxZoom: 18,
-				attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Points &copy 2012 LINZ'
-			}),
-			latlng = L.latLng(-1.0022933,112.6159104);
-
-		var map = L.map('map', {center: latlng, zoom: 5, layers: [tiles]});
-
-        function getCount(title) {
-            n = title.split(/ /)[0];
-            return Number(n);
-        }
-        function getName(title) {
-            pos = title.indexOf(' ');
-            name = title.substring(pos + 1);
-            return name;
-        }
-
-        function getMarkerClass(n) {
-            var c = 'marker-cluster marker-cluster-';
-		    if (n < 3) {
-			    c += 'small';
-		    } else if (n < 5) {
-			    c += 'medium';
-		    } else {
-			    c += 'large';
-            }
-            return c
-        }
-
-        function newIcon(n) {
-            return L.divIcon({ html: '<div><span>' + n + '</span></div>', className: getMarkerClass(n), iconSize: new L.Point(40, 40) });
-        }
-
-		var markers = L.markerClusterGroup({
-            iconCreateFunction: function (cluster) {
-                var markers = cluster.getAllChildMarkers();
-                var n = 0;
-                for (var i = 0; i < markers.length; i++) {
-                    title = markers[i].options.title;
-                    instance_count = getCount(title);
-                    n += instance_count;
-                }
-                var c = ' marker-cluster-';
-		        if (n < 3) {
-			        c += 'small';
-		        } else if (n < 10) {
-			        c += 'medium';
-		        } else {
-			        c += 'large';
-                }
-                tooltip = '' + markers.length + ' daerah';
-
-                cluster.bindTooltip(tooltip, { className: getMarkerClass(n) });
-
-                return newIcon(n);
-            },
-            showCoverageOnHover: false,
-        });
-
-		for (var i = 0; i < addressPoints.length; i++) {
-			var a = addressPoints[i];
-			var title = a[2];
-            n = getCount(title);
-            name = getName(title);
-			var marker = L.marker(new L.LatLng(a[0], a[1]),
-                                  { title: title, icon: newIcon(n), });
-			marker.bindPopup(name, { className: getMarkerClass(n) });
-			marker.bindTooltip(name, { className: getMarkerClass(n) });
-			markers.addLayer(marker);
-		}
-
-		map.addLayer(markers);
-
-	</script>
-
+{% include_cached peta.html %}
