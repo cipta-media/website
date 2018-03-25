@@ -10,10 +10,12 @@ layout: info
                 <h1 class="index-title">{{ page.title }}</h1>
             </div>
         </div>
+<!--
         <div class="row">
           <div class="masonry">
             {% for hibah in site.hibahcme reversed %}
               {% if hibah.nomor contains "f" %}
+              {% elsif hibah.nomor < 1000 %}
               {% else %}
               {% assign counter = counter | plus:1 %}
                 {% if counter == 24 %}
@@ -57,11 +59,13 @@ layout: info
             {% endfor %}
 
         </div>
+
         <div class="row" style="margin-top: -40px">
             <div class="col-md-12">
                 <div class="text-center" id="map"></div>
             </div>
         </div>
+-->
 
         <div class="row">
             <div class="masonry">
@@ -106,4 +110,6 @@ layout: info
 
     <script src="/static/js/rsz-fallback.js"></script>
 
-{% include_cached peta.html %}
+<!--
+    {% include_cached peta.html %}
+-->
