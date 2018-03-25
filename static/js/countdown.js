@@ -23,6 +23,9 @@ var x = setInterval(function() {
   // If the count down is over, write some text
   if (distance < 0) {
     clearInterval(x);
+    $("#registercme").addClass("disabled");
+    $("#formsubmit").html('EXPIRED');
+    $("#form-fieldset").attr('disabled', 'disabled');
     document.getElementById("countdown").innerHTML = "EXPIRED";
   }
 }, 1000);
