@@ -1,11 +1,11 @@
 GIT
-  remote: git://github.com/hendrikschneider/jekyll-analytics.git
-  revision: a9dfc1fcc476c244fb681fb03153b0d38f1903cc
+  remote: https://github.com/hendrikschneider/jekyll-analytics.git
+  revision: 40e09570dea80e3a9ecb0ad796aad1c434ff067c
   specs:
-    jekyll-analytics (0.1.9)
+    jekyll-analytics (0.1.12)
 
 GIT
-  remote: git://github.com/jayvdb/git-set-mtime.git
+  remote: https://github.com/jayvdb/git-set-mtime.git
   revision: d584f6a2afc7b8e07e22179c3cd93783d8d36f46
   branch: file-exists
   specs:
@@ -13,7 +13,7 @@ GIT
       thor (~> 0.19.1)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll-netlify.git
+  remote: https://github.com/jayvdb/jekyll-netlify.git
   revision: e7efada373bd18f92346b432d37ff045103edc85
   ref: e7efada3
   specs:
@@ -21,7 +21,7 @@ GIT
       jekyll (~> 3.0)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll_pages_api_search.git
+  remote: https://github.com/jayvdb/jekyll_pages_api_search.git
   revision: 8fcb14cce3b1eff6e531fc7c260b1ab74d4de973
   branch: v0.4.4-safe
   specs:
@@ -30,14 +30,14 @@ GIT
       sass (~> 3.4)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll_social_icons.git
+  remote: https://github.com/jayvdb/jekyll_social_icons.git
   revision: f551b2738bde70ae03ad70889737f9507b34d735
   branch: disable-style
   specs:
     jekyll_social_icons (0.1.0)
 
 GIT
-  remote: git://github.com/riouwa/jekyll-last-modified-at.git
+  remote: https://github.com/riouwa/jekyll-last-modified-at.git
   revision: ee44dc654691fe5f377187005d19ed84b66bcbf5
   branch: no-git
   specs:
@@ -272,7 +272,7 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    posix-spawn (0.3.13)
+    posix-spawn (0.3.15)
     public_suffix (2.0.5)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -296,7 +296,7 @@ GEM
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2018.3)
       tzinfo (>= 1.0.0)
