@@ -1,11 +1,11 @@
 GIT
-  remote: git://github.com/hendrikschneider/jekyll-analytics.git
-  revision: a9dfc1fcc476c244fb681fb03153b0d38f1903cc
+  remote: https://github.com/hendrikschneider/jekyll-analytics.git
+  revision: 40e09570dea80e3a9ecb0ad796aad1c434ff067c
   specs:
-    jekyll-analytics (0.1.9)
+    jekyll-analytics (0.1.12)
 
 GIT
-  remote: git://github.com/jayvdb/git-set-mtime.git
+  remote: https://github.com/jayvdb/git-set-mtime.git
   revision: d584f6a2afc7b8e07e22179c3cd93783d8d36f46
   branch: file-exists
   specs:
@@ -13,7 +13,7 @@ GIT
       thor (~> 0.19.1)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll-netlify.git
+  remote: https://github.com/jayvdb/jekyll-netlify.git
   revision: e7efada373bd18f92346b432d37ff045103edc85
   ref: e7efada3
   specs:
@@ -21,7 +21,7 @@ GIT
       jekyll (~> 3.0)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll_pages_api_search.git
+  remote: https://github.com/jayvdb/jekyll_pages_api_search.git
   revision: 8fcb14cce3b1eff6e531fc7c260b1ab74d4de973
   branch: v0.4.4-safe
   specs:
@@ -30,14 +30,14 @@ GIT
       sass (~> 3.4)
 
 GIT
-  remote: git://github.com/jayvdb/jekyll_social_icons.git
+  remote: https://github.com/jayvdb/jekyll_social_icons.git
   revision: f551b2738bde70ae03ad70889737f9507b34d735
   branch: disable-style
   specs:
     jekyll_social_icons (0.1.0)
 
 GIT
-  remote: git://github.com/riouwa/jekyll-last-modified-at.git
+  remote: https://github.com/riouwa/jekyll-last-modified-at.git
   revision: ee44dc654691fe5f377187005d19ed84b66bcbf5
   branch: no-git
   specs:
@@ -53,8 +53,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.1)
+      public_suffix (>= 2.0.2, < 6.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -66,13 +66,34 @@ GEM
     concurrent-ruby (1.0.5)
     disqus-for-jekyll (1.0.1)
       jekyll (~> 3.6.2)
-    ethon (0.11.0)
-      ffi (>= 1.3.0)
+    ethon (0.15.0)
+      ffi (>= 1.15.0)
     execjs (2.7.0)
-    faraday (0.14.0)
-      multipart-post (>= 1.2, < 3)
-    ffi (1.9.23)
-    ffi (1.9.23-x64-mingw32)
+    faraday (1.10.2)
+      faraday-em_http (~> 1.0)
+      faraday-em_synchrony (~> 1.0)
+      faraday-excon (~> 1.1)
+      faraday-httpclient (~> 1.0)
+      faraday-multipart (~> 1.0)
+      faraday-net_http (~> 1.0)
+      faraday-net_http_persistent (~> 1.0)
+      faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
+      faraday-retry (~> 1.0)
+      ruby2_keywords (>= 0.0.4)
+    faraday-em_http (1.0.0)
+    faraday-em_synchrony (1.0.0)
+    faraday-excon (1.1.0)
+    faraday-httpclient (1.0.1)
+    faraday-multipart (1.0.4)
+      multipart-post (~> 2)
+    faraday-net_http (1.0.1)
+    faraday-net_http_persistent (1.2.0)
+    faraday-patron (1.0.0)
+    faraday-rack (1.0.0)
+    faraday-retry (1.0.3)
+    ffi (1.15.5)
+    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (177)
@@ -261,18 +282,19 @@ GEM
     minima (2.1.1)
       jekyll (~> 3.3)
     minitest (5.11.3)
-    multipart-post (2.0.0)
-    net-dns (0.8.0)
+    multipart-post (2.2.3)
+    net-dns (0.9.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     nokogiri (1.8.2-x64-mingw32)
       mini_portile2 (~> 2.3.0)
-    octokit (4.8.0)
-      sawyer (~> 0.8.0, >= 0.5.3)
+    octokit (4.25.1)
+      faraday (>= 1, < 3)
+      sawyer (~> 0.9)
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    posix-spawn (0.3.13)
+    posix-spawn (0.3.15)
     public_suffix (2.0.5)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -280,6 +302,7 @@ GEM
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
+    ruby2_keywords (0.0.5)
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
     sass (3.5.5)
@@ -287,9 +310,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sawyer (0.8.1)
-      addressable (>= 2.3.5, < 2.6)
-      faraday (~> 0.8, < 1.0)
+    sawyer (0.9.2)
+      addressable (>= 2.3.5)
+      faraday (>= 0.17.3, < 3)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thor (0.19.4)
